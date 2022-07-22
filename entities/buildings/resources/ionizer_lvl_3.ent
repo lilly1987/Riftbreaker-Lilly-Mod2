@@ -6,19 +6,18 @@ EntityBlueprint
 
 	BuildingDesc
 	{
-		buildable			"0"
 		name 				"ionizer_lvl_3"
 		bp   				"buildings/resources/ionizer_lvl_3"
-		ghost_bp   			"buildings/resources/ionizer_lvl_3_ghost"
 		category 			"resources"
 		type				"pipe"
 		localization_id		"gui/hud/building_name/ionizer"
 		description			"gui/hud/building_description/ionizer"
-		menu_icon			"gui/hud/building_icons/ionizer_lvl_3"
+		menu_icon			"gui/hud/building_icons/ionizer"
 		require 			"headquarters"
 		//upgrade				"buildings/resources/ionizer_lvl_4"
 		order				"17"
 		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		overrides			"pipe_ground,pipe_connector_t,pipe_connector_x,pipe_corner,pipeline,pipe_straight_windowless"
 
 		costs
 		{
@@ -157,7 +156,7 @@ EntityBlueprint
 	MeshDesc
 	{
 		mesh 		"meshes/buildings/resources/ionizer.mesh"
-		material 	"buildings/resources/ionizer_lvl_3"
+		material 	"buildings/resources/ionizer"
 	}
 
 	TypeDesc
@@ -236,7 +235,7 @@ EntityBlueprint
 			y "3"
 		}
 
-		visibility			"discovered"
+		visibility			"always"
 	}
 
 	FogOfWarRevealerComponentDesc
@@ -371,122 +370,17 @@ EntityBlueprint
 		EffectGroup
 		{
 			group "att_out_1"
-			enabled "0"
+			enabled "0"				
 			delay "0"
-
+			
 			Effects
 			{
 				Effect
 				{
-					blueprint "effects/buildings_and_machines/building_arrow"
+					blueprint "effects/buildings_and_machines/building_arrow"								
 					bone "att_out_arrow"
 				}
 			}
-		}
-//////////////////////////////// MISC /////////////////////////////////////////
-		//EffectGroup
-		//{
-		//	group "working"
-		//	enabled "0"
-		//
-		//	Effects
-		//	{
-		//		Effect
-		//		{
-		//			blueprint "effects/buildings_and_machines/electric_machinery_big"
-		//			bone "att_working"
-		//		}
-		//	}
-		//}
-//////////////////////////////// LEVEL ////////////////////////////////////////
-		EffectGroup
-		{
-			group "level"
-			enabled "1"
-			Effects
-			{
-				Effect
-				{
-					blueprint "effects/buildings_and_machines/level_3"
-					offset "0.55 -0.9 -2"
-					scale "0.65 0.65 0.65"
-					bone "att_level"
-				}
-			}
-		}
-	}
-}
-
-EntityBlueprint
-{
-	name  "buildings/resources/ionizer_lvl_3_ghost"
-
-	MeshDesc
-	{
-		mesh "meshes/buildings/resources/ionizer.mesh"
-		material "selector/hologram_blue"
-	}
-
-	SkeletonDesc
-	{
-		name "meshes/buildings/resources/ionizer"
-	}
-
-	PhysicsDesc
- 	{
-		objects
-		{
-			PhysicsObjectDesc
-			{
-				type 				"kinematic"
-				group_id 			"ghost_building"
-				physics_material 	"default"
-				Shapes
-				{
-					PhysicsSphereShape
-					{
-						r "2.45"
-
-						position
-						{
-							x "0.0"
-							y "1.0"
-							z "0.0"
-						}
-					}
-				}
-			}
-		}
-	}
-
-	GridCullerDesc
-	{
-		Shapes
-		{
-			PhysicsMeshShape
-			{
-				mesh "meshes/buildings/resources/liquid_material_storage_g1.nxs"
-			}
-		}
-	}
-
-	EffectDesc
-	{
-////////////////////////Resources/////////////////////////
-		EffectGroup
-		{
-			group "att_out_1"
-			enabled "1"
-			delay "0"
-
-			Effects
-			{
-				Effect
-				{
-					blueprint "effects/buildings_and_machines/building_arrow"
-					bone "att_out_arrow"
-				}
-			}
-		}
+		}						
 	}
 }

@@ -13,7 +13,7 @@ end
 
 local function CalculateBuildingBuildTime( entity )
 	if ( BuildingService.CalculateBuildTime ) then
-		return BuildingService:CalculateBuildTime( entity );
+		return BuildingService:CalculateBuildTime( entity )*0.1;
 	end
 	local time self.data:GetFloatOrDefault( "building_time", 1 )
 	return time * BuildingService:GetBuildingSpeedMultiplier() * DifficultyService:GetBuildingSpeedMultiplier() * 0.1

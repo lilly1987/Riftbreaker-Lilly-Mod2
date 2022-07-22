@@ -6,19 +6,18 @@ EntityBlueprint
 
 	BuildingDesc
 	{
-		buildable 			"0"
 		name 				"bio_composter_lvl_2"
 		bp   				"buildings/resources/bio_composter_lvl_2"
-		ghost_bp   			"buildings/resources/bio_composter_lvl_2_ghost"
 		category 			"resources"
 		type				"pipe"
 		localization_id		"gui/hud/building_name/bio_composter"
 		description			"gui/hud/building_description/bio_composter"
-		menu_icon			"gui/hud/building_icons/bio_composter_lvl_2"
+		menu_icon			"gui/hud/building_icons/bio_composter"
 		require 			"headquarters"
 		upgrade				"buildings/resources/bio_composter_lvl_3"
 		order				"15"
 		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		overrides			"pipe_ground,pipe_connector_t,pipe_connector_x,pipe_corner,pipeline,pipe_straight_windowless"
 
 		costs
 		{
@@ -69,7 +68,7 @@ EntityBlueprint
 				attachment	"att_out_1"
 			}
 		}
-		priority 1
+		priority 4			
 	}
 	ResourceStorageDesc
 	{
@@ -161,7 +160,7 @@ EntityBlueprint
 	MeshDesc
 	{
 		mesh 		"meshes/buildings/resources/bio_composter.mesh"
-		material 	"buildings/resources/bio_composter_lvl_2"
+		material 	"buildings/resources/bio_composter"
 	}
 
 	TypeDesc
@@ -240,7 +239,7 @@ EntityBlueprint
 			y "3"
 		}
 
-		visibility			"discovered"
+		visibility			"always"
 	}
 
 	FogOfWarRevealerComponentDesc
@@ -413,115 +412,8 @@ EntityBlueprint
 				Effect
 				{
 					blueprint "effects/buildings_and_machines/gas_filtering_sludge"
-				}
+				}			
 			}
-		}
-//////////////////////////////// LEVEL ////////////////////////////////////////
-		EffectGroup
-		{
-			group "level"
-			enabled "1"
-			Effects
-			{
-				Effect
-				{
-					blueprint "effects/buildings_and_machines/level_2"
-					offset "0 1.45 0"
-					scale "0.75 1.25 0.75"
-					bone "att_level"
-				}
-			}
-		}
-	}
-}
-
-EntityBlueprint
-{
-	name  "buildings/resources/bio_composter_lvl_2_ghost"
-
-	base_blueprint 			"buildings/defense/bio_composter_ghost"
-
-	MeshDesc
-	{
-		mesh "meshes/buildings/resources/bio_composter.mesh"
-		material "selector/hologram_blue"
-	}
-
-	SkeletonDesc
-	{
-		name "meshes/buildings/resources/bio_composter"
-	}
-
-	PhysicsDesc
- 	{
-		objects
-		{
-			PhysicsObjectDesc
-			{
-				type 				"kinematic"
-				group_id 			"ghost_building"
-				physics_material 	"default"
-				Shapes
-				{
-					PhysicsSphereShape
-					{
-						r "2.45"
-
-						position
-						{
-							x "0.0"
-							y "1.0"
-							z "0.0"
-						}
-					}
-				}
-			}
-		}
-	}
-
-	GridCullerDesc
-	{
-		Shapes
-		{
-			PhysicsMeshShape
-			{
-				mesh "meshes/buildings/resources/liquid_material_storage_g1.nxs"
-			}
-		}
-	}
-
-	EffectDesc
-	{
-////////////////////////Resources/////////////////////////
-		EffectGroup
-		{
-			group "att_in_1"
-			enabled "1"
-			delay "0"
-
-			Effects
-			{
-				Effect
-				{
-					blueprint "effects/buildings_and_machines/building_arrow"
-					bone "att_in_arrow"
-				}
-			}
-		}
-		EffectGroup
-		{
-			group "att_out_1"
-			enabled "1"
-			delay "0"
-
-			Effects
-			{
-				Effect
-				{
-					blueprint "effects/buildings_and_machines/building_arrow"
-					bone "att_out_arrow"
-				}
-			}
-		}
+		}			
 	}
 }
