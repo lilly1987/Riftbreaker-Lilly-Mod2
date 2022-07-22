@@ -6,6 +6,7 @@ EntityBlueprint
 
 	BuildingDesc
 	{
+        buildable 			"0"	
 		name 				"supercoolant_refinery_lvl_2"
 		bp   				"buildings/resources/supercoolant_refinery_lvl_2"
 		category 			"resources"

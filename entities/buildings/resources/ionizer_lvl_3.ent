@@ -6,6 +6,7 @@ EntityBlueprint
 
 	BuildingDesc
 	{
+        buildable 			"0"	
 		name 				"ionizer_lvl_3"
 		bp   				"buildings/resources/ionizer_lvl_3"
 		category 			"resources"

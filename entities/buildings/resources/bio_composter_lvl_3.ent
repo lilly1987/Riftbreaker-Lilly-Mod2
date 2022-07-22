@@ -6,6 +6,7 @@ EntityBlueprint
 
 	BuildingDesc
 	{
+        buildable 			"0"	
 		name 				"bio_composter_lvl_3"
 		bp   				"buildings/resources/bio_composter_lvl_3"
 		category 			"resources"
