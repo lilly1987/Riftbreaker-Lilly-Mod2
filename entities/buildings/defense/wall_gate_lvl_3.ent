@@ -13,7 +13,7 @@ EntityBlueprint
 		localization_id		"gui/hud/building_name/wall_gate"
 		description			"gui/hud/building_description/wall_gate"
 		menu_icon			"gui/hud/building_icons/wall_gate_lvl3"
-		upgrade				"buildings/defense/wall_gate_lvl_4"
+		//upgrade				"buildings/defense/wall_gate_lvl_4"
 		require 			"headquarters"
 		order				"2"
 		type				"wall"

@@ -16,7 +16,7 @@ EntityBlueprint
 		menu_icon			"gui/hud/building_icons/wall_small"
 		build_on_water		"0"
 		require 			"headquarters"
-		upgrade				"buildings/defense/wall_small_t_01_lvl_4"
+		//upgrade				"buildings/defense/wall_small_t_01_lvl_4"
 		building_mode		"line"
 		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
