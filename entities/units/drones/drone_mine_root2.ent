@@ -1,0 +1,11 @@
+EntityBlueprint
+{
+	name  			"units/drones/drone_mine_root2"
+	base_blueprint 	"items/consumables/proximity_mine_cryogenic_extreme"
+
+	MeshDesc
+	{
+		mesh "meshes/units/drones/drone_mine_root.mesh"
+		material "units/drones/drone_mine_root"
+	}
+}
