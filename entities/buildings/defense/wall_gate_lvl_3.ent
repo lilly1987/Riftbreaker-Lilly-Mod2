@@ -32,8 +32,8 @@ EntityBlueprint
 				{
 					carbonium 	"100"
 				}
-			}
-		}
+			}		
+		}	
 
 		connect
 		{

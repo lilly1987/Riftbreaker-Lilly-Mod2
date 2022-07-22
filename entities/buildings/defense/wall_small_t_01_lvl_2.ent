@@ -20,7 +20,6 @@ EntityBlueprint
 		building_mode		"line"
 		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
-		pipe_mode   "1"
 		costs
 		{
 			BuildingCostInfo

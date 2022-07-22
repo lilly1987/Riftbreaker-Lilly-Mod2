@@ -47,7 +47,7 @@ EntityBlueprint
 		database
 		{
 			cone_effect			string:"build_cone_1x1"
-			cone_effect_sell	string:"sell_small"
+			cone_effect_sell	string:"sell_small"		
 			remove_lua_after_build int:"1"
 		}
 	}
@@ -80,14 +80,6 @@ EntityBlueprint
 				//destroyed_state_material 			"buildings/main/headquarters_dest_0"
 				destroyed_state_effect_group 		"33_state"
 			}
-		}
-	}
-	
-	EntityStatComponent
-	{
-		base_stats
-		{
-			health_regen		"1"
 		}
 	}
 

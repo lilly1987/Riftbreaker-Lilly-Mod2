@@ -11,7 +11,6 @@ EntityBlueprint
 		description			"gui/hud/building_description/wall_small_floor"
 		menu_icon			"gui/hud/building_icons/wall_small_floor_01"
 		type				"wall"
-		upgrade				"buildings/defense/wall_small_floor_01_lvl_2"
 		require 			"headquarters"
 		order				"2"
 		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
@@ -30,21 +29,12 @@ EntityBlueprint
 		}	
 	}
 
-	ResistanceComponent
-	{
-		physical		"0.1"
-		fire			"0.1"
-		acid			"0.1"
-		energy			"0.1"
-		cryo			"0.1"
-		area			"0.0"
-	}
 	LuaDesc
 	{
 		script "lua/buildings/building.lua"
 		
 		database
-		{
+		{	
 			remove_lua_after_build int:"1"
 		}
 
@@ -78,14 +68,6 @@ EntityBlueprint
 				//destroyed_state_material 			"buildings/main/headquarters_dest_0"
 				destroyed_state_effect_group 		"33_state"
 			}
-		}
-	}
-	
-	EntityStatComponent
-	{
-		base_stats
-		{
-			health_regen		"1"
 		}
 	}
 

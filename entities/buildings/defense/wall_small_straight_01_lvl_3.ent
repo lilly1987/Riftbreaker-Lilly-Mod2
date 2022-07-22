@@ -20,7 +20,6 @@ EntityBlueprint
 		//upgrade				"buildings/defense/wall_small_straight_01_lvl_4"
 		building_mode		"line"
 		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
-
 		costs
 		{
 			BuildingCostInfo

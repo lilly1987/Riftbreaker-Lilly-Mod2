@@ -1,41 +1,43 @@
 EntityBlueprint
 {
-	name  "buildings/defense/wall_small_x_003"
+	name  "buildings/defense/wall_energy_straight_01"
 
 	BuildingDesc
 	{
-		buildable 	"0"
-		name 				"wall_small_x_003"
-		bp   				"buildings/defense/wall_small_x_01"
-		ghost_bp 			"buildings/defense/wall_small_x_01_ghost"
-		localization_id		"gui/hud/building_name/wall_small"
-		category 			"defense"
-		type				"wall"
-		build_on_water		"0"
-		require 			"headquarters"
-		upgrade				"buildings/defense/wall_small_x_01_lvl_2"
-		building_mode		"2"
+		name 					"wall_energy"
+		bp   					"buildings/defense/wall_energy_straight_01"
+		category 				"defense"
+		type					"wall"
+		localization_id			"gui/hud/building_name/wall_energy"
+		description				"gui/hud/building_description/wall_energy"
+		menu_icon				"gui/hud/building_icons/wall_energy"
+		build_on_water			"0"
+		require 				"headquarters"
+		order					"0"
+		upgrade					"buildings/defense/wall_energy_straight_01_lvl_2"
+		building_mode			"line"
+	//	exclude_terrain_types 	"magma_hot_ground,magma_very_hot_ground"
 
-		pipe_mode   "1"
 		costs
 		{
 			BuildingCostInfo
 			{
-				name "default"
-				building_time 5
+				name 			"default"
+				building_time 	5
 				building_cost
 				{
 					carbonium 	"5"
+					steel 		"5"
 				}
-			}		
-		}	
+			}
+		}
 
 		connect
 		{
-			T 		"buildings/defense/wall_small_t_01"
-			X		"buildings/defense/wall_small_x_01"
-			L		"buildings/defense/wall_small_corner_01"
-			I		"buildings/defense/wall_small_straight_01"
+			T 		"buildings/defense/wall_energy_t_01"
+			X		"buildings/defense/wall_energy_x_01"
+			L		"buildings/defense/wall_energy_corner_01"
+			I		"buildings/defense/wall_energy_straight_01"
 		}
 	}
 
@@ -47,16 +49,31 @@ EntityBlueprint
 		{
 			cone_effect			string:"build_cone_1x1"
 			cone_effect_sell	string:"sell_small"
+			remove_lua_after_build int:"1"
 		}
 	}
 
+	ReflectDamageComponent
+	{
+		reflect_type 	"flat_damage"  // health_ratio, damage_ratio, flat_damage
+		melee_only	 	"1"			   // reflect only melee damage
+		damage_value 	"15"
+		damage_type 	"energy"	   // optional, if not provided damage type will be set to "reflect"
+	}
+
+	ReflectHighlightComponent
+	{
+		submesh_idx 	1
+		glow_factor 	100
+	}
+	
 	HealthDesc
 	{
-		max_health 					"250"
-		health 						"250"
+		max_health 					"3500"
+		health 						"3500"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
-		 is_manual 1
+		is_manual 1
 		update_health_uniform 		"1"
 
 
@@ -80,43 +97,30 @@ EntityBlueprint
 			}
 		}
 	}
-	
-	EntityStatComponent
+
+	MeshDesc
 	{
-		base_stats
+		mesh "meshes/buildings/defense/wall_energy_straight_01.mesh"
+		SubMeshes
 		{
-			health_regen		"1"
-		}
-	}
-	
-	children
-	{
-		
-		EntityBlueprint
-		{
-			HealthDesc
+
+			SubMesh
 			{
-				max_health 			"700"
-				health 				"0"
+				id "0"
+				material "buildings/defense/wall_energy_lvl_1_solid"
 			}
-			
-			RegenerationComponent
+
+			SubMesh
 			{
-				regeneration			"20"
-				regeneration_cooldown 		"5"
-			}
-		
-			ShieldComponent
-			{
-				owner	"parent"
+				id "1"
+				material "buildings/defense/wall_energy_lvl_1_energy"
 			}
 		}
 	}
 
-	MeshDesc
+	TypeDesc
 	{
-		mesh "meshes/buildings/defense/wall_small_x_01.mesh"
-		material "buildings/defense/walls_lvl_1"
+		type "building"
 	}
 
 	TypeDesc
@@ -190,7 +194,7 @@ EntityBlueprint
 		}
 
 
-		visibility			"discovered"
+		visibility			"always"
 	}
 
 	HealthBarDesc
@@ -274,74 +278,10 @@ EntityBlueprint
 	}
 
 	EffectDesc
-	{		
+	{
 		EffectBaseBlueprints
 		{
 			"buildings/effects_small_base"
-		}	
-	}
-}
-
-EntityBlueprint
-{
-	name  "buildings/defense/wall_small_x_01_ghost"
-
-	BuildingDesc
-	{
-		name		"wall_small_x_01_ghost"
-		buildable 	"0"
-		type		"wall"
-		bp   				"buildings/defense/wall_small_x_01"
-
-		pipe_mode   "1"
-		connect
-		{
-			T 		"buildings/defense/wall_small_t_01"
-			X		"buildings/defense/wall_small_x_01"
-			L		"buildings/defense/wall_small_corner_01"
-			I		"buildings/defense/wall_small_straight_01"
 		}
 	}
-
-	MeshDesc
-	{
-		mesh "meshes/buildings/defense/wall_small_x_01.mesh"
-		material "selector/hologram_blue"
-	}
-
-	PhysicsDesc
- 	{
-		objects
-		{
-			PhysicsObjectDesc
-			{
-				type 				"kinematic"
-				group_id 			"ghost_building"
-				physics_material 	"default"
-				Shapes
-				{
-   					PhysicsBoxShape
-   					{
-    						x	2
-    						y	2
-    						z	2
-   					}
-				}
-			}
-		}
-	}
-
-	GridCullerDesc
-	{
-		Shapes
-		{
-			PhysicsBoxShape
-   			{
-    				x	2
-    				y	2
-    				z	2
-   			}
-    	}
-	}
 }
-
