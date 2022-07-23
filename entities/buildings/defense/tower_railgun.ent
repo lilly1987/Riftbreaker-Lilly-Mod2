@@ -214,8 +214,8 @@ EntityBlueprint
 		aim_volume "SphericalAimVolume"
 		{
 			range_min "0"
-			range_max "35"
-			aiming_range "40"
+			range_max "70"
+			aiming_range "80"
 		}
 
 		aiming_cooldown "1"

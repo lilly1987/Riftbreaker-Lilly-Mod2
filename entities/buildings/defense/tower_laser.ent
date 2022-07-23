@@ -363,7 +363,7 @@ EntityBlueprint
 
 	LaserBeamComponent
 	{
-		range 					"50"
+		range 					"100"
 
 		on_enemy_hit_effect 	"effects/weapons_energy/laser_small_hit"
 		on_world_hit_effect 	"effects/weapons_energy/laser_small_hit"
