@@ -237,8 +237,8 @@ EntityBlueprint
 
 		WeaponAffector
 		{
-			emissive_time "0.35"
-			emissive_factor "35"
+			emissive_time "0.70"
+			emissive_factor "70"
 			submesh_idx "1"
 		}
 
@@ -363,9 +363,9 @@ EntityBlueprint
         max_hits					"16"
         box_count					"3"
         angle_speed					"180"
-        range_speed					"1.5"
+        range_speed					"3.0"
         particle_velocity_scale 	"0.0125"
-        particle_reference_range	"16"
+        particle_reference_range	"32"
 
 		collision_3d 				"world_blocker|world|ground_unit|building|hitbox|destructible"
 	}
