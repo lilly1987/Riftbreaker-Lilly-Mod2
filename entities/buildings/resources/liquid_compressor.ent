@@ -1,46 +1,35 @@
 EntityBlueprint
 {
-	name  "buildings/main/headquarters"
-
-	IdDesc
-	{
-		name "headquarters"
-	}
+	name  "buildings/resources/liquid_compressor"
 
 	BuildingDesc
 	{
-		name 				"headquarters"
-		bp   				"buildings/main/headquarters"
-		category 			"main"
-		localization_id		"gui/hud/building_name/headquarters"
-		description			"gui/hud/building_description/headquarters"
-		menu_icon			"gui/hud/building_icons/headquarters"
-		order				"1"
-		limit			    "1"
-		limit_name			"hq"
-		sellable 			"0"
-		disablable			"0"
-		min_radius			"40"
-		radius_name			"portal"
-		min_radius_effect   "voice_over/announcement/portal_too_close"
-		mission_mode		"1"
-		upgrade				"buildings/main/headquarters_lvl_2"
-		menu_action			"inventory"
-		difficulty_cost_apply	"0"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		name 					"liquid_compressor"
+		bp   					"buildings/resources/liquid_compressor"
+		category 				"resources"
+		localization_id			"gui/hud/building_name/liquid_compressor"
+		description				"gui/hud/building_description/liquid_compressor"
+		menu_icon				"gui/hud/building_icons/liquid_compressor"
+		type					"pipe"
+		require 				"headquarters"
+		upgrade					"buildings/resources/liquid_compressor_lvl_2"
+		order					"15"
+		exclude_terrain_types 	"magma_hot_ground,magma_very_hot_ground"
+		going_green_state		"1"
+		overrides				"pipe_ground,pipe_connector_t,pipe_connector_x,pipe_corner,pipeline,pipe_straight_windowless"
 
 		costs
 		{
 			BuildingCostInfo
 			{
-				name "default"
-				building_time 10
+				name 			"default"
+				building_time 	120
 				building_cost
 				{
-					carbonium 	"200"
-					steel 		"200"
+					carbonium 	"350"
+					steel 		"350"
 				}
-			}		
+			}
 		}
 	}
 
@@ -48,148 +37,59 @@ EntityBlueprint
 	{
 		in
 		{
+			GameplayResource
+			{
+				group 			"local"
+				value			"100"
+				family			"production"
+				attachment		"att_in_1"
+
+			}
+
+			GameplayResource
+			{
+				resource		"energy"
+				value			"500"
+			}
 		}
 
 		out
 		{
 			GameplayResource
 			{
-				resource 			"energy"
-				value			 	"200"
-			}
-			GameplayResource
-			{
-				resource 			"carbonium"
-				value			 	"10"
-			}
-			GameplayResource
-			{
-				resource 			"steel"
-				value			 	"10"
-			}
-			GameplayResource
-			{
-				resource 			"cobalt"
-				value			 	"10"
-			}
-			GameplayResource
-			{
-				resource 			"palladium"
-				value			 	"10"
-			}
-			GameplayResource
-			{
-				resource 			"uranium"
-				value			 	"10"
-			}
-			GameplayResource
-			{
-				resource 			"titanium"
-				value			 	"10"
-			}
-			GameplayResource
-			{
-				resource 			"rhodonite"
-				value			 	"10"
-			}
-			GameplayResource
-			{
-				resource 			"tanzanite"
-				value			 	"10"
-			}
-			GameplayResource
-			{
-				resource 			"hazenite"
-				value			 	"10"
-			}
-			GameplayResource
-			{
-				resource 			"ferdonite"
-				value			 	"10"
-			}
-			GameplayResource
-			{
-				resource 			"biomass_plant"
-				value			 	"10"
+				group 			"local_compressed"
+				family			"production"
+				value			"100"
 			}
 		}
 
-		disableable 0
-	}
-
-	ResourceStorageDesc
-	{
-		Storages
-		{
-			Storage
-			{
-				resource "energy"
-				max 	 "1000"
-				distribution_radius	"2"
-			}
-			
-			Storage
-			{
-				group	 		"global"
-				subgroup		"base"
-				max 	 		"50"
-			}
-
-			Storage
-			{
-				resource	 "ammo_tower_explosive"
-				max 	 	"1"
-			}
-			Storage
-			{
-				resource	 "ammo_tower_liquid"
-				max 	 	"1"
-			}
-			Storage
-			{
-				resource	 "ammo_tower_low_caliber"
-				max 	 	"1"
-			}
-			Storage
-			{
-				resource	 "ammo_tower_high_caliber"
-				max 	 	"1"
-			}
-			Storage
-			{
-				resource	"ai"
-				max			"4"
-			}
-		}
+		one_vein_mode "1"
+		priority 5
 	}
 
 	LuaDesc
 	{
-		script "lua/buildings/main/headquarters.lua"
-
+		script "lua/buildings/resources/compressor.lua"
 
 		database
 		{
-			cone_effect			string:"build_cone_6x7"
-			cone_effect_sell	string:"sell_big"
-			interval			float:"1"
-			heal_radius			float:"8"
-			heal_amount			float:"20"
-			energy_cost			float:"0"
-			range				float:"90"
-			heal_count			int:"1"
+			cone_effect			string:	"build_cone_4x4"
+			cone_effect_sell	string:	"sell_big"
+			building_time		float:	"120"
+			postfix				string:"_storage"
 		}
 
 	}
 
 	HealthDesc
 	{
-		max_health 					"5000"
-		health 						"5000"
+		max_health 					"2000"
+		health 						"2000"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
-		 is_manual 1
+		is_manual 					1
 		update_health_uniform 		"1"
+
 
 		DestructionLevels
 		{
@@ -280,8 +180,6 @@ EntityBlueprint
 				destroy_state_change_effect_group "0_transition"
 				destroy_comp_delay "0.7"
 				destroy_comp_event "default"
-
-				//destroyed_state_effect_group "0_state"
 				destrucion_level_name "0"
 			}
 		}
@@ -289,32 +187,39 @@ EntityBlueprint
 
 	MeshDesc
 	{
-		mesh "meshes/buildings/main/headquarters_lvl_1.mesh"
+		mesh 		"meshes/buildings/resources/liquid_compressor.mesh"
+		material 	"buildings/resources/liquid_compressor_lvl_1_3"
 
 		SubMeshes
 		{
 			SubMesh
 			{
-				id "0"
-				material "buildings/main/headquarters_level_1"
+				id "1"
+				material "resources/resource_empty_fresnel"
 			}
-		}	
+
+			SubMesh
+			{
+				id "2"
+				material "buildings/resources/liquid_compressor_barrel"
+			}
+		}
 	}
 
 	TypeDesc
 	{
-		type "building|main|headquarters"
+		type "building|resource"
 	}
 
 	SkeletonDesc
-  {
-    name "meshes/buildings/main/headquarters_lvl_1"
-  }
+	{
+		 name "meshes/buildings/resources/liquid_compressor"
+ 	}
 
 	AnimationGraphDesc
-  {
-    animation_graph_name "building_working"
-  }
+	{
+		animation_graph_name "building_working"
+	}
 
 	PhysicsDesc
  	{
@@ -327,23 +232,20 @@ EntityBlueprint
 				physics_material 	"default"
 				Shapes
 				{
-					PhysicsMeshShape
+					PhysicsSphereShape
 					{
-						mesh "meshes/buildings/main/headquarters_c1.nxs"
-					}
-					PhysicsMeshShape
-					{
-						mesh "meshes/buildings/main/headquarters_c2.nxs"
-					}
-					PhysicsMeshShape
-					{
-						mesh "meshes/buildings/main/headquarters_c3.nxs"
-					}
+						r "3.45"
 
+						position
+						{
+							x "0.0"
+							y "1.0"
+							z "0.0"
+						}
+					}
 				}
 			}
 		}
-
 	}
 
 	NodeCullerDesc
@@ -357,30 +259,37 @@ EntityBlueprint
 	{
 		Shapes
 		{
-			PhysicsMeshShape
-			{
-				mesh "meshes/buildings/main/headquarters_g1.nxs"
-			}
+   			PhysicsBoxShape
+   			{
+    				x	8
+    				y	8
+    				z	8
+   			}
 		}
 	}
-	
-	GridMarkerComponent
-	{
-		mode			"bounds"
-		terrain_type  	"floor"	
-		extend  		"0.0"
-	}		
 
 	MinimapItemDesc
 	{
-		type			"image"
-		icon_material 	"gui/hud/minimap_icons/headquarters"
-		additional_z_order 1
+		type	"quad"
+		color
+		{
+			x "0.5"
+			y "0.5"
+			z "1"
+			w "1"
+		}
+		size
+		{
+			x "4"
+			y "4"
+		}
+
+		visibility			"always"
 	}
 
 	FogOfWarRevealerComponentDesc
 	{
-		radius "30"
+		radius "16"
 	}
 
 	HealthBarDesc
@@ -391,8 +300,8 @@ EntityBlueprint
 
 	LootDesc
 	{
-		explosion_max_power 	"8000"
-		explosion_min_power 	"4000"
+		explosion_max_power 	"2000"
+		explosion_min_power 	"1000"
 	}
 
 	DestroyDesc
@@ -489,7 +398,7 @@ EntityBlueprint
 					explosion_type 			"centered"
 					explosion_max_power 	"8000"
 					explosion_min_power 	"5000"
-					//explosion_effect 		"effects/buildings_main/explosion_building_hq"
+					//explosion_effect 		"effects/buildings_generic/explosion_building_big_01"
 					part_physics_material   "debris_heavy"
 					part_material 			"misc/building_parts_generic"
 					part_effect 			"effects/projectiles_and_trails/fire_trail_small_random"
@@ -518,172 +427,65 @@ EntityBlueprint
 
 	EffectDesc
 	{
-		
 		EffectBaseBlueprints
 		{
 			"buildings/effects_big_base"
-		}		
-		
-		////////////////////////Destruction level 0 transition effects/////////////////////////
-		EffectGroup
-		{
-			group "0_transition"
-			enabled "0"
-
-			Effects
-			{
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_medium_random"
-					bone "att_smoke_1"
-					delay "0"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_medium_random"
-					bone "att_smoke_2"
-					delay "0.15"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_medium_random"
-					bone "att_smoke_3"
-					delay "0.25"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_medium_random"
-					bone "att_smoke_4"
-					delay "0.3"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_big_random"
-					bone "att_smoke_5"
-					delay "0.4"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_big_random"
-					bone "att_smoke_6"
-					delay "0.45"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_big_random"
-					bone "att_smoke_7"
-					delay "0.5"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_main/explosion_building_hq"
-					delay "0.6"
-				}
-			}
 		}
-		////////////////////////MISC/////////////////////////
+////////////////////////Resources/////////////////////////
 		EffectGroup
 		{
-			group "portal"
-			enabled "1"
+			group "att_in_1"
+			enabled "0"
 			delay "0"
 
 			Effects
 			{
 				Effect
 				{
-					blueprint "effects/buildings_and_machines/headquarters_portal"
-					bone "att_portal"
+					blueprint "effects/buildings_and_machines/building_arrow"
+					bone "att_in_arrow"
 				}
 			}
 		}
-	}
-
-	children
-	{
-		EntityBlueprint
+////////////////////////MISC/////////////////////////
+		EffectGroup
 		{
-			base_blueprint "logic/spawn_player"
-			AttachmentDesc
+			group "working"
+			enabled "0"
+			Effects
 			{
-				attachment "att_respawn"
+				Effect
+				{
+					blueprint "effects/buildings_energy/gas_powerplant_working"
+					delay "1"
+				}
 			}
 		}
-
-		//EntityBlueprint
-		//{
-		//	HealthDesc
-		//	{
-		//		max_health 					"1000"
-		//		health 						"0"
-		//	}
-		//
-		//	RegenerationComponent
-		//	{
-		//		regeneration 				"20"
-		//		regeneration_cooldown 		"5"
-		//	}
-		//
-		//	ShieldComponent
-		//	{
-		//		owner	"parent"
-		//	}
-		//}
-	}
-}
-
-EntityBlueprint
-{
-	name "buildings/main/headquarters/portal"
-
-	MeshDesc
-	{
-		mesh 		"meshes/items/skills/rift_energy.mesh"
-		material 	"items/skills/portal_barrier_refract"
-
-        SubMeshes
+		EffectGroup
 		{
-			SubMesh
+			group "teleport"
+			enabled "0"
+			Effects
 			{
-				id "1"
-				material "items/skills/rift_portal_energy"
+				Effect
+				{
+					blueprint "effects/buildings_resources/liquid_decompressor_teleport"
+					bone "att_teleport"
+				}
 			}
-			SubMesh
+		}		
+		EffectGroup
+		{
+			group "energy"
+			enabled "0"
+			Effects
 			{
-				id "0"
-				material "items/skills/rift_portal_barrier"
+				Effect
+				{
+					blueprint "effects/buildings_resources/liquid_compressor_energy"
+					bone "barrel"
+				}
 			}
-			SubMesh
-			{
-				id "2"
-				material "items/skills/rift_portal_energy_2"
-			}
-		}
-	}
-
-	SkeletonDesc
-	{
-		name "meshes/items/skills/rift_portal"
-	}
-
-	AnimationGraphDesc
-	{
-		animation_graph_name "rift_portal"
-	}
-
-	DatabaseDesc
-	{
-	}
-
-	SoundDesc
-	{
-		name "items/portal/mech_portal_idle"
-	}
-
-	RiftPointDesc
-	{
-		name 	"headquarters"
-		type 	"main"
-		active 	"1"
+		}				
 	}
 }

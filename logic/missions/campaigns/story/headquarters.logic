@@ -107,6 +107,14 @@ FlowGraphTemplate
 						key "titanium"
 						value "30000.00"
 					}
+					
+	
+					StringData
+					{
+						//editor "layout(data_block_resource.xml)|pos(0,0)"
+						key "biomass_plant"
+						value "30000.00"
+					}
 					/////////////
 					
 					StringData
