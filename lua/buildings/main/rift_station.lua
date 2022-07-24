@@ -240,9 +240,6 @@ end
 function rift_station:OnLoad()
 	building.OnLoad(self)
 	self.workingProtectionTimer = self.workingProtectionTimer or 0.0
-	if ( self.charging == 0 ) then
-		BuildingService:DisableBuilding( self.entity )
-	end
 end
 
 function rift_station:OnWorking( state , dt)	
