@@ -13,7 +13,7 @@ EntityBlueprint
 		type				"pipe"
 		localization_id		"gui/hud/building_name/supercoolant_refinery"
 		description			"gui/hud/building_description/supercoolant_refinery"
-		menu_icon			"gui/hud/building_icons/supercoolant_refinery"
+		menu_icon			"gui/hud/building_icons/supercoolant_refinery_lvl_2"
 		require 			"headquarters"
 		upgrade				"buildings/resources/supercoolant_refinery_lvl_3"
 		order				"16"
@@ -151,7 +151,7 @@ EntityBlueprint
 	MeshDesc
 	{
 		mesh 		"meshes/buildings/resources/supercoolant_refinery.mesh"
-		material 	"buildings/resources/supercoolant_refinery"
+		material 	"buildings/resources/supercoolant_refinery_lvl_2"
 	}
 
 	TypeDesc

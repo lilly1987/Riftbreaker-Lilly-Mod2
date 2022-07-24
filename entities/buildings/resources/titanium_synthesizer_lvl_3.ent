@@ -1,8 +1,8 @@
 EntityBlueprint
 {
-	name 			"buildings/resources/titanium_synthesizer_lvl_3"
+	name  "buildings/resources/titanium_synthesizer_lvl_3"
 
-	base_blueprint 	"buildings/resources/titanium_synthesizer_lvl_2"
+	base_blueprint buildings/resources/titanium_synthesizer_lvl_2		
 
 	BuildingDesc
 	{
@@ -39,7 +39,7 @@ EntityBlueprint
 	ResourceConverterDesc
 	{
 		in
-		{
+		{	
 			GameplayResource
 			{
 				resource 			"energy"
@@ -55,7 +55,6 @@ EntityBlueprint
 				value			 	"5"
 			}
 		}
-		priority 2	
 	}
 
 	ResourceStorageDesc
@@ -76,7 +75,6 @@ EntityBlueprint
 				destroy_state_change_effect_group 	"80_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"80_destroy"
-				//destroyed_state_material 			"buildings/main/headquarters_dest_50"
 				destroyed_state_effect_group 		"80_state"
 				destrucion_level_name 				"80"
 
@@ -87,7 +85,6 @@ EntityBlueprint
 				destroy_state_change_effect_group 	"60_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"60_destroy"
-				//destroyed_state_material 			"buildings/main/headquarters_dest_25"
 				destroyed_state_effect_group 		"60_state"
 				destrucion_level_name 				"60"
 			}
@@ -97,7 +94,6 @@ EntityBlueprint
 				destroy_state_change_effect_group 	"40_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"40_destroy"
-				//destroyed_state_material 			"buildings/main/headquarters_dest_0"
 				destroyed_state_effect_group 		"40_state"
 				destrucion_level_name 				"40"
 			}
@@ -107,7 +103,6 @@ EntityBlueprint
 				destroy_state_change_effect_group 	"20_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"20_destroy"
-				//destroyed_state_material 			"units_ground/medium_tank_regular_dest_0"
 				destroyed_state_effect_group 		"20_state"
 				destrucion_level_name 				"20"
 			}
@@ -117,18 +112,18 @@ EntityBlueprint
 				destroy_state_change_effect_group 	"0_transition"
 				destroy_comp_delay 					"0.6"
 				destroy_comp_event 					"default"
-				//destroyed_state_material 			"units_ground/medium_tank_regular_dest_0"
 				//destroyed_state_effect_group 		"0_state"
 			}			
 		}
 	}
+
 	EffectDesc
 	{		
 		EffectBaseBlueprints
 		{
 			"buildings/effects_medium_base"
-		}	
-		////////////////////////MISC/////////////////////////					
+		}
+			
 		EffectGroup
 		{
 			group "working"
@@ -144,9 +139,9 @@ EntityBlueprint
 				Effect
 				{
 					blueprint "effects/buildings_energy/animal_biomass_powerplant_working"								
-				}			
+				}							
 			}
-		}	
+		}
 		EffectGroup
 		{
 			group "level"
@@ -159,7 +154,7 @@ EntityBlueprint
 					bone "att_level"
 				}
 			}
-		}		
-	}	
+		}			
+	}
 }
 

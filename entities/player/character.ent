@@ -174,7 +174,7 @@ EntityBlueprint
 		non_walkable_mode		"0"
 		physics_material 		"default"
 		group_id				"character"
-		collide_mask			"world|destructible|player_blocker"
+		collide_mask			"world|world_blocker|building|building_floor|destructible|player_blocker"
 	}
 
 	MovementDataComponent

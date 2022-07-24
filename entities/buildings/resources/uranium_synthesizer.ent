@@ -1,6 +1,6 @@
 EntityBlueprint
 {
-	name "buildings/resources/uranium_synthesizer"
+	name  "buildings/resources/uranium_synthesizer"
 
 	BuildingDesc
 	{
@@ -16,7 +16,7 @@ EntityBlueprint
 		require 			"headquarters"
 		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		going_green_state	"2"
-		
+
 		costs
 		{
 			BuildingCostInfo
@@ -32,11 +32,11 @@ EntityBlueprint
 			}		
 		}
 	}
-	
+
 	ResourceConverterDesc
 	{
 		in
-		{
+		{	
 			GameplayResource
 			{
 				resource 			"energy"
@@ -52,9 +52,8 @@ EntityBlueprint
 				value			 	"3"
 			}
 		}
-		priority 2	
 	}
-	
+
 	ResourceStorageDesc
 	LuaDesc
 	{
@@ -64,8 +63,8 @@ EntityBlueprint
 		{
 			cone_effect			string:"build_cone_3x3"
 			cone_effect_sell	string:"sell_big"
-		}
-	}		
+		}		
+	}
 
 	HealthDesc
 	{
@@ -84,7 +83,6 @@ EntityBlueprint
 				destroy_state_change_effect_group 	"80_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"80_destroy"
-				//destroyed_state_material 			"buildings/main/headquarters_dest_50"
 				destroyed_state_effect_group 		"80_state"
 				destrucion_level_name 				"80"
 
@@ -95,7 +93,6 @@ EntityBlueprint
 				destroy_state_change_effect_group 	"60_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"60_destroy"
-				//destroyed_state_material 			"buildings/main/headquarters_dest_25"
 				destroyed_state_effect_group 		"60_state"
 				destrucion_level_name 				"60"
 			}
@@ -105,7 +102,6 @@ EntityBlueprint
 				destroy_state_change_effect_group 	"40_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"40_destroy"
-				//destroyed_state_material 			"buildings/main/headquarters_dest_0"
 				destroyed_state_effect_group 		"40_state"
 				destrucion_level_name 				"40"
 			}
@@ -115,7 +111,6 @@ EntityBlueprint
 				destroy_state_change_effect_group 	"20_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"20_destroy"
-				//destroyed_state_material 			"units_ground/medium_tank_regular_dest_0"
 				destroyed_state_effect_group 		"20_state"
 				destrucion_level_name 				"20"
 			}
@@ -125,11 +120,10 @@ EntityBlueprint
 				destroy_state_change_effect_group 	"0_transition"
 				destroy_comp_delay 					"0.6"
 				destroy_comp_event 					"default"
-				//destroyed_state_material 			"units_ground/medium_tank_regular_dest_0"
 				destroyed_state_effect_group 		"0_state"
 			}			
 		}
-	}	
+	}
 
 	MeshDesc
 	{
@@ -153,7 +147,7 @@ EntityBlueprint
 	}
 
 	PhysicsDesc
-	{
+ 	{
 		objects
 		{
 			PhysicsObjectDesc
@@ -173,7 +167,7 @@ EntityBlueprint
 							y "1.0"
 							z "0.0"
 						}
-					}			
+					}	
 				}
 			}
 		}
@@ -344,7 +338,7 @@ EntityBlueprint
 		{
 			"buildings/effects_medium_base"
 		}	
-		////////////////////////MISC/////////////////////////					
+////////////////////////MISC/////////////////////////				
 		EffectGroup
 		{
 			group "working"

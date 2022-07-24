@@ -13,7 +13,7 @@ EntityBlueprint
 		type				"pipe"
 		localization_id		"gui/hud/building_name/ionizer"
 		description			"gui/hud/building_description/ionizer"
-		menu_icon			"gui/hud/building_icons/ionizer"
+		menu_icon			"gui/hud/building_icons/ionizer_lvl_3"
 		require 			"headquarters"
 		//upgrade				"buildings/resources/ionizer_lvl_4"
 		order				"17"
@@ -157,7 +157,7 @@ EntityBlueprint
 	MeshDesc
 	{
 		mesh 		"meshes/buildings/resources/ionizer.mesh"
-		material 	"buildings/resources/ionizer"
+		material 	"buildings/resources/ionizer_lvl_3"
 	}
 
 	TypeDesc

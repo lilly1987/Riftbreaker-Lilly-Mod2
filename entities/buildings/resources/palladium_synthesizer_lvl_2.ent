@@ -25,7 +25,7 @@ EntityBlueprint
 			BuildingCostInfo
 			{
 				name "default"
-				building_time 10
+				building_time 30
 				building_cost
 				{
 					steel 		"1500"

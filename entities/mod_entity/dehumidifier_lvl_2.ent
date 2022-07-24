@@ -1,35 +1,34 @@
 EntityBlueprint
 {
-	name  					"buildings/resources/cobalt_synthesizer_lvl_2"
+	name  					"mod_entity/entity_12"
 
-	base_blueprint 			"buildings/resources/cobalt_synthesizer"
+	base_blueprint 			mod_entity/entity_11	
 
 	BuildingDesc
 	{
-		name 				"cobalt_synthesizer_lvl_2"
-		bp   				"buildings/resources/cobalt_synthesizer_lvl_2"
-		ghost_bp   			"buildings/resources/cobalt_synthesizer_ghost"
+		buildable 			"0"		
+		name 				"dehumidifier_lvl_2"
+		bp   				"mod_entity/entity_12"
 		category 			"resources"
-		localization_id		"Cobalt Synthesizer"
-		description			"Synthesizes Cobalt from Energy. Can be used as an infinite source of Cobalt but consumes a lot of energy in the process which makes it not very economical."
-		menu_icon			"gui/hud/building_icons/cobalt_synthesizer_lvl_2"
+		localization_id		"Dehumidifier"
+		description			"Takes moisture from the air converting it into water."
+		menu_icon			"gui/hud/building_icons/dehumidifier_lvl2"
+		type				"pipe"
 		require 			"headquarters"
-		order				"4"
-		upgrade				"buildings/resources/cobalt_synthesizer_lvl_3"			
-		buildable			"0"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
-
+		upgrade				"mod_entity/entity_13"	
+		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"		
+				
 		costs
 		{
 			BuildingCostInfo
 			{
 				name "default"
-				building_time 30
+				building_time 60
 				building_cost
 				{
-					carbonium "1500"
-					steel 	"1500"
-					cobalt	"300"
+					carbonium 	"400"
+					steel 		"400"
+					cobalt		"100"	
 				}
 			}		
 		}
@@ -38,11 +37,11 @@ EntityBlueprint
 	ResourceConverterDesc
 	{
 		in
-		{
+		{			
 			GameplayResource
 			{
-				resource 			"energy"
-				value			 	"1650"
+				resource 	"energy"
+				value 		"400"
 			}
 		}
 		
@@ -50,18 +49,29 @@ EntityBlueprint
 		{
 			GameplayResource
 			{
-				resource 			"cobalt"
-				value			 	"4"
+				resource 	"water"
+				value 		"75"
+				attachment	"att_out_1"
 			}
 		}
-		
-		priority 2		
+		priority 4		
 	}
-
+	ResourceStorageDesc
+	{
+		Storages
+		{
+			Storage
+			{
+				resource	 	"water"
+				max 	 		"300"
+				attachment		"att_out_1"
+			}
+		}
+	}	
 	HealthDesc
 	{
-		max_health 					"1500"
-		health 						"1500"
+		max_health 					"1300"
+		health 						"1300"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
 		 is_manual 1
@@ -121,13 +131,42 @@ EntityBlueprint
 			}			
 		}
 	}
+
 	EffectDesc
 	{		
 		EffectBaseBlueprints
 		{
 			"buildings/effects_medium_base"
 		}	
-	
+		EffectGroup
+		{
+			group "att_out_1"
+			enabled "0"				
+			delay "0"
+			
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/building_arrow"								
+					bone "att_out_arrow"
+				}
+			}
+		}		
+		EffectGroup
+		{
+			group "working"
+			enabled "0"				
+			
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/water_filtering_pool"
+					bone "att_sludge"
+				}			
+			}
+		}		
 		EffectGroup
 		{
 			group "level"
@@ -140,6 +179,7 @@ EntityBlueprint
 					bone "att_level"
 				}
 			}
-		}		
+		}			
 	}		
 }
+

@@ -13,7 +13,7 @@ EntityBlueprint
 		type				"pipe"
 		localization_id		"gui/hud/building_name/bio_composter"
 		description			"gui/hud/building_description/bio_composter"
-		menu_icon			"gui/hud/building_icons/bio_composter"
+		menu_icon			"gui/hud/building_icons/bio_composter_lvl_3"
 		require 			"headquarters"
 		//upgrade				"buildings/resources/bio_composter_lvl_4"
 		order				"15"
@@ -161,7 +161,7 @@ EntityBlueprint
 	MeshDesc
 	{
 		mesh 		"meshes/buildings/resources/bio_composter.mesh"
-		material 	"buildings/resources/bio_composter"
+		material 	"buildings/resources/bio_composter_lvl_3"
 	}
 
 	TypeDesc
