@@ -13,10 +13,10 @@ end
 
 local function CalculateBuildingBuildTime( entity )
 	if ( BuildingService.CalculateBuildTime ) then
-		return BuildingService:CalculateBuildTime( entity )*0.1;
+		return BuildingService:CalculateBuildTime( entity );
 	end
 	local time self.data:GetFloatOrDefault( "building_time", 1 )
-	return time * BuildingService:GetBuildingSpeedMultiplier() * DifficultyService:GetBuildingSpeedMultiplier() * 0.1
+	return time * BuildingService:GetBuildingSpeedMultiplier() * DifficultyService:GetBuildingSpeedMultiplier()
 end
 
 function building_base:init()
@@ -53,7 +53,7 @@ function building_base:init()
 		self.data:SetInt( "owner", 0 )
 	end
 	
-	self.buildingTime = CalculateBuildingBuildTime( self.entity );
+	self.buildingTime = CalculateBuildingBuildTime( self.entity )*0.1;
 	self.sellTime = 2
 	self.materials = self:GetMaterials()
 
