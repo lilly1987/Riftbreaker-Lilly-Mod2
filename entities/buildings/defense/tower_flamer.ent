@@ -212,8 +212,8 @@ EntityBlueprint
 		aim_volume "SphericalAimVolume"
 		{
 			range_min "0"
-			range_max "40"
-			aiming_range "45"
+			range_max "20"
+			aiming_range "25"
 		}
 
 		aiming_cooldown "1"
@@ -360,11 +360,11 @@ EntityBlueprint
 
 	FlameBeamComponent
 	{
-        max_hits					"16"
-        box_count					"3"
-        angle_speed					"180"
+        max_hits					"32"
+        box_count					"6"
+        angle_speed					"360"
         range_speed					"3.0"
-        particle_velocity_scale 	"0.0125"
+        particle_velocity_scale 	"0.0250"
         particle_reference_range	"32"
 
 		collision_3d 				"world_blocker|world|ground_unit|building|hitbox|destructible"

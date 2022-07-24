@@ -213,8 +213,8 @@ EntityBlueprint
 		aim_volume "SphericalAimVolume"
 		{
 			range_min "0"
-			range_max "66"
-			aiming_range "80"
+			range_max "33"
+			aiming_range "40"
 		}
 
 		aiming_cooldown "1"
@@ -238,8 +238,8 @@ EntityBlueprint
 
 		WeaponAffector
 		{
-			emissive_time "0.7"
-			emissive_factor "4"
+			emissive_time "1.4"
+			emissive_factor "8"
 			submesh_idx "1"
 		}
 
@@ -372,11 +372,11 @@ EntityBlueprint
 		collision_3d 			"world|world_blocker|destructible|ground_unit|air_unit|hitbox|shield"
 		collision_block 		"world"
 
-        damage_factor_max       "9.0"
-        damage_factor_increase  "5"
+        damage_factor_max       "18.0"
+        damage_factor_increase  "10"
         damage_factor_decrease  "10.0"
-        damage_max_beam_scale 	"5.0"
-		damage_max_beam_glow 	"6.5"
+        damage_max_beam_scale 	"10.0"
+		damage_max_beam_glow 	"17.0"
 	}
 
 
