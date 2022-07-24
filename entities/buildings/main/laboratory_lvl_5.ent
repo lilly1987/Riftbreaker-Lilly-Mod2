@@ -61,7 +61,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"analysis"
-				value			 	"50"
+				value			 	"160"
 			}
 		}
 		priority 2			

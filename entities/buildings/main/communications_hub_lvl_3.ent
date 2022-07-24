@@ -52,7 +52,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"download"
-				value			 	"30"
+				value			 	"40"
 			}
 		}
 		priority 2			
