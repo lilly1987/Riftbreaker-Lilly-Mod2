@@ -9,12 +9,11 @@ EntityBlueprint
 		buildable			"0"
 		name 				"cryo_station_lvl_2"
 		bp   				"buildings/main/cryo_station_lvl_2"
-		ghost_bp   			"buildings/main/cryo_station_lvl_2_ghost"
 		category 			"main"
 		//type				"pipe"
 		localization_id		"gui/hud/building_name/cryo_station"
 		description			"gui/hud/building_description/cryo_station"
-		menu_icon			"gui/hud/building_icons/cryo_station_lvl_2"
+		menu_icon			"gui/hud/building_icons/cryo_station"
 		//require 			"headquarters"
 		upgrade				"buildings/main/cryo_station_lvl_3"
 		order				"6"
@@ -35,13 +34,24 @@ EntityBlueprint
 			BuildingCostInfo
 			{
 				name "survival"
-				building_time 15
+				building_time 4
 				building_cost
 				{
 					carbonium 	"100"
 					steel 		"50"
 					titanium	"20"
 				}
+			}	
+		}		
+	}
+	ResourceStorageDesc
+	{
+		Storages
+		{				
+			Storage
+			{
+				resource "energy"
+				max 	 "0"
 			}
 		}
 	}
@@ -57,6 +67,13 @@ EntityBlueprint
 		}
 	}
 
+	EntityStatComponent
+	{
+		base_stats
+		{
+			health_regen		"1"
+		}
+	}
 	HealthDesc
 	{
 		max_health 					"1000"
@@ -84,11 +101,15 @@ EntityBlueprint
 			}
 		}
 	}
+	ResistanceComponent
+	{
+		magma		"0"
+	}		
 
 	MeshDesc
 	{
 		mesh 		"meshes/buildings/main/cryo_station.mesh"
-		material 	"buildings/main/cryo_station_lvl_2"
+		material 	"buildings/main/cryo_station"
 	}
 
 	TypeDesc
@@ -185,12 +206,12 @@ EntityBlueprint
 			y "3"
 		}
 
-		visibility			"discovered"
+		visibility			"always"
 	}
 
 	FogOfWarRevealerComponentDesc
 	{
-		radius "40"
+		radius "30"
 	}
 
 	HealthBarDesc
@@ -299,84 +320,5 @@ EntityBlueprint
 				}
 			}
 		}
-//////////////////////////////// LEVEL ////////////////////////////////////////
-		EffectGroup
-		{
-			group "level"
-			enabled "1"
-			Effects
-			{
-				Effect
-				{
-					blueprint "effects/buildings_and_machines/level_2"
-					offset "0 6.5 0"
-					scale "0.8 0.8 0.8"
-					bone "att_level"
-				}
-			}
-		}
-	}
-}
-
-EntityBlueprint
-{
-	name "buildings/main/cryo_station_lvl_2_ghost"
-
-	base_blueprint 			"buildings/main/cryo_station_ghost"
-
-	MeshDesc
-	{
-		mesh "meshes/buildings/main/cryo_station.mesh"
-		material "selector/hologram_blue"
-	}
-
-	PhysicsDesc
-	{
-		objects
-		{
-			PhysicsObjectDesc
-			{
-				type 				"kinematic"
-				group_id 			"ghost_building"
-				physics_material 	"default"
-				Shapes
-				{
-					PhysicsSphereShape
-					{
-						r "1.45"
-
-						position
-						{
-							x "0.0"
-							y "1.0"
-							z "0.0"
-						}
-					}
-				}
-			}
-		}
-	}
-
-	GridCullerDesc
-	{
-		Shapes
-		{
-			PhysicsBoxShape
-			{
-				x	4
-				y	4
-				z	4
-			}
-		}
-	}
-
-	DisplayRadiusDesc
-	{
-		max_radius 30
-	}
-
-	EffectDesc
-	{
-
 	}
 }

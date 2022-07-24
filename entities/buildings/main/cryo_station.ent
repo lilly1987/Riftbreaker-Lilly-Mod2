@@ -25,7 +25,7 @@ EntityBlueprint
 			BuildingCostInfo
 			{
 				name "default"
-				building_time 2
+				building_time 15
 				building_cost
 				{
 					carbonium 	"100"
@@ -46,6 +46,17 @@ EntityBlueprint
 			}	
 		}		
 	}
+	ResourceStorageDesc
+	{
+		Storages
+		{				
+			Storage
+			{
+				resource "energy"
+				max 	 "0"
+			}				
+		}
+	}	
 
 	LuaDesc
 	{
@@ -53,7 +64,7 @@ EntityBlueprint
 
 		database
 		{
-			range				float:"26.0"
+			range				float:"52.0"
 			cone_effect			string:"build_cone_3x3"
 			cone_effect_sell	string:"sell_big"
 		}
@@ -63,7 +74,7 @@ EntityBlueprint
 	{
 		base_stats
 		{
-			health_regen		"0.25"
+			health_regen		"1"
 		}
 	}
 	
