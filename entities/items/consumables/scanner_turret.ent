@@ -23,7 +23,7 @@ EntityBlueprint
 
         database
         {
-            timeout     float:"300"
+            timeout     float:"50"
 			blueprint	string:"items/consumables/scanner_turret_advanced"
 			stat_bp		string:"items/consumables/scanner_turret_advanced"
         }
@@ -57,7 +57,7 @@ EntityBlueprint
 
         database
         {
-            timeout     float:"300"
+            timeout     float:"70"
 			blueprint	string:"items/consumables/scanner_turret_extreme"
 			stat_bp		string:"items/consumables/scanner_turret_extreme"
         }
@@ -91,7 +91,7 @@ EntityBlueprint
 
         database
         {
-            timeout     float:"300"
+            timeout     float:"40"
 			blueprint	string:"items/consumables/scanner_turret"
 			stat_bp		string:"items/consumables/scanner_turret"
         }
@@ -125,7 +125,7 @@ EntityBlueprint
 
         database
         {
-            timeout     float:"300"
+            timeout     float:"60"
 			blueprint	string:"items/consumables/scanner_turret_superior"
 			stat_bp		string:"items/consumables/scanner_turret_superior"
         }
