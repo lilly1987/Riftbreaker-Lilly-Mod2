@@ -15389,7 +15389,7 @@ Research
 				    ResearchCost
 				    {
 				      amount "0.000"
-				      resource "analysis"
+				      resource "download"
 				      count "2200.000"
 				    }
 
@@ -15398,7 +15398,7 @@ Research
 				  research_scripts
 				  position
 				  {
-				    x "-81.000"
+				    x "-189.000"
 				    y "108.000"
 				  }
 
@@ -15441,7 +15441,7 @@ Research
 				    ResearchCost
 				    {
 				      amount "0.000"
-				      resource "analysis"
+				      resource "download"
 				      count "5000.000"
 				    }
 
@@ -15450,7 +15450,7 @@ Research
 				  research_scripts
 				  position
 				  {
-				    x "-81.000"
+				    x "-189.000"
 				    y "198.000"
 				  }
 
@@ -15493,7 +15493,7 @@ Research
 				    ResearchCost
 				    {
 				      amount "0.000"
-				      resource "analysis"
+				      resource "download"
 				      count "1600.000"
 				    }
 
@@ -15502,7 +15502,7 @@ Research
 				  research_scripts
 				  position
 				  {
-				    x "27.000"
+				    x "125.000"
 				    y "108.000"
 				  }
 
@@ -15545,7 +15545,7 @@ Research
 				    ResearchCost
 				    {
 				      amount "0.000"
-				      resource "analysis"
+				      resource "download"
 				      count "3500.000"
 				    }
 
@@ -15554,7 +15554,7 @@ Research
 				  research_scripts
 				  position
 				  {
-				    x "27.000"
+				    x "125.000"
 				    y "198.000"
 				  }
 
