@@ -15398,7 +15398,7 @@ Research
 				  research_scripts
 				  position
 				  {
-				    x "-189.000"
+				    x "-200.000"
 				    y "108.000"
 				  }
 
@@ -15450,8 +15450,8 @@ Research
 				  research_scripts
 				  position
 				  {
-				    x "-189.000"
-				    y "198.000"
+				    x "-200.000"
+				    y "324.000"
 				  }
 
 				  research_awards
@@ -15503,7 +15503,7 @@ Research
 				  position
 				  {
 				    x "125.000"
-				    y "108.000"
+				    y "100.000"
 				  }
 
 				  research_awards
@@ -15555,7 +15555,7 @@ Research
 				  position
 				  {
 				    x "125.000"
-				    y "198.000"
+				    y "324.000"
 				  }
 
 				  research_awards
