@@ -181,7 +181,7 @@ EntityBlueprint
 
 	FogOfWarRevealerComponentDesc
 	{
-		radius "40"
+		radius "20"
 	}
 
 	HealthBarDesc
@@ -369,7 +369,7 @@ EntityBlueprint
 	VegetationBendingComponentDesc
 	{
 		bending_power	"5000.0"
-		bending_radius	"5.0"
+		bending_radius	"10.0"
 	}
 	
 	BombAmmoComponent

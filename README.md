@@ -22,3 +22,4 @@ main_menu.dat
 	BUTTON_survival                         "gui/menu/new_survival"
 	
 	
+-*.entx|-*.ent|-*.scene|-*.csv|-*.pu|-*.material|-*.mesh
