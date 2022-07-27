@@ -10,12 +10,12 @@ lua\missions\campaigns\story\v2\headquarters\headquarters.lua
         lua\missions\survival\v2\dom_survival_jungle_rules_default.lua
 		
 # 서바이벌
-missions\survival\jungle.mission
-	lua/missions/survival/survival_jungle.lua
-		logic/missions/survival/default.logic
-		lua/missions/survival/v2/dom_survival_jungle_rules_*
-		lua/missions/v2/dom_manager.lua
-	campaigns/survival/jungle.campaign
+	missions\survival\jungle.mission # 맵,자원 배치 관련
+		lua/missions/survival/survival_jungle.lua
+			logic/missions/survival/default.logic
+			lua/missions/survival/v2/dom_survival_jungle_rules_*
+			lua/missions/v2/dom_manager.lua
+		campaigns/survival/jungle.campaign # 업그레이드 참조 관련
 
 
 main_menu.dat
