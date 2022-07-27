@@ -14727,7 +14727,7 @@ Research
 
 				ResearchNode
 				{
-					research_flags "locked"
+					research_flags //"locked"
 					requirement_tooltip
 					requirements
 					{
