@@ -3,9 +3,9 @@ MissionDef
     script          "lua/missions/survival/survival_jungle.lua"
 	localization_id	"campaigns/survival/lilly.campaign"
 
-	map_size        "6"
+	map_size        "3"
 
-    biomes          	"jungle"
+    biomes          	"lilly"
 	
     creature_volumes_min_distance   "128.0"
 	creature_volumes_density        "0.75"
