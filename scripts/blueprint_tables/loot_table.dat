@@ -27470,7 +27470,7 @@ Blueprints
 	LootItems "props/special/interactive/rubble_with_pipe_entrance_sludge"
 	LootItems "props/special/interactive/scannable_crystal"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "1.0000"
 			min "1"
@@ -27488,7 +27488,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "1.0000"
 			min "1"
@@ -27497,7 +27497,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "1.0000"
 			min "1"
@@ -36215,7 +36215,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -36233,7 +36233,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -36242,7 +36242,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -36274,7 +36274,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -36292,7 +36292,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -36301,7 +36301,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -36355,7 +36355,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -36373,7 +36373,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -36382,7 +36382,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -36435,7 +36435,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -36453,7 +36453,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -36462,7 +36462,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -36512,7 +36512,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -36530,7 +36530,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -36539,7 +36539,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -36572,7 +36572,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -36590,7 +36590,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -36599,7 +36599,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -36646,7 +36646,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -36664,7 +36664,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -36673,7 +36673,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -36717,7 +36717,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -36735,7 +36735,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -36744,7 +36744,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -36788,7 +36788,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -36806,7 +36806,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -36815,7 +36815,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -36858,7 +36858,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -36876,7 +36876,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -36885,7 +36885,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -36927,7 +36927,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -36945,7 +36945,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -36954,7 +36954,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -36996,7 +36996,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -37014,7 +37014,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -37023,7 +37023,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -37065,7 +37065,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -37083,7 +37083,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -37092,7 +37092,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -37136,7 +37136,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -37154,7 +37154,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -37163,7 +37163,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -37207,7 +37207,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -37225,7 +37225,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -37234,7 +37234,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -37278,7 +37278,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -37296,7 +37296,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -37305,7 +37305,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -37350,7 +37350,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -37368,7 +37368,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -37377,7 +37377,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -37536,7 +37536,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -37554,7 +37554,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -37563,7 +37563,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -37616,7 +37616,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -37634,7 +37634,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -37643,7 +37643,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -37656,7 +37656,7 @@ Blueprints
 
 	LootItems "units/ground/bradron_base"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -37674,7 +37674,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -37683,7 +37683,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -37736,7 +37736,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -37754,7 +37754,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -37763,7 +37763,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -37813,7 +37813,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_cobalt"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -37831,7 +37831,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -37840,7 +37840,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -37873,7 +37873,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -37891,7 +37891,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -37900,7 +37900,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -37947,7 +37947,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_cobalt"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -37965,7 +37965,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -37974,7 +37974,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -38016,7 +38016,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_cobalt"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -38034,7 +38034,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -38043,7 +38043,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -38085,7 +38085,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_cobalt"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -38103,7 +38103,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -38112,7 +38112,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -38155,7 +38155,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_cobalt"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -38173,7 +38173,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -38182,7 +38182,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -38351,7 +38351,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_hazenite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -38369,7 +38369,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -38378,7 +38378,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -38423,7 +38423,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_hazenite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -38441,7 +38441,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -38450,7 +38450,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -38492,7 +38492,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_hazenite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -38510,7 +38510,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -38519,7 +38519,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -38561,7 +38561,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_hazenite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -38579,7 +38579,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -38588,7 +38588,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -38630,7 +38630,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_cobalt"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -38648,7 +38648,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -38657,7 +38657,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -38699,7 +38699,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_cobalt"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -38717,7 +38717,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -38726,7 +38726,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -38769,7 +38769,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -38787,7 +38787,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -38796,7 +38796,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -39052,7 +39052,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -39070,7 +39070,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -39079,7 +39079,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -39132,7 +39132,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -39150,7 +39150,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -39159,7 +39159,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -39214,7 +39214,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -39232,7 +39232,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -39241,7 +39241,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -39312,7 +39312,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_cobalt"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -39330,7 +39330,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -39339,7 +39339,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -39372,7 +39372,7 @@ Blueprints
 			condition_value "gui/menu/research/name/nuclear_energy_lvl1"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -39390,7 +39390,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -39399,7 +39399,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -39442,7 +39442,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -39460,7 +39460,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -39469,7 +39469,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -39511,7 +39511,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -39529,7 +39529,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -39538,7 +39538,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -39580,7 +39580,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -39598,7 +39598,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -39607,7 +39607,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -39640,7 +39640,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0300"
 			min "1"
@@ -39658,7 +39658,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0400"
 			min "1"
@@ -39667,7 +39667,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0200"
 			min "1"
@@ -39711,7 +39711,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_palladium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -39729,7 +39729,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -39738,7 +39738,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -39782,7 +39782,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_palladium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -39800,7 +39800,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -39809,7 +39809,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -39854,7 +39854,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_palladium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -39872,7 +39872,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -39881,7 +39881,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -39914,7 +39914,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -39932,7 +39932,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -39941,7 +39941,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -39974,7 +39974,7 @@ Blueprints
 			condition_value "gui/menu/research/name/nuclear_energy_lvl1"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -39992,7 +39992,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -40001,7 +40001,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -40035,7 +40035,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -40053,7 +40053,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -40062,7 +40062,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -40095,7 +40095,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -40113,7 +40113,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -40122,7 +40122,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -40261,7 +40261,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -40279,7 +40279,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -40288,7 +40288,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -40332,7 +40332,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_cobalt"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -40350,7 +40350,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -40359,7 +40359,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -40404,7 +40404,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_cobalt"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -40422,7 +40422,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -40431,7 +40431,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -40475,7 +40475,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_hazenite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -40493,7 +40493,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -40502,7 +40502,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -40546,7 +40546,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_hazenite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -40564,7 +40564,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -40573,7 +40573,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -40665,7 +40665,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_hazenite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -40683,7 +40683,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -40692,7 +40692,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -40725,7 +40725,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_hazenite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -40743,7 +40743,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -40752,7 +40752,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -40785,7 +40785,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_rhodonite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -40803,7 +40803,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -40812,7 +40812,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -40855,7 +40855,7 @@ Blueprints
 			condition_value "gui/menu/research/name/nuclear_energy_lvl1"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -40873,7 +40873,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -40882,7 +40882,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -40924,7 +40924,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -40942,7 +40942,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -40951,7 +40951,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -40993,7 +40993,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -41011,7 +41011,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -41020,7 +41020,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -41062,7 +41062,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -41080,7 +41080,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -41089,7 +41089,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -41123,7 +41123,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_ferdonite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0300"
 			min "1"
@@ -41141,7 +41141,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0400"
 			min "1"
@@ -41150,7 +41150,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0200"
 			min "1"
@@ -41194,7 +41194,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -41212,7 +41212,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -41221,7 +41221,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -41265,7 +41265,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -41283,7 +41283,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -41292,7 +41292,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -41337,7 +41337,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -41355,7 +41355,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -41364,7 +41364,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -41397,7 +41397,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -41415,7 +41415,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -41424,7 +41424,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -41457,7 +41457,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -41475,7 +41475,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -41484,7 +41484,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -41516,7 +41516,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -41534,7 +41534,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -41543,7 +41543,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -41574,7 +41574,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -41592,7 +41592,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -41601,7 +41601,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -41632,7 +41632,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -41650,7 +41650,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -41659,7 +41659,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -41690,7 +41690,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -41708,7 +41708,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -41717,7 +41717,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -41750,7 +41750,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -41768,7 +41768,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -41777,7 +41777,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42086,7 +42086,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -42104,7 +42104,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42113,7 +42113,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -42157,7 +42157,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -42175,7 +42175,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42184,7 +42184,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -42229,7 +42229,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -42247,7 +42247,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42256,7 +42256,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -42300,7 +42300,7 @@ Blueprints
 			condition_value "gui/menu/research/name/nuclear_energy_lvl1"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -42318,7 +42318,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42327,7 +42327,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -42371,7 +42371,7 @@ Blueprints
 			condition_value "gui/menu/research/name/nuclear_energy_lvl1"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -42389,7 +42389,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42398,7 +42398,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -42443,7 +42443,7 @@ Blueprints
 			condition_value "gui/menu/research/name/nuclear_energy_lvl1"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -42461,7 +42461,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42470,7 +42470,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -42514,7 +42514,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -42532,7 +42532,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -42541,7 +42541,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42585,7 +42585,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -42603,7 +42603,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -42612,7 +42612,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42657,7 +42657,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -42675,7 +42675,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -42684,7 +42684,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42728,7 +42728,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_rhodonite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -42746,7 +42746,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -42755,7 +42755,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42799,7 +42799,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_rhodonite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -42817,7 +42817,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -42826,7 +42826,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -42869,7 +42869,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -42887,7 +42887,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -42896,7 +42896,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -42938,7 +42938,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -42956,7 +42956,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -42965,7 +42965,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -43007,7 +43007,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -43025,7 +43025,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -43034,7 +43034,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -43076,7 +43076,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -43094,7 +43094,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -43103,7 +43103,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -43147,7 +43147,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_rhodonite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -43165,7 +43165,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -43174,7 +43174,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -43218,7 +43218,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -43236,7 +43236,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -43245,7 +43245,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -43289,7 +43289,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -43307,7 +43307,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -43316,7 +43316,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -43359,7 +43359,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -43377,7 +43377,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -43386,7 +43386,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -43428,7 +43428,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -43446,7 +43446,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -43455,7 +43455,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -43497,7 +43497,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -43515,7 +43515,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -43524,7 +43524,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -43566,7 +43566,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -43584,7 +43584,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -43593,7 +43593,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -43710,7 +43710,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -43728,7 +43728,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -43737,7 +43737,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -43781,7 +43781,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -43799,7 +43799,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -43808,7 +43808,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -43852,7 +43852,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -43870,7 +43870,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -43879,7 +43879,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -43892,7 +43892,7 @@ Blueprints
 
 	LootItems "units/ground/octabit_alpha_clone_1"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -43910,7 +43910,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -43919,7 +43919,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -43932,7 +43932,7 @@ Blueprints
 
 	LootItems "units/ground/octabit_alpha_clone_2"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -43950,7 +43950,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -43959,7 +43959,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -43973,7 +43973,7 @@ Blueprints
 	LootItems "units/ground/octabit_base"
 	LootItems "units/ground/octabit_clone_1"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -43991,7 +43991,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -44000,7 +44000,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -44013,7 +44013,7 @@ Blueprints
 
 	LootItems "units/ground/octabit_clone_2"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -44031,7 +44031,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -44040,7 +44040,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -44084,7 +44084,7 @@ Blueprints
 			package_size "5"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -44102,7 +44102,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -44111,7 +44111,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -44124,7 +44124,7 @@ Blueprints
 
 	LootItems "units/ground/octabit_ultra_clone_1"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -44142,7 +44142,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -44151,7 +44151,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -44164,7 +44164,7 @@ Blueprints
 
 	LootItems "units/ground/octabit_ultra_clone_2"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -44182,7 +44182,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -44191,7 +44191,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -44235,7 +44235,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_cobalt"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -44253,7 +44253,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -44262,7 +44262,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -44306,7 +44306,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_palladium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -44324,7 +44324,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -44333,7 +44333,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -44378,7 +44378,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0300"
 			min "1"
@@ -44396,7 +44396,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0400"
 			min "1"
@@ -44405,7 +44405,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0200"
 			min "1"
@@ -44515,7 +44515,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_ferdonite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -44533,7 +44533,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -44542,7 +44542,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -44586,7 +44586,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_ferdonite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -44604,7 +44604,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -44613,7 +44613,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -44658,7 +44658,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_ferdonite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -44676,7 +44676,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -44685,7 +44685,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -44716,7 +44716,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -44734,7 +44734,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -44743,7 +44743,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -44796,7 +44796,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -44814,7 +44814,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -44823,7 +44823,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -44876,7 +44876,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -44894,7 +44894,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -44903,7 +44903,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -44934,7 +44934,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -44952,7 +44952,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -44961,7 +44961,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -45014,7 +45014,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -45032,7 +45032,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -45041,7 +45041,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -45094,7 +45094,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -45112,7 +45112,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -45121,7 +45121,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -45174,7 +45174,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -45192,7 +45192,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -45201,7 +45201,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -45232,7 +45232,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -45250,7 +45250,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -45259,7 +45259,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -45290,7 +45290,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -45308,7 +45308,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -45317,7 +45317,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -45400,7 +45400,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -45418,7 +45418,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -45427,7 +45427,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -45472,7 +45472,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -45490,7 +45490,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -45499,7 +45499,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -45542,7 +45542,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -45560,7 +45560,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -45569,7 +45569,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -45611,7 +45611,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -45629,7 +45629,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -45638,7 +45638,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -45680,7 +45680,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -45698,7 +45698,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -45707,7 +45707,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -45749,7 +45749,7 @@ Blueprints
 			package_size "10"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -45767,7 +45767,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -45776,7 +45776,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -45821,7 +45821,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -45839,7 +45839,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -45848,7 +45848,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -46040,7 +46040,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -46058,7 +46058,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -46067,7 +46067,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -46120,7 +46120,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -46138,7 +46138,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -46147,7 +46147,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -46201,7 +46201,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_titanium"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -46219,7 +46219,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -46228,7 +46228,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -46272,7 +46272,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -46290,7 +46290,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -46299,7 +46299,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -46343,7 +46343,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -46361,7 +46361,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -46370,7 +46370,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -46415,7 +46415,7 @@ Blueprints
 			condition_value "gui/menu/research/name/resource_handling_tanzanite"
 		}
 
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -46433,7 +46433,7 @@ Blueprints
 			condition_value "4"
 		}
 
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -46442,7 +46442,7 @@ Blueprints
 			condition_value "1"
 		}
 
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -49309,7 +49309,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_adv_big"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0050"
 			min "1"
@@ -49320,7 +49320,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_adv_boss"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.4000"
 			min "1"
@@ -49331,7 +49331,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_adv_medium"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0008"
 			min "1"
@@ -49342,7 +49342,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_adv_small"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0005"
 			min "1"
@@ -49353,7 +49353,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_adv_very_big"
 	{
-		LootItem "mods_advanced"
+		LootItem "mods_extreme"
 		{
 			chance "0.0300"
 			min "1"
@@ -49419,7 +49419,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_std_big"
 	{
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0060"
 			min "1"
@@ -49430,7 +49430,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_std_boss"
 	{
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.5000"
 			min "1"
@@ -49441,7 +49441,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_std_medium"
 	{
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0010"
 			min "1"
@@ -49452,7 +49452,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_std_small"
 	{
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -49463,7 +49463,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_std_very_big"
 	{
-		LootItem "mods_standard"
+		LootItem "mods_extreme"
 		{
 			chance "0.0400"
 			min "1"
@@ -49474,7 +49474,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_sup_big"
 	{
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0040"
 			min "1"
@@ -49485,7 +49485,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_sup_boss"
 	{
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.3000"
 			min "1"
@@ -49496,7 +49496,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_sup_medium"
 	{
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0006"
 			min "1"
@@ -49507,7 +49507,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_sup_small"
 	{
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0003"
 			min "1"
@@ -49518,7 +49518,7 @@ LootTemplates
 
 	LootInfoTemplate "mods_sup_very_big"
 	{
-		LootItem "mods_superior"
+		LootItem "mods_extreme"
 		{
 			chance "0.0200"
 			min "1"

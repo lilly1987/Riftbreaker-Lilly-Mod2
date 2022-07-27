@@ -114,8 +114,8 @@ EntityBlueprint
 	
 		database
 		{
-			radius				float:"2"
-			amount				float:"5"
+			radius				float:"4"
+			amount				float:"10"
 			resource			string:"iron_vein|carbon_vein"
 		}
 	}
