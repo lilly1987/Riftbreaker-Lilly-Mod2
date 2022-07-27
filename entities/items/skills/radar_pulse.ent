@@ -4,12 +4,12 @@ EntityBlueprint
 
 	FogOfWarRevealerComponentDesc
 	{
-		radius "200"
+		radius "800"
 	}
 
 	LifeTimeDesc
 	{
-		time 6000
+		time 600
 	}
 
 	EffectDesc
@@ -52,7 +52,7 @@ EntityBlueprint
 		
 		database
 		{
-			radius	float:"200"
+			radius	float:"800"
 		}
 	}
 
