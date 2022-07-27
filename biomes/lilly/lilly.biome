@@ -4,15 +4,16 @@ BiomeDef
 	{
 		Pair_String_Vector_String
 		{
-			key "ground/misc/biome_material_2"
+			key "ground/misc/biome_material_0"
 			value
 			{
-				String "ground/misc/biome_material_2"
-				String "ground/grass/muddy_grass_02"
-				String "ground/grass/forest_ground_01"
-				String "ground/grass/forest_ground_grass_01"
-				String "ground/moss/moss_01"
-				String "ground/mud/stylized_mud"
+				String "ground/misc/biome_material_0"
+				String "ground/metallic/soil_rocks_03"
+				String "ground/metallic/red_soil_01"
+				String "ground/metallic/soil_rocks_01"
+				String "ground/metallic/soil_rocks_02"
+				String "ground/metallic/soil_rocks_06"
+				String "ground/metallic/metallic_ground_07"
 			}
 
 		}
@@ -23,70 +24,47 @@ BiomeDef
 			value
 			{
 				String "ground/misc/biome_material_1"
-				String "ground/mud/forest_mud_01"
-				String "ground/mud/green_mud"
-				String "ground/pebbles/sand_pebbles"
-				String "ground/mud/forest_mud_02"
-				String "ground/mud/forest_mud_03"
+				String "ground/metallic/metallic_tech_floor"
+				String "ground/metallic/metallic_ground_01"
+				String "ground/metallic/metallic_ground_02"
+				String "ground/metallic/metallic_red_foliage_01"
+				String "ground/metallic/metallic_ground_08"
+				String "ground/metallic/metallic_ground_06"
+				String "ground/metallic/metallic_ground_04"
 			}
 
 		}
 
 		Pair_String_Vector_String
 		{
-			key "ground/misc/biome_material_0"
+			key "ground/misc/biome_material_2"
 			value
 			{
-				String "ground/misc/biome_material_0"
-				String "ground/grass/grass_04"
-				String "ground/grass/grass_15"
-				String "ground/pebbles/brown_pebbles_01"
-				String "ground/groundplants/jungle_roots_04"
-				String "ground/grass/grass_12"
-				String "ground/mud/green_mud_01"
+				String "ground/misc/biome_material_2"
+				String "ground/metallic/black_red_ground_01"
+				String "ground/metallic/metallic_veins_01"
+				String "ground/metallic/red_soil_02"
+				String "ground/metallic/organic_ground_01"
+				String "ground/metallic/organic_ground_05"
+				String "ground/metallic/soil_rocks_07"
+				String "ground/metallic/organic_ground_07"
 			}
 
 		}
 
 	}
 
-	default_liquid_resource "mud_vein"
-	resources "carbon_vein,iron_vein,geothermal_vent,uranium_ore_vein,titanium_vein,palladium_vein,cobalt_vein,water_vein,mud_vein,sludge_vein"
-	icon						"gui/menu/biomes_prev/jungle_prev"
-	icon_with_outpost			"gui/menu/biomes_prev/jungle_base_prev"
-	loading						"gui/menu/loading/jungle"
-	loading_with_outpost        "gui/menu/loading/jungle_outpost"
-
+	default_liquid_resource "morphium_vein"
+resources "carbon_vein,iron_vein,geothermal_vent,uranium_ore_vein,titanium_vein,palladium_vein,cobalt_vein,water_vein,mud_vein,sludge_vein,morphium_vein"
+	icon "gui/menu/biomes_prev/metallic_prev"
+	icon_with_outpost "gui/menu/biomes_prev/metallic_base_prev"
+	loading "gui/menu/loading/metallic"
+	loading_with_outpost "gui/menu/loading/metallic_outpost"
+	
 	root_template
 	{
 		children
 		{
-			EntityTemplate
-			{
-				components
-				{
-					IdComponent
-					{
-						name "main_light"
-					}
-
-					LightDesc
-					{
-						is_shadow_caster "1"
-						light_color
-						{
-							w "13.416"
-							y "0.779"
-							z "0.354"
-						}
-
-						light_size "0.009"
-					}
-
-				}
-
-			}
-
 			EntityTemplate
 			{
 				components
@@ -129,6 +107,41 @@ BiomeDef
 
 					}
 
+					UniformComponent
+					{
+						renderable_custom_parameters
+						{
+							Params
+						}
+
+					}
+
+				}
+
+			}
+
+			EntityTemplate
+			{
+				components
+				{
+					IdComponent
+					{
+						name "main_light"
+					}
+
+					LightDesc
+					{
+						is_shadow_caster "1"
+						light_color
+						{
+							w "12.038"
+							x "0.907"
+							y "0.932"
+						}
+
+						light_size "0.005"
+					}
+
 				}
 
 			}
@@ -138,6 +151,11 @@ BiomeDef
 		components
 		{
 			BiomeModificatorComponent
+			{
+				solar_power "0.750"
+				wind_power "1.250"
+			}
+
 			DirectionalWindComponent
 			{
 				factor "0.000"
@@ -153,21 +171,21 @@ BiomeDef
 			{
 				bloom_params
 				{
-					max_exposure "0.833"
-					scale "1.030"
-					threshold "0.492"
+					max_exposure "1.284"
+					scale "1.058"
+					threshold "0.203"
 				}
 
 				fog_params
 				{
 					color
 					{
-						x "0.521"
-						y "0.855"
-						z "0.920"
+						x "0.009"
+						y "0.077"
+						z "0.847"
 					}
 
-					density "0.283"
+					density "0.421"
 					end "58.708"
 					start "46.177"
 				}
@@ -179,13 +197,29 @@ BiomeDef
 
 				skybox_params
 				{
-					diffuse "materials/textures/skybox/skybox_day_1_diffuse.dds"
-					diffuse_intensity "0.403"
-					environment "materials/textures/skybox/skybox_day_1_env.dds"
-					specular "materials/textures/skybox/skybox_day_1_specular.dds"
-					specular_intensity "0.588"
-					sun_roll "-19.225"
-					sun_yaw "-33.275"
+					diffuse "materials/textures/skybox/skybox_metallic_diffuse.dds"
+					diffuse_intensity "0.000"
+					environment "materials/textures/skybox/skybox_metallic_env.dds"
+					specular "materials/textures/skybox/skybox_metallic_specular.dds"
+					specular_intensity "0.497"
+					sun_roll "33.750"
+					sun_yaw "20.468"
+				}
+
+				skybox_procedural_params
+				{
+					atmosphere_thickness "1.094"
+					clouds "0.400"
+					sun_convergence "0.503"
+					sun_size "1.001"
+				}
+
+				ssao_params
+				{
+					angle_bias "0.397"
+					factor "7.497"
+					intensity "1.501"
+					sample_length "0.054"
 				}
 
 			}
@@ -196,7 +230,7 @@ BiomeDef
 				{
 					TimeOfDayPresetHolder
 					{
-						resource_name "biomes/jungle/scene_params/jungle.td"
+						resource_name "biomes/metallic/scene_params/metallic.td"
 					}
 
 				}

@@ -5,15 +5,15 @@ return function()
 	local rules = "default"
 	LogService:Log( waveStrength )
 	if  waveStrength == "easy" then
-		rules = require("lua/missions/survival/v2/dom_survival_metallic_rules_easy.lua")()	
+		rules = require("lua/missions/survival/v2/dom_survival_lilly_rules_easy.lua")()	
 	elseif waveStrength == "normal" then
-		rules = require("lua/missions/survival/v2/dom_survival_metallic_rules_normal.lua")()		
+		rules = require("lua/missions/survival/v2/dom_survival_lilly_rules_normal.lua")()		
 	elseif waveStrength == "hard" then
-		rules = require("lua/missions/survival/v2/dom_survival_metallic_rules_hard.lua")()	
+		rules = require("lua/missions/survival/v2/dom_survival_lilly_rules_hard.lua")()	
 	elseif waveStrength == "brutal" then
-		rules = require("lua/missions/survival/v2/dom_survival_metallic_rules_brutal.lua")()	
+		rules = require("lua/missions/survival/v2/dom_survival_lilly_rules_brutal.lua")()	
 	else
-		rules = require("lua/missions/survival/v2/dom_survival_metallic_rules_default.lua")()		
+		rules = require("lua/missions/survival/v2/dom_survival_lilly_rules_default.lua")()		
 	end
 	LogService:Log( tostring(rules) )
 	
