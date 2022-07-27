@@ -232,6 +232,7 @@ BiomeDef
 		{
 			BiomeModificatorComponent
 			{
+				geothermal_power "2.000"
 				solar_power "2.000"
 				wind_power "2.000"
 			}
