@@ -4,27 +4,27 @@ return function()
 	rules.timeToNextDifficultyLevel = 
 	{			
 		200, -- difficulty level 1
-		600, -- difficulty level 2
-		600, -- difficulty level 3	
-		600, -- difficulty level 4
-		600, -- difficulty level 5
-		600, -- difficulty level 6
-		600, -- difficulty level 7
-		600, -- difficulty level 8
-		600, -- difficulty level 9
+		500, -- difficulty level 2
+		500, -- difficulty level 3	
+		500, -- difficulty level 4
+		500, -- difficulty level 5
+		500, -- difficulty level 6
+		500, -- difficulty level 7
+		500, -- difficulty level 8
+		500, -- difficulty level 9
 	}
 
 	rules.prepareSpawnTime = 
 	{			
-		420,  -- difficulty level 1
-		420,  -- difficulty level 2
-		420,  -- difficulty level 3
-		420,  -- difficulty level 4	
-		420,  -- difficulty level 5	
-		420,  -- difficulty level 6	
-		420,  -- difficulty level 7
-		420,  -- difficulty level 8	
-		420,  -- difficulty level 9	
+		360,  -- difficulty level 1
+		360,  -- difficulty level 2
+		360,  -- difficulty level 3
+		360,  -- difficulty level 4	
+		360,  -- difficulty level 5	
+		360,  -- difficulty level 6	
+		360,  -- difficulty level 7
+		360,  -- difficulty level 8	
+		360,  -- difficulty level 9	
 	}
 
 	rules.maxAttackCountPerDifficulty = 
