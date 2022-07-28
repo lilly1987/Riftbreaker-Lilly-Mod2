@@ -1,23 +1,23 @@
 EntityBlueprint
 {
-	name  "buildings/energy/magma_powerplant"
+	name  "buildings/energy/gas_powerplant"
 
 	BuildingDesc
 	{
-	
-		name 				"magma_powerplant"
-		bp   				"buildings/energy/magma_powerplant"
+		name 				"gas_powerplant"
+		bp   				"buildings/energy/gas_powerplant"
 		category 			"energy"
-		localization_id		"gui/hud/building_name/magma_powerplant"
-		description			"gui/hud/building_description/magma_powerplant"
-		menu_icon			"gui/hud/building_icons/magma_powerplant"
+		localization_id		"gui/hud/building_name/gas_powerplant"
+		description			"gui/hud/building_description/gas_powerplant"
+		menu_icon			"gui/hud/building_icons/gas_powerplant"
 		type				"pipe"
 		require 			"headquarters"
-		order				"11"		
-		upgrade				"buildings/energy/magma_powerplant_lvl_2"
+		upgrade				"buildings/energy/gas_powerplant_lvl_2"	
+		order				"9"	
+		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"		
 		going_green_state	"1"
 		overrides			"pipe_ground,pipe_connector_t,pipe_connector_x,pipe_corner,pipeline,pipe_straight_windowless"
-		build_on_water			"1"
+build_on_water			"1"
 		
 		costs
 		{
@@ -27,9 +27,8 @@ EntityBlueprint
 				building_time 120
 				building_cost
 				{
-					carbonium 	"500"		
-					steel 		"500"
-					titanium	"250"
+					carbonium 	"400"		
+					steel 		"300"
 				}
 			}		
 		}
@@ -41,8 +40,8 @@ EntityBlueprint
 		{
 			GameplayResource
 			{
-				resource 	"magma"
-				value 		"300"
+				resource 	"flammable_gas"
+				value 		"50"
 				attachment	"att_in_1"
 			}
 		}
@@ -52,10 +51,11 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 	"energy"
-				value 		"1000"
+				value 		"500"
 			}
 		}
-		priority 10
+		priority 9		
+		reset_interval 0.5
 	}
 
 	ResourceStorageDesc
@@ -65,7 +65,7 @@ EntityBlueprint
 			Storage
 			{
 				resource "energy"
-				max 	 "1000"
+				max 	 "500"
 			}
 			
 		}
@@ -79,8 +79,9 @@ EntityBlueprint
 		{
 			cone_effect			string:"build_cone_4x4"
 			cone_effect_sell	string:"sell_big"
+			building_time		float:"120"
 		}
-
+		
 	}
 
 	HealthDesc
@@ -189,8 +190,8 @@ EntityBlueprint
 
 	MeshDesc
 	{
-		mesh 		"meshes/buildings/energy/magma_powerplant.mesh"
-		material 	"buildings/energy/magma_powerplant"
+		mesh 		"meshes/buildings/energy/gas_powerplant.mesh"
+		material 	"buildings/energy/gas_powerplant"
 	}
 
 	TypeDesc
@@ -200,7 +201,7 @@ EntityBlueprint
 
 	SkeletonDesc
 	{
-		name "meshes/buildings/energy/magma_powerplant"
+		name "meshes/buildings/energy/gas_powerplant"
 	}
 
 	AnimationGraphDesc
@@ -221,7 +222,7 @@ EntityBlueprint
 				{
 					PhysicsSphereShape
 					{
-						r "4.45"
+						r "3.45"
 	
 						position 
 						{
@@ -229,7 +230,7 @@ EntityBlueprint
 							y "1.0"
 							z "0.0"
 						}
-					}	
+					}
 				}
 			}
 		}
@@ -248,9 +249,9 @@ EntityBlueprint
 		{
    			PhysicsBoxShape
    			{
-    				x	10
-    				y	10
-    				z	10
+    				x	8
+    				y	8
+    				z	8
    			}			
 		}
 	}
@@ -261,15 +262,16 @@ EntityBlueprint
 		color 
 		{
 			x "0"
-			y "0"
+			y "1"
 			z "1"
 			w "1"
 		}
-		sizes
+		size
 		{
 			x "4"
 			y "4"
 		}
+					
 		visibility			"always"
 	}
 
@@ -438,34 +440,26 @@ EntityBlueprint
 		{
 			group "working"
 			enabled "0"				
-			
 			Effects
 			{
 				Effect
 				{
-					blueprint "effects/buildings_and_machines/magma_powerplant_pool"								
-					bone "att_magma_1"
-					delay "1"
-				}	
-				Effect
-				{
-					blueprint "effects/buildings_and_machines/magma_powerplant_pool"								
-					bone "att_magma_2"
+					blueprint "effects/buildings_and_machines/gas_chimney_big"								
+					bone "att_gas"
 					delay "1"
 				}
 				Effect
 				{
-					blueprint "effects/buildings_and_machines/magma_powerplant_pool"								
-					bone "att_magma_3"
+					blueprint "effects/buildings_energy/gas_powerplant_working"		
 					delay "1"
-				}		
+				}	
 				Effect
 				{
-					blueprint "effects/buildings_and_machines/magma_powerplant_flow"								
-					bone "att_magma_flow"
+					blueprint "effects/buildings_and_machines/gas_powerplant_lightning"								
+					bone "lightning"
 					delay "1"
-				}					
+				}				
 			}
-		}	
+		}			
 	}
 }

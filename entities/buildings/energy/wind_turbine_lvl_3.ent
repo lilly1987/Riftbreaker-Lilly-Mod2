@@ -19,7 +19,8 @@ EntityBlueprint
 		type				"wind"
 		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		going_green_state	"2"
-
+build_on_water			"1"
+		
 		costs
 		{
 			BuildingCostInfo

@@ -1,22 +1,21 @@
 EntityBlueprint
 {
-	name  "buildings/energy/nuclear_powerplant_lvl_3"
+	name  					"buildings/energy/gas_powerplant_lvl_2"
 
-	base_blueprint "buildings/energy/nuclear_powerplant_lvl_2"
+	base_blueprint 			buildings/energy/gas_powerplant
 
 	BuildingDesc
 	{
-		name 				"nuclear_powerplant_lvl_3"
-		bp   				"buildings/energy/nuclear_powerplant_lvl_3"
+		buildable			"0"		
+		name 				"gas_powerplant_lvl_2"
+		bp   				"buildings/energy/gas_powerplant_lvl_2"
 		category 			"energy"
-		localization_id		"gui/hud/building_name/nuclear_powerplant"
-		description			"gui/hud/building_description/nuclear_powerplant"
-		menu_icon			"gui/hud/building_icons/nuclear_powerplant_lvl3"
-		//upgrade				"buildings/energy/nuclear_powerplant_lvl_4"	
+		localization_id		"gui/hud/building_name/gas_powerplant"
+		description			"gui/hud/building_description/gas_powerplant"
+		menu_icon			"gui/hud/building_icons/gas_powerplant_lvl2"
 		type				"pipe"
 		require 			"headquarters"
-		order				"6"		
-		buildable			"0"
+		upgrade				"buildings/energy/gas_powerplant_lvl_3"		
 		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		going_green_state	"1"
 		overrides			"pipe_ground,pipe_connector_t,pipe_connector_x,pipe_corner,pipeline,pipe_straight_windowless"
@@ -27,12 +26,12 @@ EntityBlueprint
 			BuildingCostInfo
 			{
 				name "default"
-				building_time 300
+				building_time 120
 				building_cost
 				{
-					carbonium 	"3000"		
-					steel 		"1500"
-					uranium 	"1000"
+					carbonium 	"400"			
+					steel 		"300"
+					palladium	"100"
 				}
 			}		
 		}
@@ -44,23 +43,10 @@ EntityBlueprint
 		{
 			GameplayResource
 			{
-				resource 	"uranium"
-				value 		"1"
-			}
-			GameplayResource
-			{
-				resource 	"water"
+				resource 	"flammable_gas"
 				value 		"50"
 				attachment	"att_in_1"
-				family		"coolant"
-			}	
-			GameplayResource
-			{
-				resource 	"supercoolant"
-				value 		"25"
-				attachment	"att_in_1"
-				family		"coolant"
-			}				
+			}
 		}
 		
 		out
@@ -68,10 +54,10 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 	"energy"
-				value 		"3000"
+				value 		"750"
 			}
 		}
-		priority 9
+		priority 9		
 		reset_interval 0.5
 	}
 
@@ -82,7 +68,7 @@ EntityBlueprint
 			Storage
 			{
 				resource "energy"
-				max 	 "3000"
+				max 	 "750"
 			}
 			
 		}
@@ -90,8 +76,8 @@ EntityBlueprint
 
 	HealthDesc
 	{
-		max_health 					"4500"
-		health 						"4500"
+		max_health 					"2700"
+		health 						"2700"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
 		 is_manual 1
@@ -191,68 +177,12 @@ EntityBlueprint
 			}			
 		}
 	}
+
 	EffectDesc
 	{		
 		EffectBaseBlueprints
 		{
 			"buildings/effects_big_base"
-		}
-		////////////////////////Destruction level 0 transition effects/////////////////////////
-		EffectGroup
-		{
-			group "0_transition"
-			enabled "0"				
-			
-			Effects
-			{
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_medium_random"								
-					bone "att_smoke_1"
-					delay "0"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_medium_random"								
-					bone "att_smoke_2"
-					delay "0.15"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_medium_random"								
-					bone "att_smoke_3"
-					delay "0.25"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_medium_random"								
-					bone "att_smoke_4"
-					delay "0.3"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_big_random"								
-					bone "att_smoke_5"
-					delay "0.4"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_big_random"								
-					bone "att_smoke_6"
-					delay "0.45"
-				}
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_big_random"								
-					bone "att_smoke_7"
-					delay "0.5"
-				}	
-				Effect
-				{
-					blueprint "effects/buildings_generic/explosion_building_nuclear_01"								
-					delay "0.6"
-				}				
-			}
 		}
 ////////////////////////Resources/////////////////////////			
 		EffectGroup
@@ -275,27 +205,25 @@ EntityBlueprint
 		{
 			group "working"
 			enabled "0"				
-			
 			Effects
 			{
 				Effect
 				{
-					blueprint "effects/buildings_and_machines/nuclear_powerplant_steam"								
+					blueprint "effects/buildings_and_machines/gas_chimney_big"								
 					bone "att_gas"
 					delay "1"
-				}	
+				}
 				Effect
 				{
-					blueprint "effects/buildings_and_machines/nuclear_powerplant_rods"								
-					bone "att_nuclear_rods"
+					blueprint "effects/buildings_energy/gas_powerplant_working"	
 					delay "1"
 				}	
 				Effect
 				{
-					blueprint "effects/buildings_and_machines/nuclear_powerplant_energy"								
-					bone "att_nuclear_energy"
+					blueprint "effects/buildings_and_machines/gas_powerplant_lightning"								
+					bone "lightning"
 					delay "1"
-				}					
+				}				
 			}
 		}	
 		EffectGroup
@@ -306,11 +234,11 @@ EntityBlueprint
 			{
 				Effect
 				{
-					blueprint "effects/buildings_and_machines/level_3"
+					blueprint "effects/buildings_and_machines/level_2"
 					bone "att_level"
 				}
 			}
-		}		
+		}			
 	}	
 }
 

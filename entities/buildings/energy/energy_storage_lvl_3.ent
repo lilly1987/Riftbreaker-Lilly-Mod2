@@ -16,7 +16,8 @@ EntityBlueprint
 		require 			"headquarters"
 		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		//upgrade				"buildings/energy/energy_storage_lvl_4"
-
+build_on_water			"1"
+		
 		costs
 		{
 			BuildingCostInfo
