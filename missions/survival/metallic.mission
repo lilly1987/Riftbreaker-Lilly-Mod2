@@ -145,25 +145,25 @@ MissionDef
                 spawners/metallic_spawner_standard
                 {
                     // make a roll to check if blueprint can be spawned
-                    spawn_chance           0.25
+                    spawn_chance           0.1
                 }
 
                 spawners/metallic_spawner_advanced
                 {
-                    spawn_instances_minmax 3,50
-                    spawn_chance           0.25
+                    //spawn_instances_minmax 3,50
+                    spawn_chance           0.2
                 }
 
                 spawners/metallic_spawner_superior
                 {
-                    spawn_instances_minmax 2,30
-                    spawn_chance           0.25
+                    //spawn_instances_minmax 2,30
+                    spawn_chance           0.2
                 }
 
                 spawners/metallic_spawner_extreme
                 {
-                    spawn_instances_minmax 1,20
-                    spawn_chance           0.25
+                    //spawn_instances_minmax 1,20
+                    spawn_chance           0.5
                 }
             }
         }

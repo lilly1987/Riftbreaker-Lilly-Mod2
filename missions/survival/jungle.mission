@@ -193,37 +193,37 @@ MissionDef
             // min distance from objects in other pools
             spawn_min_distance_from_pools
             {
-                player_spawn_point  250.0
-                loot_containers     150.0
+                player_spawn_point  50.0
+                loot_containers     30.0
             }
 
             // range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
-            spawn_instances_minmax    15,20
+            spawn_instances_minmax    15,200
 
             spawn_blueprints
             {
                 spawners/jungle_spawner_standard
                 {
                     // make a roll to check if blueprint can be spawned
-                    spawn_chance           0.5
+                    spawn_chance           0.1
                 }
 
                 spawners/jungle_spawner_advanced
                 {
-                    spawn_instances_minmax 3,5
+                    //spawn_instances_minmax 3,5
                     spawn_chance           0.2
                 }
 
                 spawners/jungle_spawner_superior
                 {
-                    spawn_instances_minmax 2,3
+                    //spawn_instances_minmax 2,3
                     spawn_chance           0.2
                 }
 
                 spawners/jungle_spawner_extreme
                 {
-                    spawn_instances_minmax 1,2
-                    spawn_chance           0.1
+                    //spawn_instances_minmax 1,2
+                    spawn_chance           0.5
                 }
             }
         }
