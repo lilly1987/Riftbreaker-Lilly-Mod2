@@ -30,6 +30,9 @@ function base_unit:init()
 end
 
 function base_unit:OnInit()
+    --HealthService:SetMaxHealth( self.entity, HealthService:GetMaxHealth( self.entity)*10)
+    --LogService:Log( "Min: " .. tostring(HealthService:GetMaxHealth( self.entity)))
+    --HealthService:SetHealth( self.entity, HealthService:GetMaxHealth( self.entity) )
 end
 
 function base_unit:CreateSoundStateMachine( )

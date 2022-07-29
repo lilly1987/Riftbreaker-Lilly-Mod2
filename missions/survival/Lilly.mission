@@ -3,7 +3,7 @@ MissionDef
     script          "lua/missions/survival/survival_lilly.lua"
 	localization_id	"campaigns/survival/lilly.campaign"
 
-	map_size        "3"
+	map_size        "6"
 
     biomes          	"lilly"
 	
