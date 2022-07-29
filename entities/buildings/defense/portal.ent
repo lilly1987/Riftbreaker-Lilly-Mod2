@@ -17,6 +17,7 @@ EntityBlueprint
 		min_radius_effect   "voice_over/announcement/portal_too_close" 
 		building_mode		"radius"
 		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		build_on_water			"1"
 		
 		costs
 		{

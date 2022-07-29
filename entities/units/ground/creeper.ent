@@ -65,8 +65,8 @@ EntityBlueprint
 	HealthDesc
 	{ 
 		is_manual				"1"
-		max_health 				"300"
-		health 					"300"
+		max_health 				"3000"
+		health 					"3000"
 	}
 
 	ResistanceComponent
@@ -400,8 +400,8 @@ EntityBlueprint
 	HealthDesc
 	{ 
 		is_manual				"1"
-		max_health 				"2500"
-		health 					"2500"
+		max_health 				"25000"
+		health 					"25000"
 	}
 
 	ResistanceComponent
@@ -748,8 +748,8 @@ EntityBlueprint
 	HealthDesc
 	{ 
 		is_manual				"1"
-		max_health 				"75000"
-		health 					"75000"
+		max_health 				"750000"
+		health 					"750000"
 	}
 	
     LuaDesc
@@ -803,8 +803,8 @@ EntityBlueprint
 	HealthDesc
 	{ 
 		is_manual				"1"
-		max_health 				"25000"
-		health 					"25000"
+		max_health 				"250000"
+		health 					"250000"
 	}
 
 	ResistanceComponent

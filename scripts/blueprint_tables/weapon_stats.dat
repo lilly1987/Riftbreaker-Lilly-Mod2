@@ -1752,8 +1752,8 @@ buildings/defense/tower_plasma
 
 			WeaponStatDef
 			{
-				max_value "1.100"
-				min_value "1.100"
+				max_value "2.100"
+				min_value "2.100"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -1821,8 +1821,8 @@ buildings/defense/tower_plasma_lvl_2
 
 			WeaponStatDef
 			{
-				max_value "1.100"
-				min_value "1.100"
+				max_value "2.100"
+				min_value "2.100"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -1898,8 +1898,8 @@ buildings/defense/tower_plasma_lvl_3
 
 			WeaponStatDef
 			{
-				max_value "1.100"
-				min_value "1.100"
+				max_value "2.100"
+				min_value "2.100"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}

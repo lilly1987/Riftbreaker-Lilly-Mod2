@@ -24,8 +24,8 @@ EntityBlueprint
 
 	HealthDesc
 	{
-		max_health 					"50"
-		health 						"50"
+		max_health 					"500"
+		health 						"500"
 		is_manual 1
     }
 

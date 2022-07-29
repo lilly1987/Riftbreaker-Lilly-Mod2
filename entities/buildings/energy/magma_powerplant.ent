@@ -17,6 +17,7 @@ EntityBlueprint
 		upgrade				"buildings/energy/magma_powerplant_lvl_2"
 		going_green_state	"1"
 		overrides			"pipe_ground,pipe_connector_t,pipe_connector_x,pipe_corner,pipeline,pipe_straight_windowless"
+		build_on_water			"1"
 		
 		costs
 		{
