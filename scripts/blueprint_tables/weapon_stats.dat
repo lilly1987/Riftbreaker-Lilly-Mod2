@@ -3245,8 +3245,8 @@ items/skills/orbital_bombardment
 
 			WeaponStatDef
 			{
-				max_value "8.000"
-				min_value "8.000"
+				max_value "16.000"
+				min_value "16.000"
 				stat_features "BASE_MINMAX"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -3314,8 +3314,8 @@ items/skills/orbital_bombardment_advanced
 
 			WeaponStatDef
 			{
-				max_value "8.400"
-				min_value "8.400"
+				max_value "16.400"
+				min_value "16.400"
 				stat_features "BASE_MINMAX"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -3383,8 +3383,8 @@ items/skills/orbital_bombardment_extreme
 
 			WeaponStatDef
 			{
-				max_value "9.200"
-				min_value "9.200"
+				max_value "18.200"
+				min_value "18.200"
 				stat_features "BASE_MINMAX"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -3452,8 +3452,8 @@ items/skills/orbital_bombardment_superior
 
 			WeaponStatDef
 			{
-				max_value "8.800"
-				min_value "8.800"
+				max_value "16.800"
+				min_value "16.800"
 				stat_features "BASE_MINMAX"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -3502,8 +3502,8 @@ items/skills/orbital_laser
 
 			WeaponStatDef
 			{
-				max_value "50.000"
-				min_value "50.000"
+				max_value "100.000"
+				min_value "100.000"
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -3518,8 +3518,8 @@ items/skills/orbital_laser
 
 			WeaponStatDef
 			{
-				max_value "8.000"
-				min_value "8.000"
+				max_value "16.000"
+				min_value "16.000"
 				stat_features "BASE_MINMAX"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -3555,8 +3555,8 @@ items/skills/orbital_laser_advanced
 
 			WeaponStatDef
 			{
-				max_value "50.000"
-				min_value "50.000"
+				max_value "100.000"
+				min_value "100.000"
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -3571,11 +3571,12 @@ items/skills/orbital_laser_advanced
 
 			WeaponStatDef
 			{
-				max_value "8.500"
-				min_value "8.500"
+				max_value "17.000"
+				min_value "17.000"
 				stat_features "BASE_MINMAX"
 				stat_type "DAMAGE_SPLASH"
 			}
+
 
 		}
 
@@ -3608,8 +3609,8 @@ items/skills/orbital_laser_extreme
 
 			WeaponStatDef
 			{
-				max_value "50.000"
-				min_value "50.000"
+				max_value "100.000"
+				min_value "100.000"
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -3624,8 +3625,8 @@ items/skills/orbital_laser_extreme
 
 			WeaponStatDef
 			{
-				max_value "9.500"
-				min_value "9.500"
+				max_value "19.000"
+				min_value "19.000"
 				stat_features "BASE_MINMAX"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -3661,8 +3662,9 @@ items/skills/orbital_laser_superior
 
 			WeaponStatDef
 			{
-				max_value "50.000"
-				min_value "50.000"
+				max_value "100.000"
+				min_value "100.000"
+
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -3677,8 +3679,8 @@ items/skills/orbital_laser_superior
 
 			WeaponStatDef
 			{
-				max_value "9.000"
-				min_value "9.000"
+				max_value "18.000"
+				min_value "18.000"
 				stat_features "BASE_MINMAX"
 				stat_type "DAMAGE_SPLASH"
 			}
