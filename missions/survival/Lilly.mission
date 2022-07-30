@@ -7,7 +7,7 @@ MissionDef
 
     biomes          	"lilly"
 	
-    creature_volumes_min_distance   "64.0"
+    creature_volumes_min_distance   "128.0"
 	creature_volumes_density        "1.0"
 	
 	//tile_spawn_rules

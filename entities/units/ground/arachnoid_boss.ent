@@ -41,8 +41,8 @@ EntityBlueprint
 
 	HealthDesc
 	{
-		max_health 					"700000"
-		health 						"700000"
+		max_health 					"70000"
+		health 						"70000"
 		is_manual					"1"
 		update_health_uniform 		"1"		
 

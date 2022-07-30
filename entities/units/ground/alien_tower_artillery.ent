@@ -754,8 +754,8 @@ EntityBlueprint
 
 	HealthDesc
 	{
-		max_health 					"150000"
-		health 						"150000"
+		max_health 					"15000"
+		health 						"15000"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
 		is_manual					"1"
@@ -765,7 +765,7 @@ EntityBlueprint
 		{
 			DestructionLevel
 			{
-				health 								"80"
+				health 								"800"
 				destroy_state_change_effect_group 	"80_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"80_destroy"
@@ -775,7 +775,7 @@ EntityBlueprint
 			}
 			DestructionLevel
 			{
-				health 								"60"
+				health 								"600"
 				destroy_state_change_effect_group 	"60_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"60_destroy"
@@ -784,7 +784,7 @@ EntityBlueprint
 			}
 			DestructionLevel
 			{
-				health 								"40"
+				health 								"400"
 				destroy_state_change_effect_group 	"40_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"40_destroy"
@@ -793,7 +793,7 @@ EntityBlueprint
 			}
 			DestructionLevel
 			{
-				health 								"20"
+				health 								"200"
 				destroy_state_change_effect_group 	"20_transition"
 				destroy_comp_delay 					"0.5"
 				destroy_comp_event 					"20_destroy"
