@@ -7,16 +7,22 @@ DifficultyDef
 	resource_volume_factor					"1"
 	enemy_damage_factor						"1"
 	building_damage_taken_factor			"1"
-	wave_intermission						"420"
-	survival_duration						"5400"
-	mission_infinite						"0"
-	wave_strength							"normal"
+	wave_intermission						"15"
+	survival_duration						"12600"
+	mission_duration						"12600"
+	mission_infinite						"1"
+	wave_strength							"brutal"
+	map_size								"3"	
 	prepare_attack_time_multiplier			"1"
 	idle_time_multiplier					"1"
+	items_remove_count						"0"
+	items_dropped_count						"0"
+
+	debug_menu								"1"
 
 	creatures_base_difficulty				"0.0"
 	//creatures_max_difficulty				"2.5"
-	creatures_distance_per_difficulty		"384.0"
+	creatures_distance_per_difficulty		"256.0"
 }
 
 DifficultyDef
