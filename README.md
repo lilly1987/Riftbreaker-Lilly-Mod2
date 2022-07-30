@@ -1,5 +1,6 @@
 # Riftbreaker-Lilly-Mod2
  
+The_Riftbreaker_1.31533_(57451)_win_gog
 
 # 스토리 시작시
 lua\missions\campaigns\story\v2\headquarters\headquarters.lua
