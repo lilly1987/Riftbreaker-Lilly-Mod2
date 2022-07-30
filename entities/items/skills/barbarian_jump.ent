@@ -24,9 +24,9 @@ EntityBlueprint
 			stat_bp		string:"items/skills/power_jump_explosion_advanced"
             trigger     string:"items/skills/jump_splash_trigger"
 			att			string:"be_body_lower"
-			jump_speed 	float:"1"
-			jump_distance float:"30"
-			min_distance  float:"5"
+			jump_speed 	float:"2"
+			jump_distance float:"60"
+			min_distance  float:"0"
 		}
 	}
 
@@ -87,9 +87,10 @@ EntityBlueprint
 			stat_bp		string:"items/skills/power_jump_explosion_extreme"
             trigger     string:"items/skills/jump_splash_trigger"
 			att			string:"be_body_lower"
-			jump_speed 	float:"1"
-			jump_distance float:"30"
-			min_distance  float:"5"
+			jump_speed 	float:"2"
+			jump_distance float:"60"
+			min_distance  float:"0"
+
 		}
 	}
 
@@ -128,9 +129,10 @@ EntityBlueprint
 			stat_bp		string:"items/skills/power_jump_explosion"
             trigger     string:"items/skills/jump_splash_trigger"
 			att			string:"be_body_lower"
-			jump_speed 	float:"1"
-			jump_distance float:"30"
-			min_distance  float:"5"
+			jump_speed 	float:"2"
+			jump_distance float:"60"
+			min_distance  float:"0"
+
 		}
 	}
 
@@ -166,9 +168,10 @@ EntityBlueprint
 			stat_bp		string:"items/skills/power_jump_explosion_superior"
             trigger     string:"items/skills/jump_splash_trigger"
 			att			string:"be_body_lower"
-			jump_speed 	float:"1"
-			jump_distance float:"30"
-			min_distance  float:"5"
+			jump_speed 	float:"2"
+			jump_distance float:"60"
+			min_distance  float:"0"
+
 		}
 	}
 
@@ -216,7 +219,7 @@ EntityBlueprint
 			
 			WeaponStatData
 			{
-				value 				8
+				value 				16
 				type	 			DAMAGE_SPLASH
 			}
 		}
@@ -229,7 +232,7 @@ EntityBlueprint
 		DamagePattern
 		{
 			area_damage_speed	"20"
-			area_damage_radius	"8"
+			area_damage_radius	"16"
 			
 			Damages
 			{
@@ -260,7 +263,7 @@ EntityBlueprint
 			
 			WeaponStatData
 			{
-				value 				8
+				value 				16
 				type	 			DAMAGE_SPLASH
 			}
 		}
@@ -273,7 +276,7 @@ EntityBlueprint
 		DamagePattern
 		{
 			area_damage_speed	"20"
-			area_damage_radius	"8"
+			area_damage_radius	"16"
 			
 			Damages
 			{
@@ -304,7 +307,7 @@ EntityBlueprint
 			
 			WeaponStatData
 			{
-				value 				8
+				value 				16
 				type	 			DAMAGE_SPLASH
 			}
 		}
@@ -317,7 +320,7 @@ EntityBlueprint
 		DamagePattern
 		{
 			area_damage_speed	"20"
-			area_damage_radius	"8"
+			area_damage_radius	"16"
 			
 			Damages
 			{
@@ -348,7 +351,7 @@ EntityBlueprint
 			
 			WeaponStatData
 			{
-				value 				8
+				value 				16
 				type	 			DAMAGE_SPLASH
 			}
 		}
@@ -361,7 +364,7 @@ EntityBlueprint
 		DamagePattern
 		{
 			area_damage_speed	"20"
-			area_damage_radius	"8"
+			area_damage_radius	"16"
 			
 			Damages
 			{
