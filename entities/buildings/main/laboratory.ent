@@ -19,7 +19,8 @@ EntityBlueprint
 		upgrade				"buildings/main/laboratory_lvl_2"	
 		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"	
 		overrides			"pipe_ground,pipe_connector_t,pipe_connector_x,pipe_corner,pipeline,pipe_straight_windowless"		
-
+		build_on_water			"1"
+		
 		costs
 		{
 			BuildingCostInfo
@@ -42,13 +43,13 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"energy"
-				value			 	"250"
+				value			 	"500"
 			}
 			
 			GameplayResource
 			{
 				resource 			"water"
-				value			 	"10"
+				value			 	"20"
 				attachment			"att_in_1"
 			}
 		}

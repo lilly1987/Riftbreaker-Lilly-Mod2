@@ -20,6 +20,7 @@ EntityBlueprint
 		//upgrade				"buildings/main/communications_hub_lvl_5"
 		menu_action 		"research"
 		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		build_on_water			"1"
 		
 		costs
 		{
@@ -43,7 +44,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"energy"
-				value			 	"800"
+				value			 	"1600"
 			}
 		}
 		

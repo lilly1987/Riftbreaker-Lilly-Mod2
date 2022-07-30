@@ -17,7 +17,8 @@ EntityBlueprint
 		//require 			"headquarters"
 		upgrade				"buildings/main/cryo_station_lvl_3"
 		order				"6"
-
+		build_on_water			"1"
+		
 		costs
 		{
 			BuildingCostInfo
