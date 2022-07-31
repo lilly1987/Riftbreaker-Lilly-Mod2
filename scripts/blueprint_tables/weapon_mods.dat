@@ -4,7 +4,7 @@ items/loot/weapon_mods/mod_ammo_cost_advanced_item
 	{
 		function_type "SUB"
 		max_value "24.000"
-		min_value "21.000"
+		min_value "24.000"
 		rarity "ADVANCED"
 		stat_type "AMMO_COST"
 		value_type "PERCENTAGE"
@@ -32,7 +32,7 @@ items/loot/weapon_mods/mod_ammo_cost_standard_item
 	{
 		function_type "SUB"
 		max_value "21.000"
-		min_value "18.000"
+		min_value "21.000"
 		stat_type "AMMO_COST"
 		value_type "PERCENTAGE"
 	}
@@ -45,7 +45,7 @@ items/loot/weapon_mods/mod_ammo_cost_superior_item
 	{
 		function_type "SUB"
 		max_value "27.000"
-		min_value "24.000"
+		min_value "27.000"
 		rarity "SUPERIOR"
 		stat_type "AMMO_COST"
 		value_type "PERCENTAGE"
@@ -59,7 +59,7 @@ items/loot/weapon_mods/mod_ammo_spread_add_advanced_item
 	{
 		function_type "ADD"
 		max_value "80.000"
-		min_value "70.000"
+		min_value "80.000"
 		rarity "ADVANCED"
 		stat_type "AMMO_SPREAD"
 		value_type "PERCENTAGE"
@@ -87,7 +87,7 @@ items/loot/weapon_mods/mod_ammo_spread_add_standard_item
 	{
 		function_type "ADD"
 		max_value "70.000"
-		min_value "60.000"
+		min_value "70.000"
 		stat_type "AMMO_SPREAD"
 		value_type "PERCENTAGE"
 	}
@@ -100,7 +100,7 @@ items/loot/weapon_mods/mod_ammo_spread_add_superior_item
 	{
 		function_type "ADD"
 		max_value "90.000"
-		min_value "80.000"
+		min_value "90.000"
 		rarity "SUPERIOR"
 		stat_type "AMMO_SPREAD"
 		value_type "PERCENTAGE"
@@ -114,7 +114,7 @@ items/loot/weapon_mods/mod_ammo_spread_sub_advanced_item
 	{
 		function_type "SUB"
 		max_value "27.000"
-		min_value "24.000"
+		min_value "27.000"
 		rarity "ADVANCED"
 		stat_type "AMMO_SPREAD"
 		value_type "PERCENTAGE"
@@ -142,7 +142,7 @@ items/loot/weapon_mods/mod_ammo_spread_sub_standard_item
 	{
 		function_type "SUB"
 		max_value "24.000"
-		min_value "21.000"
+		min_value "24.000"
 		stat_type "AMMO_SPREAD"
 		value_type "PERCENTAGE"
 	}
@@ -155,7 +155,7 @@ items/loot/weapon_mods/mod_ammo_spread_sub_superior_item
 	{
 		function_type "SUB"
 		max_value "30.000"
-		min_value "27.000"
+		min_value "30.000"
 		rarity "SUPERIOR"
 		stat_type "AMMO_SPREAD"
 		value_type "PERCENTAGE"
@@ -169,7 +169,7 @@ items/loot/weapon_mods/mod_autoaim_advanced_item
 	{
 		function_type "ADD"
 		max_value "30.000"
-		min_value "20.000"
+		min_value "30.000"
 		rarity "ADVANCED"
 		stat_type "AMMO_AUTOAIM"
 		value_type "PERCENTAGE"
@@ -240,7 +240,7 @@ items/loot/weapon_mods/mod_autoaim_standard_item
 	{
 		function_type "ADD"
 		max_value "20.000"
-		min_value "10.000"
+		min_value "20.000"
 		stat_type "AMMO_AUTOAIM"
 		value_type "PERCENTAGE"
 	}
@@ -253,7 +253,7 @@ items/loot/weapon_mods/mod_autoaim_superior_item
 	{
 		function_type "ADD"
 		max_value "40.000"
-		min_value "30.000"
+		min_value "40.000"
 		rarity "SUPERIOR"
 		stat_type "AMMO_AUTOAIM"
 		value_type "PERCENTAGE"
@@ -267,7 +267,7 @@ items/loot/weapon_mods/mod_cluster_projectiles_advanced_item
 	{
 		function_type "ADD"
 		max_value "25.000"
-		min_value "20.000"
+		min_value "25.000"
 		rarity "ADVANCED"
 		stat_type "AMMO_CLUSTER"
 		value_type "PERCENTAGE"
@@ -338,7 +338,7 @@ items/loot/weapon_mods/mod_cluster_projectiles_standard_item
 	{
 		function_type "ADD"
 		max_value "20.000"
-		min_value "15.000"
+		min_value "20.000"
 		stat_type "AMMO_CLUSTER"
 		value_type "PERCENTAGE"
 	}
@@ -351,7 +351,7 @@ items/loot/weapon_mods/mod_cluster_projectiles_superior_item
 	{
 		function_type "ADD"
 		max_value "30.000"
-		min_value "25.000"
+		min_value "30.000"
 		rarity "SUPERIOR"
 		stat_type "AMMO_CLUSTER"
 		value_type "PERCENTAGE"
@@ -365,7 +365,7 @@ items/loot/weapon_mods/mod_critical_chance_advanced_item
 	{
 		function_type "ADD"
 		max_value "25.000"
-		min_value "20.000"
+		min_value "25.000"
 		rarity "ADVANCED"
 		stat_type "DAMAGE_CRITICAL_CHANCE"
 		value_type "PERCENTAGE"
@@ -393,7 +393,7 @@ items/loot/weapon_mods/mod_critical_chance_standard_item
 	{
 		function_type "ADD"
 		max_value "20.000"
-		min_value "15.000"
+		min_value "20.000"
 		stat_type "DAMAGE_CRITICAL_CHANCE"
 		value_type "PERCENTAGE"
 	}
@@ -406,7 +406,7 @@ items/loot/weapon_mods/mod_critical_chance_superior_item
 	{
 		function_type "ADD"
 		max_value "30.000"
-		min_value "25.000"
+		min_value "30.000"
 		rarity "SUPERIOR"
 		stat_type "DAMAGE_CRITICAL_CHANCE"
 		value_type "PERCENTAGE"
@@ -420,7 +420,7 @@ items/loot/weapon_mods/mod_damage_advanced_item
 	{
 		function_type "ADD"
 		max_value "25.000"
-		min_value "20.000"
+		min_value "25.000"
 		rarity "ADVANCED"
 		stat_type "DAMAGE_VALUE"
 		value_type "PERCENTAGE"
@@ -448,7 +448,7 @@ items/loot/weapon_mods/mod_damage_over_time_advanced_item
 	{
 		function_type "ADD"
 		max_value "25.000"
-		min_value "20.000"
+		min_value "25.000"
 		rarity "ADVANCED"
 		stat_type "DAMAGE_OVER_TIME"
 		value_type "PERCENTAGE"
@@ -519,7 +519,7 @@ items/loot/weapon_mods/mod_damage_over_time_standard_item
 	{
 		function_type "ADD"
 		max_value "20.000"
-		min_value "15.000"
+		min_value "20.000"
 		stat_type "DAMAGE_OVER_TIME"
 		value_type "PERCENTAGE"
 	}
@@ -532,7 +532,7 @@ items/loot/weapon_mods/mod_damage_over_time_superior_item
 	{
 		function_type "ADD"
 		max_value "30.000"
-		min_value "25.000"
+		min_value "30.000"
 		rarity "SUPERIOR"
 		stat_type "DAMAGE_OVER_TIME"
 		value_type "PERCENTAGE"
@@ -546,7 +546,7 @@ items/loot/weapon_mods/mod_damage_penetration_advanced_item
 	{
 		function_type "ADD"
 		max_value "25.000"
-		min_value "20.000"
+		min_value "25.000"
 		rarity "ADVANCED"
 		stat_type "DAMAGE_PENETRATION"
 		value_type "PERCENTAGE"
@@ -617,7 +617,7 @@ items/loot/weapon_mods/mod_damage_penetration_standard_item
 	{
 		function_type "ADD"
 		max_value "20.000"
-		min_value "15.000"
+		min_value "20.000"
 		stat_type "DAMAGE_PENETRATION"
 		value_type "PERCENTAGE"
 	}
@@ -630,7 +630,7 @@ items/loot/weapon_mods/mod_damage_penetration_superior_item
 	{
 		function_type "ADD"
 		max_value "30.000"
-		min_value "25.000"
+		min_value "30.000"
 		rarity "SUPERIOR"
 		stat_type "DAMAGE_PENETRATION"
 		value_type "PERCENTAGE"
@@ -644,7 +644,7 @@ items/loot/weapon_mods/mod_damage_standard_item
 	{
 		function_type "ADD"
 		max_value "20.000"
-		min_value "15.000"
+		min_value "20.000"
 		stat_type "DAMAGE_VALUE"
 		value_type "PERCENTAGE"
 	}
@@ -657,7 +657,7 @@ items/loot/weapon_mods/mod_damage_superior_item
 	{
 		function_type "ADD"
 		max_value "30.000"
-		min_value "25.000"
+		min_value "30.000"
 		rarity "SUPERIOR"
 		stat_type "DAMAGE_VALUE"
 		value_type "PERCENTAGE"
@@ -671,7 +671,7 @@ items/loot/weapon_mods/mod_fire_per_burst_advanced_item
 	{
 		function_type "ADD"
 		max_value "25.000"
-		min_value "20.000"
+		min_value "25.000"
 		rarity "ADVANCED"
 		stat_type "FIRE_PER_BURST"
 		value_type "PERCENTAGE"
@@ -699,7 +699,7 @@ items/loot/weapon_mods/mod_fire_per_burst_standard_item
 	{
 		function_type "ADD"
 		max_value "20.000"
-		min_value "15.000"
+		min_value "20.000"
 		stat_type "FIRE_PER_BURST"
 		value_type "PERCENTAGE"
 	}
@@ -712,7 +712,7 @@ items/loot/weapon_mods/mod_fire_per_burst_superior_item
 	{
 		function_type "ADD"
 		max_value "30.000"
-		min_value "25.000"
+		min_value "30.000"
 		rarity "SUPERIOR"
 		stat_type "FIRE_PER_BURST"
 		value_type "PERCENTAGE"
@@ -726,7 +726,7 @@ items/loot/weapon_mods/mod_fire_per_shot_advanced_item
 	{
 		function_type "ADD"
 		max_value "25.000"
-		min_value "20.000"
+		min_value "25.000"
 		rarity "ADVANCED"
 		stat_type "FIRE_PER_SHOT"
 		value_type "PERCENTAGE"
@@ -754,7 +754,7 @@ items/loot/weapon_mods/mod_fire_per_shot_standard_item
 	{
 		function_type "ADD"
 		max_value "20.000"
-		min_value "15.000"
+		min_value "20.000"
 		stat_type "FIRE_PER_SHOT"
 		value_type "PERCENTAGE"
 	}
@@ -767,7 +767,7 @@ items/loot/weapon_mods/mod_fire_per_shot_superior_item
 	{
 		function_type "ADD"
 		max_value "30.000"
-		min_value "25.000"
+		min_value "30.000"
 		rarity "SUPERIOR"
 		stat_type "FIRE_PER_SHOT"
 		value_type "PERCENTAGE"
@@ -781,7 +781,7 @@ items/loot/weapon_mods/mod_fire_rate_advanced_item
 	{
 		function_type "ADD"
 		max_value "25.000"
-		min_value "20.000"
+		min_value "25.000"
 		rarity "ADVANCED"
 		stat_type "FIRE_RATE"
 		value_type "PERCENTAGE"
@@ -809,7 +809,7 @@ items/loot/weapon_mods/mod_fire_rate_standard_item
 	{
 		function_type "ADD"
 		max_value "20.000"
-		min_value "15.000"
+		min_value "20.000"
 		stat_type "FIRE_RATE"
 		value_type "PERCENTAGE"
 	}
@@ -822,7 +822,7 @@ items/loot/weapon_mods/mod_fire_rate_superior_item
 	{
 		function_type "ADD"
 		max_value "30.000"
-		min_value "25.000"
+		min_value "30.000"
 		rarity "SUPERIOR"
 		stat_type "FIRE_RATE"
 		value_type "PERCENTAGE"
@@ -836,7 +836,7 @@ items/loot/weapon_mods/mod_homing_advanced_item
 	{
 		function_type "ADD"
 		max_value "30.000"
-		min_value "20.000"
+		min_value "30.000"
 		rarity "ADVANCED"
 		stat_type "AMMO_ANGLE_SPEED"
 		value_type "PERCENTAGE"
@@ -907,7 +907,7 @@ items/loot/weapon_mods/mod_homing_standard_item
 	{
 		function_type "ADD"
 		max_value "20.000"
-		min_value "10.000"
+		min_value "20.000"
 		stat_type "AMMO_ANGLE_SPEED"
 		value_type "PERCENTAGE"
 	}
@@ -920,7 +920,7 @@ items/loot/weapon_mods/mod_homing_superior_item
 	{
 		function_type "ADD"
 		max_value "40.000"
-		min_value "30.000"
+		min_value "40.000"
 		rarity "SUPERIOR"
 		stat_type "AMMO_ANGLE_SPEED"
 		value_type "PERCENTAGE"
@@ -934,7 +934,7 @@ items/loot/weapon_mods/mod_lifesteal_advanced_item
 	{
 		function_type "ADD"
 		max_value "60.000"
-		min_value "50.000"
+		min_value "60.000"
 		rarity "ADVANCED"
 		stat_type "DAMAGE_LIFESTEAL"
 		value_type "PERCENTAGE"
@@ -1005,7 +1005,7 @@ items/loot/weapon_mods/mod_lifesteal_standard_item
 	{
 		function_type "ADD"
 		max_value "50.000"
-		min_value "40.000"
+		min_value "50.000"
 		stat_type "DAMAGE_LIFESTEAL"
 		value_type "PERCENTAGE"
 	}
@@ -1018,7 +1018,7 @@ items/loot/weapon_mods/mod_lifesteal_superior_item
 	{
 		function_type "ADD"
 		max_value "70.000"
-		min_value "60.000"
+		min_value "70.000"
 		rarity "SUPERIOR"
 		stat_type "DAMAGE_LIFESTEAL"
 		value_type "PERCENTAGE"
@@ -1032,7 +1032,7 @@ items/loot/weapon_mods/mod_range_advanced_item
 	{
 		function_type "ADD"
 		max_value "25.000"
-		min_value "20.000"
+		min_value "25.000"
 		rarity "ADVANCED"
 		stat_type "BEAM_RANGE"
 		value_type "PERCENTAGE"
@@ -1060,7 +1060,7 @@ items/loot/weapon_mods/mod_range_standard_item
 	{
 		function_type "ADD"
 		max_value "20.000"
-		min_value "15.000"
+		min_value "20.000"
 		stat_type "BEAM_RANGE"
 		value_type "PERCENTAGE"
 	}
@@ -1073,7 +1073,7 @@ items/loot/weapon_mods/mod_range_superior_item
 	{
 		function_type "ADD"
 		max_value "30.000"
-		min_value "25.000"
+		min_value "30.000"
 		rarity "SUPERIOR"
 		stat_type "BEAM_RANGE"
 		value_type "PERCENTAGE"
@@ -1087,7 +1087,7 @@ items/loot/weapon_mods/mod_splash_damage_advanced_item
 	{
 		function_type "ADD"
 		max_value "0.700"
-		min_value "0.600"
+		min_value "0.700"
 		rarity "ADVANCED"
 		stat_type "DAMAGE_SPLASH"
 		value_type "VALUE"
@@ -1158,7 +1158,7 @@ items/loot/weapon_mods/mod_splash_damage_standard_item
 	{
 		function_type "ADD"
 		max_value "0.600"
-		min_value "0.500"
+		min_value "0.600"
 		stat_type "DAMAGE_SPLASH"
 		value_type "VALUE"
 	}
@@ -1171,7 +1171,7 @@ items/loot/weapon_mods/mod_splash_damage_superior_item
 	{
 		function_type "ADD"
 		max_value "0.850"
-		min_value "0.700"
+		min_value "0.850"
 		rarity "SUPERIOR"
 		stat_type "DAMAGE_SPLASH"
 		value_type "VALUE"
@@ -1185,7 +1185,7 @@ items/loot/weapon_mods/mod_stun_chance_advanced_item
 	{
 		function_type "ADD"
 		max_value "19.000"
-		min_value "17.000"
+		min_value "19.000"
 		rarity "ADVANCED"
 		stat_type "AMMO_STUN"
 		value_type "PERCENTAGE"
@@ -1256,7 +1256,7 @@ items/loot/weapon_mods/mod_stun_chance_standard_item
 	{
 		function_type "ADD"
 		max_value "16.000"
-		min_value "15.000"
+		min_value "16.000"
 		stat_type "AMMO_STUN"
 		value_type "PERCENTAGE"
 	}
@@ -1269,7 +1269,7 @@ items/loot/weapon_mods/mod_stun_chance_superior_item
 	{
 		function_type "ADD"
 		max_value "22.000"
-		min_value "20.000"
+		min_value "22.000"
 		rarity "SUPERIOR"
 		stat_type "AMMO_STUN"
 		value_type "PERCENTAGE"
