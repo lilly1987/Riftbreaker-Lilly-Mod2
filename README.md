@@ -25,5 +25,5 @@ main_menu.dat
 	
 -*.entx|-*.ent|-*.scene|-*.csv|-*.pu|-*.material|-*.mesh
 
-health(\s*)"([1-9]\d+)"
+health(\s*)"([1-9]\d*)"
 health$1"${2}0"

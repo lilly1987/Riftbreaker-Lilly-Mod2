@@ -12,7 +12,7 @@ DifficultyDef
 	mission_duration						"12600"
 	mission_infinite						"1"
 	wave_strength							"brutal"
-	map_size								"3"	
+//	map_size								"3"	
 	prepare_attack_time_multiplier			"1"
 	idle_time_multiplier					"1"
 	items_remove_count						"0"
