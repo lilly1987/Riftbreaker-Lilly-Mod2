@@ -15572,6 +15572,136 @@ Research
 				}
 
 
+
+				ResearchNode
+				{
+					//research_flags "hidden|locked|hidden_requirements_visible"
+					requirement_tooltip "gui/menu/research/tooltip_requirement_objective"
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/alien_research_lvl1"
+							research_category "gui/menu/research/category_alien"
+						}
+
+					}
+
+					research_name "gui/menu/research/name/floor_acid"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "200.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "-297.000"
+						y "-297.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/decorations/floor_acid_1x1"
+							is_visible "1"
+						}
+
+						ResearchAward
+						{
+							blueprint "buildings/decorations/floor_acid_2x2"
+							is_visible "0"
+						}
+
+						ResearchAward
+						{
+							blueprint "buildings/decorations/floor_acid_3x3"
+							is_visible "0"
+						}
+
+						ResearchAward
+						{
+							blueprint "buildings/decorations/floor_acid_4x4"
+							is_visible "0"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/floor_acid"
+				}
+
+				ResearchNode
+				{
+					//research_flags "hidden|locked|hidden_requirements_visible"
+					requirement_tooltip "gui/menu/research/tooltip_requirement_objective"
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/alien_research_lvl1"
+							research_category "gui/menu/research/category_alien"
+						}
+
+					}
+
+					research_name "gui/menu/research/name/floor_desert"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "200.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "423.000"
+						y "-297.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/decorations/floor_desert_1x1"
+							is_visible "1"
+						}
+
+						ResearchAward
+						{
+							blueprint "buildings/decorations/floor_desert_2x2"
+							is_visible "0"
+						}
+
+						ResearchAward
+						{
+							blueprint "buildings/decorations/floor_desert_3x3"
+							is_visible "0"
+						}
+
+						ResearchAward
+						{
+							blueprint "buildings/decorations/floor_desert_4x4"
+							is_visible "0"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/floor_desert"
+				}
+
+
 /////////////////////
 			}
 
