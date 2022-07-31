@@ -17,7 +17,7 @@ EntityBlueprint
 		upgrade				"buildings/defense/tower_heavy_artillery_lvl_2"
 		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		check_connect		"1"
-
+		
 		costs
 		{
 			BuildingCostInfo
@@ -299,9 +299,9 @@ EntityBlueprint
 
 	DestroyDesc
 	{
-
+		
 		DestroyPatterns
-		{
+		{		
 			Pair
 			{
 				key "80_destroy"
