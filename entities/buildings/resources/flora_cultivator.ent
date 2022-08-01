@@ -68,10 +68,10 @@ build_on_water			"1"
 			cone_effect_sell 	string:"sell_big"
 			building_time		float:"10"
 
-			drone_search_radius	float:"40"
+			drone_search_radius	float:"80"
 			drone_blueprint		string:"units/drones/drone_flora_cultivator"
 			drone_attachments	string:"att_landing"
-			drone_per_spot		int:"6"
+			drone_per_spot		int:"12"
 
 			display_radius_group	 string:"cultivator_harvester"
 			display_radius_blueprint string:"effects/decals/range_circle_cultivator"

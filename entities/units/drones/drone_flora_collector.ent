@@ -8,7 +8,7 @@ EntityBlueprint
 		template_name "drone"
 		params
 		{
-			angle_rotation_speed	float:"200"
+			//angle_rotation_speed	float:"200"
 			hover_height			float:"1"
 			hover_min_height		float:"7"
 
@@ -24,13 +24,13 @@ EntityBlueprint
 
 		database
 		{
-			search_radius 		float:"50.0" // if spawned by building this param will be overriden by buildings `drone_search_radius`
+			search_radius 		float:"100.0" // if spawned by building this param will be overriden by buildings `drone_search_radius`
 			search_type			string:""
 
 			harvest_time		float:"1.0"
 			harvest_storage		float:"30"
 
-			unload_time			float:"3.0"
+			unload_time			float:"1.0"
 			
 			min_scale			float:"1.15"
 			max_scale			float:"1.15"

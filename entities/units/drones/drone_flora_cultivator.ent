@@ -26,7 +26,7 @@ EntityBlueprint
 			plant_effect		string:"effects/destructibles/grass_medium"
 
 			plant_time			float:"0.75"
-			plant_radius		float:"40"
+			plant_radius		float:"80"
 			
 			min_scale			float:"0.75"
 			max_scale			float:"0.75"
