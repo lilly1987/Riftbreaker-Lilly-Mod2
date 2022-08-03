@@ -20,10 +20,11 @@ TileablePrefab
 
 	color
 	{
-		b "0.355"
-		g "0.147"
-		r "0.187"
+		b "0.990"
+		g "0.244"
+		r "0.143"
 	}
 
+	culling_type "pivot"
 }
 
