@@ -10,7 +10,7 @@ TileDef
 		String "ground/rock/rocky_ground_01"
 	}
 
-	is_hidden "1"
+	is_hidden "0"
 	tile_regions
 	{
 		TileRegion
