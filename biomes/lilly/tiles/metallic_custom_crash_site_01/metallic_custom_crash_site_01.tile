@@ -8,7 +8,7 @@ TileDef
 		String "ground/metallic/organic_ground_06"
 	}
 
-	is_hidden "0"
+	is_hidden "1"
 	tile_regions
 	{
 		TileRegion

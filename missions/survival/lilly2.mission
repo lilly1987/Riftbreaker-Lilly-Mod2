@@ -29,415 +29,88 @@ MissionDef
 	tile_spawn_rules
 	{
 	
-biomes\lilly\tiles\jungle_trees_01\jungle_trees_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_starting_01\jungle_starting_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_plains_04\jungle_plains_04.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_plains_03\jungle_plains_03.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_plains_02\jungle_plains_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_plains_01\jungle_plains_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_nest_03\jungle_nest_03.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_nest_02\jungle_nest_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_nest_01\jungle_nest_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_lakes_01\jungle_lakes_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_custom_rare_resource_01\jungle_custom_rare_resource_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_canyons_03\jungle_canyons_03.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_canyons_02\jungle_canyons_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\jungle_canyons_01\jungle_canyons_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_starting_02\desert_starting_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_starting_01\desert_starting_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_plains_04\desert_plains_04.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_plains_03\desert_plains_03.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_plains_02\desert_plains_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_plains_01\desert_plains_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_nest_01\desert_nest_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_custom_uranium_deposit_01\desert_custom_uranium_deposit_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_custom_stregaros_01\desert_custom_stregaros_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_custom_rare_resource_02\desert_custom_rare_resource_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_custom_rare_resource_01\desert_custom_rare_resource_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_custom_crystal_cave_01\desert_custom_crystal_cave_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_canyons_02\desert_canyons_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\desert_canyons_01\desert_canyons_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\acid_plains_03\acid_plains_03.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\acid_plains_02\acid_plains_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\acid_plains_01\acid_plains_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\acid_nest_01\acid_nest_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\acid_lakes_03\acid_lakes_03.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\acid_lakes_02\acid_lakes_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\acid_lakes_01\acid_lakes_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\acid_custom_rare_resource_01\acid_custom_rare_resource_01.tile
-{
-min_instances	1
-max_instances	1
-}
 biomes\lilly\tiles\acid_custom_new_resource_01\acid_custom_new_resource_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\magma_plains_03\magma_plains_03.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\magma_plains_02\magma_plains_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\magma_plains_01\magma_plains_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\magma_lakes_01\magma_lakes_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\magma_custom_rare_resource_01\magma_custom_rare_resource_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\magma_canyons_03\magma_canyons_03.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\magma_canyons_02\magma_canyons_02.tile
-{
-min_instances	1
-max_instances	1
-}
+biomes\lilly\tiles\acid_custom_rare_resource_01\acid_custom_rare_resource_01.tile
+biomes\lilly\tiles\acid_lakes_01\acid_lakes_01.tile
+biomes\lilly\tiles\acid_lakes_02\acid_lakes_02.tile
+biomes\lilly\tiles\acid_lakes_03\acid_lakes_03.tile
+biomes\lilly\tiles\acid_nest_01\acid_nest_01.tile
+biomes\lilly\tiles\acid_plains_01\acid_plains_01.tile
+biomes\lilly\tiles\acid_plains_02\acid_plains_02.tile
+biomes\lilly\tiles\acid_plains_03\acid_plains_03.tile
+biomes\lilly\tiles\desert_canyons_01\desert_canyons_01.tile
+biomes\lilly\tiles\desert_canyons_02\desert_canyons_02.tile
+biomes\lilly\tiles\desert_custom_crystal_cave_01\desert_custom_crystal_cave_01.tile
+biomes\lilly\tiles\desert_custom_rare_resource_01\desert_custom_rare_resource_01.tile
+biomes\lilly\tiles\desert_custom_rare_resource_02\desert_custom_rare_resource_02.tile
+biomes\lilly\tiles\desert_custom_stregaros_01\desert_custom_stregaros_01.tile
+biomes\lilly\tiles\desert_custom_uranium_deposit_01\desert_custom_uranium_deposit_01.tile
+biomes\lilly\tiles\desert_nest_01\desert_nest_01.tile
+biomes\lilly\tiles\desert_plains_01\desert_plains_01.tile
+biomes\lilly\tiles\desert_plains_02\desert_plains_02.tile
+biomes\lilly\tiles\desert_plains_03\desert_plains_03.tile
+biomes\lilly\tiles\desert_plains_04\desert_plains_04.tile
+biomes\lilly\tiles\desert_starting_01\desert_starting_01.tile
+biomes\lilly\tiles\desert_starting_02\desert_starting_02.tile
+biomes\lilly\tiles\jungle_canyons_01\jungle_canyons_01.tile
+biomes\lilly\tiles\jungle_canyons_02\jungle_canyons_02.tile
+biomes\lilly\tiles\jungle_canyons_03\jungle_canyons_03.tile
+biomes\lilly\tiles\jungle_custom_canyon1\jungle_custom_canyon1.tile
+biomes\lilly\tiles\jungle_custom_canyon2\jungle_custom_canyon2.tile
+biomes\lilly\tiles\jungle_custom_canyon_04\jungle_custom_canyon_04.tile
+biomes\lilly\tiles\jungle_custom_lake01\jungle_custom_lake01.tile
+biomes\lilly\tiles\jungle_custom_meteor_2x2\jungle_custom_meteor_2x2.tile
+biomes\lilly\tiles\jungle_custom_plains_01\jungle_custom_plains_01.tile
+biomes\lilly\tiles\jungle_custom_plains_02\jungle_custom_plains_02.tile
+biomes\lilly\tiles\jungle_custom_plains_03\jungle_custom_plains_03.tile
+biomes\lilly\tiles\jungle_custom_plains_04\jungle_custom_plains_04.tile
+biomes\lilly\tiles\jungle_custom_rare_resource_01\jungle_custom_rare_resource_01.tile
+biomes\lilly\tiles\jungle_custom_small_meteor\jungle_custom_small_meteor.tile
+biomes\lilly\tiles\jungle_custom_swamp_01\jungle_custom_swamp_01.tile
+biomes\lilly\tiles\jungle_custom_swamp_02\jungle_custom_swamp_02.tile
+biomes\lilly\tiles\jungle_lakes_01\jungle_lakes_01.tile
+biomes\lilly\tiles\jungle_nest_01\jungle_nest_01.tile
+biomes\lilly\tiles\jungle_nest_02\jungle_nest_02.tile
+biomes\lilly\tiles\jungle_nest_03\jungle_nest_03.tile
+biomes\lilly\tiles\jungle_plains_01\jungle_plains_01.tile
+biomes\lilly\tiles\jungle_plains_02\jungle_plains_02.tile
+biomes\lilly\tiles\jungle_plains_03\jungle_plains_03.tile
+biomes\lilly\tiles\jungle_plains_04\jungle_plains_04.tile
+biomes\lilly\tiles\jungle_starting_01\jungle_starting_01.tile
+biomes\lilly\tiles\jungle_trees_01\jungle_trees_01.tile
 biomes\lilly\tiles\magma_canyons_01\magma_canyons_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_plains_05\metallic_plains_05.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_plains_03\metallic_plains_03.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_plains_02\metallic_plains_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_liquid_island_02\metallic_liquid_island_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_liquid_island_01\metallic_liquid_island_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_liquid_04\metallic_liquid_04.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_liquid_03\metallic_liquid_03.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_liquid_02\metallic_liquid_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_liquid_01\metallic_liquid_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_lakes_02\metallic_lakes_02.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_lakes_01\metallic_lakes_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_custom_labirynth_01\metallic_custom_labirynth_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_custom_factory_01\metallic_custom_factory_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_custom_crater_big_01\metallic_custom_crater_big_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_custom_crater_01\metallic_custom_crater_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_custom_alien_core_01\metallic_custom_alien_core_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_plains_04\metallic_plains_04.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_plains_01\metallic_plains_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_custom_wreckage_01\metallic_custom_wreckage_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_custom_crash_site_01\metallic_custom_crash_site_01.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_canyons_04\metallic_canyons_04.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_canyons_03\metallic_canyons_03.tile
-{
-min_instances	1
-max_instances	1
-}
-biomes\lilly\tiles\metallic_canyons_02\metallic_canyons_02.tile
-{
-min_instances	1
-max_instances	1
-}
+biomes\lilly\tiles\magma_canyons_02\magma_canyons_02.tile
+biomes\lilly\tiles\magma_canyons_03\magma_canyons_03.tile
+biomes\lilly\tiles\magma_custom_rare_resource_01\magma_custom_rare_resource_01.tile
+biomes\lilly\tiles\magma_lakes_01\magma_lakes_01.tile
+biomes\lilly\tiles\magma_plains_01\magma_plains_01.tile
+biomes\lilly\tiles\magma_plains_02\magma_plains_02.tile
+biomes\lilly\tiles\magma_plains_03\magma_plains_03.tile
 biomes\lilly\tiles\metallic_canyons_01\metallic_canyons_01.tile
-{
-min_instances	1
-max_instances	1
-}
-
-////////////////////
-
-		biomesilly/tiles/jungle_custom_canyon1/jungle_custom_canyon1.tile
-{
-min_instances	1
-max_instances	1
-}
-		biomesilly/tiles/jungle_custom_canyon2/jungle_custom_canyon2.tile
-{
-min_instances	1
-max_instances	1
-}
-		biomesilly/tiles/jungle_custom_meteor/jungle_custom_meteor_2x2.tile
-{
-min_instances	1
-max_instances	1
-}
-		biomesilly/tiles/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
-{
-min_instances	1
-max_instances	1
-}
-		biomesilly/tiles/jungle_custom_plains_01/jungle_custom_plains_01.tile
-{
-min_instances	1
-max_instances	1
-}
-		biomesilly/tiles/jungle_custom_plains_02/jungle_custom_plains_02.tile
-{
-min_instances	1
-max_instances	1
-}
-		biomesilly/tiles/jungle_custom_plains_03/jungle_custom_plains_03.tile
-{
-min_instances	1
-max_instances	1
-}
-		biomesilly/tiles/jungle_custom_plains_04/jungle_custom_plains_04.tile
-{
-min_instances	1
-max_instances	1
-}
-		biomesilly/tiles/jungle_custom_canyon_04/jungle_custom_canyon_04.tile
-{
-min_instances	1
-max_instances	1
-}
-		biomesilly/tiles/jungle_custom_lake01/jungle_custom_lake01.tile
-{
-min_instances	1
-max_instances	1
-}
-		biomesilly/tiles/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
-{
-min_instances	1
-max_instances	1
-}
-		biomesilly/tiles/jungle_custom_swamp_02/jungle_custom_swamp_02.tile
-{
-min_instances	1
-max_instances	1
-}
-
+biomes\lilly\tiles\metallic_canyons_02\metallic_canyons_02.tile
+biomes\lilly\tiles\metallic_canyons_03\metallic_canyons_03.tile
+biomes\lilly\tiles\metallic_canyons_04\metallic_canyons_04.tile
+biomes\lilly\tiles\metallic_custom_alien_core_01\metallic_custom_alien_core_01.tile
+biomes\lilly\tiles\metallic_custom_crash_site_01\metallic_custom_crash_site_01.tile
+biomes\lilly\tiles\metallic_custom_crater_01\metallic_custom_crater_01.tile
+biomes\lilly\tiles\metallic_custom_crater_big_01\metallic_custom_crater_big_01.tile
+biomes\lilly\tiles\metallic_custom_factory_01\metallic_custom_factory_01.tile
+biomes\lilly\tiles\metallic_custom_labirynth_01\metallic_custom_labirynth_01.tile
+biomes\lilly\tiles\metallic_custom_wreckage_01\metallic_custom_wreckage_01.tile
+biomes\lilly\tiles\metallic_lakes_01\metallic_lakes_01.tile
+biomes\lilly\tiles\metallic_lakes_02\metallic_lakes_02.tile
+biomes\lilly\tiles\metallic_liquid_01\metallic_liquid_01.tile
+biomes\lilly\tiles\metallic_liquid_02\metallic_liquid_02.tile
+biomes\lilly\tiles\metallic_liquid_03\metallic_liquid_03.tile
+biomes\lilly\tiles\metallic_liquid_04\metallic_liquid_04.tile
+biomes\lilly\tiles\metallic_liquid_island_01\metallic_liquid_island_01.tile
+biomes\lilly\tiles\metallic_liquid_island_02\metallic_liquid_island_02.tile
+biomes\lilly\tiles\metallic_plains_01\metallic_plains_01.tile
+biomes\lilly\tiles\metallic_plains_02\metallic_plains_02.tile
+biomes\lilly\tiles\metallic_plains_03\metallic_plains_03.tile
+biomes\lilly\tiles\metallic_plains_04\metallic_plains_04.tile
+biomes\lilly\tiles\metallic_plains_05\metallic_plains_05.tile
+	
 	}
 
     ambient_creature_species

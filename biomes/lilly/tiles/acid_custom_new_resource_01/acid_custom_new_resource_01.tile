@@ -17,7 +17,7 @@ TileDef
 		String "ground/mud/forest_mud_03"
 	}
 
-	is_hidden "0"
+	is_hidden "1"
 	tile_regions
 	{
 		TileRegion
