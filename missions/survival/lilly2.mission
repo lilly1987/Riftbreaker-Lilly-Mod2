@@ -20,12 +20,6 @@ MissionDef
 	//	}
 	//}
 
-//    source_tiles
-//    {
-//        biomes\lilly\tiles\jungle_starting_01\jungle_starting_01.tile
-//    }
-
-
 	tile_spawn_rules
 	{
 	
