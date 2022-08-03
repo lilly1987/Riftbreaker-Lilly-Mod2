@@ -1,0 +1,141 @@
+import * from "materials/scripts/gui.material"
+
+//Flash Freeze Towers
+material gui/hud/building_icons/tower_flash_freeze : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_flash_freeze.dds
+}
+material gui/hud/building_icons/tower_flash_freeze_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_flash_freeze_disabled.dds
+}
+
+material gui/hud/building_icons/tower_flash_freeze_lvl2 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_flash_freeze_lvl2.dds
+}
+material gui/hud/building_icons/tower_flash_freeze_lvl2_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_flash_freeze_lvl2_disabled.dds
+}
+
+material gui/hud/building_icons/tower_flash_freeze_lvl3 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_flash_freeze_lvl3.dds
+}
+material gui/hud/building_icons/tower_flash_freeze_lvl3_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_flash_freeze_lvl3_disabled.dds
+}
+
+//Slugthrower Towers
+material gui/hud/building_icons/tower_slugthrower : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_slugthrower.dds
+}
+material gui/hud/building_icons/tower_slugthrower_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_slugthrower_disabled.dds
+}
+
+material gui/hud/building_icons/tower_slugthrower_lvl2 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_slugthrower_lvl2.dds
+}
+material gui/hud/building_icons/tower_slugthrower_lvl2_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_slugthrower_lvl2_disabled.dds
+}
+
+material gui/hud/building_icons/tower_slugthrower_lvl3 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_slugthrower_lvl3.dds
+}
+material gui/hud/building_icons/tower_slugthrower_lvl3_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_slugthrower_lvl3_disabled.dds
+}
+
+//Venom Spitter Towers
+material gui/hud/building_icons/tower_venom_spitter : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_venom_spitter.dds
+}
+material gui/hud/building_icons/tower_venom_spitter_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_venom_spitter_disabled.dds
+}
+
+material gui/hud/building_icons/tower_venom_spitter_lvl2 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_venom_spitter_lvl2.dds
+}
+material gui/hud/building_icons/tower_venom_spitter_lvl2_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_venom_spitter_lvl2_disabled.dds
+}
+
+material gui/hud/building_icons/tower_venom_spitter_lvl3 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_venom_spitter_lvl3.dds
+}
+material gui/hud/building_icons/tower_venom_spitter_lvl3_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_venom_spitter_lvl3_disabled.dds
+}
+
+//Scatter Shot Towers
+material gui/hud/building_icons/tower_scatter_shot : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_scatter_shot.dds
+}
+material gui/hud/building_icons/tower_scatter_shot_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_scatter_shot_disabled.dds
+}
+
+material gui/hud/building_icons/tower_scatter_shot_lvl2 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_scatter_shot_lvl2.dds
+}
+material gui/hud/building_icons/tower_scatter_shot_lvl2_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_scatter_shot_lvl2_disabled.dds
+}
+
+material gui/hud/building_icons/tower_scatter_shot_lvl3 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_scatter_shot_lvl3.dds
+}
+material gui/hud/building_icons/tower_scatter_shot_lvl3_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_scatter_shot_lvl3_disabled.dds
+}
+
+//Static Lancer Towers
+material gui/hud/building_icons/tower_static_lancer : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_static_lancer.dds
+}
+material gui/hud/building_icons/tower_static_lancer_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_static_lancer_disabled.dds
+}
+
+material gui/hud/building_icons/tower_static_lancer_lvl2 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_static_lancer_lvl2.dds
+}
+material gui/hud/building_icons/tower_static_lancer_lvl2_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_static_lancer_lvl2_disabled.dds
+}
+
+material gui/hud/building_icons/tower_static_lancer_lvl3 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_static_lancer_lvl3.dds
+}
+material gui/hud/building_icons/tower_static_lancer_lvl3_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_static_lancer_lvl3_disabled.dds
+}

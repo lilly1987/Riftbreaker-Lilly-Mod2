@@ -1,0 +1,261 @@
+EntityBlueprint
+{
+	name "mod_entity/entity_23"
+
+	base_blueprint 			"mod_entity/entity_22"
+
+	BuildingDesc
+	{
+		name 				"tower_slugthrower_lvl_3"
+		bp   				"mod_entity/entity_23"
+		category 			"defense"
+		localization_id		"Slugthrower Tower"
+		description			"Shoots piercing shells at long distances. Very low fire rate. Can shoot farther than its viewing range. Requires a Tower Ammunition Factory to operate."
+		menu_icon			"gui/hud/building_icons/tower_slugthrower_lvl3"
+		require 			"headquarters"
+		order				"16"
+		type				"tower"
+		overrides			"tower,wall"
+		buildable			"0"
+
+		costs
+		{
+			BuildingCostInfo
+			{
+				name "default"
+				building_time 2.5
+				building_cost
+				{
+					carbonium 	"2000"
+					steel 		"1000"
+					palladium	"800"
+				}
+			}		
+		}			
+	}
+
+	ResourceConverterDesc // must be here for AI
+	{
+		in
+		{
+			GameplayResource
+			{
+				resource 	"energy"
+				value 		"25"
+			}
+			GameplayResource
+			{
+				resource 	"plasma"
+				value 		"25"
+				attachment	"att_in_1"
+			}			
+		}
+
+		out
+		{
+		}
+
+		priority 6
+	}
+
+	HealthDesc
+	{
+		max_health 					"2000"
+		health 						"2000"
+		regeneration 				"0"
+		regeneration_cooldown 		"0"
+		is_manual 1
+		update_health_uniform 		"1"
+
+
+		DestructionLevels
+		{
+			DestructionLevel
+			{
+				health 								"80"
+				destroy_state_change_effect_group 	"80_transition"
+				destroy_comp_delay 					"0.5"
+				destroy_comp_event 					"80_destroy"
+				destroyed_state_effect_group 		"80_state"
+				destrucion_level_name 				"80"
+
+			}
+			DestructionLevel
+			{
+				health 								"60"
+				destroy_state_change_effect_group 	"60_transition"
+				destroy_comp_delay 					"0.5"
+				destroy_comp_event 					"60_destroy"
+				destroyed_state_effect_group 		"60_state"
+				destrucion_level_name 				"60"
+			}
+			DestructionLevel
+			{
+				health 								"40"
+				destroy_state_change_effect_group 	"40_transition"
+				destroy_comp_delay 					"0.5"
+				destroy_comp_event 					"40_destroy"
+				destroyed_state_effect_group 		"40_state"
+				destrucion_level_name 				"40"
+			}
+			DestructionLevel
+			{
+				health 								"20"
+				destroy_state_change_effect_group 	"20_transition"
+				destroy_comp_delay 					"0.5"
+				destroy_comp_event 					"20_destroy"
+				destroyed_state_effect_group 		"20_state"
+				destrucion_level_name 				"20"
+			}
+			DestructionLevel
+			{
+				health 								"0"
+				destroy_state_change_effect_group 	"0_transition"
+				destroy_comp_delay 					"0.6"
+				destroy_comp_event 					"default"
+				//destroyed_state_effect_group 		"0_state"
+			}			
+		}
+	}
+
+	MeshDesc
+		{
+			mesh "meshes/buildings/defense/tower_heavy_artillery_lvl_3.mesh"
+			material "buildings/defense/tower_heavy_artillery_lvl_3"
+		}
+
+	SkeletonDesc
+	  {
+	    name "meshes/buildings/defense/tower_heavy_artillery_lvl_3"
+	  }
+
+	WeaponItemDesc
+	{
+		ammo_storage "ammo_tower_high_caliber"
+		damage_type "physical"
+		rarity "EXTREME"
+		stat_def_vec
+		{
+			WeaponStatDef
+			{
+				max_value "2400.000"
+				min_value "2400.000"
+				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
+				stat_type "DAMAGE_VALUE"
+			}
+
+			WeaponStatDef
+			{
+				max_value "5.000"
+				min_value "5.000"
+				stat_features "BASE_MINMAX|HIDDEN"
+				stat_type "DAMAGE_SPREAD"
+			}
+
+			WeaponStatDef
+			{
+				max_value "1.200"
+				min_value "1.100"
+				stat_features "BASE_MINMAX|MODABLE|STATISTIC|INITIAL_RANDOMIZABLE"
+				stat_type "FIRE_RATE"
+			}
+
+			WeaponStatDef
+			{
+				default_value "8.000"
+				max_value "21.000"
+				min_value "17.000"
+				stat_features "BASE_DEFAULT|MODABLE|INITIAL_RANDOMIZABLE"
+				stat_type "DAMAGE_CRITICAL_CHANCE"
+			}
+
+			WeaponStatDef
+			{
+				max_value "195.000"
+				min_value "158.000"
+				stat_features "MODABLE"
+				stat_type "DAMAGE_OVER_TIME"
+			}
+
+			WeaponStatDef
+			{
+				max_value "2.000"
+				min_value "1.500"
+				stat_features "MODABLE"
+				stat_type "DAMAGE_SPLASH"
+			}
+
+			WeaponStatDef
+			{
+				max_value "200.000"
+				min_value "200.000"
+				stat_features "BASE_MINMAX|HIDDEN"
+				stat_type "DAMAGE_CRITICAL_FACTOR"
+			}
+
+			WeaponStatDef
+			{
+				max_value "5.000"
+				min_value "5.000"
+				stat_features "BASE_MINMAX|HIDDEN"
+				stat_type "DAMAGE_OVER_TIME_LENGTH"
+			}
+
+			WeaponStatDef
+			{
+				max_value "151.000"
+				min_value "149.000"
+				stat_features "BASE_MINMAX"
+				stat_type "AMMO_SPEED"
+			}
+
+			WeaponStatDef
+			{
+				max_value "11.000"
+				min_value "10.000"
+				stat_features "BASE_MINMAX|MODABLE|STATISTIC|INITIAL_RANDOMIZABLE"
+				stat_type "DAMAGE_PENETRATION"
+			}
+
+			WeaponStatDef
+			{
+				default_value "1.000"
+				max_value "1.400"
+				min_value "1.300"
+				stat_features "BASE_DEFAULT|MODABLE|INITIAL_RANDOMIZABLE"
+				stat_type "FIRE_PER_BURST"
+			}
+
+			WeaponStatDef
+			{
+				default_value "1.000"
+				max_value "1.400"
+				min_value "1.300"
+				stat_features "BASE_DEFAULT|MODABLE|INITIAL_RANDOMIZABLE"
+				stat_type "FIRE_PER_SHOT"
+			}
+
+			WeaponStatDef
+			{
+				max_value "12.000"
+				min_value "12.000"
+				stat_features "BASE_MINMAX|MODABLE"
+				stat_type "AMMO_COST"
+			}
+
+			WeaponStatDef
+			{
+				max_value "1.400"
+				min_value "1.400"
+				stat_features "BASE_MINMAX"
+				stat_type "WEAPON_SCALE"
+			}
+
+		}
+
+	}
+
+	TowerDesc
+	{
+	}
+}
