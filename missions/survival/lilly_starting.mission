@@ -1,7 +1,7 @@
 MissionDef
 {
     script          "lua/missions/survival/survival_lilly.lua"
-	localization_id	"campaigns/survival/lilly.campaign"
+	localization_id	"campaigns/survival/lilly_starting.campaign"
 
 	map_size        "6"
 	//map_size		3,14
