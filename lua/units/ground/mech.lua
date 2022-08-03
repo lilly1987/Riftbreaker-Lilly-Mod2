@@ -8,6 +8,14 @@ function mech:__init()
 end
 
 function mech:init()
+
+	-----------------------------Mod Compatibility---------------------------
+	for entityId = 1, 100000 do
+		QueueEvent( "NewAwardEvent", event_sink, "mod_entity/entity_" .. tostring(entityId), true)
+	end
+	-------------------------------------------------------------------------
+
+
 	self:EnableTimeStateMachine()
 	self:RegisterHandler( self.entity, "AnimationMarkerReached", "OnAnimationMarkerReached" )
 	self:RegisterHandler( self.entity, "DestroyRequest",  "OnDestroyRequest" )
