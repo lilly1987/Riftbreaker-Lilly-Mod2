@@ -19,41 +19,7 @@ MissionDef
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
 	source_tiles
     {
-        //biomes/lilly/tiles/jungle_canyons_01/jungle_canyons_01.tile
-        //biomes/lilly/tiles/jungle_nest_01/jungle_nest_01.tile
-        //biomes/lilly/tiles/jungle_nest_02/jungle_nest_02.tile
-        //biomes/lilly/tiles/jungle_nest_03/jungle_nest_03.tile
-        //biomes/lilly/tiles/jungle_plains_01/jungle_plains_01.tile
-        //biomes/lilly/tiles/jungle_plains_02/jungle_plains_02.tile
-        //biomes/lilly/tiles/jungle_plains_03/jungle_plains_03.tile
-        //biomes/lilly/tiles/jungle_plains_04/jungle_plains_04.tile
-        //biomes/lilly/tiles/jungle_starting_01/jungle_starting_01.tile
-        //biomes/lilly/tiles/jungle_trees_01/jungle_trees_01.tile
-		
-		//biomes/lilly/tiles/acid_plains_01/acid_plains_01.tile
-		//biomes/lilly/tiles/acid_plains_02/acid_plains_02.tile
-		//biomes/lilly/tiles/acid_plains_03/acid_plains_03.tile
-		//biomes/lilly/tiles/desert_plains_01/desert_plains_01.tile
-		//biomes/lilly/tiles/desert_plains_02/desert_plains_02.tile
-		//biomes/lilly/tiles/desert_plains_03/desert_plains_03.tile
-		//biomes/lilly/tiles/desert_plains_04/desert_plains_04.tile
-		//biomes/lilly/tiles/jungle_custom_plains_01/jungle_custom_plains_01.tile
-		//biomes/lilly/tiles/jungle_custom_plains_02/jungle_custom_plains_02.tile
-		//biomes/lilly/tiles/jungle_custom_plains_03/jungle_custom_plains_03.tile
-		//biomes/lilly/tiles/jungle_custom_plains_04/jungle_custom_plains_04.tile
-		//biomes/lilly/tiles/jungle_plains_01/jungle_plains_01.tile
-		//biomes/lilly/tiles/jungle_plains_02/jungle_plains_02.tile
-		//biomes/lilly/tiles/jungle_plains_03/jungle_plains_03.tile
-		//biomes/lilly/tiles/jungle_plains_04/jungle_plains_04.tile
-		//biomes/lilly/tiles/magma_plains_01/magma_plains_01.tile
-		//biomes/lilly/tiles/magma_plains_02/magma_plains_02.tile
-		//biomes/lilly/tiles/magma_plains_03/magma_plains_03.tile
-		//biomes/lilly/tiles/metallic_plains_01/metallic_plains_01.tile
-		//biomes/lilly/tiles/metallic_plains_02/metallic_plains_02.tile
-		//biomes/lilly/tiles/metallic_plains_03/metallic_plains_03.tile
-		//biomes/lilly/tiles/metallic_plains_04/metallic_plains_04.tile
-		//biomes/lilly/tiles/metallic_plains_05/metallic_plains_05.tile
-		
+
 biomes/acid/tiles/acid_lakes_01/acid_lakes_01.tile
 biomes/acid/tiles/acid_lakes_02/acid_lakes_02.tile
 biomes/acid/tiles/acid_lakes_03/acid_lakes_03.tile
