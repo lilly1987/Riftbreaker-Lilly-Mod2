@@ -545,7 +545,13 @@ Research
 							blueprint "resources/ammo_tower_low_caliber"
 							is_visible "1"
 						}
-
+						
+						ResearchAward
+						{
+							blueprint "resources/ammo_tower_high_caliber"
+							is_visible "1"
+						}
+						
 					}
 
 					icon "gui/menu/research/icons/towers_minigun"
