@@ -135,8 +135,8 @@ EntityBlueprint
 
 			WeaponStatDef
 			{
-				max_value "16.000"
-				min_value "16.000"
+				max_value "32.000"
+				min_value "32.000"
 				stat_features "BASE_MINMAX|MODABLE"
 				stat_type "BEAM_RANGE"
 			}
