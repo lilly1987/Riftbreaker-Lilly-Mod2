@@ -42,7 +42,7 @@ EntityBlueprint
 			{
 				group		 "global"
 				subgroup	 "ammo"
-				max 	 	 "20"
+				max 	 	 "4"
 			}
 			Storage
 			{
