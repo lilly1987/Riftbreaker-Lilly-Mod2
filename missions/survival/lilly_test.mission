@@ -1,8 +1,9 @@
 MissionDef
 {
     script          "lua/missions/survival/survival_lilly.lua"
-	localization_id	"campaigns/survival/lilly.campaign"
-
+	localization_id	"campaigns/survival/lilly_test.campaign"
+	description		"test"
+	
 	map_size        "6"
 	//map_size		3,14
 	//map_no_spawn_margin "24"
