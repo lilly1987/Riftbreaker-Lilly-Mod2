@@ -1,7 +1,13 @@
 main
+main_mod
 energy
+energy_mod
 resources
+resources_mod
 defense
 defense_mod
+defense_tower
+defense_tower_mod
 decorations
+decorations_mod
 tools

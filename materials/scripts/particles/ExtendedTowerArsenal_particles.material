@@ -1,0 +1,40 @@
+import * from "materials/scripts/particles.material"
+
+material particles/tracer_thick_add_02 : particles/add
+{
+	set_texture_alias	diffuse			materials/textures/particles_mod/tracer_thick_add_02.dds
+}
+
+material particles/blue_fire_16x16 : particles/emissive
+{
+	set_texture_alias	diffuse			materials/textures/particles_mod/blue_fire_16x16.dds
+	set_texture_alias	emissive		materials/textures/particles_mod/blue_fire_16x16_emissive.dds
+}
+
+material particles/Twister_01 : particles/default
+{
+	set_texture_alias	diffuse			materials/textures/particles_mod/Twister_01.dds
+}
+
+material particles/mp_explosion_flare_02 : particles/default
+{
+	set_texture_alias	diffuse			materials/textures/particles_mod/mp_explosion_flare_02.dds
+}
+
+material particles/red_laser_hit_atlas : particles/emissive
+{
+	set_texture_alias	diffuse			materials/textures/particles_mod/red_laser_hit_atlas.dds
+	set_texture_alias	emissive		materials/textures/particles_mod/red_laser_hit_atlas_emissive.dds
+}
+
+material particles/red_laser_muzzleflash_atlas : particles/emissive
+{
+	set_texture_alias	diffuse			materials/textures/particles_mod/red_laser_muzzleflash_atlas.dds
+	set_texture_alias	emissive		materials/textures/particles_mod/red_laser_muzzleflash_atlas_emissive.dds
+}
+
+material particles/lightning_circle_2x2_red_01 : particles/emissive
+{
+	set_texture_alias	diffuse			materials/textures/particles_mod/lightning_circle_2x2_red_01.dds
+	set_texture_alias	emissive		materials/textures/particles_mod/lightning_circle_2x2_red_01_emissive.dds
+}

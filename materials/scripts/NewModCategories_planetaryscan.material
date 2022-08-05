@@ -1,0 +1,36 @@
+import * from "materials/scripts/gui.material"
+
+material gui/hud/building_info_box_header_defense_tower : gui/default
+{
+    set_texture_alias diffuse            materials/textures/gui/hud/building_info_box_towers.dds
+}
+
+material gui/hud/building_info_box_header_main_mod : gui/default
+{
+    set_texture_alias diffuse            materials/textures/gui/hud/building_info_box_header_main_mod.dds
+}
+
+material gui/hud/building_info_box_header_energy_mod : gui/default
+{
+    set_texture_alias diffuse            materials/textures/gui/hud/building_info_box_header_energy_mod.dds
+}
+
+material gui/hud/building_info_box_header_resources_mod : gui/default
+{
+    set_texture_alias diffuse            materials/textures/gui/hud/building_info_box_header_resources_mod.dds
+}
+
+material gui/hud/building_info_box_header_defense_mod : gui/default
+{
+    set_texture_alias diffuse            materials/textures/gui/hud/building_info_box_header_defense_mod.dds
+}
+
+material gui/hud/building_info_box_header_defense_tower_mod : gui/default
+{
+    set_texture_alias diffuse            materials/textures/gui/hud/building_info_box_towers_mod.dds
+}
+
+material gui/hud/building_info_box_header_decorations_mod : gui/default
+{
+    set_texture_alias diffuse            materials/textures/gui/hud/building_info_box_header_decorations_mod.dds
+}

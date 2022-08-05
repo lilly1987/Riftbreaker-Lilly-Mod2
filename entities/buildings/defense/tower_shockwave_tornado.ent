@@ -1,0 +1,655 @@
+EntityBlueprint
+{
+	name "buildings/defense/tower_shockwave_tornado"
+
+	BuildingDesc
+	{
+		name 				"tower_shockwave_tornado"
+		bp   				"buildings/defense/tower_shockwave_tornado"
+		ghost_bp   			"buildings/defense/tower_shockwave_tornado_ghost"
+		category 			"defense_tower_mod"
+		localization_id		"gui/hud/building_name/tower_shockwave_tornado"
+		description			"gui/hud/building_description/tower_shockwave_tornado"
+		menu_icon			"gui/hud/building_icons/tower_shockwave_tornado"
+		require 			"headquarters"
+		order				"12"
+		type				"tower"
+		overrides			"tower,wall"
+		//upgrade				"buildings/defense/tower_shockwave_tornado_lvl_2"
+		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+
+		costs
+		{
+			BuildingCostInfo
+			{
+				name "default"
+				building_time 2.5
+				building_cost
+				{
+					carbonium 	"75"
+					steel 		"150"
+					ai			"1"
+					titanium	"50"
+				}
+			}
+		}
+	}
+
+	ResourceConverterDesc // must be here for AI
+	{
+		in
+		{
+			GameplayResource
+			{
+				resource 	"energy"
+				value 		"1"
+			}
+		}
+
+		out
+		{
+		}
+
+		priority 3
+	}
+
+	LuaDesc
+	{
+		script "lua/buildings/defense/tower_shockwave.lua"
+
+		database
+		{
+			cone_effect			string:"build_cone_1x1"
+			cone_effect_sell	string:"sell_small"
+			time_machine		int:"0"
+		}
+
+	}
+
+	HealthDesc
+	{
+		max_health 					"500"
+		health 						"500"
+		regeneration 				"0"
+		regeneration_cooldown 		"0"
+		 is_manual 1
+		update_health_uniform 		"1"
+
+
+		DestructionLevels
+		{
+			DestructionLevel
+			{
+				health 								"66"
+				destroy_comp_delay 					"0"
+				destroy_comp_event 					"66_destroy"
+				//destroyed_state_material 			"buildings/main/headquarters_dest_25"
+				destroyed_state_effect_group 		"66_state"
+			}
+			DestructionLevel
+			{
+				health 								"33"
+				destroy_comp_delay 					"0"
+				destroy_comp_event 					"33_destroy"
+				//destroyed_state_material 			"buildings/main/headquarters_dest_0"
+				destroyed_state_effect_group 		"33_state"
+			}
+		}
+	}
+
+	MeshDesc
+	{
+		mesh 		"meshes/buildings/defense/tower_shockwave_lvl_3.mesh"
+		material 	"buildings/defense/tower_shockwave_tornado"
+	}
+
+	TypeDesc
+	{
+		type "building|defense|tower"
+	}
+
+	SkeletonDesc
+	{
+		name "meshes/buildings/defense/tower_shockwave_lvl_3"
+	}
+
+	PhysicsDesc
+	{
+		objects
+		{
+			PhysicsObjectDesc
+			{
+				type 				"static"
+				group_id 			"building"
+				physics_material 	"default"
+				Shapes
+				{
+					PhysicsBoxShape
+					{
+						x "2"
+						y "4"
+						z "2"
+
+						position
+						{
+							x "0.0"
+							y "2"
+							z "0.0"
+						}
+					}
+				}
+			}
+		}
+	}
+
+	NodeCullerDesc
+	{
+		nav_mesh_cull_type "1"
+		cost_type "building"
+		flow_field_size "0.7"
+	}
+
+	GridCullerDesc
+	{
+		Shapes
+		{
+			PhysicsBoxShape
+			{
+				x	2
+				y	2
+				z	2
+			}
+		}
+	}
+
+	MinimapItemDesc
+	{
+		type	"quad"
+		color
+		{
+			x "1"
+			y "0.5"
+			z "0"
+			w "1"
+		}
+		size
+		{
+			x "1"
+			y "1"
+		}
+		visibility			"discovered"
+	}
+
+	FogOfWarRevealerComponentDesc
+	{
+		radius "20"
+	}
+
+	HealthBarDesc
+	{
+		type "2"
+		mode "1"
+	}
+
+	LootDesc
+	{
+		explosion_max_power 	"2000"
+		explosion_min_power 	"1000"
+	}
+
+	WeaponItemDesc
+	{
+		ammo_storage "energy"
+		damage_type "energy"
+		rarity "ADVANCED"
+		stat_def_vec
+		{
+			WeaponStatDef
+			{
+				max_value "0.250"
+				min_value "0.250"
+				stat_features "BASE_MINMAX|MODABLE"
+				stat_type "FIRE_RATE"
+			}
+			WeaponStatDef
+			{
+				max_value "2.000"
+				min_value "2.000"
+				stat_features "BASE_MINMAX|MODABLE"
+				stat_type "FIRE_PER_BURST"
+			}
+			WeaponStatDef
+			{
+				max_value "5.000"
+				min_value "5.000"
+				stat_features "BASE_MINMAX|MODABLE"
+				stat_type "FIRE_PER_SHOT"
+			}
+			WeaponStatDef
+			{
+				max_value "60.000"
+				min_value "60.000"
+				stat_features "BASE_MINMAX|STATISTIC"
+				stat_type "DAMAGE_VALUE"
+			}
+			WeaponStatDef
+			{
+				max_value "4.000"
+				min_value "4.000"
+				stat_features "BASE_MINMAX|STATISTIC"
+				stat_type "DAMAGE_SPLASH"
+			}
+			WeaponStatDef
+			{
+				max_value "1.000"
+				min_value "1.000"
+				stat_features "BASE_MINMAX"
+				stat_type "AMMO_SPEED"
+			}
+			WeaponStatDef
+			{
+				max_value "5.000"
+				min_value "5.000"
+				stat_features "BASE_MINMAX|STATISTIC"
+				stat_type "DAMAGE_OVER_TIME"
+			}
+			WeaponStatDef
+			{
+				max_value "5.000"
+				min_value "5.000"
+				stat_features "BASE_MINMAX|HIDDEN"
+				stat_type "DAMAGE_OVER_TIME_LENGTH"
+			}
+			WeaponStatDef
+			{
+				default_value "10.000"
+				max_value "10.000"
+				min_value "10.000"
+				stat_features "BASE_DEFAULT|MODABLE"
+				stat_type "AMMO_COST"
+			}
+			WeaponStatDef
+			{
+				max_value "0.550"
+				min_value "0.550"
+				stat_features "BASE_MINMAX"
+				stat_type "WEAPON_SCALE"
+			}
+
+		}
+
+	}
+
+	TowerDesc
+	{
+	}
+
+	TurretDesc
+	{
+		target "ground_unit"
+		target_ignore "invisible"
+		speed "300"
+		aim_volume "SphericalAimVolume"
+		{
+			range_min "0"
+			range_max "13"
+			aiming_range "20"
+		}
+
+		aiming_cooldown "1"
+		aiming_target_time "2"
+		aiming_idle_angle "20"
+		pitch "att_muzzle"
+		yaw "att_muzzle"
+		check_target_visibility "1"
+		fog_of_war_filtering "1"
+	}
+
+	BurstWeaponComponent
+	{
+		WeaponMuzzles
+		{
+			WeaponMuzzle
+			{
+				attachment "att_muzzle"
+				recoil_bone  "animation"
+				recoil_time   "1.00"
+				recoil_offset   "3.5"
+			}
+		}
+
+		WeaponAffector
+		{
+			emissive_time "0.35"
+			emissive_factor "60"
+			submesh_idx "1"
+		}
+
+		ammo_blueprint 				"buildings/defense/tower_shockwave_tornado_projectile"
+
+		burst_column_spacing 		"0"
+		burst_rate 					"0"
+		burst_column_angle 			"0"
+	}
+
+	DestroyDesc
+	{
+
+		DestroyPatterns
+		{
+			Pair
+			{
+				key "66_destroy"
+				value
+				{
+					explosion_type 			"centered"
+					explosion_max_power 	"6000"
+					explosion_min_power 	"2000"
+					explosion_effect 		"effects/buildings_generic/explosion_medium_random"
+					part_physics_material   "debris_heavy"
+					part_material 			"misc/building_parts_generic"
+					part_prefix 			"meshes/misc/building_medium_parts_generic"
+					part_effect 			"effects/projectiles_and_trails/fire_trail_small_random"
+					part_lifetime "3"
+				}
+			}
+			Pair
+			{
+				key "33_destroy"
+				value
+				{
+					explosion_type 			"centered"
+					explosion_max_power 	"6000"
+					explosion_min_power 	"2000"
+					explosion_effect 		"effects/buildings_generic/explosion_medium_random"
+					part_physics_material   "debris_heavy"
+					part_material 			"misc/building_parts_generic"
+					part_prefix 			"meshes/misc/building_medium_parts_generic"
+					part_effect 			"effects/projectiles_and_trails/fire_trail_small_random"
+					part_lifetime "3"
+				}
+			}
+			Pair
+			{
+				value
+				{
+					explosion_type 			"centered"
+					explosion_max_power 	"6000"
+					explosion_min_power 	"2000"
+					explosion_effect 		"effects/buildings_generic/explosion_big_random"
+					part_physics_material   "debris_heavy"
+					part_material 			"misc/building_parts_generic"
+					part_effect 			"effects/projectiles_and_trails/fire_trail_small_random"
+					part_prefix 			"meshes/misc/building_large_parts_generic"
+					part_lifetime "3"
+				}
+
+				key "default"
+			}
+			Pair
+			{
+				value
+				{
+					explosion_type 			"centered"
+					explosion_max_power 	"6000"
+					explosion_min_power 	"2000"
+					explosion_effect 		"effects/buildings_generic/building_sand_collapse"
+					part_physics_material   "debris_heavy"
+					part_material 			"misc/building_parts_generic"
+					//part_effect 			"effects/projectiles_and_trails/fire_trail_small_random"
+					part_prefix 			"meshes/misc/building_large_parts_generic"
+					part_lifetime "3"
+				}
+
+				key "quicksand"
+			}
+		}
+	}
+
+	EffectDesc
+	{
+		EffectBaseBlueprints
+		{
+			"buildings/effects_small_base"
+		}
+		////////////////////////MISC/////////////////////////
+		EffectGroup
+		{
+			group "lamp"
+			enabled "0"
+
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/tower_omni_light"
+					bone "att_muzzle"
+					random_delay "3"
+				}
+			}
+		}
+
+		EffectGroup
+		{
+			group "working"
+			enabled "0"
+
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/electric_machinery_big"
+					bone "att_working"
+					scale "1.4 1.4 1.4"
+				}
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/gas_powerplant_lightning"
+					bone "att_working"
+					offset "0 6 0"
+					scale "1.8 1.8 1.8"
+				}
+			}
+		}
+	}
+}
+
+EntityBlueprint
+{
+	name "buildings/defense/tower_shockwave_tornado_ghost"
+
+	MeshDesc
+	{
+		mesh "meshes/buildings/defense/tower_shockwave_lvl_3.mesh"
+		material "selector/hologram_blue"
+	}
+
+	PhysicsDesc
+	{
+		objects
+		{
+			PhysicsObjectDesc
+			{
+				type 				"kinematic"
+				group_id 			"ghost_building"
+				physics_material 	"default"
+				Shapes
+				{
+					PhysicsBoxShape
+					{
+						x	2
+						y	2
+						z	2
+					}
+				}
+			}
+		}
+	}
+
+	GridCullerDesc
+	{
+		Shapes
+		{
+			PhysicsBoxShape
+			{
+				x	2
+				y	2
+				z	2
+			}
+		}
+	}
+
+	DisplayRadiusDesc
+	{
+		max_radius 13
+	}
+}
+
+EntityBlueprint
+{
+	name "buildings/defense/tower_shockwave_tornado_projectile"
+
+	SkeletonDesc
+	{
+		name "meshes/misc/tornado_big"
+	}
+
+	MinimapItemDesc
+	{
+		type			"image"
+		icon_material 	"gui/hud/minimap_icons/tornado"
+		visibility		"visible|radar"
+	}
+
+	TornadoDesc
+	{
+		radius			          "15"
+		speed			          "0"
+		rotate_speed	          "0"
+		wander_jitter_multiplier  "0"
+		oscillation_radius        "15"
+		damage_per_sec	          "40"
+		//type                      "target_player"
+	}
+
+	ProjectileAmmoComponent
+	{
+		diameter				"1"
+		distribution 			"dissipation"
+
+		on_enemy_hit_effect 	"effects/weapons_explosive/explosion_big"
+		on_world_hit_effect 	"effects/weapons_explosive/explosion_big"
+
+		collision_3d 			""
+		collision_2d 			""
+
+	}
+
+	LifeTimeDesc
+	{
+		time 		10
+	}
+
+	EffectDesc
+	{
+		EffectGroup
+		{
+			group "tornado"
+			enabled "1"
+			delay "0"
+
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/world/tornado_big"
+					bone "att_tornado"
+				}
+				Effect
+				{
+					blueprint "effects/world/tornado_big_stones"
+					bone "att_tornado"
+				}
+				Effect
+				{
+					blueprint "effects/buildings_main/HQ_rift_weather_strong"
+					bone "att_tornado"
+				}
+			}
+		}
+	}
+}
+
+	children
+	{
+		EntityBlueprint
+		{
+		    name "weather/tornado_big_local_wind"
+
+			PointWindDesc
+			{
+				power_max   "-15000"
+				power_min   "-15000"
+				radius      "25"
+			}
+
+			AttachmentDesc
+			{
+				attachment "att_wind"
+			}
+		}
+
+		EntityBlueprint
+		{
+			name "logic/tornado_big_global_wind"
+
+			DirectionalWindDesc
+			{
+				power_frequency "0.2"
+				power_max "5000"
+				power_min "1000"
+				rotation_frequency "0.1"
+				rotation_max "10.0"
+				random_power_time_deviation "0"
+				random_rotation_time_deviation "0.04"
+				position_frequency_factor "0.001"
+			}
+
+			SceneEditorDesc
+			{
+				mesh 		"meshes/wind.mesh"
+			}
+
+			EffectDesc
+			{
+				EffectGroup
+				{
+					group "wind"
+					enabled "1"
+					delay "0"
+
+					Effects
+					{
+						Effect
+						{
+							blueprint "effects/buildings_and_machines/electric_machinery_big"
+							bone "att_wind"
+						}
+						Effect
+						{
+							blueprint "effects/buildings_and_machines/gas_powerplant_lightning"
+							bone "att_wind"
+						}
+						Effect
+						{
+							blueprint "effects/buildings_main/HQ_rift_weather_strong"
+							bone "att_wind"
+						}
+					}
+				}
+			}
+		}
+
+	}
+
+}

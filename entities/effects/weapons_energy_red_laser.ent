@@ -1,0 +1,78 @@
+EntityBlueprint
+{
+	name effects/weapons_energy/red_laser_projectile
+
+	base_blueprints
+	{
+		effects/weapons_elemental/projectile
+		lights/point/red_super_small
+		effects/no_lifetime
+	}
+
+		MinimapItemDesc
+	{
+		type	"quad"
+		color
+		{
+			x "1"
+			y "1"
+			z "0"
+			w "1"
+		}
+		size
+		{
+			x "2"
+			y "2"
+		}
+		visibility		"discovered"
+	}
+
+	ParticleDesc
+	{
+		name    "rift/red_laser_projectile"
+	}
+}
+
+EntityBlueprint
+{
+	name effects/weapons_energy/red_laser_projectile_hit
+
+	base_blueprints
+	{
+		effects/weapons_elemental/hit
+		lights/point/muzzle_red_very_small
+		effects/default
+	}
+
+	ParticleDesc
+	{
+		name    "rift/red_laser_projectile_hit"
+	}
+
+	SoundDesc
+	{
+		name "items/weapons/energy/energy_weapon_hit"
+	}
+}
+
+EntityBlueprint
+{
+	name effects/weapons_energy/red_laser_gun_fire
+
+	base_blueprints
+	{
+		effects/weapons_elemental/muzzle
+		lights/point/muzzle_red_small
+		effects/default
+	}
+
+	ParticleDesc
+	{
+		name    "rift/red_laser_projectile_muzzle"
+	}
+
+	SoundDesc
+	{
+		name "items/weapons/energy/plasma_gun_fire"
+	}
+}

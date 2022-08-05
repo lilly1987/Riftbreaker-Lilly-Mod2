@@ -1,0 +1,59 @@
+EntityBlueprint
+{
+	base_blueprints
+	{
+		lights/point/red_small
+		effects/no_lifetime
+	}
+
+	name "effects/buildings/magma_building_atmosphere"
+
+	GridMarkerComponent
+	{
+		mode			"origin"
+		terrain_type  	"magma_ground"
+		extend  		"2"
+	}
+
+	ParticleDesc
+	{
+		name    "rift/magma_building_ambient"
+	}
+
+	DecalDesc
+	{
+		blueprint "effects/decals/magma_crater_01"
+		scale
+		{
+			x		1.8
+			y		1.8
+			z		1.8
+		}
+		attach "1"
+	}
+}
+
+EntityBlueprint
+{
+	name effects/decals/magma_crater_01
+
+	MeshDesc
+	{
+		mesh 			"meshes/cube.mesh"
+		material 		"decals/magma_crater_01"
+		render_group	189
+	}
+
+	DecalDesc
+	{
+		scale
+		{
+			x		8.0
+			y		8.0
+			z		8.0
+
+		}
+
+		min_height 10.0
+	}
+}

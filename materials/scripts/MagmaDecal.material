@@ -1,0 +1,8 @@
+import * from "materials/scripts/decal.material"
+
+material decals/magma_crater_01 : decal/default
+{
+	set_texture_alias albedo			materials/textures/decals/magma_crater_01_albedo.dds
+	set_texture_alias normal			materials/textures/decals/magma_crater_01_normal.dds
+	set_texture_alias packed			materials/textures/decals/magma_crater_01_packed.dds
+}

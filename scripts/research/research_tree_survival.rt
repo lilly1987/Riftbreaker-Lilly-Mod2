@@ -16625,6 +16625,2094 @@ Research
 
 		}
 
+///
+
+
+
+		// Mod-Tower Researches
+
+		ResearchTree
+		{
+			category "gui/menu/research/category_mod_tower"
+			nodes
+		  {
+
+		    // Download Research - Heptan-Flamer Tower
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_flamer_lvl1"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_flamer_heptan_lvl_1"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "480.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-592.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_flamer_heptan"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_flamer_heptan_lvl_1"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_flamer_lvl2"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_flamer_heptan_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "1680.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-592.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_flamer_heptan_lvl_2"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_flamer_heptan_lvl_2"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_flamer_lvl3"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_flamer_heptan_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "4820.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-592.000"
+		        y "-241.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_flamer_heptan_lvl_3"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    // Download Research - Accelerated Magmagun
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/environmental_shielding_heat"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_minigun_lvl1"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_minigun_magma_lvl_1"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "648.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "560.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_minigun_magma"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_minigun_magma_lvl_1"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_minigun_lvl2"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_minigun_magma_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "2268.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "560.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_minigun_magma_lvl_2"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_minigun_magma_lvl_2"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_minigun_lvl3"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_minigun_magma_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "7938.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "560.000"
+		        y "-241.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_minigun_magma_lvl_3"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    // Alien Research - Swarm Rocket Tower
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_swarm_missiles_standard"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_artillery_lvl1"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_rockets_swarm_lvl_1"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "864.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "240.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_rockets_swarm"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_rockets_swarm_lvl_1"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_swarm_missiles_advanced"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_rockets_swarm_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "3024.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "240.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_rockets_swarm_lvl_2"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_rockets_swarm_lvl_2"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_swarm_missiles_superior"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_rockets_swarm_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "10584.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "240.000"
+		        y "-241.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_rockets_swarm_lvl_3"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    // Alien Research - Little Nuke Tower
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_mininuke_standard"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_artillery_lvl1"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_rockets_nuke_lvl_1"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "864.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "304.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_rockets_nuke"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_rockets_nuke_lvl_1"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_mininuke_advanced"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_rockets_nuke_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "3024.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "304.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_rockets_nuke_lvl_2"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_rockets_nuke_lvl_2"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_mininuke_superior"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_rockets_nuke_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "10584.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "304.000"
+		        y "-241.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_rockets_nuke_lvl_3"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    // Alien Research - Cryogenic Tower
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_cryogenic_atomizer_standard"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_flamer_lvl1"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_flamer_cryo_lvl_1"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "480.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-528.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_flamer_cryo"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_flamer_cryo_lvl_1"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_cryogenic_atomizer_advanced"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_flamer_cryo_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "1680.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-528.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_flamer_cryo_lvl_2"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_flamer_cryo_lvl_2"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_cryogenic_atomizer_superior"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_flamer_cryo_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "4820.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-528.000"
+		        y "-241.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_flamer_cryo_lvl_3"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    // Alien Research - Corrosive Gun Tower
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_corrosive_gun_standard"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_plasma_lvl1"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_corrosive_lvl_1"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "696.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-272.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_corrosive"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_corrosive_lvl_1"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_corrosive_gun_advanced"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_corrosive_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "2436.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-272.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_corrosive_lvl_2"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_corrosive_lvl_2"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_corrosive_gun_superior"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_corrosive_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "7308.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-272.000"
+		        y "-241.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_corrosive_lvl_3"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    // Alien Research - Tripleshoot Laser Tower
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_laser_lvl1"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_laser_tripleshoot_lvl_1"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "696.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-16.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_laser_tripleshoot"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_laser_tripleshoot_lvl_1"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_laser_lvl2"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_laser_tripleshoot_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "2436.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-16.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_laser_tripleshoot_lvl_2"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_laser_tripleshoot_lvl_2"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_laser_lvl3"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_laser_tripleshoot_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "7308.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-16.000"
+		        y "-241.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_laser_tripleshoot_lvl_3"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    // Alien Research - Acid Thrower Tower
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_corrosive_gun_standard"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_flamer_lvl1"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_flamer_acid_lvl_1"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "480.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-464.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_flamer_acid"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_flamer_acid_lvl_1"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_corrosive_gun_advanced"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_flamer_acid_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "1680.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-464.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_flamer_acid_lvl_2"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_flamer_acid_lvl_2"
+		          research_category "gui/menu/research/category_mod_tower"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/mech_weapons_corrosive_gun_superior"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_flamer_acid_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "4820.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-464.000"
+		        y "-241.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_flamer_acid_lvl_3"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+
+		    // Alien Research - Suicide Tower
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_shockwave_lvl1"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		        ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/fusion_energy_lvl3"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+
+		      }
+
+		      research_name "gui/menu/research/name/towers_shockwave_tornado_lvl_1"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "9850.000"
+		        }
+
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "48.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_shockwave_tornado"
+		          is_visible "1"
+		        }
+
+		      }
+
+		      icon "gui/menu/research/icons/defense"
+		    }
+		  }
+		}
+
+		// Mod Researches
+
+		ResearchTree
+		{
+		  category "gui/menu/research/category_mod"
+		  nodes
+		  {
+
+		    // Download Research - Extended Basic Defense
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/defensive_buildings_lvl3"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/towers_basic_lvl3"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/defensive_buildings_lvl_4"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "3200.000"
+		          }
+		        }
+
+		      research_scripts
+		      position
+		      {
+		        x "-272.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/ai_hub_lvl_4"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/tower_basic_lvl_4"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/wall_gate_lvl_4"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/wall_small_floor_01_lvl_2"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/wall_small_straight_01_lvl_4"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/wall_small_corner_01_lvl_4"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/wall_small_t_01_lvl_4"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/defense/wall_small_x_01_lvl_4"
+		          is_visible "0"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/defense"
+		    }
+
+		    // Download Research - Extended Floors
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/basic_decorations"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/extended_floors"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "100.000"
+		        }
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "560.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_1x1"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_2x2"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_3x3"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_4x4"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_grid_1x1"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_grid_2x2"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_grid_3x3"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_grid_4x4"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_lattice_1x1"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_lattice_2x2"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_lattice_3x3"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_metal_lattice_4x4"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_wooden_1x1"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_wooden_2x2"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_wooden_3x3"
+		          is_visible "0"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/decorations/floor_wooden_4x4"
+		          is_visible "0"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/decorations"
+		    }
+
+		    // Download Research - Specialized Pumps
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/resource_handling_liquid_lvl3"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/special_pumps"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "625.000"
+		        }
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "112.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/liquid_pump_magma"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/liquid_pump_mud"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/liquid_pump_sludge"
+		          is_visible "1"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/resource"
+		    }
+
+		    // Download Research - More Cryo Station Levels
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/cryo_technology"
+		          research_category "gui/menu/research/category_alien"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/cryo_technology_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "200.000"
+		        }
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-16.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/main/cryo_station_lvl_2"
+		          is_visible "1"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/main"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/cryo_technology_lvl_2"
+		          research_category "gui/menu/research/category_mod"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/cryo_technology_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "550.000"
+		        }
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-16.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/main/cryo_station_lvl_3"
+		          is_visible "1"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/main"
+		    }
+
+		    // Download Research - Additional Levels for Specialty Fluid Producers
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/gas_energy_lvl1"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/resource_handling_liquid_lvl2"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/bio_composter_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "50.000"
+		        }
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-592.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/bio_composter_lvl_2"
+		          is_visible "1"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/energy"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/bio_composter_lvl_2"
+		          research_category "gui/menu/research/category_mod"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/gas_energy_lvl2"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/resource_handling_liquid_lvl3"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/bio_composter_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "100.000"
+		        }
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "-592.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/bio_composter_lvl_3"
+		          is_visible "1"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/energy"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/ionizer"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/alien_research_lvl3"
+		          research_category "gui/menu/research/category_alien"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/ionizer_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "2200.000"
+		        }
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "176.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/ionizer_lvl_2"
+		          is_visible "1"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/resource"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/ionizer_lvl_2"
+		          research_category "gui/menu/research/category_mod"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/alien_research_lvl4"
+		          research_category "gui/menu/research/category_alien"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/ionizer_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "5000.000"
+		        }
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "176.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/ionizer_lvl_3"
+		          is_visible "1"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/resource"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/alien_research_lvl3"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/supercooling"
+		          research_category "gui/menu/research/category_alien"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/supercooling_lvl_2"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "1600.000"
+		        }
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "240.000"
+		        y "-369.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/supercoolant_refinery_lvl_2"
+		          is_visible "1"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/resource"
+		    }
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/alien_research_lvl4"
+		          research_category "gui/menu/research/category_alien"
+		        }
+
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/supercooling_lvl_2"
+		          research_category "gui/menu/research/category_mod"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/supercooling_lvl_3"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "analysis"
+		          count "3500.000"
+		        }
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "240.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/supercoolant_refinery_lvl_3"
+		          is_visible "1"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/resource"
+		    }
+
+		    // Download Research - Specialized Storages
+
+		    ResearchNode
+		    {
+		      research_flags
+		      requirement_tooltip
+		      requirements
+		      {
+		        ResearchNodeRequirement
+		        {
+		          research_name "gui/menu/research/name/solid_materials_storage_lvl3"
+		          research_category "gui/menu/research/category_base_buildings"
+		        }
+		      }
+
+		      research_name "gui/menu/research/name/solid_materials_storage_special"
+		      research_costs
+		      {
+		        ResearchCost
+		        {
+		          amount "0.000"
+		          resource "download"
+		          count "2000.000"
+		        }
+		      }
+
+		      research_scripts
+		      position
+		      {
+		        x "112.000"
+		        y "-305.000"
+		      }
+
+		      research_awards
+		      {
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/solid_material_storage_carbonium"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/solid_material_storage_ironium"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/solid_material_storage_cobalt"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/solid_material_storage_palladium"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/solid_material_storage_titanium"
+		          is_visible "1"
+		        }
+
+		        ResearchAward
+		        {
+		          blueprint "buildings/resources/solid_material_storage_uranium"
+		          is_visible "1"
+		        }
+		      }
+
+		    icon "gui/menu/research/icons/resource"
+		    }
+			
+///
+
+			
+		  }
+		}
+
+
+///
+
+
 	}
 
 	type

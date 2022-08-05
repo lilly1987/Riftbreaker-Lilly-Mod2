@@ -1,0 +1,11 @@
+import * from "materials/scripts/gui_menu_buttons_research.material"
+
+material gui/menu/buttons/research/category_mod_tower_btn_active : gui/default
+{
+	set_texture_alias diffuse materials/textures/gui/menu/buttons/research/category_mod_tower_btn_active.dds
+}
+
+material gui/menu/buttons/research/category_mod_tower_btn_neutral : gui/default
+{
+	set_texture_alias diffuse materials/textures/gui/menu/buttons/research/category_mod_tower_btn_neutral.dds
+}

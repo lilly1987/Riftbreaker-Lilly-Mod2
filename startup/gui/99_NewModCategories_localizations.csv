@@ -1,0 +1,8 @@
+;ENGLISH;POLISH;RUSSIAN;FRENCH;GERMAN;SPANISH;BRASILIAN;CHINESE_SP;JAPANESE;KOREAN
+gui/menu/planetary_scanner/base_info_buildings_main_mod;Main buildings (Mod):;;;;Hauptgebäude (Mod):;;;;;
+gui/menu/planetary_scanner/base_info_buildings_energy_mod;Energy buildings (Mod):;;;;Energiegebäude (Mod):;;;;;
+gui/menu/planetary_scanner/base_info_buildings_resources_mod;Resource buildings (Mod):;;;;Rohstoffgebäude (Mod):;;;;;
+gui/menu/planetary_scanner/base_info_buildings_defense_mod;Defense buildings (Mod):;;;;Verteidigungsgebäude (Mod):;;;;;
+gui/menu/planetary_scanner/base_info_buildings_defense_tower;Defense towers:;;;;Abwehrtürme:;;;;;
+gui/menu/planetary_scanner/base_info_buildings_defense_tower_mod;Defense towers (Mod):;;;;Abwehrtürme (Mod):;;;;;
+gui/menu/planetary_scanner/base_info_buildings_decorations_mod;Decorations (Mod):;;;;Dekorationen (Mod):;;;;;
