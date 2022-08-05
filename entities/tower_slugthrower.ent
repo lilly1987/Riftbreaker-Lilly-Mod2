@@ -6,7 +6,7 @@ EntityBlueprint
 	{
 		name 				"tower_slugthrower"
 		bp   				"mod_entity/entity_21"
-		category 			"defense"
+		category 			"defense_tower"
 		localization_id		"Slugthrower Tower"
 		description			"Shoots piercing shells at long distances. Very low fire rate. Can shoot farther than its viewing range. Requires a Tower Ammunition Factory to operate."
 		menu_icon			"gui/hud/building_icons/tower_slugthrower"

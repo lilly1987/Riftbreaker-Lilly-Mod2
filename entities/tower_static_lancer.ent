@@ -6,7 +6,7 @@ EntityBlueprint
 	{
 		name				"tower_static_lancer"
 		bp					"mod_entity/entity_24"
-		category			"defense"
+		category 			"defense_tower"
 		localization_id		"Static Lancer Tower"
 		description			"Shoots a continuous current at a large enemy locking them in place."
 		menu_icon			"gui/hud/building_icons/tower_static_lancer"

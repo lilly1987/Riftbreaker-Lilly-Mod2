@@ -10,7 +10,7 @@ EntityBlueprint
 		name 				"Poisoned Sentineltower"
 		bp   				"buildings/defense/tower_basic_tox_lvl_3"
 	//	ghost_bp   			"buildings/defense/tower_basic_lvl_3_ghost"
-		category 			"defense"
+		category 			"defense_tower"
 		localization_id		"Poisoned Sentineltower"
 		description			"A Sentineltower that use poisoned ammonion"
 		menu_icon			"gui/hud/building_icons/tower_basic_tox_lvl3"

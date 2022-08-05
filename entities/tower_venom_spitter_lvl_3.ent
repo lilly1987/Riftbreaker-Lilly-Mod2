@@ -8,7 +8,7 @@ EntityBlueprint
 	{
 		name 				"tower_venom_spitter_lvl_3"
 		bp   				"mod_entity/entity_29"
-		category 			"defense"
+		category 			"defense_tower"
 		localization_id		"Venom Spitter Tower"
 		description			"Shoots corrosive bullets at a high fire rate."
 		menu_icon			"gui/hud/building_icons/tower_venom_spitter_lvl3"

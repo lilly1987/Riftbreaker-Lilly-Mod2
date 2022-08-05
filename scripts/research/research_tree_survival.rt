@@ -16975,7 +16975,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "864.000"
 		        }
 
@@ -17027,7 +17027,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "3024.000"
 		        }
 
@@ -17079,7 +17079,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "10584.000"
 		        }
 
@@ -17133,7 +17133,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "864.000"
 		        }
 
@@ -17185,7 +17185,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "3024.000"
 		        }
 
@@ -17237,7 +17237,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "10584.000"
 		        }
 
@@ -17291,7 +17291,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "480.000"
 		        }
 
@@ -17343,7 +17343,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "1680.000"
 		        }
 
@@ -17395,7 +17395,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "4820.000"
 		        }
 
@@ -17449,7 +17449,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "696.000"
 		        }
 
@@ -17501,7 +17501,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "2436.000"
 		        }
 
@@ -17553,7 +17553,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "7308.000"
 		        }
 
@@ -17601,7 +17601,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "696.000"
 		        }
 
@@ -17653,7 +17653,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "2436.000"
 		        }
 
@@ -17705,7 +17705,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "7308.000"
 		        }
 
@@ -17759,7 +17759,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "480.000"
 		        }
 
@@ -17811,7 +17811,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "1680.000"
 		        }
 
@@ -17863,7 +17863,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "4820.000"
 		        }
 
@@ -17917,7 +17917,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "9850.000"
 		        }
 
@@ -18259,7 +18259,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "200.000"
 		        }
 		      }
@@ -18302,7 +18302,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "550.000"
 		        }
 		      }
@@ -18457,7 +18457,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "2200.000"
 		        }
 		      }
@@ -18506,7 +18506,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "5000.000"
 		        }
 		      }
@@ -18555,7 +18555,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "1600.000"
 		        }
 		      }
@@ -18604,7 +18604,7 @@ Research
 		        ResearchCost
 		        {
 		          amount "0.000"
-		          resource "analysis"
+		          resource "download"
 		          count "3500.000"
 		        }
 		      }

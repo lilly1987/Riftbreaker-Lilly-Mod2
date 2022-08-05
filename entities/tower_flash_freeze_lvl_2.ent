@@ -9,7 +9,7 @@ EntityBlueprint
 		buildable			"0"
 		name 				"tower_flash_freeze_lvl_2"
 		bp   				"mod_entity/entity_16"
-		category 			"defense"
+		category 			"defense_tower"
 		localization_id		"Flash Freeze Tower"
 		description			"Sprays freezing fluid. Short range but very effective against numerous small enemies. Requires a Tower Ammunition Factory to operate."
 		menu_icon			"gui/hud/building_icons/tower_flash_freeze_lvl2"

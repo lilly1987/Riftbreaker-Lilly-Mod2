@@ -7,7 +7,7 @@ EntityBlueprint
 		name 				"tower_basic_cryo"
 		bp   				"buildings/defense/tower_basic_cryo"
 //		ghost_bp   			"buildings/defense/tower_basic_ghost"
-		category 			"defense"
+		category 			"defense_tower"
 		localization_id		"Cryo Sentineltower"
 		description			"A Sentineltower that uses electricity to bring the ammunition almost to zero Kelvin "
 		menu_icon			"gui/hud/building_icons/tower_basic_cryo"

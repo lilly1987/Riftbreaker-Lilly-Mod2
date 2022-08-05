@@ -9,7 +9,7 @@ EntityBlueprint
 		buildable			"0"
 		name 				"tower_scatter_shot_lvl_3"
 		bp   				"mod_entity/entity_20"
-		category 			"defense"
+		category 			"defense_tower"
 		localization_id		"Scatter Shot Tower"
 		description			"Shoots shells at a wide spread causing massive physical damage. Requires a Tower Ammunition Factory to operate."
 		menu_icon			"gui/hud/building_icons/tower_scatter_shot_lvl3"
