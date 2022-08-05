@@ -9,7 +9,7 @@ EntityBlueprint
 		buildable			"0"
 		name 				"tower_basic_cryo_lvl_3"
 		bp   				"buildings/defense/tower_basic_cryo_lvl_3"
-		ghost_bp   			"buildings/defense/tower_basic_lvl_3_ghost"
+//		ghost_bp   			"buildings/defense/tower_basic_lvl_3_ghost"
 		category 			"defense"
 		localization_id		"Cryo Sentineltower"
 		description			"A Sentineltower that uses electricity to bring the ammunition almost to zero Kelvin"
@@ -212,56 +212,5 @@ EntityBlueprint
 		on_world_hit_effect 	"effects/weapon_hit/tower_projectile_hit"
 		on_resisted_hit_effect 	"effects/weapons_generic/projectile_hit_resisted"
 		collision_3d 			"world|world_blocker|destructible|ground_unit|hitbox|shield"
-	}
-}
-
-EntityBlueprint
-{
-	name "buildings/defense/tower_basic_lvl_3_ghost"
-
-	MeshDesc
-	{
-		mesh "meshes/buildings/defense/tower_basic_lvl_3.mesh"
-		material "selector/hologram_blue"
-	}
-
-	PhysicsDesc
-	{
-		objects
-		{
-			PhysicsObjectDesc
-			{
-				type 				"kinematic"
-				group_id 			"ghost_building"
-				physics_material 	"default"
-				Shapes
-				{
-					PhysicsBoxShape
-					{
-						x	2
-						y	2
-						z	2
-					}
-				}
-			}
-		}
-	}
-
-	GridCullerDesc
-	{
-		Shapes
-		{
-			PhysicsBoxShape
-			{
-				x	2
-				y	2
-				z	2
-			}
-		}
-	}
-
-	DisplayRadiusDesc
-	{
-		max_radius 30
 	}
 }

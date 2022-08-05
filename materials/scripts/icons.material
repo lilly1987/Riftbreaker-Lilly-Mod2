@@ -139,3 +139,59 @@ material gui/hud/building_icons/tower_static_lancer_lvl3_disabled : gui/default
 {
 	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_static_lancer_lvl3_disabled.dds
 }
+
+///
+
+
+material gui/hud/building_icons/tower_basic_cryo : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_cryo.dds
+}
+material gui/hud/building_icons/tower_basic_cryo_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_cryo_disabled.dds
+}
+
+material gui/hud/building_icons/tower_basic_cryo_lvl2 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_cryo_lvl2.dds
+}
+material gui/hud/building_icons/tower_basic_cryo_lvl2_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_cryo_lvl2_disabled.dds	
+}
+
+material gui/hud/building_icons/tower_basic_cryo_lvl3 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_cryo_lvl3.dds
+}
+material gui/hud/building_icons/tower_basic_cryo_lvl3_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_cryo_lvl3_disabled.dds
+}
+material gui/hud/building_icons/tower_basic_tox : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_tox.dds
+}
+
+material gui/hud/building_icons/tower_basic_tox_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_tox_disabled.dds
+}
+
+material gui/hud/building_icons/tower_basic_tox_lvl2 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_tox_lvl2.dds
+}
+material gui/hud/building_icons/tower_basic_tox_lvl2_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_tox_lvl2_disabled.dds	
+}
+
+material gui/hud/building_icons/tower_basic_tox_lvl3 : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_tox_lvl3.dds
+}
+material gui/hud/building_icons/tower_basic_tox_lvl3_disabled : gui/default
+{
+	set_texture_alias diffuse			materials/textures/gui/hud/building_icons/tower_basic_tox_lvl3_disabled.dds

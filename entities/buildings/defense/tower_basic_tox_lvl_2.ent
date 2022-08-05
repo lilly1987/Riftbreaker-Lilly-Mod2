@@ -9,7 +9,7 @@ EntityBlueprint
 		buildable			"0"
 		name 				"tower_basic_tox_lvl_2"
 		bp   				"buildings/defense/tower_basic_tox_lvl_2"
-		ghost_bp   			"buildings/defense/tower_basic_lvl_2_ghost"
+//		ghost_bp   			"buildings/defense/tower_basic_lvl_2_ghost"
 		category 			"defense"
 		localization_id		"Poisoned Sentineltower"
 		description			"A Sentineltower that use poisoned ammonion"
@@ -214,54 +214,4 @@ EntityBlueprint
 		collision_3d 			"world|world_blocker|destructible|ground_unit|hitbox|shield"
 	}
 }
-
-EntityBlueprint
-{
-	name "buildings/defense/tower_basic_lvl_2_ghost"
-
-	MeshDesc
-	{
-		mesh "meshes/buildings/defense/tower_basic_lvl_2.mesh"
-		material "selector/hologram_blue"
-	}
-
-	PhysicsDesc
-	{
-		objects
-		{
-			PhysicsObjectDesc
-			{
-				type 				"kinematic"
-				group_id 			"ghost_building"
-				physics_material 	"default"
-				Shapes
-				{
-					PhysicsBoxShape
-					{
-						x	2
-						y	2
-						z	2
-					}
-				}
-			}
-		}
-	}
-
-	GridCullerDesc
-	{
-		Shapes
-		{
-			PhysicsBoxShape
-			{
-				x	2
-				y	2
-				z	2
-			}
-		}
-	}
-
-	DisplayRadiusDesc
-	{
-		max_radius 30
-	}
 }

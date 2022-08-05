@@ -6,7 +6,7 @@ EntityBlueprint
 	{
 		name 				"tower_basic_tox"
 		bp   				"buildings/defense/tower_basic_tox"
-		ghost_bp   			"buildings/defense/tower_basic_ghost"
+	//	ghost_bp   			"buildings/defense/tower_basic_ghost"
 		category 			"defense"
 		localization_id		"Poisoned Sentineltower"
 		description			"A Sentineltower that use poisoned ammonion"
@@ -16,7 +16,7 @@ EntityBlueprint
 		type				"tower"
 		overrides			"wall,tower"
 		upgrade				"buildings/defense/tower_basic_tox_lvl_2"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+	//	exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 		costs
 		{
@@ -177,7 +177,7 @@ EntityBlueprint
 			x "1"
 			y "1"
 		}
-		visibility			"discovered"
+		visibility			"always"
 	}
 
 	FogOfWarRevealerComponentDesc
@@ -268,14 +268,14 @@ EntityBlueprint
 
 	TurretDesc
 	{
-		target "ground_unit"
-		target_ignore "invisible|air_unit"
+		target "ground_unit|air_unit"
+		target_ignore "invisible"
 		speed "300"
 		aim_volume "SphericalAimVolume"
 		{
 			range_min "0"
-			range_max "34"
-			aiming_range "40"
+			range_max "68"
+			aiming_range "74"
 		}
 
 		aiming_cooldown "1"
@@ -412,57 +412,6 @@ EntityBlueprint
 				}
 			}
 		}
-	}
-}
-
-EntityBlueprint
-{
-	name "buildings/survival/defense/survival_tower_basic_ghost"
-
-	MeshDesc
-	{
-		mesh "meshes/buildings/defense/tower_basic_lvl_1.mesh"
-		material "selector/hologram_blue"
-	}
-
-	PhysicsDesc
-	{
-		objects
-		{
-			PhysicsObjectDesc
-			{
-				type 				"kinematic"
-				group_id 			"ghost_building"
-				physics_material 	"default"
-				Shapes
-				{
-					PhysicsBoxShape
-					{
-						x	2
-						y	2
-						z	2
-					}
-				}
-			}
-		}
-	}
-
-	GridCullerDesc
-	{
-		Shapes
-		{
-			PhysicsBoxShape
-			{
-				x	2
-				y	2
-				z	2
-			}
-		}
-	}
-
-	DisplayRadiusDesc
-	{
-		max_radius 30
 	}
 }
 
