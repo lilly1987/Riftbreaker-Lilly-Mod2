@@ -43,19 +43,19 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"energy"
-				value	"120"
+				value	"240"
 			}
 
 			GameplayResource
 			{
 				resource 			"carbonium"
-				value	"2"
+				value	"4"
 			}
 			
 			GameplayResource
 			{
 				resource 			"steel"
-				value	"2"
+				value	"4"
 			}
 
 		}
@@ -65,7 +65,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"ammo_manufacturing"
-				value				"2.5"
+				value				"5"
 			}					
 		}	
 		priority 5

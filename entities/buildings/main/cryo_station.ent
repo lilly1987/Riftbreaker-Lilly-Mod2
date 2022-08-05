@@ -217,7 +217,7 @@ EntityBlueprint
 
 	FogOfWarRevealerComponentDesc
 	{
-		radius "30"
+		radius "60"
 	}
 
 	HealthBarDesc
