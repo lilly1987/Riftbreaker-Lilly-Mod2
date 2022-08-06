@@ -16,7 +16,7 @@ EntityBlueprint
 		upgrade				"buildings/resources/carbonium_synthesizer_lvl_3"		
 		require 			"headquarters"
 		buildable			"0"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		
 		
 		costs

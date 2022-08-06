@@ -17,7 +17,7 @@ EntityBlueprint
 		type				"pipe"
 		//upgrade				"buildings/resources/hazenite_synthesizer_lvl_4"
 		buildable			"0"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 
 		costs

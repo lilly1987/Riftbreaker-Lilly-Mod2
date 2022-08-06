@@ -22,7 +22,7 @@ EntityBlueprint
 		upgrade				"buildings/resources/ferdonite_synthesizer_lvl_3"
 		order				"30"
 		buildable			"0"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 		costs
 		{

@@ -15,7 +15,7 @@ EntityBlueprint
 		type				"tower"
 		overrides			"tower,wall"
 		upgrade				"buildings/defense/tower_icelaser_lvl_2"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 		costs
 		{
@@ -227,8 +227,8 @@ EntityBlueprint
 		aim_volume "SphericalAimVolume"
 		{
 			range_min "0"
-			range_max "33"
-			aiming_range "40"
+			range_max "66"
+			aiming_range "80"
 		}
 
 		aiming_cooldown "1"

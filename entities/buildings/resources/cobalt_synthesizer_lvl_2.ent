@@ -17,7 +17,7 @@ EntityBlueprint
 		order				"4"
 		upgrade				"buildings/resources/cobalt_synthesizer_lvl_3"			
 		buildable			"0"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 		costs
 		{

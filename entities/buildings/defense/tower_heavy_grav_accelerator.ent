@@ -15,7 +15,7 @@ EntityBlueprint
 		type				"tower"
 		overrides			"tower,wall"
 		upgrade				"buildings/defense/tower_heavy_grav_accelerator_lvl_2"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 		costs
 		{
@@ -266,9 +266,9 @@ EntityBlueprint
 		speed "80"
 		aim_volume "SphericalAimVolume"
 		{
-			range_min "25"
-			range_max "160"
-			aiming_range "170"
+			range_min "12.5"
+			range_max "320"
+			aiming_range "340"
 		}
 
 		aiming_cooldown "1"

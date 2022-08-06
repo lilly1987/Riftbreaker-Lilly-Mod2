@@ -15,7 +15,7 @@ EntityBlueprint
 		menu_icon			"gui/hud/building_icons/solid_material_storage_lvl2"
 		require 			"headquarters"
 		upgrade				"buildings/resources/solid_material_storage_lvl_3"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 					
 		costs
 		{

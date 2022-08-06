@@ -13,7 +13,7 @@ EntityBlueprint
 		order				"6"
 		upgrade				"buildings/energy/plant_biomass_powerplant_lvl_2"		
 		require 			"headquarters"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		going_green_state	"2"
 build_on_water			"1"
 		

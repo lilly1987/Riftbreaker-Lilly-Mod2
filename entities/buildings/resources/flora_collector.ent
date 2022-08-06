@@ -13,7 +13,7 @@ EntityBlueprint
 		require 			"headquarters"
 		order				"13"
 		upgrade				"buildings/resources/flora_collector_lvl_2"		
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"		
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"		
 		build_on_water			"1"
 		
 		costs

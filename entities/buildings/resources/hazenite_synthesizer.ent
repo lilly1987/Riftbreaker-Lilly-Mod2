@@ -15,7 +15,7 @@ EntityBlueprint
 		order				"31"
 		type				"pipe"
 		upgrade				"buildings/resources/hazenite_synthesizer_lvl_2"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 
 		costs

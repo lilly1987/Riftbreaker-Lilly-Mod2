@@ -15,7 +15,7 @@ EntityBlueprint
 		type				"tower"
 		overrides			"wall,tower"
 		upgrade				"buildings/defense/tower_shotgun_lvl_2"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 
 		costs
@@ -214,9 +214,9 @@ EntityBlueprint
 		find_type	"farthest"
 		aim_volume "SphericalAimVolume"
 		{
-			range_min "2"
-			range_max "25"
-			aiming_range "30"
+			range_min "1"
+			range_max "50"
+			aiming_range "60"
 		}
 
 		aiming_cooldown "1"

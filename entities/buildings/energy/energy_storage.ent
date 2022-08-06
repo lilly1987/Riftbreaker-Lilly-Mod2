@@ -13,7 +13,7 @@ EntityBlueprint
 		require 			"headquarters"
 		upgrade				"buildings/energy/energy_storage_lvl_2"
 		order				"2"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 build_on_water			"1"
 		
 		costs

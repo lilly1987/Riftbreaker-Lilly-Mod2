@@ -13,7 +13,7 @@ EntityBlueprint
 		require 			"headquarters"
 		order				"17"
 		upgrade				"buildings/defense/short_range_radar_lvl_2"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 		costs
 		{

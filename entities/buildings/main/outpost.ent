@@ -23,7 +23,7 @@ EntityBlueprint
 		radius_name			"portal"
 		min_radius			"40"
 		menu_action			"inventory"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		build_on_water			"1"
 		
 		costs

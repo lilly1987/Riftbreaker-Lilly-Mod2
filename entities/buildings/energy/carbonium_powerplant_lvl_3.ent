@@ -16,7 +16,7 @@ EntityBlueprint
 		order				"3"
 		//upgrade				"buildings/energy/carbonium_powerplant_lvl_4"		
 		require 			"headquarters"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		going_green_state	"1"
 		
 		costs

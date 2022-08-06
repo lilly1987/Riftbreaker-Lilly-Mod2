@@ -2,6 +2,8 @@
  
 The_Riftbreaker_1.31533_(57451)_win_gog
 
+# memo
+
 # 스토리 시작시
 lua\missions\campaigns\story\v2\headquarters\headquarters.lua
     logic/missions/campaigns/story/headquarters.logic
@@ -18,12 +20,17 @@ lua\missions\campaigns\story\v2\headquarters\headquarters.lua
 			lua/missions/v2/dom_manager.lua
 		campaigns/survival/jungle.campaign # 업그레이드 참조 관련
 
-
+#
 main_menu.dat
 	BUTTON_survival                         "gui/menu/new_survival"
-	
-	
--*.entx|-*.ent|-*.scene|-*.csv|-*.pu|-*.material|-*.mesh
 
+
+#-
+*.entx|-*.ent|-*.scene|-*.csv|-*.pu|-*.material|-*.mesh
+
+#
 health(\s*)"([1-9]\d*)"
 health$1"${2}0"
+
+#
+debug_recreate_buildings 1

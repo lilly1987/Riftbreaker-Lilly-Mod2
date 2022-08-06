@@ -15,7 +15,7 @@ EntityBlueprint
 		menu_icon			"gui/hud/building_icons/gas_powerplant_lvl3"
 		type				"pipe"
 		require 			"headquarters"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		//upgrade				"buildings/energy/gas_powerplant_lvl_4"		
 		going_green_state	"1"
 		overrides			"pipe_ground,pipe_connector_t,pipe_connector_x,pipe_corner,pipeline,pipe_straight_windowless"

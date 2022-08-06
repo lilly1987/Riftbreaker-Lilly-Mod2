@@ -17,7 +17,7 @@ EntityBlueprint
 		order				"24"
 		upgrade				"buildings/resources/titanium_synthesizer_lvl_3"		
 		require 			"headquarters"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		going_green_state	"1"
 		
 		costs

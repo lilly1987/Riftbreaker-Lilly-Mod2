@@ -13,7 +13,7 @@ EntityBlueprint
 		require 			"headquarters"
 		order				"4"
 		upgrade				"buildings/defense/ai_hub_lvl_2"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		build_on_water			"1"
 		
 		costs

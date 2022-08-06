@@ -16,7 +16,7 @@ EntityBlueprint
 		order				"32"
 		buildable			"0"
 		//upgrade			"buildings/resources/tanzanite_synthesizer_lvl_4"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 		costs
 		{

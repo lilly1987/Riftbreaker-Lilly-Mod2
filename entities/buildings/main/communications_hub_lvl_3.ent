@@ -19,7 +19,7 @@ EntityBlueprint
 		require 			"headquarters"
 		upgrade				"buildings/main/communications_hub_lvl_4"
 		menu_action 		"research"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		build_on_water			"1"
 		
 		costs

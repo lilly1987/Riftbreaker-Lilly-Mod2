@@ -15,7 +15,7 @@ EntityBlueprint
 		type				"tower"
 		overrides			"wall,tower"
 		upgrade				"buildings/defense/tower_mine_layer_lvl_2"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 
 		costs

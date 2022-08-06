@@ -13,7 +13,7 @@ EntityBlueprint
 		order				"19"
 		upgrade				"buildings/resources/carbonium_synthesizer_lvl_2"		
 		require 			"headquarters"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		
 		costs
 		{
