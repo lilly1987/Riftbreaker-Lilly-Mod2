@@ -2815,6 +2815,12 @@ Research
 							is_visible "1"
 						}
 
+						ResearchAward
+						{
+						  blueprint "buildings/resources/bio_composter_lvl_3"
+						  is_visible "1"
+						}
+					
 					}
 
 					icon "gui/menu/research/icons/gas_energy"
@@ -3488,7 +3494,12 @@ Research
 							blueprint "buildings/resources/gas_filtering_plant_lvl_2"
 							is_visible "1"
 						}
-
+						
+						ResearchAward
+				    {
+				      blueprint "buildings/resources/bio_composter_lvl_2"
+				      is_visible "1"
+				    }
 					}
 
 					icon "gui/menu/research/icons/gas_energy"
@@ -5136,7 +5147,7 @@ Research
 					position
 					{
 						x "540.000"
-						y "63.000"
+						y "103.000"
 					}
 
 					research_awards
@@ -5194,7 +5205,7 @@ Research
 					position
 					{
 						x "540.000"
-						y "279.000"
+						y "259.000"
 					}
 
 					research_awards
@@ -5252,7 +5263,7 @@ Research
 					position
 					{
 						x "540.000"
-						y "342.000"
+						y "322.000"
 					}
 
 					research_awards
@@ -5311,7 +5322,7 @@ Research
 					position
 					{
 						x "486.000"
-						y "63.000"
+						y "103.000"
 					}
 
 					research_awards
@@ -5381,7 +5392,7 @@ Research
 					position
 					{
 						x "486.000"
-						y "279.000"
+						y "259.000"
 					}
 
 					research_awards
@@ -5445,7 +5456,7 @@ Research
 					position
 					{
 						x "486.000"
-						y "342.000"
+						y "322.000"
 					}
 
 					research_awards
@@ -5508,8 +5519,8 @@ Research
 					research_scripts
 					position
 					{
-						x "297.000"
-						y "135.000"
+						x "267.000"
+						y "125.000"
 					}
 
 					research_awards
@@ -5566,8 +5577,8 @@ Research
 					research_scripts
 					position
 					{
-						x "297.000"
-						y "270.000"
+						x "267.000"
+						y "260.000"
 					}
 
 					research_awards
@@ -5624,8 +5635,8 @@ Research
 					research_scripts
 					position
 					{
-						x "297.000"
-						y "342.000"
+						x "267.000"
+						y "332.000"
 					}
 
 					research_awards
@@ -15822,136 +15833,6 @@ Research
 /////////////////////
 
 
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/gas_energy_lvl1"
-							research_category "gui/menu/research/category_base_buildings"
-						}
-
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/resource_handling_liquid_lvl2"
-							research_category "gui/menu/research/category_base_buildings"
-						}
-
-					}
-
-					research_name "gui/menu/research/name/gas_energy_lvl2"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "250.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "234.000"
-						y "-9.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/energy/gas_powerplant_lvl_2"
-							is_visible "1"
-						}
-
-						ResearchAward
-				    {
-				      blueprint "buildings/resources/bio_composter_lvl_2"
-				      is_visible "1"
-				    }
-
-						ResearchAward
-						{
-							blueprint "buildings/resources/gas_filtering_plant_lvl_2"
-							is_visible "1"
-						}
-
-					}
-
-					icon "gui/menu/research/icons/energy"
-				}
-
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/gas_energy_lvl2"
-							research_category "gui/menu/research/category_base_buildings"
-						}
-
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/resource_handling_liquid_lvl3"
-							research_category "gui/menu/research/category_base_buildings"
-						}
-
-					}
-
-					research_name "gui/menu/research/name/gas_energy_lvl3"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "500.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "234.000"
-						y "135.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/energy/gas_powerplant_lvl_3"
-							is_visible "1"
-						}
-
-						ResearchAward
-				    {
-				      blueprint "buildings/resources/bio_composter_lvl_3"
-				      is_visible "1"
-				    }
-
-						ResearchAward
-						{
-							blueprint "buildings/resources/gas_filtering_plant_lvl_3"
-							is_visible "1"
-						}
-
-					}
-
-					icon "gui/menu/research/icons/energy"
-				}
-
-
 
 				ResearchNode
 				{
@@ -16300,11 +16181,11 @@ Research
 					requirement_tooltip
 					requirements
 					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/environmental_shielding_acid"
-							research_category "gui/menu/research/category_alien"
-						}
+						//ResearchNodeRequirement
+						//{
+						//	research_name "gui/menu/research/name/environmental_shielding_acid"
+						//	research_category "gui/menu/research/category_alien"
+						//}
 
 						ResearchNodeRequirement
 						{
@@ -16329,8 +16210,8 @@ Research
 					research_scripts
 					position
 					{
-						x "-333.000"
-						y "-180.000"
+						x "-310.000"
+						y "-200.000"
 					}
 
 					research_awards
@@ -16381,8 +16262,8 @@ Research
 					research_scripts
 					position
 					{
-						x "-333.000"
-						y "-36.000"
+						x "-310.000"
+						y "-56.000"
 					}
 
 					research_awards
@@ -16433,8 +16314,8 @@ Research
 					research_scripts
 					position
 					{
-						x "-333.000"
-						y "108.000"
+						x "-310.000"
+						y "88.000"
 					}
 
 					research_awards
@@ -16480,8 +16361,8 @@ Research
 					research_scripts
 					position
 					{
-						x "-144.000"
-						y "-99.000"
+						x "-164.000"
+						y "-140.000"
 					}
 
 					research_awards
@@ -16538,7 +16419,7 @@ Research
 					research_scripts
 					position
 					{
-						x "-144.000"
+						x "-164.000"
 						y "108.000"
 					}
 
@@ -16596,7 +16477,7 @@ Research
 					research_scripts
 					position
 					{
-						x "-144.000"
+						x "-164.000"
 						y "261.000"
 					}
 
@@ -16797,11 +16678,11 @@ Research
 		      requirement_tooltip
 		      requirements
 		      {
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/environmental_shielding_heat"
-		          research_category "gui/menu/research/category_alien"
-		        }
+		        //ResearchNodeRequirement
+		        //{
+		        //  research_name "gui/menu/research/name/environmental_shielding_heat"
+		        //  research_category "gui/menu/research/category_alien"
+		        //}
 
 		        ResearchNodeRequirement
 		        {
@@ -18240,6 +18121,54 @@ Research
 
 		    // Download Research - More Cryo Station Levels
 
+
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip "gui/menu/research/tooltip_requirement_objective"
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/alien_research_lvl1"
+							research_category "gui/menu/research/category_alien"
+						}
+
+					}
+
+					research_name "gui/menu/research/name/cryo_technology"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "75.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "27.000"
+						y "-297.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/main/cryo_station"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/cryo_technology"
+				}
+
+
 		    ResearchNode
 		    {
 		      research_flags
@@ -18430,202 +18359,6 @@ Research
 		      }
 
 		    icon "gui/menu/research/icons/energy"
-		    }
-
-		    ResearchNode
-		    {
-		      research_flags
-		      requirement_tooltip
-		      requirements
-		      {
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/ionizer"
-		          research_category "gui/menu/research/category_alien"
-		        }
-
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/alien_research_lvl3"
-		          research_category "gui/menu/research/category_alien"
-		        }
-		      }
-
-		      research_name "gui/menu/research/name/ionizer_lvl_2"
-		      research_costs
-		      {
-		        ResearchCost
-		        {
-		          amount "0.000"
-		          resource "download"
-		          count "2200.000"
-		        }
-		      }
-
-		      research_scripts
-		      position
-		      {
-		        x "176.000"
-		        y "-369.000"
-		      }
-
-		      research_awards
-		      {
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/ionizer_lvl_2"
-		          is_visible "1"
-		        }
-		      }
-
-		    icon "gui/menu/research/icons/resource"
-		    }
-
-		    ResearchNode
-		    {
-		      research_flags
-		      requirement_tooltip
-		      requirements
-		      {
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/ionizer_lvl_2"
-		          research_category "gui/menu/research/category_mod"
-		        }
-
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/alien_research_lvl4"
-		          research_category "gui/menu/research/category_alien"
-		        }
-		      }
-
-		      research_name "gui/menu/research/name/ionizer_lvl_3"
-		      research_costs
-		      {
-		        ResearchCost
-		        {
-		          amount "0.000"
-		          resource "download"
-		          count "5000.000"
-		        }
-		      }
-
-		      research_scripts
-		      position
-		      {
-		        x "176.000"
-		        y "-305.000"
-		      }
-
-		      research_awards
-		      {
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/ionizer_lvl_3"
-		          is_visible "1"
-		        }
-		      }
-
-		    icon "gui/menu/research/icons/resource"
-		    }
-
-		    ResearchNode
-		    {
-		      research_flags
-		      requirement_tooltip
-		      requirements
-		      {
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/alien_research_lvl3"
-		          research_category "gui/menu/research/category_alien"
-		        }
-
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/supercooling"
-		          research_category "gui/menu/research/category_alien"
-		        }
-		      }
-
-		      research_name "gui/menu/research/name/supercooling_lvl_2"
-		      research_costs
-		      {
-		        ResearchCost
-		        {
-		          amount "0.000"
-		          resource "download"
-		          count "1600.000"
-		        }
-		      }
-
-		      research_scripts
-		      position
-		      {
-		        x "240.000"
-		        y "-369.000"
-		      }
-
-		      research_awards
-		      {
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/supercoolant_refinery_lvl_2"
-		          is_visible "1"
-		        }
-		      }
-
-		    icon "gui/menu/research/icons/resource"
-		    }
-
-		    ResearchNode
-		    {
-		      research_flags
-		      requirement_tooltip
-		      requirements
-		      {
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/alien_research_lvl4"
-		          research_category "gui/menu/research/category_alien"
-		        }
-
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/supercooling_lvl_2"
-		          research_category "gui/menu/research/category_mod"
-		        }
-		      }
-
-		      research_name "gui/menu/research/name/supercooling_lvl_3"
-		      research_costs
-		      {
-		        ResearchCost
-		        {
-		          amount "0.000"
-		          resource "download"
-		          count "3500.000"
-		        }
-		      }
-
-		      research_scripts
-		      position
-		      {
-		        x "240.000"
-		        y "-305.000"
-		      }
-
-		      research_awards
-		      {
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/supercoolant_refinery_lvl_3"
-		          is_visible "1"
-		        }
-		      }
-
-		    icon "gui/menu/research/icons/resource"
 		    }
 
 		    // Download Research - Specialized Storages
