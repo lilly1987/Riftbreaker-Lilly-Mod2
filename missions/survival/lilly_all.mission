@@ -176,12 +176,12 @@ biomes/lilly/tiles/resources/jungle_custom_swamp_01_2/jungle_custom_swamp_01.til
 
 	tile_spawn_rules
 	{
-		//biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
-		//{
-		//	min_instances	3
-		//	//max_instances	1
-		//	//random_weight	2.0
-		//}
+		biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
+		{
+			min_instances	3
+			//max_instances	1
+			//random_weight	2.0
+		}
 		//biomes/lilly/tiles/resources/acid_lakes_03_1/acid_lakes_03.tile
 		//{
 		//	min_instances	3
