@@ -42,3 +42,6 @@ health$1"${2}0"
 
 #
 debug_recreate_buildings 1
+
+
+EntityTemplate\n{\n\tbase_blueprint "props/rocks[.\n]+

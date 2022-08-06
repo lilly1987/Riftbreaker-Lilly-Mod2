@@ -50,6 +50,12 @@ biomes/lilly/tiles/water/jungle_lakes_01/jungle_lakes_01.tile
 biomes/lilly/tiles/water/magma_lakes_01/magma_lakes_01.tile
 biomes/lilly/tiles/water/metallic_lakes_01/metallic_lakes_01.tile
 biomes/lilly/tiles/water/metallic_lakes_02/metallic_lakes_02.tile
+
+biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
+biomes/lilly/tiles/resources/jungle_lakes_01/jungle_lakes_01.tile
+biomes/lilly/tiles/resources/metallic_lakes_01/metallic_lakes_01.tile
+biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
+
     }
 
 

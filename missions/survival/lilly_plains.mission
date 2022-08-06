@@ -66,6 +66,15 @@ biomes/lilly/tiles/sludge/magma_plains_03/magma_plains_03.tile
 biomes/lilly/tiles/water/magma_plains_01/magma_plains_01.tile
 biomes/lilly/tiles/water/magma_plains_02/magma_plains_02.tile
 biomes/lilly/tiles/water/magma_plains_03/magma_plains_03.tile
+
+biomes/lilly/tiles/plains/metallic_plains_01/metallic_plains_01.tile
+biomes/lilly/tiles/plains/metallic_plains_02/metallic_plains_02.tile
+biomes/lilly/tiles/plains/metallic_plains_03/metallic_plains_03.tile
+biomes/lilly/tiles/plains/metallic_plains_04/metallic_plains_04.tile
+biomes/lilly/tiles/plains/metallic_plains_05/metallic_plains_05.tile
+
+biomes/lilly/tiles/resources/magma_plains_01/magma_plains_01.tile
+
     }
 
 
