@@ -146,11 +146,13 @@ biomes/lilly/tiles/water/magma_plains_03/magma_plains_03.tile
 biomes/lilly/tiles/water/metallic_lakes_01/metallic_lakes_01.tile
 biomes/lilly/tiles/water/metallic_lakes_02/metallic_lakes_02.tile
 
+biomes/lilly/tiles/plains/metallic_plains_01/metallic_plains_01.tile
+
     }
 
 	//tile_spawn_rules
 	//{
-	//	biomes/lilly/tiles/magma/acid_lakes_03/acid_lakes_03.tile
+	//	biomes/lilly/tiles/plains/metallic_plains_01/metallic_plains_01.tile
 	//	{
 	//		min_instances	9
 	//		//max_instances	1
