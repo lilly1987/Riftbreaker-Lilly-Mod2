@@ -110,16 +110,16 @@ biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
 	
 	}
 
-	tile_spawn_rules
-	{	    
-	
-		biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
-		{
-			min_instances	9
-			//max_instances	1
-			//random_weight	2.0
-		}
-	}
+	//tile_spawn_rules
+	//{	    
+	//
+	//	biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
+	//	{
+	//		min_instances	9
+	//		//max_instances	1
+	//		//random_weight	2.0
+	//	}
+	//}
 
 
     ambient_creature_species
