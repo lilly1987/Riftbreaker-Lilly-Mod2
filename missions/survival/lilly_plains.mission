@@ -19,17 +19,7 @@ MissionDef
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
 	source_tiles
     {
-        //biomes/lilly/tiles/jungle_canyons_01/jungle_canyons_01.tile
-        //biomes/lilly/tiles/jungle_nest_01/jungle_nest_01.tile
-        //biomes/lilly/tiles/jungle_nest_02/jungle_nest_02.tile
-        //biomes/lilly/tiles/jungle_nest_03/jungle_nest_03.tile
-        //biomes/lilly/tiles/jungle_plains_01/jungle_plains_01.tile
-        //biomes/lilly/tiles/jungle_plains_02/jungle_plains_02.tile
-        //biomes/lilly/tiles/jungle_plains_03/jungle_plains_03.tile
-        //biomes/lilly/tiles/jungle_plains_04/jungle_plains_04.tile
-        //biomes/lilly/tiles/jungle_starting_01/jungle_starting_01.tile
-        //biomes/lilly/tiles/jungle_trees_01/jungle_trees_01.tile
-		
+
 		biomes/acid/tiles/acid_plains_01/acid_plains_01.tile
 		biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		biomes/acid/tiles/acid_plains_03/acid_plains_03.tile
@@ -53,19 +43,6 @@ MissionDef
 		biomes/metallic/tiles/metallic_plains_03/metallic_plains_03.tile
 		biomes/metallic/tiles/metallic_plains_04/metallic_plains_04.tile
 		biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
-		
-biomes/lilly/tiles/morphium/magma_plains_01/magma_plains_01.tile
-biomes/lilly/tiles/morphium/magma_plains_02/magma_plains_02.tile
-biomes/lilly/tiles/morphium/magma_plains_03/magma_plains_03.tile
-biomes/lilly/tiles/mud/magma_plains_01/magma_plains_01.tile
-biomes/lilly/tiles/mud/magma_plains_02/magma_plains_02.tile
-biomes/lilly/tiles/mud/magma_plains_03/magma_plains_03.tile
-biomes/lilly/tiles/sludge/magma_plains_01/magma_plains_01.tile
-biomes/lilly/tiles/sludge/magma_plains_02/magma_plains_02.tile
-biomes/lilly/tiles/sludge/magma_plains_03/magma_plains_03.tile
-biomes/lilly/tiles/water/magma_plains_01/magma_plains_01.tile
-biomes/lilly/tiles/water/magma_plains_02/magma_plains_02.tile
-biomes/lilly/tiles/water/magma_plains_03/magma_plains_03.tile
 
 biomes/lilly/tiles/plains/metallic_plains_01/metallic_plains_01.tile
 biomes/lilly/tiles/plains/metallic_plains_02/metallic_plains_02.tile
@@ -73,7 +50,10 @@ biomes/lilly/tiles/plains/metallic_plains_03/metallic_plains_03.tile
 biomes/lilly/tiles/plains/metallic_plains_04/metallic_plains_04.tile
 biomes/lilly/tiles/plains/metallic_plains_05/metallic_plains_05.tile
 
+
 biomes/lilly/tiles/resources/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/resources/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/resources/magma_plains_03/magma_plains_03.tile
 
     }
 

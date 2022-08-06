@@ -29,30 +29,10 @@ biomes/magma/tiles/magma_lakes_01/magma_lakes_01.tile
 biomes/metallic/tiles/metallic_lakes_01/metallic_lakes_01.tile
 biomes/metallic/tiles/metallic_lakes_02/metallic_lakes_02.tile
 
-biomes/lilly/tiles/magma/acid_lakes_03/acid_lakes_03.tile
-biomes/lilly/tiles/magma/jungle_lakes_01/jungle_lakes_01.tile
-biomes/lilly/tiles/magma/metallic_lakes_01/metallic_lakes_01.tile
-biomes/lilly/tiles/magma/metallic_lakes_02/metallic_lakes_02.tile
-biomes/lilly/tiles/morphium/acid_lakes_03/acid_lakes_03.tile
-biomes/lilly/tiles/morphium/jungle_lakes_01/jungle_lakes_01.tile
-biomes/lilly/tiles/morphium/magma_lakes_01/magma_lakes_01.tile
-biomes/lilly/tiles/mud/acid_lakes_03/acid_lakes_03.tile
-biomes/lilly/tiles/mud/jungle_custom_lake01/jungle_custom_lake01.tile
-biomes/lilly/tiles/mud/magma_lakes_01/magma_lakes_01.tile
-biomes/lilly/tiles/mud/metallic_lakes_01/metallic_lakes_01.tile
-biomes/lilly/tiles/mud/metallic_lakes_02/metallic_lakes_02.tile
-biomes/lilly/tiles/sludge/jungle_lakes_01/jungle_lakes_01.tile
-biomes/lilly/tiles/sludge/magma_lakes_01/magma_lakes_01.tile
-biomes/lilly/tiles/sludge/metallic_lakes_01/metallic_lakes_01.tile
-biomes/lilly/tiles/sludge/metallic_lakes_02/metallic_lakes_02.tile
-biomes/lilly/tiles/water/acid_lakes_03/acid_lakes_03.tile
-biomes/lilly/tiles/water/jungle_lakes_01/jungle_lakes_01.tile
-biomes/lilly/tiles/water/magma_lakes_01/magma_lakes_01.tile
-biomes/lilly/tiles/water/metallic_lakes_01/metallic_lakes_01.tile
-biomes/lilly/tiles/water/metallic_lakes_02/metallic_lakes_02.tile
-
 biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
+biomes/lilly/tiles/resources/jungle_custom_lake01/jungle_custom_lake01.tile
 biomes/lilly/tiles/resources/jungle_lakes_01/jungle_lakes_01.tile
+biomes/lilly/tiles/resources/magma_lakes_01/magma_lakes_01.tile
 biomes/lilly/tiles/resources/metallic_lakes_01/metallic_lakes_01.tile
 biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
 
