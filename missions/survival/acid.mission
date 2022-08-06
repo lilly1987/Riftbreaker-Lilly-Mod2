@@ -3,7 +3,7 @@ MissionDef
     script          "lua/missions/survival/survival_acid.lua"
 	localization_id	"campaigns/survival/acid.campaign"
 
-	map_size        "6"
+	map_size        "5"
     biomes          "acid"
 	
 	creature_volumes_min_distance   "128.0"

@@ -3,7 +3,7 @@ MissionDef
     script          "lua/missions/survival/survival_jungle.lua"
 	localization_id	"campaigns/survival/jungle.campaign"
 
-	map_size        "6"
+	map_size        "5"
 
     biomes          	"jungle"
 	

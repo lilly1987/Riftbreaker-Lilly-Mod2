@@ -3,7 +3,7 @@ MissionDef
     script          "lua/missions/survival/survival_magma.lua"
 	localization_id	"campaigns/survival/magma.campaign"
 
-	map_size        "6"
+	map_size        "5"
     biomes          "magma"
 	
 	creature_volumes_min_distance   "96.0"
