@@ -146,16 +146,16 @@ EntityBlueprint
 		speed "300"
 		aim_volume "SphericalAimVolume"
 		{
-			range_min "5"
-			range_max "720"
-			aiming_range "730"
+			range_min "12.5"
+			range_max "360"
+			aiming_range "380"
 		}
 
 		aiming_cooldown "1"
 		aiming_target_time "2"
 		aiming_idle_angle "20"
 		pitch "be_barrel"
-		gravity_factor "32"
+		gravity_factor "16"
 		yaw "be_turret"
 		check_target_visibility "1"
 		fog_of_war_filtering "1"
