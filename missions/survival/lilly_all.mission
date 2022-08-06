@@ -62,6 +62,7 @@ biomes/metallic/tiles/metallic_plains_02/metallic_plains_02.tile
 biomes/metallic/tiles/metallic_plains_03/metallic_plains_03.tile
 biomes/metallic/tiles/metallic_plains_04/metallic_plains_04.tile
 biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
+
 biomes/jungle/tiles/jungle_custom_canyon_04/jungle_custom_canyon_04.tile
 biomes/jungle/tiles/jungle_custom_canyon1/jungle_custom_canyon1.tile
 biomes/jungle/tiles/jungle_custom_canyon2/jungle_custom_canyon2.tile
@@ -74,9 +75,88 @@ biomes/jungle/tiles/jungle_custom_plains_04/jungle_custom_plains_04.tile
 biomes/jungle/tiles/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
 biomes/jungle/tiles/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
 biomes/jungle/tiles/jungle_custom_swamp_02/jungle_custom_swamp_02.tile
+
+biomes/lilly/tiles/magma/acid_lakes_03/acid_lakes_03.tile
+biomes/lilly/tiles/magma/desert_custom_rare_resource_01/desert_custom_rare_resource_01.tile
+biomes/lilly/tiles/magma/jungle_custom_canyon2/jungle_custom_canyon2.tile
+biomes/lilly/tiles/magma/jungle_custom_lake01/jungle_custom_lake01.tile
+biomes/lilly/tiles/magma/jungle_custom_meteor_2x2/jungle_custom_meteor_2x2.tile
+biomes/lilly/tiles/magma/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
+biomes/lilly/tiles/magma/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
+biomes/lilly/tiles/magma/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
+biomes/lilly/tiles/magma/jungle_lakes_01/jungle_lakes_01.tile
+biomes/lilly/tiles/magma/metallic_lakes_01/metallic_lakes_01.tile
+biomes/lilly/tiles/magma/metallic_lakes_02/metallic_lakes_02.tile
+biomes/lilly/tiles/morphium/acid_lakes_03/acid_lakes_03.tile
+biomes/lilly/tiles/morphium/desert_custom_rare_resource_01/desert_custom_rare_resource_01.tile
+biomes/lilly/tiles/morphium/jungle_custom_canyon2/jungle_custom_canyon2.tile
+biomes/lilly/tiles/morphium/jungle_custom_lake01/jungle_custom_lake01.tile
+biomes/lilly/tiles/morphium/jungle_custom_meteor_2x2/jungle_custom_meteor_2x2.tile
+biomes/lilly/tiles/morphium/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
+biomes/lilly/tiles/morphium/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
+biomes/lilly/tiles/morphium/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
+biomes/lilly/tiles/morphium/jungle_lakes_01/jungle_lakes_01.tile
+biomes/lilly/tiles/morphium/magma_canyons_01/magma_canyons_01.tile
+biomes/lilly/tiles/morphium/magma_canyons_02/magma_canyons_02.tile
+biomes/lilly/tiles/morphium/magma_lakes_01/magma_lakes_01.tile
+biomes/lilly/tiles/morphium/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/morphium/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/morphium/magma_plains_03/magma_plains_03.tile
+biomes/lilly/tiles/mud/acid_lakes_03/acid_lakes_03.tile
+biomes/lilly/tiles/mud/jungle_custom_lake01/jungle_custom_lake01.tile
+biomes/lilly/tiles/mud/magma_canyons_01/magma_canyons_01.tile
+biomes/lilly/tiles/mud/magma_canyons_02/magma_canyons_02.tile
+biomes/lilly/tiles/mud/magma_lakes_01/magma_lakes_01.tile
+biomes/lilly/tiles/mud/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/mud/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/mud/magma_plains_03/magma_plains_03.tile
+biomes/lilly/tiles/mud/metallic_lakes_01/metallic_lakes_01.tile
+biomes/lilly/tiles/mud/metallic_lakes_02/metallic_lakes_02.tile
+biomes/lilly/tiles/sludge/desert_custom_rare_resource_01/desert_custom_rare_resource_01.tile
+biomes/lilly/tiles/sludge/jungle_custom_canyon2/jungle_custom_canyon2.tile
+biomes/lilly/tiles/sludge/jungle_custom_lake01/jungle_custom_lake01.tile
+biomes/lilly/tiles/sludge/jungle_custom_meteor_2x2/jungle_custom_meteor_2x2.tile
+biomes/lilly/tiles/sludge/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
+biomes/lilly/tiles/sludge/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
+biomes/lilly/tiles/sludge/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
+biomes/lilly/tiles/sludge/jungle_lakes_01/jungle_lakes_01.tile
+biomes/lilly/tiles/sludge/magma_canyons_01/magma_canyons_01.tile
+biomes/lilly/tiles/sludge/magma_canyons_02/magma_canyons_02.tile
+biomes/lilly/tiles/sludge/magma_lakes_01/magma_lakes_01.tile
+biomes/lilly/tiles/sludge/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/sludge/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/sludge/magma_plains_03/magma_plains_03.tile
+biomes/lilly/tiles/sludge/metallic_lakes_01/metallic_lakes_01.tile
+biomes/lilly/tiles/sludge/metallic_lakes_02/metallic_lakes_02.tile
+biomes/lilly/tiles/water/acid_lakes_03/acid_lakes_03.tile
+biomes/lilly/tiles/water/desert_custom_rare_resource_01/desert_custom_rare_resource_01.tile
+biomes/lilly/tiles/water/jungle_custom_canyon2/jungle_custom_canyon2.tile
+biomes/lilly/tiles/water/jungle_custom_lake01/jungle_custom_lake01.tile
+biomes/lilly/tiles/water/jungle_custom_meteor_2x2/jungle_custom_meteor_2x2.tile
+biomes/lilly/tiles/water/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
+biomes/lilly/tiles/water/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
+biomes/lilly/tiles/water/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
+biomes/lilly/tiles/water/jungle_lakes_01/jungle_lakes_01.tile
+biomes/lilly/tiles/water/magma_canyons_01/magma_canyons_01.tile
+biomes/lilly/tiles/water/magma_canyons_02/magma_canyons_02.tile
+biomes/lilly/tiles/water/magma_lakes_01/magma_lakes_01.tile
+biomes/lilly/tiles/water/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/water/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/water/magma_plains_03/magma_plains_03.tile
+biomes/lilly/tiles/water/metallic_lakes_01/metallic_lakes_01.tile
+biomes/lilly/tiles/water/metallic_lakes_02/metallic_lakes_02.tile
+
     }
 
-
+	//tile_spawn_rules
+	//{
+	//	biomes/lilly/tiles/magma/acid_lakes_03/acid_lakes_03.tile
+	//	{
+	//		min_instances	9
+	//		//max_instances	1
+	//		//random_weight	2.0
+	//	}
+	//}
 	
 	//tile_spawn_rules
 	//{

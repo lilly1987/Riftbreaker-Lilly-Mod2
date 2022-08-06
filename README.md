@@ -2,6 +2,14 @@
  
 The_Riftbreaker_1.31533_(57451)_win_gog
 
+
+# include mod
+
+Jungle more Variation mod  
+https://www.nexusmods.com/theriftbreaker/mods/150  
+
+
+
 # memo
 
 # 스토리 시작시

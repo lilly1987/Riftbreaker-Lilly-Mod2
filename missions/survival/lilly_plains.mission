@@ -54,7 +54,18 @@ MissionDef
 		biomes/metallic/tiles/metallic_plains_04/metallic_plains_04.tile
 		biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		
-		
+biomes/lilly/tiles/morphium/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/morphium/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/morphium/magma_plains_03/magma_plains_03.tile
+biomes/lilly/tiles/mud/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/mud/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/mud/magma_plains_03/magma_plains_03.tile
+biomes/lilly/tiles/sludge/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/sludge/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/sludge/magma_plains_03/magma_plains_03.tile
+biomes/lilly/tiles/water/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/water/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/water/magma_plains_03/magma_plains_03.tile
     }
 
 
