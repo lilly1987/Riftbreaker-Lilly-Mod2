@@ -2,7 +2,7 @@ entity_count "226"
 //editor "index(2)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_sludge"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -379,7 +379,7 @@ EntityTemplate
 //editor "index(9)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_mud"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc

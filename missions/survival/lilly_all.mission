@@ -160,40 +160,35 @@ biomes/lilly/tiles/plains/metallic_plains_04/metallic_plains_04.tile
 biomes/lilly/tiles/plains/metallic_plains_05/metallic_plains_05.tile
 
 biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
-biomes/lilly/tiles/resources/acid_lakes_03_1/acid_lakes_03.tile
-biomes/lilly/tiles/resources/acid_lakes_03_2/acid_lakes_03.tile
+biomes/lilly/tiles/resources/desert_custom_rare_resource_01/desert_custom_rare_resource_01.tile
+biomes/lilly/tiles/resources/jungle_custom_canyon2/jungle_custom_canyon2.tile
+biomes/lilly/tiles/resources/jungle_custom_lake01/jungle_custom_lake01.tile
+biomes/lilly/tiles/resources/jungle_custom_meteor_2x2/jungle_custom_meteor_2x2.tile
+biomes/lilly/tiles/resources/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
+biomes/lilly/tiles/resources/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
+biomes/lilly/tiles/resources/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
 biomes/lilly/tiles/resources/jungle_lakes_01/jungle_lakes_01.tile
+biomes/lilly/tiles/resources/magma_canyons_01/magma_canyons_01.tile
+biomes/lilly/tiles/resources/magma_canyons_02/magma_canyons_02.tile
 biomes/lilly/tiles/resources/magma_custom_rare_resource_01/magma_custom_rare_resource_01.tile
+biomes/lilly/tiles/resources/magma_lakes_01/magma_lakes_01.tile
 biomes/lilly/tiles/resources/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/resources/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/resources/magma_plains_03/magma_plains_03.tile
 biomes/lilly/tiles/resources/metallic_lakes_01/metallic_lakes_01.tile
 biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
-biomes/lilly/tiles/resources/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
-biomes/lilly/tiles/resources/jungle_custom_swamp_01_1/jungle_custom_swamp_01.tile
-biomes/lilly/tiles/resources/jungle_custom_swamp_01_2/jungle_custom_swamp_01.tile
-
-
-    }
+	
+	}
 
 	tile_spawn_rules
-	{
+	{	    
+	
 		biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
 		{
-			min_instances	3
+			min_instances	9
 			//max_instances	1
 			//random_weight	2.0
 		}
-		//biomes/lilly/tiles/resources/acid_lakes_03_1/acid_lakes_03.tile
-		//{
-		//	min_instances	3
-		//	//max_instances	1
-		//	//random_weight	2.0
-		//}
-		//biomes/lilly/tiles/resources/acid_lakes_03_2/acid_lakes_03.tile
-		//{
-		//	min_instances	3
-		//	//max_instances	1
-		//	//random_weight	2.0
-		//}
 	}
 
 

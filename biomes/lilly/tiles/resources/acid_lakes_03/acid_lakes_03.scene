@@ -456,7 +456,7 @@ EntityTemplate
 //editor "index(1328)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_magma"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -2984,7 +2984,7 @@ EntityTemplate
 //editor "index(1381)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_morphium"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3039,7 +3039,7 @@ EntityTemplate
 //editor "index(1382)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_mud"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3094,7 +3094,7 @@ EntityTemplate
 //editor "index(1384)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_water"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3149,7 +3149,7 @@ EntityTemplate
 //editor "index(1385)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_sludge"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3204,7 +3204,7 @@ EntityTemplate
 //editor "index(1386)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_magma"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3259,7 +3259,7 @@ EntityTemplate
 //editor "index(1387)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_morphium"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3320,7 +3320,7 @@ EntityTemplate
 //editor "index(1388)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_mud"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3375,7 +3375,7 @@ EntityTemplate
 //editor "index(1438)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_water"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -4966,7 +4966,7 @@ EntityTemplate
 //editor "index(1537)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_sludge"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -5021,7 +5021,7 @@ EntityTemplate
 //editor "index(1538)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_magma"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -8406,7 +8406,7 @@ EntityTemplate
 //editor "index(1604)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_morphium"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12248,7 +12248,7 @@ EntityTemplate
 //editor "index(1703)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_mud"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12303,7 +12303,7 @@ EntityTemplate
 //editor "index(1704)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_water"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12358,7 +12358,7 @@ EntityTemplate
 //editor "index(1705)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_sludge"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12413,7 +12413,7 @@ EntityTemplate
 //editor "index(1706)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_magma"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12468,7 +12468,7 @@ EntityTemplate
 //editor "index(1707)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_morphium"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12523,7 +12523,7 @@ EntityTemplate
 //editor "index(1708)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_sludge"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc

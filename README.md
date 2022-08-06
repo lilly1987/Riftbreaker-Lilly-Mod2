@@ -45,3 +45,16 @@ debug_recreate_buildings 1
 
 
 EntityTemplate\n{\n\tbase_blueprint "props/rocks[.\n]+
+
+is_hidden "1"
+is_hidden "0"
+
+base_blueprint "resources/volume_resource.*"
+base_blueprint "resources/volume_random_resources_liquid"
+
+
+magma
+morphium
+mud
+sludge
+water
