@@ -4,14 +4,11 @@ MissionDef
 	localization_id	"campaigns/survival/lilly_all.campaign"
 	description		"lilly_all"
 	script_database
-    //{	 
-    //    //objective_tile         string:"biomes/desert/tiles/desert_custom_crystal_cave_01/desert_custom_crystal_cave_01.tile"
-    //    //objective_tile         string:"biomes/jungle/tiles/jungle_canyons_02/jungle_canyons_02.tile"
-    //    //objective_tile         string:"biomes/jungle/tiles/jungle_lakes_01/jungle_lakes_01.tile"
-    //    objective_tile         string:"biomes/jungle/tiles/jungle_canyons_03/jungle_canyons_03.tile"
-    //    objective_min_distance float:"0.0"
-    //    objective_max_distance float:"32.0"
-    //}
+    {	 
+        objective_tile         string:"biomes/lilly/tiles/resources/jungle_starting_01/jungle_starting_01.tile"
+        objective_min_distance float:"0.0"
+        objective_max_distance float:"32.0"
+    }
 	
 	map_size        "5"
 
@@ -88,6 +85,20 @@ biomes/jungle/tiles/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
 biomes/jungle/tiles/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
 biomes/jungle/tiles/jungle_custom_swamp_02/jungle_custom_swamp_02.tile
 
+biomes/lilly/tiles/plains/acid_plains_01/acid_plains_01.tile
+biomes/lilly/tiles/plains/acid_plains_02/acid_plains_02.tile
+biomes/lilly/tiles/plains/acid_plains_03/acid_plains_03.tile
+biomes/lilly/tiles/plains/desert_plains_01/desert_plains_01.tile
+biomes/lilly/tiles/plains/desert_plains_02/desert_plains_02.tile
+biomes/lilly/tiles/plains/desert_plains_03/desert_plains_03.tile
+biomes/lilly/tiles/plains/desert_plains_04/desert_plains_04.tile
+biomes/lilly/tiles/plains/jungle_plains_01/jungle_plains_01.tile
+biomes/lilly/tiles/plains/jungle_plains_02/jungle_plains_02.tile
+biomes/lilly/tiles/plains/jungle_plains_03/jungle_plains_03.tile
+biomes/lilly/tiles/plains/jungle_plains_04/jungle_plains_04.tile
+biomes/lilly/tiles/plains/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/plains/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/plains/magma_plains_03/magma_plains_03.tile
 biomes/lilly/tiles/plains/metallic_plains_01/metallic_plains_01.tile
 biomes/lilly/tiles/plains/metallic_plains_02/metallic_plains_02.tile
 biomes/lilly/tiles/plains/metallic_plains_03/metallic_plains_03.tile
@@ -113,13 +124,27 @@ biomes/lilly/tiles/liquid/magma_plains_03/magma_plains_03.tile
 biomes/lilly/tiles/liquid/metallic_lakes_01/metallic_lakes_01.tile
 biomes/lilly/tiles/liquid/metallic_lakes_02/metallic_lakes_02.tile
 	
+biomes/lilly/tiles/resources/acid_plains_01/acid_plains_01.tile
+biomes/lilly/tiles/resources/acid_plains_02/acid_plains_02.tile
+biomes/lilly/tiles/resources/acid_plains_03/acid_plains_03.tile
+biomes/lilly/tiles/resources/desert_plains_01/desert_plains_01.tile
+biomes/lilly/tiles/resources/desert_plains_02/desert_plains_02.tile
+biomes/lilly/tiles/resources/desert_plains_03/desert_plains_03.tile
+biomes/lilly/tiles/resources/desert_plains_04/desert_plains_04.tile
+biomes/lilly/tiles/resources/jungle_plains_01/jungle_plains_01.tile
+biomes/lilly/tiles/resources/jungle_plains_02/jungle_plains_02.tile
+biomes/lilly/tiles/resources/jungle_plains_03/jungle_plains_03.tile
+biomes/lilly/tiles/resources/jungle_plains_04/jungle_plains_04.tile
+biomes/lilly/tiles/resources/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/resources/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/resources/magma_plains_03/magma_plains_03.tile
 biomes/lilly/tiles/resources/metallic_plains_01/metallic_plains_01.tile
 biomes/lilly/tiles/resources/metallic_plains_02/metallic_plains_02.tile
 biomes/lilly/tiles/resources/metallic_plains_03/metallic_plains_03.tile
 biomes/lilly/tiles/resources/metallic_plains_04/metallic_plains_04.tile
 biomes/lilly/tiles/resources/metallic_plains_05/metallic_plains_05.tile
-biomes/lilly/tiles/resources/jungle_plains_01/jungle_plains_01.tile
-	
+biomes/lilly/tiles/resources/jungle_starting_01/jungle_starting_01.tile
+
 	}
 
 	tile_spawn_rules
