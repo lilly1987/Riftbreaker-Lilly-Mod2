@@ -17203,7 +17203,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "250.000"
 						}
 
@@ -17257,7 +17257,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "375.000"
 						}
 
@@ -17306,7 +17306,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "500.000"
 						}
 
@@ -17356,7 +17356,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "250.000"
 						}
 
@@ -17411,7 +17411,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "375.000"
 						}
 
@@ -17461,7 +17461,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "500.000"
 						}
 
@@ -17510,7 +17510,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "250.000"
 						}
 
@@ -17564,7 +17564,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "375.000"
 						}
 
@@ -17614,7 +17614,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "500.000"
 						}
 
@@ -17663,7 +17663,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "250.000"
 						}
 
@@ -17717,7 +17717,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "375.000"
 						}
 
@@ -17766,7 +17766,7 @@ Research
 						ResearchCost
 						{
 							amount "0.000"
-							resource "analysis"
+							resource "download"
 							count "500.000"
 						}
 
