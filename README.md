@@ -78,6 +78,10 @@ mud
 sludge
 water
 
+## 연구
+
+가로 최대 600
+세로 최대 
 
 ### 아이콘 크기
 
@@ -87,3 +91,17 @@ water
 ### 가운데 두번째
 		        x "-16.000"
 		        y "-305.000"
+				
+				
+				"648.000"
+				54
+				x "594.000" palladium_synthesizer
+				x "540.000" titanium_synthesizer
+				x "486.000" cobalt_synthesizer
+				432
+				
+				684	630	639	693
+				599	545	545	599
+				234
+				99
+				324

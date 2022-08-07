@@ -17212,8 +17212,8 @@ Research
 					research_scripts
 					position
 					{
-						x "-684.000"
-						y "-234.000"
+						x "-545.000"
+						y "-179.000"
 					}
 
 					research_awards
@@ -17266,8 +17266,8 @@ Research
 					research_scripts
 					position
 					{
-						x "-684.000"
-						y "-99.000"
+						x "-545.000"
+						y "-45.000"
 					}
 
 					research_awards
@@ -17315,8 +17315,8 @@ Research
 					research_scripts
 					position
 					{
-						x "-684.000"
-						y "324.000"
+						x "-545.000"
+						y "269.000"
 					}
 
 					research_awards
@@ -17365,8 +17365,8 @@ Research
 					research_scripts
 					position
 					{
-						x "-630.000"
-						y "-234.000"
+						x "-599.000"
+						y "-179.000"
 					}
 
 					research_awards
@@ -17420,8 +17420,8 @@ Research
 					research_scripts
 					position
 					{
-						x "-630.000"
-						y "-99.000"
+						x "-599.000"
+						y "-45.000"
 					}
 
 					research_awards
@@ -17470,8 +17470,8 @@ Research
 					research_scripts
 					position
 					{
-						x "-630.000"
-						y "324.000"
+						x "-599.000"
+						y "269.000"
 					}
 
 					research_awards
@@ -17519,8 +17519,8 @@ Research
 					research_scripts
 					position
 					{
-						x "639.000"
-						y "-234.000"
+						x "545.000"
+						y "-179.000"
 					}
 
 					research_awards
@@ -17573,8 +17573,8 @@ Research
 					research_scripts
 					position
 					{
-						x "639.000"
-						y "-99.000"
+						x "545.000"
+						y "-45.000"
 					}
 
 					research_awards
@@ -17623,8 +17623,8 @@ Research
 					research_scripts
 					position
 					{
-						x "639.000"
-						y "324.000"
+						x "545.000"
+						y "269.000"
 					}
 
 					research_awards
@@ -17672,8 +17672,8 @@ Research
 					research_scripts
 					position
 					{
-						x "693.000"
-						y "-234.000"
+						x "599.000"
+						y "-179.000"
 					}
 
 					research_awards
@@ -17726,8 +17726,8 @@ Research
 					research_scripts
 					position
 					{
-						x "693.000"
-						y "-99.000"
+						x "599.000"
+						y "-45.000"
 					}
 
 					research_awards
@@ -17775,8 +17775,8 @@ Research
 					research_scripts
 					position
 					{
-						x "693.000"
-						y "324.000"
+						x "599.000"
+						y "269.000"
 					}
 
 					research_awards
