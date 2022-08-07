@@ -60,6 +60,11 @@ health(\s*)"([1-9]\d*)"
 health$1"${2}0"
 
 #
+EntityTemplate\n\{\n\tbase_blueprint "props/rocks/([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
+EntityTemplate\n\{\n\tbase_blueprint "resources/volume_random_resources([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
+
+
+#
 debug_recreate_buildings 1
 
 
@@ -67,6 +72,8 @@ EntityTemplate\n{\n\tbase_blueprint "props/rocks[.\n]+
 
 is_hidden "1"
 is_hidden "0"
+
+base_blueprint "props/rocks
 
 base_blueprint "resources/volume_resource.*"
 base_blueprint "resources/volume_random_resources_liquid"

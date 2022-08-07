@@ -1,4 +1,33 @@
 entity_count "209"
+//editor "index(5)"
+
+//editor "index(11)"
+
+//editor "index(12)"
+
+//editor "index(13)"
+
+//editor "index(14)"
+
+//editor "index(15)"
+
+//editor "index(16)"
+
+//editor "index(17)"
+
+//editor "index(18)"
+
+//editor "index(20)"
+
+//editor "index(22)"
+
+//editor "index(23)"
+
+//editor "index(24)"
+
+//editor "index(25)"
+
+//editor "index(29)"
 
 //editor "index(33)"
 EntityTemplate
@@ -2492,6 +2521,225 @@ EntityTemplate
 
 }
 
+//editor "index(88)"
+
+//editor "index(89)"
+
+//editor "index(92)"
+
+//editor "index(93)"
+
+//editor "index(94)"
+
+//editor "index(95)"
+
+//editor "index(96)"
+
+//editor "index(97)"
+
+//editor "index(98)"
+
+//editor "index(99)"
+
+//editor "index(100)"
+
+//editor "index(101)"
+
+//editor "index(102)"
+
+//editor "index(103)"
+
+//editor "index(104)"
+
+//editor "index(105)"
+
+//editor "index(106)"
+
+//editor "index(107)"
+
+//editor "index(108)"
+
+//editor "index(109)"
+
+//editor "index(110)"
+
+//editor "index(111)"
+
+//editor "index(112)"
+
+//editor "index(113)"
+
+//editor "index(114)"
+
+//editor "index(115)"
+
+//editor "index(116)"
+
+//editor "index(117)"
+
+//editor "index(118)"
+
+//editor "index(119)"
+
+//editor "index(120)"
+
+//editor "index(121)"
+
+//editor "index(122)"
+
+//editor "index(123)"
+
+//editor "index(124)"
+
+//editor "index(125)"
+
+//editor "index(126)"
+
+//editor "index(127)"
+
+//editor "index(128)"
+
+//editor "index(129)"
+
+//editor "index(130)"
+
+//editor "index(131)"
+
+//editor "index(132)"
+
+//editor "index(133)"
+
+//editor "index(134)"
+
+//editor "index(135)"
+
+//editor "index(136)"
+
+//editor "index(137)"
+
+//editor "index(138)"
+
+//editor "index(139)"
+
+//editor "index(140)"
+
+//editor "index(141)"
+
+//editor "index(142)"
+
+//editor "index(143)"
+
+//editor "index(144)"
+
+//editor "index(145)"
+
+//editor "index(146)"
+
+//editor "index(147)"
+
+//editor "index(148)"
+
+//editor "index(149)"
+
+//editor "index(150)"
+
+//editor "index(151)"
+
+//editor "index(152)"
+
+//editor "index(153)"
+
+//editor "index(154)"
+
+//editor "index(155)"
+
+//editor "index(156)"
+
+//editor "index(157)"
+
+//editor "index(158)"
+
+//editor "index(159)"
+
+//editor "index(160)"
+
+//editor "index(161)"
+
+//editor "index(162)"
+
+//editor "index(163)"
+
+//editor "index(164)"
+
+//editor "index(165)"
+
+//editor "index(166)"
+
+//editor "index(167)"
+
+//editor "index(168)"
+
+//editor "index(169)"
+
+//editor "index(170)"
+
+//editor "index(171)"
+
+//editor "index(172)"
+
+//editor "index(173)"
+
+//editor "index(174)"
+
+//editor "index(175)"
+
+//editor "index(176)"
+
+//editor "index(177)"
+
+//editor "index(178)"
+
+//editor "index(180)"
+
+//editor "index(182)"
+
+//editor "index(186)"
+
+//editor "index(187)"
+
+//editor "index(188)"
+
+//editor "index(189)"
+
+//editor "index(191)"
+
+//editor "index(192)"
+
+//editor "index(193)"
+
+//editor "index(194)"
+
+//editor "index(195)"
+
+//editor "index(196)"
+
+//editor "index(197)"
+
+//editor "index(198)"
+
+//editor "index(199)"
+
+//editor "index(200)"
+
+//editor "index(201)"
+
+//editor "index(202)"
+
+//editor "index(203)"
+
+//editor "index(204)"
+
+//editor "index(205)"
 
 //editor "index(206)"
 EntityTemplate
@@ -4016,6 +4264,405 @@ EntityTemplate
 				x "-57.713"
 				y "0.003"
 				z "-57.584"
+			}
+
+		}
+
+	}
+
+}
+
+//editor "index(237)"
+EntityTemplate
+{
+	base_blueprint "volumes/air_path_blocker"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "volumes/air_path_blocker"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			position
+			{
+				x "-30.690"
+				y "-0.000"
+				z "22.473"
+			}
+
+			scale
+			{
+				x "15.827"
+				y "23.556"
+				z "9.745"
+			}
+
+		}
+
+	}
+
+}
+
+//editor "index(238)"
+EntityTemplate
+{
+	base_blueprint "volumes/air_path_blocker"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "volumes/air_path_blocker"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.906"
+				y "0.423"
+			}
+
+			position
+			{
+				x "-34.261"
+				y "-0.000"
+				z "30.945"
+			}
+
+			scale
+			{
+				x "15.827"
+				y "23.556"
+				z "9.745"
+			}
+
+		}
+
+	}
+
+}
+
+//editor "index(239)"
+EntityTemplate
+{
+	base_blueprint "volumes/air_path_blocker"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "volumes/air_path_blocker"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.500"
+				y "0.866"
+			}
+
+			position
+			{
+				x "-33.128"
+				z "17.078"
+			}
+
+			scale
+			{
+				x "15.827"
+				y "23.556"
+				z "9.745"
+			}
+
+		}
+
+	}
+
+}
+
+//editor "index(240)"
+EntityTemplate
+{
+	base_blueprint "volumes/air_path_blocker"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "volumes/air_path_blocker"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			position
+			{
+				x "22.896"
+				z "-5.675"
+			}
+
+			scale
+			{
+				x "14.141"
+				y "23.556"
+				z "13.145"
+			}
+
+		}
+
+	}
+
+}
+
+//editor "index(241)"
+EntityTemplate
+{
+	base_blueprint "volumes/air_path_blocker"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "volumes/air_path_blocker"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.500"
+				y "0.866"
+			}
+
+			position
+			{
+				x "33.373"
+				y "-0.000"
+				z "-37.600"
+			}
+
+			scale
+			{
+				x "15.827"
+				y "23.556"
+				z "9.745"
+			}
+
+		}
+
+	}
+
+}
+
+//editor "index(242)"
+EntityTemplate
+{
+	base_blueprint "volumes/air_path_blocker"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "volumes/air_path_blocker"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			position
+			{
+				x "44.410"
+				z "44.212"
+			}
+
+			scale
+			{
+				x "14.141"
+				y "23.556"
+				z "13.145"
+			}
+
+		}
+
+	}
+
+}
+
+//editor "index(243)"
+EntityTemplate
+{
+	base_blueprint "volumes/air_path_blocker"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "volumes/air_path_blocker"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			position
+			{
+				x "7.182"
+				z "38.126"
+			}
+
+			scale
+			{
+				x "9.789"
+				y "23.556"
+				z "10.393"
 			}
 
 		}
