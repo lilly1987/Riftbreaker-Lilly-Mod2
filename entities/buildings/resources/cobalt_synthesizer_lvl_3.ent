@@ -9,7 +9,7 @@ EntityBlueprint
 		name 				"cobalt_synthesizer_lvl_3"
 		bp   				"buildings/resources/cobalt_synthesizer_lvl_3"
 		ghost_bp   			"buildings/resources/cobalt_synthesizer_ghost"
-		category 			"resources"
+		category 			"resources_mod"
 		localization_id		"Cobalt Synthesizer"
 		description			"Synthesizes Cobalt from Energy. Can be used as an infinite source of Cobalt but consumes a lot of energy in the process which makes it not very economical."
 		menu_icon			"gui/hud/building_icons/cobalt_synthesizer_lvl_3"
@@ -53,6 +53,7 @@ EntityBlueprint
 				resource 			"cobalt"
 				value			 	"5"
 			}
+
 		}
 	
 		priority 2		

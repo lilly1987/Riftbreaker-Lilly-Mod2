@@ -5,11 +5,29 @@ The_Riftbreaker_1.31533_(57451)_win_gog
 
 # include mod
 
+Expanded Arsenal  
+https://www.nexusmods.com/theriftbreaker/mods/122  
+Extended Tower Arsenal 확장된 무기고  
+https://www.nexusmods.com/theriftbreaker/mods/106  
+
+Initial Radar Scan-fullmap  
+https://www.nexusmods.com/theriftbreaker/mods/147  
 Jungle more Variation mod  
 https://www.nexusmods.com/theriftbreaker/mods/150  
-No Random Weapon Stats
-https://www.nexusmods.com/theriftbreaker/mods/198
-
+Mod Compatibility Framework 모드 호환성 프레임워크  
+https://www.nexusmods.com/theriftbreaker/mods/141  
+More Towers 4 more Taktik  
+https://www.nexusmods.com/theriftbreaker/mods/84  
+New Mod Categories in the Build Menu 빌드 메뉴의 새로운 모드 카테고리  
+https://www.nexusmods.com/theriftbreaker/mods/101  
+Nite Synthesizers and Rare synthesizers v3.0  
+https://www.nexusmods.com/theriftbreaker/mods/114  
+No Random Weapon Stats  
+https://www.nexusmods.com/theriftbreaker/mods/198  
+Specialized Pumps
+https://www.nexusmods.com/theriftbreaker/mods/110
+Tower Pack - Awarded  
+https://www.nexusmods.com/theriftbreaker/mods/204  
 
 # memo
 
@@ -60,6 +78,8 @@ mud
 sludge
 water
 
+
+### 아이콘 크기
 
 ### 가운데 최상단 
 		        x "-16.000"

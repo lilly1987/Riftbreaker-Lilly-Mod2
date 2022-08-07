@@ -10,7 +10,7 @@ EntityBlueprint
 		name 				"titanium_synthesizer_lvl_2"
 		bp   				"buildings/resources/titanium_synthesizer_lvl_2"
 		ghost_bp   			"buildings/resources/titanium_synthesizer_ghost"
-		category 			"resources"
+		category 			"resources_mod"
 		localization_id		"Titanium Synthesizer"
 		description			"Synthesizes Titanium from Energy. Can be used as an infinite source of Titanium but consumes a lot of energy in the process which makes it not very economical."
 		menu_icon			"gui/hud/building_icons/titanium_synthesizer_lvl_2"

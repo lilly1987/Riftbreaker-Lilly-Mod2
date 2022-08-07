@@ -13,7 +13,7 @@ EntityBlueprint
 		name 				"ferdonite_synthesizer_lvl_2"
 		bp   				"buildings/resources/ferdonite_synthesizer_lvl_2"
 		ghost_bp   			"buildings/resources/ferdonite_synthesizer_ghost"
-		category 			"resources"
+		category 			"resources_mod"
 		//type				"pipe"
 		localization_id		"Ferdonite Synthesizer"
 		description			"Synthesizes ferdonite from energy. Can be used as an infinite source of ferdonite but consumes a lot of energy in the process which makes it not very economical."

@@ -9,7 +9,7 @@ EntityBlueprint
 		name 				"palladium_synthesizer_lvl_3"
 		bp   				"buildings/resources/palladium_synthesizer_lvl_3"
 		ghost_bp   			"buildings/resources/palladium_synthesizer_ghost"
-		category 			"resources"
+		category 			"resources_mod"
 		localization_id		"Palladium Synthesizer"
 		description			"Synthesizes Palladium from Energy. Can be used as an infinite source of Palladium but consumes a lot of energy in the process which makes it not very economical."
 		menu_icon			"gui/hud/building_icons/palladium_synthesizer_lvl_3"
@@ -54,6 +54,7 @@ EntityBlueprint
 				resource 			"palladium"
 				value			 	"5"
 			}
+			
 		}
 		priority 2		
 	}

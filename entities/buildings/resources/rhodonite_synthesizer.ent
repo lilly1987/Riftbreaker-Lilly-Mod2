@@ -7,7 +7,7 @@ EntityBlueprint
 		name 				"rhodonite_synthesizer"
 		bp   				"buildings/resources/rhodonite_synthesizer"
 		ghost_bp   			"buildings/resources/rhodonite_synthesizer_ghost"
-		category 			"resources"
+		category 			"resources_mod"
 		localization_id		"Rhodonite Synthesizer"
 		description			"Synthesizes rhodonite from energy. Can be used as an infinite source of rhodonite but consumes a lot of energy in the process which makes it not very economical."
 		menu_icon			"gui/hud/building_icons/rhodonite_synthesizer"

@@ -67,47 +67,47 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"cobalt"
-				value			 	"2"
+				value			 	"1"
 			}
 			GameplayResource
 			{
 				resource 			"palladium"
-				value			 	"2"
+				value			 	"1"
 			}
 			GameplayResource
 			{
 				resource 			"uranium"
-				value			 	"2"
+				value			 	"1"
 			}
 			GameplayResource
 			{
 				resource 			"titanium"
-				value			 	"2"
+				value			 	"1"
 			}
 			GameplayResource
 			{
 				resource 			"rhodonite"
-				value			 	"2"
+				value			 	"1"
 			}
 			GameplayResource
 			{
 				resource 			"tanzanite"
-				value			 	"2"
+				value			 	"1"
 			}
 			GameplayResource
 			{
 				resource 			"hazenite"
-				value			 	"2"
+				value			 	"1"
 			}
 			GameplayResource
 			{
 				resource 			"ferdonite"
-				value			 	"2"
+				value			 	"1"
 			}
 			GameplayResource
 			{
 				resource 			"biomass_plant"
-				value			 	"2"
+				value			 	"1"
 			}
 		}
 		

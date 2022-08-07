@@ -8,7 +8,7 @@ EntityBlueprint
 		name 				"hazenite_synthesizer_lvl_2"
 		bp   				"buildings/resources/hazenite_synthesizer_lvl_2"
 		ghost_bp   			"buildings/resources/hazenite_synthesizer_lvl_2_ghost"
-		category 			"resources"
+		category 			"resources_mod"
 		localization_id		"Hazenite Synthesizer"
 		description			"Synthesizes hazenite from energy. Can be used as an infinite source of hazenite but consumes a lot of energy in the process which makes it not very economical."
 		menu_icon			"gui/hud/building_icons/hazenite_synthesizer_lvl_2"

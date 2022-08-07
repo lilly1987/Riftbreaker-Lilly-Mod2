@@ -7,6 +7,676 @@ Research
 			category "gui/menu/research/category_base_buildings"
 			nodes
 			{
+			
+
+//////////////////////////////////////////////////////////////MODS_BASE_AND_BUILDINGS//////////////////////////////////////////////////////////
+				
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl4"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/resource_handling_cobalt"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl1"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+					}
+
+					research_name "gui/menu/research/name/cobalt_synthesizer"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "375.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "486.000"
+						y "-9.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/cobalt_synthesizer"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl5"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/cobalt_synthesizer"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl2"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+					}
+
+					research_name "gui/menu/research/name/cobalt_synthesizer_lvl_2"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "500.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "486.000"
+						y "135.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/cobalt_synthesizer_lvl_2"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl6"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/cobalt_synthesizer_lvl_2"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl3"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+					}
+
+					research_name "gui/menu/research/name/cobalt_synthesizer_lvl_3"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "625.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "486.000"
+						y "279.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/cobalt_synthesizer_lvl_3"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl4"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/resource_handling_titanium"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl1"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+					}
+
+					research_name "gui/menu/research/name/titanium_synthesizer"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "375.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "540.000"
+						y "-9.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/titanium_synthesizer"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl5"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/titanium_synthesizer"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl2"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+					}
+
+					research_name "gui/menu/research/name/titanium_synthesizer_lvl_2"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "500.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "540.000"
+						y "135.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/titanium_synthesizer_lvl_2"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl6"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/titanium_synthesizer_lvl_2"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl3"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+					}
+
+					research_name "gui/menu/research/name/titanium_synthesizer_lvl_3"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "625.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "540.000"
+						y "279.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/titanium_synthesizer_lvl_3"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl4"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/resource_handling_palladium"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl1"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+					}
+
+					research_name "gui/menu/research/name/palladium_synthesizer"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "375.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "594.000"
+						y "-9.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/palladium_synthesizer"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl5"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/palladium_synthesizer"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl2"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+					}
+
+					research_name "gui/menu/research/name/palladium_synthesizer_lvl_2"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "500.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "594.000"
+						y "135.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/palladium_synthesizer_lvl_2"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl6"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/palladium_synthesizer_lvl_2"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl3"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+					}
+
+					research_name "gui/menu/research/name/palladium_synthesizer_lvl_3"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "625.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "594.000"
+						y "279.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/palladium_synthesizer_lvl_3"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl4"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl1"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/nuclear_energy_lvl1"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+
+					}
+
+					research_name "gui/menu/research/name/uranium_synthesizer"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "375.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "648.000"
+						y "-9.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/uranium_synthesizer"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl5"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/uranium_synthesizer"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl2"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+					}
+
+					research_name "gui/menu/research/name/uranium_synthesizer_lvl_2"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "500.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "648.000"
+						y "135.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/uranium_synthesizer_lvl_2"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/headquarters_lvl6"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+							research_name "gui/menu/research/name/uranium_synthesizer_lvl_2"
+							research_category "gui/menu/research/category_base_buildings"
+						}
+						ResearchNodeRequirement
+						{
+						research_name "gui/menu/research/name/rare_element_mining_lvl3"
+						research_category "gui/menu/research/category_base_buildings"
+						}
+					}
+
+					research_name "gui/menu/research/name/uranium_synthesizer_lvl_3"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "625.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+						x "648.000"
+						y "279.000"
+					}
+
+					research_awards
+					{
+						ResearchAward
+						{
+							blueprint "buildings/resources/uranium_synthesizer_lvl_3"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/carbonium_synthesizer"
+				}
+
+
+//////////////////////////////////////////////////////////////MODS_BASE_AND_BUILDINGS//////////////////////////////////////////////////////////
+
+			
 				ResearchNode
 				{
 					research_flags
@@ -546,11 +1216,11 @@ Research
 							is_visible "1"
 						}
 						
-						ResearchAward
-						{
-							blueprint "resources/ammo_tower_high_caliber"
-							is_visible "1"
-						}
+						//ResearchAward
+						//{
+						//	blueprint "resources/ammo_tower_high_caliber"
+						//	is_visible "1"
+						//}
 						
 					}
 
@@ -5657,6 +6327,9 @@ Research
 
 					icon "gui/menu/research/icons/towers_heavy_artillery"
 				}
+
+
+////////////
 
 
 ////////////
@@ -17833,6 +18506,50 @@ Research
 		  category "gui/menu/research/category_mod"
 		  nodes
 		  {
+		  
+
+				ResearchNode
+				{
+					research_flags
+					requirement_tooltip
+					requirements
+					{
+
+					}
+
+					research_name "gui/menu/research/name/ammo_tower_high_caliber"
+					research_costs
+					{
+						ResearchCost
+						{
+							amount "0.000"
+							resource "download"
+							count "60.000"
+						}
+
+					}
+
+					research_scripts
+					position
+					{
+		        x "-60.000"
+		        y "-369.000"
+					}
+
+					research_awards
+					{
+
+						ResearchAward
+						{
+							blueprint "resources/ammo_tower_high_caliber"
+							is_visible "1"
+						}
+
+					}
+
+					icon "gui/menu/research/icons/tower_ammunition_handling"
+				}
+
 
 		    // Download Research - Extended Basic Defense
 
@@ -18178,7 +18895,7 @@ Research
 		        ResearchNodeRequirement
 		        {
 		          research_name "gui/menu/research/name/cryo_technology"
-		          research_category "gui/menu/research/category_alien"
+		          research_category "gui/menu/research/category_mod"
 		        }
 		      }
 
