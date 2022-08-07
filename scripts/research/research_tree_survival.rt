@@ -19269,60 +19269,60 @@ Research
 
 		    // Download Research - Specialized Pumps
 
-		    ResearchNode
-		    {
-		      research_flags
-		      requirement_tooltip
-		      requirements
-		      {
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/resource_handling_liquid_lvl3"
-		          research_category "gui/menu/research/category_base_buildings"
-		        }
-		      }
-
-		      research_name "gui/menu/research/name/special_pumps"
-		      research_costs
-		      {
-		        ResearchCost
-		        {
-		          amount "0.000"
-		          resource "download"
-		          count "625.000"
-		        }
-		      }
-
-		      research_scripts
-		      position
-		      {
-		        x "112.000"
-		        y "-369.000"
-		      }
-
-		      research_awards
-		      {
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/liquid_pump_magma"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/liquid_pump_mud"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/liquid_pump_sludge"
-		          is_visible "1"
-		        }
-		      }
-
-		    icon "gui/menu/research/icons/resource"
-		    }
+		    //ResearchNode
+		    //{
+		    //  research_flags
+		    //  requirement_tooltip
+		    //  requirements
+		    //  {
+		    //    ResearchNodeRequirement
+		    //    {
+		    //      research_name "gui/menu/research/name/resource_handling_liquid_lvl3"
+		    //      research_category "gui/menu/research/category_base_buildings"
+		    //    }
+		    //  }
+			//
+		    //  research_name "gui/menu/research/name/special_pumps"
+		    //  research_costs
+		    //  {
+		    //    ResearchCost
+		    //    {
+		    //      amount "0.000"
+		    //      resource "download"
+		    //      count "625.000"
+		    //    }
+		    //  }
+			//
+		    //  research_scripts
+		    //  position
+		    //  {
+		    //    x "112.000"
+		    //    y "-369.000"
+		    //  }
+			//
+		    //  research_awards
+		    //  {
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/resources/liquid_pump_magma"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/resources/liquid_pump_mud"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/resources/liquid_pump_sludge"
+		    //      is_visible "1"
+		    //    }
+		    //  }
+			//
+		    //icon "gui/menu/research/icons/resource"
+		    //}
 
 		    // Download Research - More Cryo Station Levels
 
