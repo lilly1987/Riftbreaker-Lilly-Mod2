@@ -60,7 +60,8 @@ health(\s*)"([1-9]\d*)"
 health$1"${2}0"
 
 #
-EntityTemplate\n\{\n\tbase_blueprint "props/rocks/([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
+EntityTemplate\n\{\n\tbase_blueprint "logic/spawn_player([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
+EntityTemplate\n\{\n\tbase_blueprint "props/rocks([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
 EntityTemplate\n\{\n\tbase_blueprint "resources/volume_random_resources([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
 
 

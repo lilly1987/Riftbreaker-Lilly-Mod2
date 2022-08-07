@@ -5,9 +5,9 @@ MissionDef
 	description		"lilly_all"
 	script_database
     {	 
-        objective_tile         string:"biomes/lilly/tiles/resources/jungle_starting_01/jungle_starting_01.tile"
+        objective_tile         string:"biomes/lilly/tiles/resources/jungle_starting_01_my/jungle_starting_01.tile"
         objective_min_distance float:"0.0"
-        objective_max_distance float:"32.0"
+        objective_max_distance float:"0.0"
     }
 	
 	map_size        "5"
@@ -144,6 +144,8 @@ biomes/lilly/tiles/resources/metallic_plains_03/metallic_plains_03.tile
 biomes/lilly/tiles/resources/metallic_plains_04/metallic_plains_04.tile
 biomes/lilly/tiles/resources/metallic_plains_05/metallic_plains_05.tile
 biomes/lilly/tiles/resources/jungle_starting_01/jungle_starting_01.tile
+
+biomes/lilly/tiles/resources/jungle_starting_01_my/jungle_starting_01.tile
 
 	}
 
