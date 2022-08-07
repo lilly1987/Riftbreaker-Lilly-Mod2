@@ -71,47 +71,47 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"cobalt"
-				value			 	"0.5"
+				value			 	"0.25"
 			}
 			GameplayResource
 			{
 				resource 			"palladium"
-				value			 	"0.5"
+				value			 	"0.25"
 			}
 			GameplayResource
 			{
 				resource 			"uranium"
-				value			 	"0.5"
+				value			 	"0.25"
 			}
 			GameplayResource
 			{
 				resource 			"titanium"
-				value			 	"0.5"
+				value			 	"0.25"
 			}
 			GameplayResource
 			{
 				resource 			"rhodonite"
-				value			 	"0.5"
+				value			 	"0.25"
 			}
 			GameplayResource
 			{
 				resource 			"tanzanite"
-				value			 	"0.5"
+				value			 	"0.25"
 			}
 			GameplayResource
 			{
 				resource 			"hazenite"
-				value			 	"0.5"
+				value			 	"0.25"
 			}
 			GameplayResource
 			{
 				resource 			"ferdonite"
-				value			 	"0.5"
+				value			 	"0.25"
 			}
 			GameplayResource
 			{
 				resource 			"biomass_plant"
-				value			 	"0.5"
+				value			 	".5"
 			}
 		}
 
@@ -125,7 +125,7 @@ EntityBlueprint
 			Storage
 			{
 				resource "energy"
-				max 	 "1000"
+				max 	 "10000"
 				distribution_radius	"2"
 			}
 			
@@ -139,27 +139,27 @@ EntityBlueprint
 			Storage
 			{
 				resource	 "ammo_tower_explosive"
-				max 	 	"1"
+				max 	 	"2"
 			}
 			Storage
 			{
 				resource	 "ammo_tower_liquid"
-				max 	 	"1"
+				max 	 	"2"
 			}
 			Storage
 			{
 				resource	 "ammo_tower_low_caliber"
-				max 	 	"1"
+				max 	 	"2"
 			}
 			Storage
 			{
 				resource	 "ammo_tower_high_caliber"
-				max 	 	"1"
+				max 	 	"2"
 			}
 			Storage
 			{
 				resource	"ai"
-				max			"4"
+				max			"16"
 			}
 		}
 	}

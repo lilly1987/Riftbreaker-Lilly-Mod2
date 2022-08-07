@@ -67,42 +67,42 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"cobalt"
-				value			 	"16"
+				value			 	"8"
 			}
 			GameplayResource
 			{
 				resource 			"palladium"
-				value			 	"16"
+				value			 	"8"
 			}
 			GameplayResource
 			{
 				resource 			"uranium"
-				value			 	"16"
+				value			 	"8"
 			}
 			GameplayResource
 			{
 				resource 			"titanium"
-				value			 	"16"
+				value			 	"8"
 			}
 			GameplayResource
 			{
 				resource 			"rhodonite"
-				value			 	"16"
+				value			 	"8"
 			}
 			GameplayResource
 			{
 				resource 			"tanzanite"
-				value			 	"16"
+				value			 	"8"
 			}
 			GameplayResource
 			{
 				resource 			"hazenite"
-				value			 	"16"
+				value			 	"8"
 			}
 			GameplayResource
 			{
 				resource 			"ferdonite"
-				value			 	"16"
+				value			 	"8"
 			}
 			GameplayResource
 			{
@@ -112,6 +112,52 @@ EntityBlueprint
 		}
 		
 		disableable 0
+	}
+
+	ResourceStorageDesc
+	{
+		Storages
+		{
+			Storage
+			{
+				resource "energy"
+				max 	 "320000"
+				distribution_radius	"2"
+			}
+			
+			Storage
+			{
+				group	 		"global"
+				subgroup		"base"
+				max 	 		"50"
+			}
+
+			Storage
+			{
+				resource	 "ammo_tower_explosive"
+				max 	 	"12"
+			}
+			Storage
+			{
+				resource	 "ammo_tower_liquid"
+				max 	 	"12"
+			}
+			Storage
+			{
+				resource	 "ammo_tower_low_caliber"
+				max 	 	"12"
+			}
+			Storage
+			{
+				resource	 "ammo_tower_high_caliber"
+				max 	 	"12"
+			}
+			Storage
+			{
+				resource	"ai"
+				max			"96"
+			}
+		}
 	}
 
 	LuaDesc

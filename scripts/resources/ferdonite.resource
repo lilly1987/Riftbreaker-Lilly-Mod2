@@ -3,7 +3,7 @@ GameplayResourceDef
 	id				"ferdonite"
 	localization_id "resource_name/ferdonite"
 	bp  			"items/loot/resources/shard_ferdonite_item"
-	type 			"global"
+	type 			"loot"
 	icon			"gui/hud/resource_icons/ferdonite"
 	bigger_icon		"gui/hud/resource_icons/ferdonite_bigger"
 	allow_overflow 	"1"

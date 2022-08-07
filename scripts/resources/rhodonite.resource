@@ -3,7 +3,7 @@ GameplayResourceDef
 	id				"rhodonite"
 	localization_id "resource_name/rhodonite"
 	bp  			"items/loot/resources/shard_rhodonite_item"
-	type 			"global"
+	type 			"loot"
 	icon			"gui/hud/resource_icons/rhodonite"
 	bigger_icon		"gui/hud/resource_icons/rhodonite_bigger"
 	allow_overflow 	"1"
