@@ -94,24 +94,30 @@ biomes/lilly/tiles/plains/metallic_plains_03/metallic_plains_03.tile
 biomes/lilly/tiles/plains/metallic_plains_04/metallic_plains_04.tile
 biomes/lilly/tiles/plains/metallic_plains_05/metallic_plains_05.tile
 
-biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
-biomes/lilly/tiles/resources/desert_custom_rare_resource_01/desert_custom_rare_resource_01.tile
-biomes/lilly/tiles/resources/jungle_custom_canyon2/jungle_custom_canyon2.tile
-biomes/lilly/tiles/resources/jungle_custom_lake01/jungle_custom_lake01.tile
-biomes/lilly/tiles/resources/jungle_custom_meteor_2x2/jungle_custom_meteor_2x2.tile
-biomes/lilly/tiles/resources/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
-biomes/lilly/tiles/resources/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
-biomes/lilly/tiles/resources/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
-biomes/lilly/tiles/resources/jungle_lakes_01/jungle_lakes_01.tile
-biomes/lilly/tiles/resources/magma_canyons_01/magma_canyons_01.tile
-biomes/lilly/tiles/resources/magma_canyons_02/magma_canyons_02.tile
-biomes/lilly/tiles/resources/magma_custom_rare_resource_01/magma_custom_rare_resource_01.tile
-biomes/lilly/tiles/resources/magma_lakes_01/magma_lakes_01.tile
-biomes/lilly/tiles/resources/magma_plains_01/magma_plains_01.tile
-biomes/lilly/tiles/resources/magma_plains_02/magma_plains_02.tile
-biomes/lilly/tiles/resources/magma_plains_03/magma_plains_03.tile
-biomes/lilly/tiles/resources/metallic_lakes_01/metallic_lakes_01.tile
-biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
+biomes/lilly/tiles/liquid/acid_lakes_03/acid_lakes_03.tile
+biomes/lilly/tiles/liquid/desert_custom_rare_resource_01/desert_custom_rare_resource_01.tile
+biomes/lilly/tiles/liquid/jungle_custom_canyon2/jungle_custom_canyon2.tile
+biomes/lilly/tiles/liquid/jungle_custom_lake01/jungle_custom_lake01.tile
+biomes/lilly/tiles/liquid/jungle_custom_meteor_2x2/jungle_custom_meteor_2x2.tile
+biomes/lilly/tiles/liquid/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
+biomes/lilly/tiles/liquid/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
+biomes/lilly/tiles/liquid/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
+biomes/lilly/tiles/liquid/jungle_lakes_01/jungle_lakes_01.tile
+biomes/lilly/tiles/liquid/magma_canyons_01/magma_canyons_01.tile
+biomes/lilly/tiles/liquid/magma_canyons_02/magma_canyons_02.tile
+biomes/lilly/tiles/liquid/magma_custom_rare_resource_01/magma_custom_rare_resource_01.tile
+biomes/lilly/tiles/liquid/magma_lakes_01/magma_lakes_01.tile
+biomes/lilly/tiles/liquid/magma_plains_01/magma_plains_01.tile
+biomes/lilly/tiles/liquid/magma_plains_02/magma_plains_02.tile
+biomes/lilly/tiles/liquid/magma_plains_03/magma_plains_03.tile
+biomes/lilly/tiles/liquid/metallic_lakes_01/metallic_lakes_01.tile
+biomes/lilly/tiles/liquid/metallic_lakes_02/metallic_lakes_02.tile
+	
+biomes/lilly/tiles/resources/metallic_plains_01/metallic_plains_01.tile
+biomes/lilly/tiles/resources/metallic_plains_02/metallic_plains_02.tile
+biomes/lilly/tiles/resources/metallic_plains_03/metallic_plains_03.tile
+biomes/lilly/tiles/resources/metallic_plains_04/metallic_plains_04.tile
+biomes/lilly/tiles/resources/metallic_plains_05/metallic_plains_05.tile
 	
 	}
 
@@ -1105,8 +1111,8 @@ biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
             min_resources   "7500"
             max_resources   "20000"
 
-            min_spawned_volumes "10"
-            max_spawned_volumes "15"
+            min_spawned_volumes "20"
+            max_spawned_volumes "30"
         }
 		
         ResourceVolume
@@ -1129,8 +1135,8 @@ biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
             min_resources   "8000"
             max_resources   "15000"
 
-            min_spawned_volumes "5"
-            max_spawned_volumes "15"
+            min_spawned_volumes "10"
+            max_spawned_volumes "30"
         }
 		
         ResourceVolume
@@ -1153,8 +1159,8 @@ biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
             min_resources   "6000"
             max_resources   "10000"
 
-            min_spawned_volumes "3"
-            max_spawned_volumes "6"
+            min_spawned_volumes "6"
+            max_spawned_volumes "12"
 			
             is_infinite        "1"			
         }	
@@ -1181,8 +1187,8 @@ biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
             min_resources   "1500"
             max_resources   "4000"
 
-            min_spawned_volumes "2"
-            max_spawned_volumes "4"
+            min_spawned_volumes "4"
+            max_spawned_volumes "8"
         }	
 
         ResourceVolume
@@ -1205,8 +1211,8 @@ biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
             min_resources   "1500"
             max_resources   "4000"
 
-            min_spawned_volumes "2"
-            max_spawned_volumes "4"
+            min_spawned_volumes "4"
+            max_spawned_volumes "8"
         }	
 
         ResourceVolume
@@ -1229,8 +1235,8 @@ biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
             min_resources   "1500"
             max_resources   "4000"
 
-            min_spawned_volumes "2"
-            max_spawned_volumes "4"
+            min_spawned_volumes "4"
+            max_spawned_volumes "8"
         }	
 
         ResourceVolume
@@ -1253,8 +1259,8 @@ biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
             min_resources   "2500"
             max_resources   "6000"
 
-            min_spawned_volumes "2"
-            max_spawned_volumes "4"
+            min_spawned_volumes "4"
+            max_spawned_volumes "8"
         }	
 
         ResourceVolume
@@ -1279,8 +1285,8 @@ biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
 
             is_infinite      "1"
 
-            min_spawned_volumes "1"            
-            max_spawned_volumes "2"            
+            min_spawned_volumes "2"            
+            max_spawned_volumes "4"            
         }
 		
 		ResourceVolume
@@ -1324,7 +1330,7 @@ biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
     }
 
     min_starting_distance "0.0"
-    max_starting_distance "96.0"
+    max_starting_distance "64.0"
 
     starting_resources
     {

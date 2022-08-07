@@ -71,6 +71,7 @@ is_hidden "0"
 base_blueprint "resources/volume_resource.*"
 base_blueprint "resources/volume_random_resources_liquid"
 
+base_blueprint "resources/volume_random_resources"
 
 magma
 morphium
@@ -84,7 +85,7 @@ water
 세로 최대 
 
 ### 아이콘 크기
-
+44
 ### 가운데 최상단 
 		        x "-16.000"
 		        y "-369.000"
