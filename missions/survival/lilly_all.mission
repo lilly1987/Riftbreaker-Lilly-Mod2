@@ -3,11 +3,14 @@ MissionDef
     script          "lua/missions/survival/survival_lilly.lua"
 	localization_id	"campaigns/survival/lilly_all.campaign"
 	description		"lilly_all"
-	//script_database
-    //{
-    //    objective_tile         string:"biomes/lilly/tiles/plains/metallic_plains_01/metallic_plains_01.tile"
+	script_database
+    //{	 
+    //    //objective_tile         string:"biomes/desert/tiles/desert_custom_crystal_cave_01/desert_custom_crystal_cave_01.tile"
+    //    //objective_tile         string:"biomes/jungle/tiles/jungle_canyons_02/jungle_canyons_02.tile"
+    //    //objective_tile         string:"biomes/jungle/tiles/jungle_lakes_01/jungle_lakes_01.tile"
+    //    objective_tile         string:"biomes/jungle/tiles/jungle_canyons_03/jungle_canyons_03.tile"
     //    objective_min_distance float:"0.0"
-    //    objective_max_distance float:"128.0"
+    //    objective_max_distance float:"32.0"
     //}
 	
 	map_size        "5"
@@ -31,6 +34,8 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 biomes/acid/tiles/acid_plains_03/acid_plains_03.tile
 biomes/desert/tiles/desert_canyons_01/desert_canyons_01.tile
 biomes/desert/tiles/desert_canyons_02/desert_canyons_02.tile
+biomes/desert/tiles/desert_custom_crystal_cave_01/desert_custom_crystal_cave_01.tile
+biomes/desert/tiles/desert_custom_stregaros_01/desert_custom_stregaros_01.tile
 biomes/desert/tiles/desert_nest_01/desert_nest_01.tile
 biomes/desert/tiles/desert_plains_01/desert_plains_01.tile
 biomes/desert/tiles/desert_plains_02/desert_plains_02.tile
@@ -110,16 +115,17 @@ biomes/lilly/tiles/resources/metallic_lakes_02/metallic_lakes_02.tile
 	
 	}
 
-	//tile_spawn_rules
-	//{	    
-	//
-	//	biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
-	//	{
-	//		min_instances	9
-	//		//max_instances	1
-	//		//random_weight	2.0
-	//	}
-	//}
+	tile_spawn_rules
+	{	    
+	
+		//biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
+		//biomes/lilly/tiles/resources/jungle_canyons_03/jungle_canyons_03.tile
+		//{
+		//	min_instances	4
+		//	//max_instances	1
+		//	//random_weight	2.0
+		//}
+	}
 
 
     ambient_creature_species
