@@ -18151,8 +18151,8 @@ Research
 					research_scripts
 					position
 					{
-						x "27.000"
-						y "-297.000"
+		        x "-16.000"
+		        y "-369.000"
 					}
 
 					research_awards
@@ -18197,7 +18197,7 @@ Research
 		      position
 		      {
 		        x "-16.000"
-		        y "-369.000"
+		        y "-305.000"
 		      }
 
 		      research_awards
@@ -18209,7 +18209,7 @@ Research
 		        }
 		      }
 
-		    icon "gui/menu/research/icons/main"
+		    icon "gui/menu/research/icons/cryo_technology"
 		    }
 
 		    ResearchNode
@@ -18240,7 +18240,7 @@ Research
 		      position
 		      {
 		        x "-16.000"
-		        y "-305.000"
+		        y "-245.000"
 		      }
 
 		      research_awards
@@ -18252,7 +18252,7 @@ Research
 		        }
 		      }
 
-		    icon "gui/menu/research/icons/main"
+		    icon "gui/menu/research/icons/cryo_technology"
 		    }
 
 		    // Download Research - Additional Levels for Specialty Fluid Producers

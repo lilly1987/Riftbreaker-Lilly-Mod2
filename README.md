@@ -7,7 +7,8 @@ The_Riftbreaker_1.31533_(57451)_win_gog
 
 Jungle more Variation mod  
 https://www.nexusmods.com/theriftbreaker/mods/150  
-
+No Random Weapon Stats
+https://www.nexusmods.com/theriftbreaker/mods/198
 
 
 # memo
@@ -58,3 +59,11 @@ morphium
 mud
 sludge
 water
+
+
+### 가운데 최상단 
+		        x "-16.000"
+		        y "-369.000"
+### 가운데 두번째
+		        x "-16.000"
+		        y "-305.000"
