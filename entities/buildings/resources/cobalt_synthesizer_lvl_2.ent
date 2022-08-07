@@ -128,7 +128,7 @@ EntityBlueprint
 		{
 			"buildings/effects_medium_base"
 		}	
-	
+
 		EffectGroup
 		{
 			group "level"

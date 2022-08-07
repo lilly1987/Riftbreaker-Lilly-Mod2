@@ -279,6 +279,7 @@ EntityBlueprint
 		EffectBaseBlueprints
 		{
 			"buildings/effects_medium_base"
-		}				
+		}	
+
 	}
 }

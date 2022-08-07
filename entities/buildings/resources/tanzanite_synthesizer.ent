@@ -288,57 +288,20 @@ EntityBlueprint
 		{
 			"buildings/effects_small_base"
 		}
-	}
-}
-
-EntityBlueprint
-{
-	name  "buildings/resources/tanzanite_synthesizer_ghost"
-
-	MeshDesc
-	{
-		mesh "meshes/buildings/resources/tanzanite_synthesizer.mesh"
-		material "selector/hologram_blue"
-	}
-
-	PhysicsDesc
- 	{
-		objects
+		////////////////////////MISC/////////////////////////					
+		EffectGroup
 		{
-			PhysicsObjectDesc
+			group "working"
+			enabled "0"				
+			
+			Effects
 			{
-				type 				"kinematic"
-				group_id 			"ghost_building"
-				physics_material 	"default"
-				Shapes
+				Effect
 				{
-					PhysicsSphereShape
-					{
-						r "1.45"
-	
-						position 
-						{
-							x "0.0"
-							y "1.0"
-							z "0.0"
-						}
-					}			
-				}
+					blueprint "effects/buildings_and_machines/steel_factory_furnace"								
+					bone "att_chimney"
+				}			
 			}
-		}
-	}
-
-	GridCullerDesc
-	{
-		Shapes
-		{
-   			PhysicsBoxShape
-   			{
-    				x	4
-    				y	4
-    				z	4
-   			}			
-		}
+		}	
 	}
 }
-

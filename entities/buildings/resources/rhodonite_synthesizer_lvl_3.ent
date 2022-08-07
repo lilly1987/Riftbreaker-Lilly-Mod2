@@ -266,7 +266,21 @@ EntityBlueprint
 		{
 			"buildings/effects_small_base"
 		}	
-	
+		////////////////////////MISC/////////////////////////					
+		EffectGroup
+		{
+			group "working"
+			enabled "0"				
+			
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/steel_factory_furnace"								
+					bone "att_chimney"
+				}			
+			}
+		}	
 		EffectGroup
 		{
 			group "level"

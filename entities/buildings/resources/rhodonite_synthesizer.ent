@@ -6,7 +6,7 @@ EntityBlueprint
 	{
 		name 				"rhodonite_synthesizer"
 		bp   				"buildings/resources/rhodonite_synthesizer"
-		ghost_bp   			"buildings/resources/rhodonite_synthesizer_ghost"
+		//ghost_bp   			"buildings/resources/rhodonite_synthesizer_ghost"
 		category 			"resources_mod"
 		localization_id		"Rhodonite Synthesizer"
 		description			"Synthesizes rhodonite from energy. Can be used as an infinite source of rhodonite but consumes a lot of energy in the process which makes it not very economical."
@@ -207,55 +207,42 @@ EntityBlueprint
 		type "2"
 		mode "1"
 	}
-}
+	
 
-EntityBlueprint
-{
-	name "buildings/resources/rhodonite_synthesizer_ghost"
-
-	MeshDesc
-	{
-		mesh "meshes/buildings/resources/rhodonite_synthesizer.mesh"
-		material "selector/hologram_blue"
-	}
-
-	PhysicsDesc
-	{
-		objects
+	EffectDesc
+	{		
+		EffectBaseBlueprints
 		{
-			PhysicsObjectDesc
+			"buildings/effects_small_base"
+		}	
+		////////////////////////MISC/////////////////////////					
+		EffectGroup
+		{
+			group "working"
+			enabled "0"				
+			
+			Effects
 			{
-				type 				"kinematic"
-				group_id 			"ghost_building"
-				physics_material 	"default"
-				Shapes
+				Effect
 				{
-					PhysicsBoxShape
-					{
-						x	4
-						y	4
-						z	4
-					}
+					blueprint "effects/buildings_and_machines/steel_factory_furnace"								
+					bone "att_chimney"
+				}			
+			}
+		}	
+		EffectGroup
+		{
+			group "level"
+			enabled "1"
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/level_3"
+					bone "att_level"
 				}
 			}
-		}
+		}		
 	}
 
-	GridCullerDesc
-	{
-		Shapes
-		{
-			PhysicsBoxShape
-			{
-				x	4
-				y	4
-				z	4
-			}
-		}
-	}
-
-	DisplayRadiusDesc
-	{
-		max_radius 0
-	}
 }

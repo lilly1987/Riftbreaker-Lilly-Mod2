@@ -204,4 +204,27 @@ EntityBlueprint
 		type "2"
 		mode "1"
 	}
+
+	EffectDesc
+	{		
+		EffectBaseBlueprints
+		{
+			"buildings/effects_medium_base"
+		}	
+		////////////////////////MISC/////////////////////////					
+		EffectGroup
+		{
+			group "working"
+			enabled "0"				
+			
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/steel_factory_furnace"								
+					bone "att_chimney"
+				}			
+			}
+		}			
+	}
 }
