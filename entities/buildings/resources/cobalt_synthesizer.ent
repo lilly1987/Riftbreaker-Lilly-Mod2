@@ -14,7 +14,7 @@ EntityBlueprint
 		require 			"headquarters"
 		order				"22"
 		upgrade				"buildings/resources/cobalt_synthesizer_lvl_2"		
-		////exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		
 		costs
 		{
@@ -180,7 +180,7 @@ EntityBlueprint
 		}
 
 		additional_z_order	"5"
-		visibility			"discovered"
+		visibility			"always"
 	}
 
 	FogOfWarRevealerComponentDesc

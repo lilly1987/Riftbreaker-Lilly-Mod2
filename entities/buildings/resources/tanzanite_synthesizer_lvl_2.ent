@@ -7,7 +7,7 @@ EntityBlueprint
 	{
 		name 				"tanzanite_synthesizer_lvl_2"
 		bp   				"buildings/resources/tanzanite_synthesizer_lvl_2"
-		ghost_bp   			"buildings/resources/tanzanite_synthesizer_ghost"
+//		ghost_bp   			"buildings/resources/tanzanite_synthesizer_ghost"
 		category 			"resources_mod"
 		localization_id		"Tanzanite Synthesizer"
 		description			"Synthesizes tanzanite from energy. Can be used as an infinite source of tanzanite but consumes a lot of energy in the process which makes it not very economical."
