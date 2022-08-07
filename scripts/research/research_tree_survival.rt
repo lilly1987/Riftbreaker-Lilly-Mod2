@@ -5817,7 +5817,7 @@ Research
 					position
 					{
 						x "540.000"
-						y "103.000"
+						y "99.000"
 					}
 
 					research_awards
@@ -5875,7 +5875,7 @@ Research
 					position
 					{
 						x "540.000"
-						y "259.000"
+						y "239.000"
 					}
 
 					research_awards
@@ -5992,7 +5992,7 @@ Research
 					position
 					{
 						x "486.000"
-						y "103.000"
+						y "99.000"
 					}
 
 					research_awards
@@ -6062,7 +6062,7 @@ Research
 					position
 					{
 						x "486.000"
-						y "259.000"
+						y "239.000"
 					}
 
 					research_awards
@@ -19266,140 +19266,6 @@ Research
 		    icon "gui/menu/research/icons/defense"
 		    }
 
-		    // Download Research - Extended Floors
-
-		    ResearchNode
-		    {
-		      research_flags
-		      requirement_tooltip
-		      requirements
-		      {
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/basic_decorations"
-		          research_category "gui/menu/research/category_base_buildings"
-		        }
-		      }
-
-		      research_name "gui/menu/research/name/extended_floors"
-		      research_costs
-		      {
-		        ResearchCost
-		        {
-		          amount "0.000"
-		          resource "download"
-		          count "100.000"
-		        }
-		      }
-
-		      research_scripts
-		      position
-		      {
-		        x "560.000"
-		        y "-369.000"
-		      }
-
-		      research_awards
-		      {
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_1x1"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_2x2"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_3x3"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_4x4"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_grid_1x1"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_grid_2x2"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_grid_3x3"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_grid_4x4"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_lattice_1x1"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_lattice_2x2"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_lattice_3x3"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_metal_lattice_4x4"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_wooden_1x1"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_wooden_2x2"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_wooden_3x3"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/decorations/floor_wooden_4x4"
-		          is_visible "0"
-		        }
-		      }
-
-		    icon "gui/menu/research/icons/decorations"
-		    }
 
 		    // Download Research - Specialized Pumps
 
