@@ -19568,78 +19568,78 @@ Research
 
 		    // Download Research - Specialized Storages
 
-		    ResearchNode
-		    {
-		      research_flags
-		      requirement_tooltip
-		      requirements
-		      {
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/solid_materials_storage_lvl3"
-		          research_category "gui/menu/research/category_base_buildings"
-		        }
-		      }
-
-		      research_name "gui/menu/research/name/solid_materials_storage_special"
-		      research_costs
-		      {
-		        ResearchCost
-		        {
-		          amount "0.000"
-		          resource "download"
-		          count "2000.000"
-		        }
-		      }
-
-		      research_scripts
-		      position
-		      {
-		        x "112.000"
-		        y "-305.000"
-		      }
-
-		      research_awards
-		      {
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/solid_material_storage_carbonium"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/solid_material_storage_ironium"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/solid_material_storage_cobalt"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/solid_material_storage_palladium"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/solid_material_storage_titanium"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/resources/solid_material_storage_uranium"
-		          is_visible "1"
-		        }
-		      }
-
-		    icon "gui/menu/research/icons/resource"
-		    }
+		    //ResearchNode
+		    //{
+		    //  research_flags
+		    //  requirement_tooltip
+		    //  requirements
+		    //  {
+		    //    ResearchNodeRequirement
+		    //    {
+		    //      research_name "gui/menu/research/name/solid_materials_storage_lvl3"
+		    //      research_category "gui/menu/research/category_base_buildings"
+		    //    }
+		    //  }
+			//
+		    //  research_name "gui/menu/research/name/solid_materials_storage_special"
+		    //  research_costs
+		    //  {
+		    //    ResearchCost
+		    //    {
+		    //      amount "0.000"
+		    //      resource "download"
+		    //      count "2000.000"
+		    //    }
+		    //  }
+			//
+		    //  research_scripts
+		    //  position
+		    //  {
+		    //    x "112.000"
+		    //    y "-305.000"
+		    //  }
+			//
+		    //  research_awards
+		    //  {
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/resources/solid_material_storage_carbonium"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/resources/solid_material_storage_ironium"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/resources/solid_material_storage_cobalt"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/resources/solid_material_storage_palladium"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/resources/solid_material_storage_titanium"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/resources/solid_material_storage_uranium"
+		    //      is_visible "1"
+		    //    }
+		    //  }
+			//
+		    //icon "gui/menu/research/icons/resource"
+		    //}
 			
 ///
 
