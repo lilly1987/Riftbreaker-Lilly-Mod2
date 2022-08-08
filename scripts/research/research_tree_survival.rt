@@ -19175,96 +19175,96 @@ Research
 
 		    // Download Research - Extended Basic Defense
 
-		    ResearchNode
-		    {
-		      research_flags
-		      requirement_tooltip
-		      requirements
-		      {
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/defensive_buildings_lvl3"
-		          research_category "gui/menu/research/category_base_buildings"
-		        }
-
-		        ResearchNodeRequirement
-		        {
-		          research_name "gui/menu/research/name/towers_basic_lvl3"
-		          research_category "gui/menu/research/category_base_buildings"
-		        }
-		      }
-
-		      research_name "gui/menu/research/name/defensive_buildings_lvl_4"
-		      research_costs
-		      {
-		        ResearchCost
-		        {
-		          amount "0.000"
-		          resource "download"
-		          count "3200.000"
-		          }
-		        }
-
-		      research_scripts
-		      position
-		      {
-		        x "-272.000"
-		        y "-369.000"
-		      }
-
-		      research_awards
-		      {
-		        ResearchAward
-		        {
-		          blueprint "buildings/defense/ai_hub_lvl_4"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/defense/tower_basic_lvl_4"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/defense/wall_gate_lvl_4"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/defense/wall_small_floor_01_lvl_2"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/defense/wall_small_straight_01_lvl_4"
-		          is_visible "1"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/defense/wall_small_corner_01_lvl_4"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/defense/wall_small_t_01_lvl_4"
-		          is_visible "0"
-		        }
-
-		        ResearchAward
-		        {
-		          blueprint "buildings/defense/wall_small_x_01_lvl_4"
-		          is_visible "0"
-		        }
-		      }
-
-		    icon "gui/menu/research/icons/defense"
-		    }
+		    //ResearchNode
+		    //{
+		    //  research_flags
+		    //  requirement_tooltip
+		    //  requirements
+		    //  {
+		    //    ResearchNodeRequirement
+		    //    {
+		    //      research_name "gui/menu/research/name/defensive_buildings_lvl3"
+		    //      research_category "gui/menu/research/category_base_buildings"
+		    //    }
+			//
+		    //    ResearchNodeRequirement
+		    //    {
+		    //      research_name "gui/menu/research/name/towers_basic_lvl3"
+		    //      research_category "gui/menu/research/category_base_buildings"
+		    //    }
+		    //  }
+			//
+		    //  research_name "gui/menu/research/name/defensive_buildings_lvl_4"
+		    //  research_costs
+		    //  {
+		    //    ResearchCost
+		    //    {
+		    //      amount "0.000"
+		    //      resource "download"
+		    //      count "3200.000"
+		    //      }
+		    //    }
+			//
+		    //  research_scripts
+		    //  position
+		    //  {
+		    //    x "-272.000"
+		    //    y "-369.000"
+		    //  }
+			//
+		    //  research_awards
+		    //  {
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/defense/ai_hub_lvl_4"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/defense/tower_basic_lvl_4"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/defense/wall_gate_lvl_4"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/defense/wall_small_floor_01_lvl_2"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/defense/wall_small_straight_01_lvl_4"
+		    //      is_visible "1"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/defense/wall_small_corner_01_lvl_4"
+		    //      is_visible "0"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/defense/wall_small_t_01_lvl_4"
+		    //      is_visible "0"
+		    //    }
+			//
+		    //    ResearchAward
+		    //    {
+		    //      blueprint "buildings/defense/wall_small_x_01_lvl_4"
+		    //      is_visible "0"
+		    //    }
+		    //  }
+			//
+		    //icon "gui/menu/research/icons/defense"
+		    //}
 
 
 		    // Download Research - Specialized Pumps
