@@ -10,7 +10,8 @@ Expanded Arsenal
 https://www.nexusmods.com/theriftbreaker/mods/122  
 Extended Tower Arsenal 확장된 무기고  
 https://www.nexusmods.com/theriftbreaker/mods/106  
-
+Geoscanner Infinite Treasure
+https://www.nexusmods.com/theriftbreaker/mods/116
 Initial Radar Scan-fullmap  
 https://www.nexusmods.com/theriftbreaker/mods/147  
 Jungle more Variation mod  
