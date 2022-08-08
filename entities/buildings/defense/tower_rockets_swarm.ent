@@ -240,8 +240,8 @@ EntityBlueprint
 
 			WeaponStatDef
 			{
-				max_value "1.600"
-				min_value "1.600"
+				max_value "3.200"
+				min_value "3.200"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -392,8 +392,8 @@ EntityBlueprint
 		aim_volume "SphericalAimVolume"
 		{
 			range_min "0"
-			range_max "34"
-			aiming_range "40"
+			range_max "68"
+			aiming_range "80"
 		}
 
 		aiming_cooldown "1"

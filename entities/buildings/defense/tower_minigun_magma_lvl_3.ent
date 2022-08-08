@@ -138,8 +138,8 @@ EntityBlueprint
 
 			WeaponStatDef
 			{
-				max_value "1.500"
-				min_value "1.500"
+				max_value "3.00"
+				min_value "3.00"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
