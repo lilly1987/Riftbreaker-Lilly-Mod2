@@ -114,3 +114,7 @@ edit this or that.
 - 무슨 확률 변경
 - what probability change
 - scripts\loot_containers\default.container
+- 
+- 자연재해 최대한 추가
+- Add as much natural disaster as possible
+- lua\missions\survival\v2\dom_survival_*_rules_*.lua
