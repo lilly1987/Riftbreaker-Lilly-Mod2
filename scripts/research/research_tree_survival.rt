@@ -17179,617 +17179,617 @@ Research
 
 /////////////////////////////////////////////////MODS_ALIEN_RESEARCH//////////////////////////////////////////
 
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/resource_handling_hazenite"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-						research_name "gui/menu/research/name/carbonium_synthesizer_lvl1"
-						research_category "gui/menu/research/category_base_buildings"
-						}
-					}
-
-					research_name "gui/menu/research/name/hazenite_synthesizer"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "250.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "-545.000"
-						y "-179.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/hazenite_synthesizer"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/hazenite_synthesizer"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/alien_research_lvl2"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/headquarters_lvl5"
-							research_category "gui/menu/research/category_base_buildings"
-						}
-					}
-
-					research_name "gui/menu/research/name/hazenite_synthesizer_lvl_2"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "375.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "-545.000"
-						y "-45.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/hazenite_synthesizer_lvl_2"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/hazenite_synthesizer_lvl_2"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/alien_research_lvl5"
-							research_category "gui/menu/research/category_alien"
-						}
-					}
-
-					research_name "gui/menu/research/name/hazenite_synthesizer_lvl_3"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "500.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "-545.000"
-						y "269.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/hazenite_synthesizer_lvl_3"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/resource_handling_rhodonite"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-						research_name "gui/menu/research/name/carbonium_synthesizer_lvl1"
-						research_category "gui/menu/research/category_base_buildings"
-						}
-					}
-
-					research_name "gui/menu/research/name/rhodonite_synthesizer"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "250.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "-599.000"
-						y "-179.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/rhodonite_synthesizer"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/rhodonite_synthesizer"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/alien_research_lvl2"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/headquarters_lvl5"
-							research_category "gui/menu/research/category_base_buildings"
-						}
-					}
-
-					research_name "gui/menu/research/name/rhodonite_synthesizer_lvl_2"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "375.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "-599.000"
-						y "-45.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/rhodonite_synthesizer_lvl_2"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/rhodonite_synthesizer_lvl_2"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/alien_research_lvl5"
-							research_category "gui/menu/research/category_alien"
-						}
-					}
-
-					research_name "gui/menu/research/name/rhodonite_synthesizer_lvl_3"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "500.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "-599.000"
-						y "269.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/rhodonite_synthesizer_lvl_3"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/resource_handling_ferdonite"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-						research_name "gui/menu/research/name/carbonium_synthesizer_lvl1"
-						research_category "gui/menu/research/category_base_buildings"
-						}
-					}
-
-					research_name "gui/menu/research/name/ferdonite_synthesizer"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "250.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "545.000"
-						y "-179.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/ferdonite_synthesizer"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/ferdonite_synthesizer"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/alien_research_lvl2"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/headquarters_lvl5"
-							research_category "gui/menu/research/category_base_buildings"
-						}
-					}
-
-					research_name "gui/menu/research/name/ferdonite_synthesizer_lvl_2"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "375.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "545.000"
-						y "-45.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/ferdonite_synthesizer_lvl_2"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
-
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/ferdonite_synthesizer_lvl_2"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/alien_research_lvl5"
-							research_category "gui/menu/research/category_alien"
-						}
-					}
-
-					research_name "gui/menu/research/name/ferdonite_synthesizer_lvl_3"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "500.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "545.000"
-						y "269.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/ferdonite_synthesizer_lvl_3"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/resource_handling_tanzanite"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-						research_name "gui/menu/research/name/carbonium_synthesizer_lvl1"
-						research_category "gui/menu/research/category_base_buildings"
-						}
-					}
-
-					research_name "gui/menu/research/name/tanzanite_synthesizer"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "250.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "599.000"
-						y "-179.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/tanzanite_synthesizer"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/tanzanite_synthesizer"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/alien_research_lvl2"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/headquarters_lvl5"
-							research_category "gui/menu/research/category_base_buildings"
-						}
-					}
-
-					research_name "gui/menu/research/name/tanzanite_synthesizer_lvl_2"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "375.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "599.000"
-						y "-45.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/tanzanite_synthesizer_lvl_2"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
-
-				ResearchNode
-				{
-					research_flags
-					requirement_tooltip
-					requirements
-					{
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/tanzanite_synthesizer_lvl_2"
-							research_category "gui/menu/research/category_alien"
-						}
-						ResearchNodeRequirement
-						{
-							research_name "gui/menu/research/name/alien_research_lvl5"
-							research_category "gui/menu/research/category_alien"
-						}
-					}
-
-					research_name "gui/menu/research/name/tanzanite_synthesizer_lvl_3"
-					research_costs
-					{
-						ResearchCost
-						{
-							amount "0.000"
-							resource "download"
-							count "500.000"
-						}
-
-					}
-
-					research_scripts
-					position
-					{
-						x "599.000"
-						y "269.000"
-					}
-
-					research_awards
-					{
-						ResearchAward
-						{
-							blueprint "buildings/resources/tanzanite_synthesizer_lvl_3"
-							is_visible "1"
-						}
-					}
-
-					icon "gui/menu/research/icons/carbonium_synthesizer"
-				}
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/resource_handling_hazenite"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//		research_name "gui/menu/research/name/carbonium_synthesizer_lvl1"
+				//		research_category "gui/menu/research/category_base_buildings"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/hazenite_synthesizer"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "250.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "-545.000"
+				//		y "-179.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/hazenite_synthesizer"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
+
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/hazenite_synthesizer"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/alien_research_lvl2"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/headquarters_lvl5"
+				//			research_category "gui/menu/research/category_base_buildings"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/hazenite_synthesizer_lvl_2"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "375.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "-545.000"
+				//		y "-45.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/hazenite_synthesizer_lvl_2"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
+
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/hazenite_synthesizer_lvl_2"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/alien_research_lvl5"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/hazenite_synthesizer_lvl_3"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "500.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "-545.000"
+				//		y "269.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/hazenite_synthesizer_lvl_3"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
+				//
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/resource_handling_rhodonite"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//		research_name "gui/menu/research/name/carbonium_synthesizer_lvl1"
+				//		research_category "gui/menu/research/category_base_buildings"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/rhodonite_synthesizer"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "250.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "-599.000"
+				//		y "-179.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/rhodonite_synthesizer"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
+				//
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/rhodonite_synthesizer"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/alien_research_lvl2"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/headquarters_lvl5"
+				//			research_category "gui/menu/research/category_base_buildings"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/rhodonite_synthesizer_lvl_2"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "375.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "-599.000"
+				//		y "-45.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/rhodonite_synthesizer_lvl_2"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
+				//
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/rhodonite_synthesizer_lvl_2"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/alien_research_lvl5"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/rhodonite_synthesizer_lvl_3"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "500.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "-599.000"
+				//		y "269.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/rhodonite_synthesizer_lvl_3"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
+
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/resource_handling_ferdonite"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//		research_name "gui/menu/research/name/carbonium_synthesizer_lvl1"
+				//		research_category "gui/menu/research/category_base_buildings"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/ferdonite_synthesizer"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "250.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "545.000"
+				//		y "-179.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/ferdonite_synthesizer"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
+				//
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/ferdonite_synthesizer"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/alien_research_lvl2"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/headquarters_lvl5"
+				//			research_category "gui/menu/research/category_base_buildings"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/ferdonite_synthesizer_lvl_2"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "375.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "545.000"
+				//		y "-45.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/ferdonite_synthesizer_lvl_2"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
+				//
+				//
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/ferdonite_synthesizer_lvl_2"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/alien_research_lvl5"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/ferdonite_synthesizer_lvl_3"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "500.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "545.000"
+				//		y "269.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/ferdonite_synthesizer_lvl_3"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
+
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/resource_handling_tanzanite"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//		research_name "gui/menu/research/name/carbonium_synthesizer_lvl1"
+				//		research_category "gui/menu/research/category_base_buildings"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/tanzanite_synthesizer"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "250.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "599.000"
+				//		y "-179.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/tanzanite_synthesizer"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
+
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/tanzanite_synthesizer"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/alien_research_lvl2"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/headquarters_lvl5"
+				//			research_category "gui/menu/research/category_base_buildings"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/tanzanite_synthesizer_lvl_2"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "375.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "599.000"
+				//		y "-45.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/tanzanite_synthesizer_lvl_2"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
+
+				//ResearchNode
+				//{
+				//	research_flags
+				//	requirement_tooltip
+				//	requirements
+				//	{
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/tanzanite_synthesizer_lvl_2"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//		ResearchNodeRequirement
+				//		{
+				//			research_name "gui/menu/research/name/alien_research_lvl5"
+				//			research_category "gui/menu/research/category_alien"
+				//		}
+				//	}
+				//
+				//	research_name "gui/menu/research/name/tanzanite_synthesizer_lvl_3"
+				//	research_costs
+				//	{
+				//		ResearchCost
+				//		{
+				//			amount "0.000"
+				//			resource "download"
+				//			count "500.000"
+				//		}
+				//
+				//	}
+				//
+				//	research_scripts
+				//	position
+				//	{
+				//		x "599.000"
+				//		y "269.000"
+				//	}
+				//
+				//	research_awards
+				//	{
+				//		ResearchAward
+				//		{
+				//			blueprint "buildings/resources/tanzanite_synthesizer_lvl_3"
+				//			is_visible "1"
+				//		}
+				//	}
+				//
+				//	icon "gui/menu/research/icons/carbonium_synthesizer"
+				//}
 
 
 /////////////////////////////////////////////////MODS_ALIEN_RESEARCH//////////////////////////////////////////

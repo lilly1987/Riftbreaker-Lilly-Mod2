@@ -54,11 +54,16 @@ EntityBlueprint
 		{
 			GameplayResource
 			{
+				resource 			"biomass_plant"
+				value			 	"0"
+			}
+			GameplayResource
+			{
 				resource			"ferdonite"
 				value				"1"
 			}
 		}
-
+		disableable 0
 		priority 2		
 	}
 
