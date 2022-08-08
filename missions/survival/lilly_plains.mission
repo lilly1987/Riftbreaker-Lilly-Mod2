@@ -5,9 +5,9 @@ MissionDef
 	
 	script_database
     {	 
-        objective_tile         string:"biomes/lilly/tiles/resources/jungle_starting_01_my/jungle_starting_01.tile"
+        objective_tile         string:"biomes/lilly/tiles/resources2/jungle_starting_01/jungle_starting_01.tile"
         objective_min_distance float:"0.0"
-        objective_max_distance float:"0.0"
+        objective_max_distance float:"64.0"
     }
 	
 	map_size        "5"

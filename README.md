@@ -49,6 +49,11 @@ edit this or that.
 -
 # 자체적으로 수정한 부분
 -
+- 내 취향대로 수정한 타일 추가
+- Add modified tiles to my liking
+- biomes\lilly\tiles
+- missions\survival
+- 
 - 너무 많이 수정한 건물들
 - Buildings that have been modified too much
 - entities\buildings
