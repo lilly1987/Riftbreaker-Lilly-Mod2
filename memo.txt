@@ -1,0 +1,86 @@
+
+# memo
+
+# 스토리 시작시
+lua\missions\campaigns\story\v2\headquarters\headquarters.lua
+    logic/missions/campaigns/story/headquarters.logic
+    
+    lua\missions\survival\survival_jungle.lua
+        logic/missions/survival/default.logic
+        lua\missions\survival\v2\dom_survival_jungle_rules_default.lua
+		
+# 서바이벌
+	missions\survival\jungle.mission # 맵,자원 배치 관련
+		lua/missions/survival/survival_jungle.lua
+			logic/missions/survival/default.logic
+			lua/missions/survival/v2/dom_survival_jungle_rules_*
+			lua/missions/v2/dom_manager.lua
+		campaigns/survival/jungle.campaign # 업그레이드 참조 관련
+
+#
+main_menu.dat
+	BUTTON_survival                         "gui/menu/new_survival"
+
+
+#-
+*.entx|-*.ent|-*.scene|-*.csv|-*.pu|-*.material|-*.mesh
+
+#
+health(\s*)"([1-9]\d*)"
+health$1"${2}0"
+
+#
+EntityTemplate\n\{\n\tbase_blueprint "logic/spawn_player([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
+EntityTemplate\n\{\n\tbase_blueprint "props/rocks([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
+EntityTemplate\n\{\n\tbase_blueprint "resources/volume_random_resources([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
+
+
+#
+debug_recreate_buildings 1
+
+
+EntityTemplate\n{\n\tbase_blueprint "props/rocks[.\n]+
+
+is_hidden "1"
+is_hidden "0"
+
+base_blueprint "props/rocks
+
+base_blueprint "resources/volume_resource.*"
+base_blueprint "resources/volume_random_resources_liquid"
+
+base_blueprint "resources/volume_random_resources"
+
+magma
+morphium
+mud
+sludge
+water
+
+## 연구
+
+가로 최대 600
+세로 최대 
+
+### 아이콘 크기
+44
+### 가운데 최상단 
+		        x "-16.000"
+		        y "-369.000"
+### 가운데 두번째
+		        x "-16.000"
+		        y "-305.000"
+				
+				
+				"648.000"
+				54
+				x "594.000" palladium_synthesizer
+				x "540.000" titanium_synthesizer
+				x "486.000" cobalt_synthesizer
+				432
+				
+				684	630	639	693
+				599	545	545	599
+				234	179
+				99	45
+				324	269
