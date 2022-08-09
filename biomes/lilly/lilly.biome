@@ -1,5 +1,7 @@
 BiomeDef
 {
+    override_terrain_type "magma_hot_ground"
+    
 	base_materials
 	{
 		Pair_String_Vector_String

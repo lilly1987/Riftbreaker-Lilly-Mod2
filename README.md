@@ -1,11 +1,11 @@
 # Riftbreaker-Lilly-Mod2
- 
-The_Riftbreaker_1.31533_(57451)_win_gog
-다양한 모드 병합.
-이것저것 수정.
-Merge various mods.
-edit this or that.
-
+-  
+- The_Riftbreaker_1.31533_(57451)_win_gog
+- 다양한 모드 병합.
+- 이것저것 수정.
+- Merge various mods.
+- edit this or that.
+- 
 # Mods that tried to merge
 -
 - All Pumps
@@ -20,6 +20,9 @@ edit this or that.
 - Geoscanner Infinite Treasure
 - https://www.nexusmods.com/theriftbreaker/mods/116
 - 
+- increases pickup range
+- https://discordapp.com/channels/423424585954754565/736688063362891860/1003485921112510475
+-
 - Initial Radar Scan-fullmap  
 - https://www.nexusmods.com/theriftbreaker/mods/147  
 - 
@@ -53,6 +56,10 @@ edit this or that.
 - Add modified tiles to my liking
 - biomes\lilly\tiles
 - missions\survival
+- 
+- 태양광, 풍력, 지열 효율 2배
+- Double the efficiency of solar and wind power and geothermal
+- biomes\lilly\lilly.biome
 - 
 - 너무 많이 수정한 건물들
 - Buildings that have been modified too much
