@@ -67,7 +67,7 @@ EntityBlueprint
 	{
 		power 	"2000"
 		speed 	"40"
-		radius 	"15"
+		radius 	"30"
 	}
 	
 	CameraShakeDesc

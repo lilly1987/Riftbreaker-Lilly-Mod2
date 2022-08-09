@@ -16,7 +16,7 @@ EntityBlueprint
 	{
 		power 	"2500"
 		speed 	"30"
-		radius 	"30"
+		radius 	"60"
 	}
 
 	ParticleDesc

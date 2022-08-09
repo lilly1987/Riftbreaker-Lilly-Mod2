@@ -24022,7 +24022,7 @@ units/ground/zorant_ultra
 }
 
 
-////////////////////
+//////////////////// Expanded Arsenal
 
 
 buildings/defense/tower_acid_artillery
@@ -24044,8 +24044,8 @@ buildings/defense/tower_acid_artillery
 
 			WeaponStatDef
 			{
-				max_value "3.500"
-				min_value "3.500"
+				max_value "7.00"
+				min_value "7.00"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -24139,8 +24139,8 @@ buildings/defense/tower_acid_artillery_lvl_2
 
 			WeaponStatDef
 			{
-				max_value "5.000"
-				min_value "5.000"
+				max_value "10.000"
+				min_value "10.000"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -24234,8 +24234,8 @@ buildings/defense/tower_acid_artillery_lvl_3
 
 			WeaponStatDef
 			{
-				max_value "6.500"
-				min_value "6.500"
+				max_value "13.00"
+				min_value "13.00"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -24354,8 +24354,8 @@ buildings/defense/tower_burstminigun
 
 			WeaponStatDef
 			{
-				max_value "2.000"
-				min_value "2.000"
+				max_value "4.000"
+				min_value "4.000"
 				stat_features "BASE_MINMAX|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -24449,8 +24449,8 @@ buildings/defense/tower_burstminigun_lvl_2
 
 			WeaponStatDef
 			{
-				max_value "2.000"
-				min_value "2.000"
+				max_value "4.000"
+				min_value "4.000"
 				stat_features "BASE_MINMAX|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -24544,8 +24544,8 @@ buildings/defense/tower_burstminigun_lvl_3
 
 			WeaponStatDef
 			{
-				max_value "2.000"
-				min_value "2.000"
+				max_value "4.000"
+				min_value "4.000"
 				stat_features "BASE_MINMAX|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -24596,6 +24596,7 @@ buildings/defense/tower_burstminigun_lvl_3
 
 }
 
+
 buildings/defense/tower_empart
 {
 	WeaponItemDesc
@@ -24615,8 +24616,8 @@ buildings/defense/tower_empart
 
 			WeaponStatDef
 			{
-				max_value "6.500"
-				min_value "6.500"
+				max_value "13.00"
+				min_value "13.00"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -24710,8 +24711,8 @@ buildings/defense/tower_empart_lvl_2
 
 			WeaponStatDef
 			{
-				max_value "6.500"
-				min_value "6.500"
+				max_value "13.00"
+				min_value "13.00"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -24805,8 +24806,8 @@ buildings/defense/tower_empart_lvl_3
 
 			WeaponStatDef
 			{
-				max_value "6.500"
-				min_value "6.500"
+				max_value "13.00"
+				min_value "13.00"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -24909,8 +24910,8 @@ buildings/defense/tower_grav_accelerator
 
 			WeaponStatDef
 			{
-				max_value "10.000"
-				min_value "10.000"
+				max_value "20.000"
+				min_value "20.000"
 				stat_features "BASE_MINMAX|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -24995,8 +24996,8 @@ buildings/defense/tower_grav_accelerator_lvl_2
 
 			WeaponStatDef
 			{
-				max_value "10.000"
-				min_value "10.000"
+				max_value "20.000"
+				min_value "20.000"
 				stat_features "BASE_MINMAX|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -25081,8 +25082,8 @@ buildings/defense/tower_grav_accelerator_lvl_3
 
 			WeaponStatDef
 			{
-				max_value "10.000"
-				min_value "10.000"
+				max_value "20.000"
+				min_value "20.000"
 				stat_features "BASE_MINMAX|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -25168,8 +25169,8 @@ buildings/defense/tower_heavy_grav_accelerator
 
 			WeaponStatDef
 			{
-				max_value "10.000"
-				min_value "10.000"
+				max_value "20.000"
+				min_value "20.000"
 				stat_features "BASE_MINMAX|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -25262,8 +25263,8 @@ buildings/defense/tower_heavy_grav_accelerator_lvl_2
 
 			WeaponStatDef
 			{
-				max_value "10.000"
-				min_value "10.000"
+				max_value "20.000"
+				min_value "20.000"
 				stat_features "BASE_MINMAX|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -25356,8 +25357,8 @@ buildings/defense/tower_heavy_grav_accelerator_lvl_3
 
 			WeaponStatDef
 			{
-				max_value "10.000"
-				min_value "10.000"
+				max_value "20.000"
+				min_value "20.000"
 				stat_features "BASE_MINMAX|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -25458,8 +25459,8 @@ buildings/defense/tower_icelaser
 
 			WeaponStatDef
 			{
-				max_value "2.000"
-				min_value "2.000"
+				max_value "4.000"
+				min_value "4.000"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -25482,8 +25483,8 @@ buildings/defense/tower_icelaser
 
 			WeaponStatDef
 			{
-				max_value "33.000"
-				min_value "33.000"
+				max_value "66.000"
+				min_value "66.000"
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -25537,8 +25538,8 @@ buildings/defense/tower_icelaser_lvl_2
 
 			WeaponStatDef
 			{
-				max_value "2.000"
-				min_value "2.000"
+				max_value "4.000"
+				min_value "4.000"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -25561,8 +25562,8 @@ buildings/defense/tower_icelaser_lvl_2
 
 			WeaponStatDef
 			{
-				max_value "33.000"
-				min_value "33.000"
+				max_value "66.000"
+				min_value "66.000"
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -25616,8 +25617,8 @@ buildings/defense/tower_icelaser_lvl_3
 
 			WeaponStatDef
 			{
-				max_value "2.000"
-				min_value "2.000"
+				max_value "4.000"
+				min_value "4.000"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -25640,8 +25641,8 @@ buildings/defense/tower_icelaser_lvl_3
 
 			WeaponStatDef
 			{
-				max_value "33.000"
-				min_value "33.000"
+				max_value "66.000"
+				min_value "66.000"
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -25659,7 +25660,6 @@ buildings/defense/tower_icelaser_lvl_3
 	}
 
 }
-
 
 buildings/defense/tower_mhd
 {
@@ -25688,8 +25688,8 @@ buildings/defense/tower_mhd
 
 			WeaponStatDef
 			{
-				max_value "3.000"
-				min_value "3.000"
+				max_value "6.000"
+				min_value "6.000"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -25704,8 +25704,8 @@ buildings/defense/tower_mhd
 
 			WeaponStatDef
 			{
-				max_value "33.000"
-				min_value "33.000"
+				max_value "66.000"
+				min_value "66.000"
 				stat_features "BASE_MINMAX|MODABLE"
 				stat_type "BEAM_RANGE"
 			}
@@ -25759,16 +25759,16 @@ buildings/defense/tower_mhd_lvl_2
 
 			WeaponStatDef
 			{
-				max_value "3.000"
-				min_value "3.000"
+				max_value "6.000"
+				min_value "6.000"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
 
 			WeaponStatDef
 			{
-				max_value "33.000"
-				min_value "33.000"
+				max_value "66.000"
+				min_value "66.000"
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -25822,16 +25822,16 @@ buildings/defense/tower_mhd_lvl_3
 
 			WeaponStatDef
 			{
-				max_value "3.000"
-				min_value "3.000"
+				max_value "6.000"
+				min_value "6.000"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
 
 			WeaponStatDef
 			{
-				max_value "33.000"
-				min_value "33.000"
+				max_value "66.000"
+				min_value "66.000"
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -25894,8 +25894,8 @@ buildings/defense/tower_plasma_mortar
 
 			WeaponStatDef
 			{
-				max_value "3.000"
-				min_value "3.000"
+				max_value "6.000"
+				min_value "6.000"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -25973,8 +25973,8 @@ buildings/defense/tower_plasma_mortar_lvl_2
 
 			WeaponStatDef
 			{
-				max_value "3.000"
-				min_value "3.000"
+				max_value "6.000"
+				min_value "6.000"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -26052,8 +26052,8 @@ buildings/defense/tower_plasma_mortar_lvl_3
 
 			WeaponStatDef
 			{
-				max_value "3.000"
-				min_value "3.000"
+				max_value "6.000"
+				min_value "6.000"
 				stat_features "BASE_MINMAX|MODABLE|STATISTIC"
 				stat_type "DAMAGE_SPLASH"
 			}
@@ -26087,7 +26087,6 @@ buildings/defense/tower_plasma_mortar_lvl_3
 	}
 
 }
-
 
 buildings/defense/tower_shotgun
 {
@@ -26164,8 +26163,8 @@ buildings/defense/tower_shotgun
 
 			WeaponStatDef
 			{
-				max_value "25.000"
-				min_value "25.000"
+				max_value "50.000"
+				min_value "50.000"
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -26259,8 +26258,8 @@ buildings/defense/tower_shotgun_lvl_2
 
 			WeaponStatDef
 			{
-				max_value "25.000"
-				min_value "25.000"
+				max_value "50.000"
+				min_value "50.000"
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -26354,8 +26353,8 @@ buildings/defense/tower_shotgun_lvl_3
 
 			WeaponStatDef
 			{
-				max_value "25.000"
-				min_value "25.000"
+				max_value "50.000"
+				min_value "50.000"
 				stat_features "BASE_MINMAX"
 				stat_type "BEAM_RANGE"
 			}
@@ -26611,4 +26610,5 @@ buildings/defense/tower_sniper_lvl_3
 
 }
 
-////
+
+//// Expanded Arsenal
