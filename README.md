@@ -130,3 +130,11 @@
 - increases pickup range from 8 to 40
 - entities\player\character.ent
 - https://discordapp.com/channels/423424585954754565/736688063362891860/1003485921112510475
+- 
+- 환경 데미지 수정
+- environmental damage change
+- scripts\terrain\terrains.terraintype
+- 
+- 타일에 override_terrain_type "magma_hot_ground" 적용
+- Apply override_terrain_type "magma_hot_ground" to tiles
+- biomes\lilly\lilly.biome
