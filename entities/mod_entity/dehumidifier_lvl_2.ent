@@ -16,7 +16,7 @@ EntityBlueprint
 		type				"pipe"
 		require 			"headquarters"
 		upgrade				"mod_entity/entity_13"	
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"		
+	//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"		
 				
 		costs
 		{

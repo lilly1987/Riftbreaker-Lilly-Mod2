@@ -15,7 +15,7 @@ EntityBlueprint
 		menu_icon			"gui/hud/building_icons/dehumidifier_lvl3"
 		type				"pipe"
 		require 			"headquarters"	
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+	//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 						
 		costs
 		{

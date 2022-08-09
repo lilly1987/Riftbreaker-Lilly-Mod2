@@ -17,7 +17,7 @@ EntityBlueprint
 		buildable			"0"
 		type				"tower"
 		overrides			"tower,wall"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+	//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 		costs
 		{

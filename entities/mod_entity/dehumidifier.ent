@@ -14,7 +14,7 @@ EntityBlueprint
 		require 			"headquarters"
 		upgrade				"mod_entity/entity_12"	
 		order				"10"		
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+	//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 		
 		costs
 		{

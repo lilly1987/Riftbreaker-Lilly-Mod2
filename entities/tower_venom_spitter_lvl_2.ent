@@ -18,7 +18,7 @@ EntityBlueprint
 		type				"tower"
 		overrides			"tower,wall"
 		upgrade				"mod_entity/entity_29"
-		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+	//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 		costs
 		{
