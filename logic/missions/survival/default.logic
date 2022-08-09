@@ -232,21 +232,21 @@ FlowGraphTemplate
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "steel"
-						value "30000.00"
+						value "60000.00"
 					}
 
 					StringData
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "carbonium"
-						value "30000.00"
+						value "60000.00"
 					}
 
 					StringData
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "ammo_mech_low_caliber"
-						value "3200.00"
+						value "320.00"
 					}
 
 					StringData
@@ -262,28 +262,28 @@ FlowGraphTemplate
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "cobalt"
-						value "30000.00"
+						value "10000.00"
 					}
 
 					StringData
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "palladium"
-						value "30000.00"
+						value "10000.00"
 					}
 
 					StringData
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "uranium"
-						value "30000.00"
+						value "10000.00"
 					}
 	
 					StringData
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "titanium"
-						value "30000.00"
+						value "10000.00"
 					}
                     
 	
@@ -291,7 +291,7 @@ FlowGraphTemplate
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "biomass_plant"
-						value "30000.00"
+						value "10000.00"
 					}
                     
 					/////////////
@@ -300,28 +300,28 @@ FlowGraphTemplate
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "rhodonite"
-						value "30000.00"
+						value "10000.00"
 					}
 
 					StringData
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "tanzanite"
-						value "30000.00"
+						value "10000.00"
 					}
 					
 					StringData
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "hazenite"
-						value "30000.00"
+						value "10000.00"
 					}
 					
 					StringData
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "ferdonite"
-						value "30000.00"
+						value "10000.00"
 					}
 					
 					/////////////

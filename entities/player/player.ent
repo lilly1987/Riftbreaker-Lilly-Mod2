@@ -14,37 +14,37 @@ EntityBlueprint
 			Storage
 			{
 				resource	 "carbonium"
-				max 	 	"30000"
+				max 	 	"600000"
 			}
 			Storage
 			{
 				resource	 "steel"
-				max 	 	"30000"
+				max 	 	"600000"
 			}
 			Storage
 			{
 				resource	 "uranium_ore"
-				max 	 	"30000"
+				max 	 	"10000"
 			}	
 			Storage
 			{
 				resource	 "uranium"
-				max 	 	"30000"
+				max 	 	"10000"
 			}				
 			Storage
 			{
 				resource	 "palladium"
-				max 	 	"30000"
+				max 	 	"10000"
 			}	
 			Storage
 			{
 				resource	 "titanium"
-				max 	 	"30000"
+				max 	 	"10000"
 			}		
 			Storage
 			{
 				resource	 "cobalt"
-				max 	 	"30000"
+				max 	 	"10000"
 			}			
 			Storage
 			{

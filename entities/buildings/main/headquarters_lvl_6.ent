@@ -57,12 +57,12 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"carbonium"
-				value			 	"320"
+				value			 	"32"
 			}
 			GameplayResource
 			{
 				resource 			"steel"
-				value			 	"320"
+				value			 	"32"
 			}
 			GameplayResource
 			{
