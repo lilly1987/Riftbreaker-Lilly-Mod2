@@ -125,7 +125,7 @@
 - 자연재해 최대한 추가
 - Add as much natural disaster as possible
 - lua\missions\survival\v2\dom_survival_*_rules_*.lua
-
+- 
 - 픽업 거리 증가
 - increases pickup range from 8 to 40
 - entities\player\character.ent
