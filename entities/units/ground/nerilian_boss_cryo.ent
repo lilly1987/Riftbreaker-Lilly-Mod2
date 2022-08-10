@@ -48,11 +48,11 @@ EntityBlueprint
 	ResistanceComponent
 	{
 		physical		"1.0"
-		fire			"8.0"
+		fire			"2.0"
 		acid			"1.0"
 		energy			"1.0"
 		cryo			"0.0"
-		area			"1.5"	
+		area			"1.25"	
 	}
 	
 	StunDataComponent

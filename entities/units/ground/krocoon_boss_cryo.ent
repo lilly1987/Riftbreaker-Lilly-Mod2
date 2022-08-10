@@ -49,7 +49,7 @@ EntityBlueprint
 	ResistanceComponent
 	{
 		physical		"1.0"
-		fire			"8.0"
+		fire			"2.0"
 		acid			"1.0"
 		energy			"0.5"
 		cryo			"0.0"

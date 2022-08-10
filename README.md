@@ -54,6 +54,8 @@
 - Tower Pack - Awarded  
 - https://www.nexusmods.com/theriftbreaker/mods/204  
 -
+- And Etc....
+
 # 수정한 부분
 -
 - 내 취향대로 수정한 타일 추가
@@ -169,3 +171,7 @@
 - 
 - 몇 건물 물위에 건설 가능
 - build_on_water			"1"
+
+- 적 저항값 수정. 최대 대미지 2배로 조정. 즉 난이도 올라감
+- entities\units\ground
+- (physical|fire|acid|energy|cryo|area)\s+"[\d.]+"

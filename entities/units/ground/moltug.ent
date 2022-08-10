@@ -80,9 +80,9 @@ EntityBlueprint
 	{
 		physical		"0.0"
 		fire			"0.0"
-		acid			"4.0"
+		acid			"2.0"
 		energy			"1.0"
-		cryo			"2.0"
+		cryo			"1.50"
 		area			"1.0"	
 	}
 

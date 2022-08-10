@@ -52,7 +52,7 @@ EntityBlueprint
 		fire			"0.0"
 		acid			"1.0"
 		energy			"0.5"
-		cryo			"4.0"
+		cryo			"2.0"
 		area			"0.0"	
 	}
 	
