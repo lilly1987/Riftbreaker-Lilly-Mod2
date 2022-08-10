@@ -154,6 +154,15 @@
 - 타일에 override_terrain_type "magma_hot_ground" 적용
 - Apply override_terrain_type "magma_hot_ground" to tiles
 - biomes\lilly\lilly.biome
--
+- 
 - 시작시 스캔 사용
 - lua\units\ground\mech.lua
+- 
+- 환경 효과 
+- entities\effects\weather.ent
+- 
+- 자원 혜성 거리 수정
+- entities\weather\resource_comet.ent
+- 
+- 자원 혜성 종류 수정
+- lua\weather\resource_comet.lua

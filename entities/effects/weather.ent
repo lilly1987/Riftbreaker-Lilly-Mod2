@@ -307,9 +307,9 @@ EntityBlueprint
 
 	WorldEffectComponent
 	{
-		damage_per_sec							"3"
+		damage_per_sec							"1"
 		type									"global"
-		max_health_percentage_damage_threshold	"50"
+		max_health_percentage_damage_threshold	"5"
 		damage_type								"sunburn"
 	}
 
