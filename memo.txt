@@ -26,11 +26,8 @@ main_menu.dat
 *.entx|-*.ent|-*.scene|-*.csv|-*.pu|-*.material|-*.mesh
 
 #
-health(\s*)"([1-9]\d*)"
-health$1"${2}0"
-
-\t\thealth(\s*)"([1-9]\d)0"
-\t\thealth$1"${2}"
+^\t\t(max_)?health(\s*)"([1-9]\d*)"
+\t\t$1health$2"${3}0"
 
 \t\t\t\thealth(\s*)"([1-9]\d)0"
 \t\t\t\thealth$1"${2}"
