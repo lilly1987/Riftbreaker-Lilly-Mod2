@@ -27,9 +27,9 @@ EntityBlueprint
 				building_time 10
 				building_cost
 				{
-					carbonium 	"600"
-					steel 		"600"
-					cobalt		"75"
+					carbonium 	"2400"
+					steel 		"2400"
+					cobalt		"300"
 				}
 			}		
 		}
@@ -42,7 +42,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"energy"
-				value				"200"
+				value				"400"
 			}
 		}
 	

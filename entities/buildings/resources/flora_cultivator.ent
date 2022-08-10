@@ -27,9 +27,9 @@ build_on_water			"1"
 				building_time 10
 				building_cost
 				{
-					carbonium 	"400"
-					steel 		"400"		
-					cobalt		"100"
+					carbonium 	"1600"
+					steel 		"1600"		
+					cobalt		"400"
 				}
 			}		
 		}
@@ -42,7 +42,7 @@ build_on_water			"1"
 			GameplayResource
 			{
 				resource 			"energy"
-				value				"100"
+				value				"400"
 			}
 			GameplayResource
 			{
