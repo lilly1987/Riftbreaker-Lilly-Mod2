@@ -33,6 +33,8 @@ one_vein_mode "1"
 \t\t\t\thealth$1"${2}"
 
 (physical|fire|acid|energy|cryo|area)\s+"[\d.]+"
+(physical|fire|acid|energy|cryo|area)\s+"\d\.\d+"
+(physical|fire|acid|energy|cryo|area)\s+"[2-9]\.\d+"
 
 #
 EntityTemplate\n\{\n\tbase_blueprint "logic/spawn_player([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n

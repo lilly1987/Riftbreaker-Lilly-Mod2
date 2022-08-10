@@ -18,7 +18,7 @@ EntityBlueprint
 		require 			"headquarters"
 		//upgrade				"buildings/resources/liquid_pump_lvl_4"
 		radius_name			"pump"
-		min_radius			"2"
+		min_radius			"5"
 
 		costs
 		{
@@ -28,7 +28,7 @@ EntityBlueprint
 				building_time 2
 				building_cost
 				{
-					carbonium 	"100"
+					carbonium 	"400"
 				}
 			}
 		}
@@ -43,7 +43,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				group 			"vein"
-				value			"20"
+				value			"800"
 				specific_group	"local"
 				family			"production"
 			}
@@ -55,7 +55,7 @@ EntityBlueprint
 			{
 				group 			"local"
 				specific_group  "vein"
-				value			"200"
+				value			"800"
 				attachment		"att_out_1"
 				family			"production"
 			}
@@ -79,8 +79,8 @@ EntityBlueprint
 
 	HealthDesc
 	{
-		max_health 					"3400"
-		health 						"3400"
+		max_health 					"1360"
+		health 						"1360"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
 		 is_manual 1

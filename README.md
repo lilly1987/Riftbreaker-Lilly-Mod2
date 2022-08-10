@@ -1,6 +1,7 @@
 # Riftbreaker-Lilly-Mod2
 -  
-- The_Riftbreaker_1.31533_(57451)_win_gog
+- The_Riftbreaker_1.31533_(57451)_win_gog + metal terror
+- 
 - 다양한 모드 병합.
 - 이것저것 수정.
 - Merge various mods.

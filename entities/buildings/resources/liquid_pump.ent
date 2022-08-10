@@ -17,7 +17,7 @@ EntityBlueprint
 		min_radius_effect   "voice_over/announcement/pump_too_close"
 		order				"9"
 		radius_name			"pump"
-		min_radius			"2"
+		min_radius			"5"
 
 		costs
 		{
@@ -27,7 +27,7 @@ EntityBlueprint
 				building_time 2
 				building_cost
 				{
-					carbonium 	"25"
+					carbonium 	"100"
 				}
 			}
 		}
@@ -48,7 +48,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				group 			"vein"
-				value			"10"
+				value			"400"
 				specific_group	"local"
 				family			"production"
 			}
@@ -61,7 +61,7 @@ EntityBlueprint
 				group 			"local"
 				specific_group  "vein"
 				family			"production"
-				value			"100"
+				value			"400"
 				attachment		"att_out_1"
 			}
 		}
@@ -77,7 +77,7 @@ EntityBlueprint
 			Storage
 			{
 				group	 "local"
-				max 	 "400"
+				max 	 "1600"
 				attachment		"att_out_1"
 			}
 		}
@@ -98,8 +98,8 @@ EntityBlueprint
 
 	HealthDesc
 	{
-		max_health 					"2000"
-		health 						"2000"
+		max_health 					"800"
+		health 						"800"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
 		 is_manual 1
