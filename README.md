@@ -158,7 +158,7 @@
 - 시작시 스캔 사용
 - lua\units\ground\mech.lua
 - 
-- 환경 효과 
+- 환경 효과 수정
 - entities\effects\weather.ent
 - 
 - 자원 혜성 거리 수정

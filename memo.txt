@@ -57,6 +57,13 @@ mud
 sludge
 water
 
+
+[^/]exclude_terrain_types\s+"magma_hot_ground,magma_very_hot_ground"
+//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+
+max_health(\s+)"350"
+max_health\1"700"
+
 ## 연구
 
 가로 최대 600

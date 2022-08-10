@@ -19,7 +19,7 @@ EntityBlueprint
 		order					"1"
 		upgrade					"buildings/defense/wall_energy_straight_01_lvl_3"
 		building_mode			"line"
-		//exclude_terrain_types 	"magma_hot_ground,magma_very_hot_ground"
+	//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 		costs
 		{
@@ -60,8 +60,8 @@ EntityBlueprint
 	
 	HealthDesc
 	{
-		max_health 					"7000"
-		health 						"7000"
+		max_health 					"1400"
+		health 						"700"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
 		 is_manual 1

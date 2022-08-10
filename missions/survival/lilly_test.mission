@@ -9,7 +9,7 @@ MissionDef
     {	 
         objective_tile         string:"biomes/lilly/tiles/resources2/jungle_starting_01/jungle_starting_01.tile"
         objective_min_distance float:"0.0"
-        objective_max_distance float:"0.0"
+        objective_max_distance float:"64.0"
 	//	spawn_near_position string:"50,0,-800"    
     }	
 

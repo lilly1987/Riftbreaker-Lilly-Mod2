@@ -17,7 +17,7 @@ EntityBlueprint
 		overrides			"wall"
 		rotate_info			"1"
 		block_rotation 		"1"
-		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+	//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
 
 		costs
 		{
@@ -50,8 +50,8 @@ EntityBlueprint
 
 	HealthDesc
 	{
-		max_health 					"7000"
-		health 						"7000"
+		max_health 					"1400"
+		health 						"700"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
 		 is_manual 1
