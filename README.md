@@ -78,6 +78,9 @@
 - - 
 - - random liquid tile + rock remove + volume_random_resources custom
 - - biomes\lilly\tiles\resources2
+- -
+- - random liquid tile + volume_random_resources custom
+- - biomes\lilly\tiles\resources3
 - - 
 - 태양광, 풍력, 지열 효율 2배
 - Double the efficiency of solar and wind power and geothermal
