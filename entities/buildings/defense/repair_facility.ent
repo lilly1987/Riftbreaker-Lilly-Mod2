@@ -23,10 +23,10 @@ EntityBlueprint
 				building_time 20
 				building_cost
 				{
-					carbonium 	"100"
-					steel 		"75"			
+					carbonium 	"400"
+					steel 		"300"			
 					ai			"1"			
-					cobalt 		"25"
+					cobalt 		"100"
 				}
 			}		
 		}		

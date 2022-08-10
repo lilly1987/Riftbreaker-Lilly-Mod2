@@ -26,9 +26,9 @@ EntityBlueprint
 				building_time 5
 				building_cost
 				{
-					carbonium 	"200"
-					steel 		"120"
-					uranium		"100"
+					carbonium 	"400"
+					steel 		"240"
+					uranium		"200"
 				}
 			}		
 		}			
@@ -41,7 +41,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"energy"
-				value			 	"60"
+				value			 	"120"
 			}
 		}
 		priority 5		
@@ -63,8 +63,8 @@ EntityBlueprint
 
 	HealthDesc
 	{
-		max_health 					"11500"
-		health 						"11500"
+		max_health 					"2300"
+		health 						"2300"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
 		 is_manual 1

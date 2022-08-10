@@ -21,7 +21,7 @@ lua\missions\campaigns\story\v2\headquarters\headquarters.lua
 main_menu.dat
 	BUTTON_survival                         "gui/menu/new_survival"
 
-
+one_vein_mode "1"
 #-
 *.entx|-*.ent|-*.scene|-*.csv|-*.pu|-*.material|-*.mesh
 

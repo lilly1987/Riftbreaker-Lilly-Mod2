@@ -166,3 +166,6 @@
 - 
 - 자원 혜성 종류 수정
 - lua\weather\resource_comet.lua
+- 
+- 몇 건물 물위에 건설 가능
+- build_on_water			"1"

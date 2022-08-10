@@ -26,7 +26,7 @@ EntityBlueprint
 				building_time 120
 				building_cost
 				{
-					carbonium 	"2000"
+					carbonium 	"8000"
 				}
 			}	
 			BuildingCostInfo
@@ -35,7 +35,7 @@ EntityBlueprint
 				building_time 60
 				building_cost
 				{
-					carbonium 	"1000"
+					carbonium 	"4000"
 				}
 			}			
 		}	

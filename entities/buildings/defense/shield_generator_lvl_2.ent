@@ -9,13 +9,13 @@ EntityBlueprint
 
 	HealthDesc
 	{
-		max_health 					"2000"
+		max_health 					"8000"
 		health 						"0"
 	}
 
 	RegenerationComponent
 	{
-		regeneration 				"20"
+		regeneration 				"80"
 		regeneration_cooldown 		"5"
 	}
 
@@ -73,9 +73,9 @@ EntityBlueprint
 				building_time 10
 				building_cost
 				{
-					carbonium 	"1000"
-					steel 		"500"
-					palladium	"200"
+					carbonium 	"4000"
+					steel 		"2000"
+					palladium	"800"
 				}
 			}
 		}
@@ -88,7 +88,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"energy"
-				value			 	"40"
+				value			 	"160"
 			}
 			GameplayResource
 			{
