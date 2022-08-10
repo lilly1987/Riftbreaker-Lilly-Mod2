@@ -11,7 +11,7 @@
 - Real-time editing - github
 - https://github.com/lilly1987/Riftbreaker-Lilly-Mod2
 -
-# Mods that tried to merge
+# 참고 및 포함 모드 Mods that tried to merge
 -
 - All Pumps
 - https://www.nexusmods.com/theriftbreaker/mods/189
@@ -49,8 +49,11 @@
 - No Random Weapon Stats  
 - https://www.nexusmods.com/theriftbreaker/mods/198  
 - 
-- Specialized Pumps
-- https://www.nexusmods.com/theriftbreaker/mods/110
+- Orbital Strikes  
+- https://www.nexusmods.com/theriftbreaker/mods/194  
+
+- Specialized Pumps  
+- https://www.nexusmods.com/theriftbreaker/mods/110  
 - 
 - Tower Pack - Awarded  
 - https://www.nexusmods.com/theriftbreaker/mods/204  

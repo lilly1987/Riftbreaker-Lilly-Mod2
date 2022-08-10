@@ -28,8 +28,8 @@ EntityBlueprint
 				building_time 10
 				building_cost
 				{
-					steel 		"300"
-					carbonium 	"300"	
+					steel 		"1200"
+					carbonium 	"1200"	
 				}
 			}		
 		}
@@ -42,7 +42,7 @@ EntityBlueprint
 			Storage
 			{
 				group	 		"local"
-				max 	 		"60000"
+				max 	 		"24000"
 				attachment		"att_in_1|att_in_2|att_in_3|att_in_4"
 			}
 			Storage
