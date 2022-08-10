@@ -1376,7 +1376,7 @@ biomes/lilly/tiles/resources2/jungle_starting_01/jungle_starting_01.tile
     }
 
     min_starting_distance "0.0"
-    max_starting_distance "64.0"
+    max_starting_distance "96.0"
 
     starting_resources
     {

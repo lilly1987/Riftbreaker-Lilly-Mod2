@@ -6,6 +6,10 @@
 - Merge various mods.
 - edit this or that.
 - 
+- 실시간 수정 - github
+- Real-time editing - github
+- https://github.com/lilly1987/Riftbreaker-Lilly-Mod2
+-
 # Mods that tried to merge
 -
 - All Pumps
@@ -50,13 +54,25 @@
 - Tower Pack - Awarded  
 - https://www.nexusmods.com/theriftbreaker/mods/204  
 -
-# 자체적으로 수정한 부분
+# 수정한 부분
 -
 - 내 취향대로 수정한 타일 추가
 - Add modified tiles to my liking
 - biomes\lilly\tiles
 - missions\survival
-- 
+- - 
+- - random liquid tile
+- - biomes\lilly\tiles\liquid
+- - 
+- - rock remove
+- - biomes\lilly\tiles\plains
+- - 
+- - random liquid tile + rock remove + volume_random_resources add
+- - biomes\lilly\tiles\resources
+- - 
+- - random liquid tile + rock remove + volume_random_resources custom
+- - biomes\lilly\tiles\resources2
+- - 
 - 태양광, 풍력, 지열 효율 2배
 - Double the efficiency of solar and wind power and geothermal
 - biomes\lilly\lilly.biome
@@ -138,3 +154,6 @@
 - 타일에 override_terrain_type "magma_hot_ground" 적용
 - Apply override_terrain_type "magma_hot_ground" to tiles
 - biomes\lilly\lilly.biome
+-
+- 시작시 스캔 사용
+- lua\units\ground\mech.lua

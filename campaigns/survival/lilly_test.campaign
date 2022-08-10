@@ -9,6 +9,31 @@ CampaignDef
 
 	rich_presence				 "rich_presence_3"
 	achievements_group			 "survival"
+	//achievements_group			 "campaign"
 	
 	order                        "-1"
+    
+	//script						 "logic/campaigns/story/default.logic"
+
+	//loot_container_script		 "scripts/container_info/default.container"
+	
+    //side_missions
+	//{
+	//	MapUrl
+	//	{
+	//		map_name "side0"
+	//		mission_name "Jungle"
+	//	}
+	//
+	//	MapUrl
+	//	{
+	//		map_name "side0"
+	//		mission_name "Desert"
+	//	}
+	//
+	//}
+    
+	//conditional_loot			 "1"
+    //continue_disabled			 "1"
+    //discoverable_system_enabled	 "0"
 }

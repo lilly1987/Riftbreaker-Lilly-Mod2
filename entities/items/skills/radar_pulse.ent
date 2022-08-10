@@ -9,7 +9,7 @@ EntityBlueprint
 
 	LifeTimeDesc
 	{
-		time 600
+		time 60
 	}
 
 	EffectDesc
