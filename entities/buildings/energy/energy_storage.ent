@@ -24,7 +24,7 @@ build_on_water			"1"
 				building_time 30
 				building_cost
 				{
-					carbonium 	"50"
+					carbonium 	"200"
 				}
 			}
 		}
@@ -37,7 +37,7 @@ build_on_water			"1"
 			Storage
 			{
 				resource "energy"
-				max 	 "100000"
+				max 	 "40000"
 			}
 		}
 	}

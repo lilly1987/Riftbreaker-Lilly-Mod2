@@ -26,8 +26,8 @@ build_on_water			"1"
 				building_time 30
 				building_cost
 				{
-					carbonium 	"100"
-					cobalt		"10"
+					carbonium 	"400"
+					cobalt		"40"
 				}
 			}
 		}
@@ -40,7 +40,7 @@ build_on_water			"1"
 			Storage
 			{
 				resource "energy"
-				max 	 "200000"
+				max 	 "80000"
 			}
 		}
 	}
