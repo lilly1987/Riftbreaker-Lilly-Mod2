@@ -30,9 +30,9 @@ EntityBlueprint
 				building_time 10
 				building_cost
 				{
-					carbonium 	"2400"
-					steel 		"2400"		
-					cobalt		"800"
+					carbonium 	"1800"
+					steel 		"1800"		
+					cobalt		"600"
 				}
 			}		
 		}
@@ -45,12 +45,12 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"energy"
-				value				"500"
+				value				"375"
 			}
 			GameplayResource
 			{
 				resource 			"water"
-				value				"100"
+				value				"300"
 				attachment			"att_in_1"				
 			}			
 		}
@@ -71,10 +71,10 @@ EntityBlueprint
 			cone_effect_sell 	string:"sell_big"
 			building_time		float:"10"
 
-			drone_search_radius	float:"80"
+			drone_search_radius	float:"60"
 			drone_blueprint		string:"units/drones/drone_flora_cultivator"
 			drone_attachments	string:"att_landing"
-			drone_per_spot		int:"16"
+			drone_per_spot		int:"4"
 
 			display_radius_group	 string:"cultivator_harvester"
 			display_radius_blueprint string:"effects/decals/range_circle_cultivator"

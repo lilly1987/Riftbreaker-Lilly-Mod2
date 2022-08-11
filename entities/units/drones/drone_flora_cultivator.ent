@@ -25,8 +25,8 @@ EntityBlueprint
 			plant_marker		string:"units/drones/drone_flora_cultivator_marker"
 			plant_effect		string:"effects/destructibles/grass_medium"
 
-			plant_time			float:"0.75"
-			plant_radius		float:"80"
+			plant_time			float:"0.25"
+			plant_radius		float:"60"
 			
 			min_scale			float:"0.75"
 			max_scale			float:"0.75"
@@ -53,17 +53,17 @@ EntityBlueprint
 	{
 		acceleration 			
 		{
-			base 	"80"
+			base 	"60"
 		}		
 		
 		deacceleration 			
 		{
-			base 	"80"
+			base 	"60"
 		}
 		
 		max_speed 				
 		{
-			base 	"240"
+			base 	"180"
 		}
 	}
 
