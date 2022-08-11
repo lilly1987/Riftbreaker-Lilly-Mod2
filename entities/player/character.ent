@@ -1331,7 +1331,7 @@ EntityBlueprint
 				{
 					PhysicsSphereShape
 					{
-						r "40.5"
+						r "80.5"
 					}
 				}
 			}
