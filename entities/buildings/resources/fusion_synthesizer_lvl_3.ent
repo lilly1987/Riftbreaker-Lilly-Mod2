@@ -7,11 +7,11 @@ EntityBlueprint
 	BuildingDesc
 	{
 		name 				"fusion_synthesizer_lvl_3"
-		bp   				"buildings/energy/fusion_powerplant_lvl_3"
+		bp   				"buildings/resources/fusion_synthesizer_lvl_3"
 		category 			"resources_mod"
 		localization_id		"fusion synthesizer"
 		description			"fusion synthesizer"
-		menu_icon			"gui/hud/building_icons/fusion_powerplant_lvl3"
+		menu_icon			"gui/hud/building_icons/fusion_synthesizer_lvl3"
 		type				"pipe"
 		require 			"headquarters"
 		//upgrade				"buildings/resources/fusion_synthesizer_lvl_4"	

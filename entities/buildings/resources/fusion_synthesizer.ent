@@ -5,11 +5,11 @@ EntityBlueprint
 	BuildingDesc
 	{
 		name 				"fusion_synthesizer"
-		bp   				"buildings/energy/fusion_powerplant"
+		bp   				"buildings/resources/fusion_synthesizer"
 		category 			"resources_mod"
 		localization_id		"fusion synthesizer"
 		description			"fusion synthesizer"
-		menu_icon			"gui/hud/building_icons/fusion_powerplant"
+		menu_icon			"gui/hud/building_icons/fusion_synthesizer"
 		type				"pipe"
 		require 			"headquarters"
 		upgrade				"buildings/resources/fusion_synthesizer_lvl_2"	
@@ -269,7 +269,7 @@ EntityBlueprint
 	MeshDesc
 	{
 		mesh 		"meshes/buildings/energy/fusion_powerplant.mesh"
-		material 	"buildings/energy/fusion_powerplant"
+		material 	"buildings/resources/fusion_synthesizer"
 	}
 
 	TypeDesc
