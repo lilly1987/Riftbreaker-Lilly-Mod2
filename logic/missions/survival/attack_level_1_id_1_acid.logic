@@ -81,7 +81,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan"
 					delay_group "0"
-					delay "1.00"
+					delay "0.100"
 					count "1"
 					units_in_one_spawn "70"
 				}

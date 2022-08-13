@@ -120,7 +120,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "1"
-					delay "5.00"
+					delay "0.500"
 					delay_group "0.00"
 					units_in_one_spawn "2"
 				}
@@ -130,7 +130,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "1"
-					delay "5.00"
+					delay "0.500"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -205,7 +205,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "0"
 					units_in_one_spawn "2"
 				}
@@ -215,7 +215,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "4"
-					delay "5.00"
+					delay "0.500"
 					delay_group "10.00"
 					units_in_one_spawn "30"
 				}
@@ -225,7 +225,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "4"
-					delay "5.00"
+					delay "0.500"
 					delay_group "10.00"
 					units_in_one_spawn "30"
 				}
@@ -300,7 +300,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "0.00"
 					units_in_one_spawn "2"
 				}
@@ -310,7 +310,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}

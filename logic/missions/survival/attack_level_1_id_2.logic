@@ -46,7 +46,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix"
 					delay_group "0"
-					delay "3.00"
+					delay "0.300"
 					count "4"
 					units_in_one_spawn "30"
 				}
@@ -56,7 +56,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix"
 					delay_group "8.00"
-					delay "3.00"
+					delay "0.300"
 					count "4"
 					units_in_one_spawn "30"
 				}

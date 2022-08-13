@@ -60,7 +60,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "5"
 					units_in_one_spawn "3"
 				}
@@ -70,7 +70,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "4"
 					units_in_one_spawn "3"
 				}
@@ -80,7 +80,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix"
 					delay_group "5.00"
-					delay "5.00"
+					delay "0.500"
 					count "3"
 					units_in_one_spawn "50"
 				}
@@ -118,7 +118,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "5"
 					units_in_one_spawn "3"
 				}
@@ -128,7 +128,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "2"
 					units_in_one_spawn "3"
 				}
@@ -138,7 +138,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix"
 					delay_group "5.00"
-					delay "5.00"
+					delay "0.500"
 					count "3"
 					units_in_one_spawn "50"
 				}
@@ -176,7 +176,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros"
 					delay_group "0"
-					delay "3.00"
+					delay "0.300"
 					count "3"
 					units_in_one_spawn "3"
 				}
@@ -186,7 +186,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel"
 					delay_group "3.00"
-					delay "3.00"
+					delay "0.300"
 					count "4"
 					units_in_one_spawn "3"
 				}
@@ -196,7 +196,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix"
 					delay_group "3.00"
-					delay "3.00"
+					delay "0.300"
 					count "3"
 					units_in_one_spawn "50"
 				}
@@ -297,7 +297,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "5"
 					units_in_one_spawn "3"
 				}
@@ -307,7 +307,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix"
 					delay_group "5.00"
-					delay "5.00"
+					delay "0.500"
 					count "3"
 					units_in_one_spawn "50"
 				}

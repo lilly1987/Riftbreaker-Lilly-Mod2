@@ -81,7 +81,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_boss"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "1"
 				}

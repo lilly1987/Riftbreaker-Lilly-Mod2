@@ -92,7 +92,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_alpha"
 					count "1"
-					delay "1.00"
+					delay "0.100"
 					delay_group "0"
 					units_in_one_spawn "70"
 				}

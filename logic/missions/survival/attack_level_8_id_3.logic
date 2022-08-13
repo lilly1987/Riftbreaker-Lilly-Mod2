@@ -102,7 +102,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/gnerot"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "4"
 					units_in_one_spawn "2"
 				}
@@ -166,7 +166,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/gnerot"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "2"
 					units_in_one_spawn "2"
 				}
@@ -237,7 +237,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/gnerot"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "3"
 					units_in_one_spawn "2"
 				}
@@ -343,7 +343,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/gnerot"
 					delay_group "0"
-					delay "3.00"
+					delay "0.300"
 					count "2"
 					units_in_one_spawn "1"
 				}

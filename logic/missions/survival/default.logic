@@ -232,14 +232,14 @@ FlowGraphTemplate
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "steel"
-						value "240.00"
+						value "60000.00"
 					}
 
 					StringData
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "carbonium"
-						value "150.00"
+						value "60000.00"
 					}
 
 					StringData
@@ -255,6 +255,76 @@ FlowGraphTemplate
 						key "ammo_mech_explosive"
 						value "10.00"
 					}
+
+					/////////////
+					
+					StringData
+					{
+						//editor "layout(data_block_resource.xml)|pos(0,0)"
+						key "cobalt"
+						value "10000.00"
+					}
+
+					StringData
+					{
+						//editor "layout(data_block_resource.xml)|pos(0,0)"
+						key "palladium"
+						value "10000.00"
+					}
+
+					StringData
+					{
+						//editor "layout(data_block_resource.xml)|pos(0,0)"
+						key "uranium"
+						value "10000.00"
+					}
+	
+					StringData
+					{
+						//editor "layout(data_block_resource.xml)|pos(0,0)"
+						key "titanium"
+						value "10000.00"
+					}
+                    
+	
+					StringData
+					{
+						//editor "layout(data_block_resource.xml)|pos(0,0)"
+						key "biomass_plant"
+						value "10000.00"
+					}
+                    
+					/////////////
+					
+					StringData
+					{
+						//editor "layout(data_block_resource.xml)|pos(0,0)"
+						key "rhodonite"
+						value "10000.00"
+					}
+
+					StringData
+					{
+						//editor "layout(data_block_resource.xml)|pos(0,0)"
+						key "tanzanite"
+						value "10000.00"
+					}
+					
+					StringData
+					{
+						//editor "layout(data_block_resource.xml)|pos(0,0)"
+						key "hazenite"
+						value "10000.00"
+					}
+					
+					StringData
+					{
+						//editor "layout(data_block_resource.xml)|pos(0,0)"
+						key "ferdonite"
+						value "10000.00"
+					}
+					
+					/////////////
 
 				}
 

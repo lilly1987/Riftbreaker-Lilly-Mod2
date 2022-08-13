@@ -89,7 +89,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_ultra"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "6"
 					units_in_one_spawn "3"
 				}
@@ -99,7 +99,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix_ultra"
 					delay_group "5.00"
-					delay "5.00"
+					delay "0.500"
 					count "3"
 					units_in_one_spawn "50"
 				}
@@ -152,7 +152,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_ultra"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "6"
 					units_in_one_spawn "3"
 				}
@@ -162,7 +162,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix_ultra"
 					delay_group "5.00"
-					delay "5.00"
+					delay "0.500"
 					count "3"
 					units_in_one_spawn "50"
 				}
@@ -222,7 +222,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_ultra"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "6"
 					units_in_one_spawn "3"
 				}
@@ -232,7 +232,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix_ultra"
 					delay_group "5.00"
-					delay "5.00"
+					delay "0.500"
 					count "3"
 					units_in_one_spawn "50"
 				}
@@ -327,7 +327,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_ultra"
 					delay_group "0"
-					delay "3.00"
+					delay "0.300"
 					count "3"
 					units_in_one_spawn "5"
 				}
@@ -337,7 +337,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix_ultra"
 					delay_group "3.00"
-					delay "1"
+					delay "0.1"
 					count "3"
 					units_in_one_spawn "50"
 				}

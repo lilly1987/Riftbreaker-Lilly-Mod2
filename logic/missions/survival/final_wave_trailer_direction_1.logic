@@ -80,7 +80,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_alpha"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -90,7 +90,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/gnerot_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -100,7 +100,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/bomogan"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "5"
 				}
@@ -110,7 +110,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -120,7 +120,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/bomogan_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "5"
 				}
@@ -130,7 +130,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/mushbit_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -140,7 +140,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/morirot_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -205,7 +205,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/gnerot"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -215,7 +215,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/gnerot_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -225,7 +225,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -235,7 +235,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner_alpha"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -245,7 +245,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -255,7 +255,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/morirot"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -265,7 +265,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/morirot_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -330,7 +330,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/nurglax"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -340,7 +340,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/baxmoth_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -350,7 +350,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_alpha"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -360,7 +360,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -370,7 +370,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -380,7 +380,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/mushbit"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -390,7 +390,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/mushbit_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -455,7 +455,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/nurglax_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -465,7 +465,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_alpha"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -475,7 +475,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_alpha"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -485,7 +485,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -495,7 +495,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -505,7 +505,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -515,7 +515,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -525,7 +525,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -590,7 +590,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros"
 					delay_group "0"
-					delay "1.00"
+					delay "0.100"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -600,7 +600,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -610,7 +610,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_alpha"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -620,7 +620,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -630,7 +630,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -640,7 +640,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -650,7 +650,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -715,7 +715,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/baxmoth"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -725,7 +725,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/krocoon"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -735,7 +735,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/bomogan_alpha"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "5"
 				}
@@ -745,7 +745,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/bomogan_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "5"
 				}
@@ -755,7 +755,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/bomogan"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "5"
 				}
@@ -765,7 +765,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -775,7 +775,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -840,7 +840,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_ultra"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -850,7 +850,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_ultra"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -860,7 +860,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/bomogan"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "5"
 				}
@@ -870,7 +870,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -880,7 +880,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/stregaros"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -890,7 +890,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/stregaros_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -900,7 +900,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/stregaros_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -986,7 +986,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/baxmoth_ultra"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -996,7 +996,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1006,7 +1006,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner_alpha"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1016,7 +1016,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1026,7 +1026,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -1036,7 +1036,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -1046,7 +1046,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1056,7 +1056,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/nurglax_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -1121,7 +1121,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/gnerot_ultra"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "3"
 				}
@@ -1131,7 +1131,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1141,7 +1141,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner_alpha"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1151,7 +1151,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1161,7 +1161,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/canoptrix_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -1171,7 +1171,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -1181,7 +1181,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1267,7 +1267,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_alpha"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1277,7 +1277,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1287,7 +1287,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_alpha"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1297,7 +1297,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1307,7 +1307,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/morirot"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -1317,7 +1317,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/morirot_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -1327,7 +1327,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/krocoon_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -1392,7 +1392,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/krocoon_alpha"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -1402,7 +1402,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/bomogan"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "5"
 				}
@@ -1412,7 +1412,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1422,7 +1422,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_alpha"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1432,7 +1432,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/mushbit_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -1442,7 +1442,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/mushbit_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -1452,7 +1452,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/gnerot_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -1559,7 +1559,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/kafferroceros_alpha"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1569,7 +1569,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/gnerot_alpha"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "1"
 				}
@@ -1579,7 +1579,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/bomogan"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "5"
 				}
@@ -1589,7 +1589,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "10"
 				}
@@ -1599,7 +1599,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/bomogan_ultra"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "1"
 					units_in_one_spawn "5"
 				}
@@ -1609,7 +1609,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/mushbit_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}
@@ -1619,7 +1619,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/morirot_ultra"
 					delay_group "0"
-					delay "10.00"
+					delay "01.000"
 					count "1"
 					units_in_one_spawn "30"
 				}

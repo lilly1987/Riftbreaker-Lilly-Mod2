@@ -120,7 +120,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_ultra"
 					count "1"
-					delay "3.00"
+					delay "0.300"
 					delay_group "0.00"
 					units_in_one_spawn "2"
 				}
@@ -130,7 +130,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_ultra"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "50"
 				}
@@ -226,7 +226,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_ultra"
 					count "1"
-					delay "3.00"
+					delay "0.300"
 					delay_group "0"
 					units_in_one_spawn "2"
 				}
@@ -236,7 +236,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_ultra"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "10.00"
 					units_in_one_spawn "30"
 				}
@@ -246,7 +246,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_ultra"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "10.00"
 					units_in_one_spawn "30"
 				}
@@ -321,7 +321,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_ultra"
 					count "1"
-					delay "3.00"
+					delay "0.300"
 					delay_group "0.00"
 					units_in_one_spawn "2"
 				}

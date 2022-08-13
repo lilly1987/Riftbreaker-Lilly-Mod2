@@ -88,7 +88,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/nerilian"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "5"
 					units_in_one_spawn "3"
 				}
@@ -98,7 +98,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/bomogan_alpha"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "3"
 					units_in_one_spawn "3"
 				}
@@ -108,7 +108,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan"
 					delay_group "5.00"
-					delay "5.00"
+					delay "0.500"
 					count "3"
 					units_in_one_spawn "40"
 				}
@@ -172,7 +172,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner_alpha"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "3"
 					units_in_one_spawn "4"
 				}
@@ -182,7 +182,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/nurglax"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "1"
 					units_in_one_spawn "2"
 				}
@@ -192,7 +192,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan"
 					delay_group "5.00"
-					delay "5.00"
+					delay "0.500"
 					count "3"
 					units_in_one_spawn "40"
 				}
@@ -256,7 +256,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/nerilian"
 					delay_group "0"
-					delay "3.00"
+					delay "0.300"
 					count "3"
 					units_in_one_spawn "3"
 				}
@@ -266,7 +266,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel"
 					delay_group "3.00"
-					delay "3.00"
+					delay "0.300"
 					count "5"
 					units_in_one_spawn "4"
 				}
@@ -276,7 +276,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan"
 					delay_group "3.00"
-					delay "3.00"
+					delay "0.300"
 					count "3"
 					units_in_one_spawn "40"
 				}
@@ -403,7 +403,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/hedroner_alpha"
 					delay_group "0.00"
-					delay "3.00"
+					delay "0.300"
 					count "3"
 					units_in_one_spawn "4"
 				}
@@ -413,7 +413,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan"
 					delay_group "5.00"
-					delay "5.00"
+					delay "0.500"
 					count "3"
 					units_in_one_spawn "40"
 				}

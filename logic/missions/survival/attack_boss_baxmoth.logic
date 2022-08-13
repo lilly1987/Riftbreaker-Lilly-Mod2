@@ -81,7 +81,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/baxmoth_boss_acid"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "3"
 				}
@@ -152,7 +152,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/baxmoth_boss_cryo"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "3"
 				}
@@ -216,7 +216,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/baxmoth_boss_energy"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "3"
 				}
@@ -280,7 +280,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/baxmoth_boss_fire"
 					delay_group "0"
-					delay "1"
+					delay "0.1"
 					count "1"
 					units_in_one_spawn "3"
 				}

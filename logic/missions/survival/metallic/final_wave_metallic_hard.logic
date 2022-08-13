@@ -141,7 +141,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "4"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -151,7 +151,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "2"
-					delay "1"
+					delay "0.1"
 					delay_group "0"
 					units_in_one_spawn "3"
 				}
@@ -161,7 +161,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -171,7 +171,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -181,7 +181,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_alpha"
 					count "2"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -191,7 +191,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_alpha"
 					count "1"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -201,7 +201,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_ultra"
 					count "2"
-					delay "10.00"
+					delay "01.000"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -211,7 +211,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_ultra"
 					count "1"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -307,7 +307,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "2"
-					delay "1"
+					delay "0.1"
 					delay_group "0"
 					units_in_one_spawn "3"
 				}
@@ -317,7 +317,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -327,7 +327,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/lesigian_alpha"
 					count "3"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -337,7 +337,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/hedroner_morphium"
 					count "3"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -347,7 +347,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_alpha"
 					count "1"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -357,7 +357,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_alpha"
 					count "3"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -367,7 +367,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_alpha"
 					count "2"
-					delay "10.00"
+					delay "01.000"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -484,7 +484,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "50"
-					delay "5.00"
+					delay "0.500"
 					delay_group "0"
 					units_in_one_spawn "2"
 				}
@@ -494,7 +494,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "0"
 					units_in_one_spawn "3"
 				}
@@ -504,7 +504,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -514,7 +514,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/lesigian"
 					count "4"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -524,7 +524,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_alpha"
 					count "3"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -534,7 +534,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/hedroner_morphium"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -544,7 +544,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_alpha"
 					count "2"
-					delay "10.00"
+					delay "01.000"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -751,7 +751,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/octabit"
 					count "2"
-					delay "3.00"
+					delay "0.300"
 					delay_group "0"
 					units_in_one_spawn "6"
 				}
@@ -761,7 +761,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/octabit_alpha"
 					count "2"
-					delay "3.00"
+					delay "0.300"
 					delay_group "0"
 					units_in_one_spawn "6"
 				}
@@ -877,7 +877,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "2"
-					delay "1"
+					delay "0.1"
 					delay_group "0"
 					units_in_one_spawn "3"
 				}
@@ -887,7 +887,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -897,7 +897,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/lesigian_alpha"
 					count "3"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -907,7 +907,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/hedroner_morphium"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -917,7 +917,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_alpha"
 					count "2"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -927,7 +927,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_ultra"
 					count "3"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -937,7 +937,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_ultra"
 					count "2"
-					delay "10.00"
+					delay "01.000"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -1012,7 +1012,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/octabit"
 					count "2"
-					delay "3.00"
+					delay "0.300"
 					delay_group "0"
 					units_in_one_spawn "6"
 				}
@@ -1022,7 +1022,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/octabit_alpha"
 					count "2"
-					delay "3.00"
+					delay "0.300"
 					delay_group "0"
 					units_in_one_spawn "6"
 				}
@@ -1131,7 +1131,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/octabit"
 					count "2"
-					delay "3.00"
+					delay "0.300"
 					delay_group "0"
 					units_in_one_spawn "6"
 				}
@@ -1141,7 +1141,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/octabit_alpha"
 					count "2"
-					delay "3.00"
+					delay "0.300"
 					delay_group "0"
 					units_in_one_spawn "6"
 				}
@@ -1243,7 +1243,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/octabit"
 					count "2"
-					delay "3.00"
+					delay "0.300"
 					delay_group "0"
 					units_in_one_spawn "6"
 				}
@@ -1253,7 +1253,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/octabit_alpha"
 					count "2"
-					delay "3.00"
+					delay "0.300"
 					delay_group "0"
 					units_in_one_spawn "6"
 				}
@@ -1418,7 +1418,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "4"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -1428,7 +1428,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "2"
-					delay "1"
+					delay "0.1"
 					delay_group "0"
 					units_in_one_spawn "3"
 				}
@@ -1438,7 +1438,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -1448,7 +1448,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -1458,7 +1458,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_alpha"
 					count "3"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -1468,7 +1468,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_ultra"
 					count "1"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -1478,7 +1478,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_ultra"
 					count "2"
-					delay "10.00"
+					delay "01.000"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -1488,7 +1488,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_ultra"
 					count "1"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -1563,7 +1563,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "50"
-					delay "5.00"
+					delay "0.500"
 					delay_group "0"
 					units_in_one_spawn "2"
 				}
@@ -1573,7 +1573,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "0"
 					units_in_one_spawn "3"
 				}
@@ -1583,7 +1583,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -1593,7 +1593,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/lesigian_alpha"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -1603,7 +1603,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_alpha"
 					count "3"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -1613,7 +1613,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/hedroner_morphium"
 					count "4"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -1623,7 +1623,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_ultra"
 					count "2"
-					delay "10.00"
+					delay "01.000"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -1698,7 +1698,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "50"
-					delay "5.00"
+					delay "0.500"
 					delay_group "0"
 					units_in_one_spawn "2"
 				}
@@ -1708,7 +1708,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "0"
 					units_in_one_spawn "3"
 				}
@@ -1718,7 +1718,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -1728,7 +1728,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/lesigian_alpha"
 					count "3"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -1738,7 +1738,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_alpha"
 					count "3"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -1748,7 +1748,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/hedroner_morphium"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -1758,7 +1758,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_ultra"
 					count "4"
-					delay "10.00"
+					delay "01.000"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -1833,7 +1833,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -1843,7 +1843,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/hedroner_morphium"
 					count "5"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -1853,7 +1853,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -1863,7 +1863,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "3"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -1873,7 +1873,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_alpha"
 					count "3"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -1883,7 +1883,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_alpha"
 					count "1"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -1893,7 +1893,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/hedroner_morphium"
 					count "5"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -1903,7 +1903,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_ultra"
 					count "1"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -1978,7 +1978,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "2"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -1988,7 +1988,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/hedroner_morphium"
 					count "4"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -1998,7 +1998,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -2008,7 +2008,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -2018,7 +2018,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_alpha"
 					count "3"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -2028,7 +2028,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_ultra"
 					count "1"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -2038,7 +2038,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/hedroner_morphium"
 					count "5"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -2048,7 +2048,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_ultra"
 					count "1"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -2123,7 +2123,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite"
 					count "50"
-					delay "5.00"
+					delay "0.500"
 					delay_group "0"
 					units_in_one_spawn "2"
 				}
@@ -2133,7 +2133,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "2"
-					delay "5.00"
+					delay "0.500"
 					delay_group "0"
 					units_in_one_spawn "3"
 				}
@@ -2143,7 +2143,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_alpha"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -2153,7 +2153,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/lesigian_ultra"
 					count "3"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -2163,7 +2163,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_ultra"
 					count "3"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -2173,7 +2173,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/hedroner_morphium"
 					count "3"
-					delay "5.00"
+					delay "0.500"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -2183,7 +2183,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_ultra"
 					count "3"
-					delay "10.00"
+					delay "01.000"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -2258,7 +2258,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_alpha"
 					count "2"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -2268,7 +2268,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian"
 					count "2"
-					delay "1"
+					delay "0.1"
 					delay_group "0"
 					units_in_one_spawn "3"
 				}
@@ -2278,7 +2278,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron"
 					count "4"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -2288,7 +2288,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_alpha"
 					count "2"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -2298,7 +2298,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/bradron_ultra"
 					count "2"
-					delay "3.00"
+					delay "0.300"
 					delay_group "5.00"
 					units_in_one_spawn "5"
 				}
@@ -2308,7 +2308,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_ultra"
 					count "1"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}
@@ -2318,7 +2318,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/flurian_ultra"
 					count "3"
-					delay "10.00"
+					delay "01.000"
 					delay_group "5.00"
 					units_in_one_spawn "3"
 				}
@@ -2328,7 +2328,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)|pos(0,0)"
 					blueprint "units/ground/wingmite_ultra"
 					count "2"
-					delay "10.00"
+					delay "01.000"
 					delay_group "10.00"
 					units_in_one_spawn "50"
 				}

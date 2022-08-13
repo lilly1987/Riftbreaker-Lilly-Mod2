@@ -88,7 +88,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/arachnoid_sentinel_alpha"
 					delay_group "0"
-					delay "1.00"
+					delay "0.100"
 					count "1"
 					units_in_one_spawn "5"
 				}
@@ -98,7 +98,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan"
 					delay_group "5.00"
-					delay "1"
+					delay "0.1"
 					count "3"
 					units_in_one_spawn "30"
 				}
@@ -108,7 +108,7 @@ FlowGraphTemplate
 					//editor "layout(enemy_ground.xml)"
 					blueprint "units/ground/granan"
 					delay_group "0"
-					delay "5.00"
+					delay "0.500"
 					count "2"
 					units_in_one_spawn "30"
 				}
