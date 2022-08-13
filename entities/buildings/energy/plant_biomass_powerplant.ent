@@ -79,15 +79,15 @@ build_on_water			"1"
 		
 		database
 		{
-			cone_effect			string:"build_cone_5x5"
+			cone_effect			string:"build_cone_3x3"
 			cone_effect_sell	string:"sell_big"
 		}		
 	}
 
 	HealthDesc
 	{
-		max_health 					"2000"
-		health 						"2000"
+		max_health 					"1000"
+		health 						"1000"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
 		 is_manual 1
