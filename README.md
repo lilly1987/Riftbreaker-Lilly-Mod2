@@ -30,7 +30,7 @@
 - Death metal
 - https://www.nexusmods.com/theriftbreaker/mods/209
 - 
-- Expanded Arsenal  
+- Expanded Arsenal Mod, credit : WirawanMYT.
 - https://www.nexusmods.com/theriftbreaker/mods/122  
 - 
 - Extended Tower Arsenal 확장된 무기고  
@@ -197,3 +197,9 @@
 - 적 저항값 수정. 최대 대미지 2배로 조정. 즉 난이도 올라감
 - entities\units\ground
 - (physical|fire|acid|energy|cryo|area)\s+"[\d.]+"
+- 
+- fusion synthesizer 추가
+- entities\buildings\resources\fusion_synthesizer*.ent
+- materials\scripts\fusion_synthesizer_*.material
+- materials\textures\buildings\resources\fusion_synthesizer_*.dds
+- materials\textures\gui\hud\building_icons\fusion_synthesizer*.dds
