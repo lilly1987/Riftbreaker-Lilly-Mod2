@@ -32,7 +32,8 @@ EntityBlueprint
 				}
 			}		
 		}
-
+	}
+	
 	ResourceStorageDesc
 	{
 		Storages
