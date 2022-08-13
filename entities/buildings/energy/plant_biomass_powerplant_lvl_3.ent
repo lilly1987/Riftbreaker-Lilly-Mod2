@@ -28,8 +28,8 @@ build_on_water			"1"
 				building_time 10
 				building_cost
 				{
-					carbonium 	"300"
-					steel 		"80"		
+					carbonium 	"1200"
+					steel 		"320"		
 				}
 			}		
 		}
@@ -42,7 +42,7 @@ build_on_water			"1"
 			GameplayResource
 			{
 				resource 			"biomass_plant"
-				value			 	"1"
+				value			 	"4"
 			}
 			GameplayResource
 			{
@@ -56,7 +56,7 @@ build_on_water			"1"
 			GameplayResource
 			{
 				resource 			"energy"
-				value			 	"200"
+				value			 	"800"
 			}
 		}
 		priority 9
@@ -70,7 +70,7 @@ build_on_water			"1"
 			Storage
 			{
 				resource "energy"
-				max 	 "200"
+				max 	 "800"
 			}
 			
 		}

@@ -28,8 +28,8 @@ EntityBlueprint
 				building_time 10
 				building_cost
 				{
-					carbonium 	"800"
-					steel 		"400"				
+					carbonium 	"3200"
+					steel 		"1600"				
 				}
 			}		
 		}
@@ -42,7 +42,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"biomass_animal"
-				value			 	"1"
+				value			 	"4"
 			}
 			GameplayResource
 			{
@@ -56,7 +56,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"energy"
-				value			 	"400"
+				value			 	"1600"
 			}
 		}
 		priority 9
@@ -70,7 +70,7 @@ EntityBlueprint
 			Storage
 			{
 				resource "energy"
-				max 	 "400"
+				max 	 "1600"
 			}
 			
 		}

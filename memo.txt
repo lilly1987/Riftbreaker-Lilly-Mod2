@@ -79,6 +79,16 @@ delay "10.00"
 delay(\s+)"(\d*)(\d).(\d+)"
 delay\1"0\2.\3\4"
 
+delay "0"
+delay "3"
+delay "30"
+delay "300"
+
+delay(\s+)"([1-9]?)(\d*)(\d)"
+delay\1"0\2\3.\4"
+
+delay(\s+)"([1-9])"
+delay\1"0.\2"
 
 ## 연구
 
