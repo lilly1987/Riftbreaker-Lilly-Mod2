@@ -1,23 +1,25 @@
 EntityBlueprint
 {
-	name  "buildings/resources/pipe_connector_t"
+	name  "buildings/resources/pipe_connector_L"
 
 	BuildingDesc
 	{
-		buildable 	"0"
-		name 		"pipe_connector_t"
-		bp   		"buildings/resources/pipe_connector_t"
-		ghost_bp 	"buildings/resources/pipe_connector_t_ghost"
-		localization_id		"gui/hud/building_name/pipe_straight"
-		category 	"resources"
+		//buildable 	"0"
+		name 		"pipe_connector_L"
+		bp   		"buildings/resources/pipe_connector_L"
+		ghost_bp 	"buildings/resources/pipe_connector_L_ghost"
+		localization_id		"pipe_connector_L"
+		category 	"resources_mod"
 		type		"pipe"
-		require 	"headquarters"
-		menu_action			"resource_clear"
-		build_on_water		"1"	
-		check_connect		"1"
-
+		description			"gui/hud/building_description/pipe_straight"
+		menu_icon			"gui/hud/building_icons/pipe_straight"
 		pipe_mode   "1"
-	
+		require 	"headquarters"
+		building_mode		"line"
+		menu_action			"resource_clear"	
+		build_on_water		"1"
+		//check_connect		"1"
+		
 		costs
 		{
 			BuildingCostInfo
@@ -30,30 +32,24 @@ EntityBlueprint
 				}
 			}		
 		}
-			
-		connect
-		{
-			T 		"buildings/resources/pipe_connector_t"	
-			X		"buildings/resources/pipe_connector_x"
-			L		"buildings/resources/pipe_corner"
-			I		"buildings/resources/pipe_straight,buildings/resources/pipe_straight_windowless"
-		}
-	}
 
-	ResistanceComponent
+	ResourceStorageDesc
 	{
-		physical		"0.1"
-		fire			"0.1"
-		acid			"0.1"
-		energy			"0.1"
-		cryo			"0.1"
-		area			"0.1"
+		Storages
+		{
+			Storage
+			{
+				group	 		"local"
+				max 	 		"0"
+				attachment		"att_in_2|att_in_4"
+			}
+		}
 	}
 	PipeComponent
 	{
-		
+		attachment		"att_in_1,att_in_3"
 	}
-	
+
 	LuaDesc
 	{
 		script "lua/buildings/resources/pipe_straight.lua"
@@ -63,6 +59,7 @@ EntityBlueprint
 			cone_effect			string:"build_cone_1x1"
 			cone_effect_sell	string:"sell_small"
 			building_time		float:"1"
+			postfix				string:"_storage"
 		}
 	}
 
@@ -72,7 +69,7 @@ EntityBlueprint
 		health 						"2000"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
-		is_manual 					1
+		 is_manual 1
 		update_health_uniform 		"1"
 	
 
@@ -108,12 +105,18 @@ EntityBlueprint
 	ResistanceComponent
 	{
 		magma		"0"
-	}	
+		physical		"0.1"
+		fire			"0.1"
+		acid			"0.1"
+		energy			"0.1"
+		cryo			"0.1"
+		area			"0.1"
+	}		
 
 	MeshDesc
 	{
-		mesh "meshes/buildings/resources/pipe_connector_t.mesh"
-		material "buildings/resources/pipe_connector_t"
+		mesh "meshes/buildings/resources/pipe_connector_x.mesh"
+		material "buildings/resources/pipe_connector_x"
 	}
 
 	TypeDesc
@@ -123,7 +126,7 @@ EntityBlueprint
 
 	SkeletonDesc
 	{
-		name "meshes/buildings/resources/pipe_connector_t"
+		name "meshes/buildings/resources/pipe_connector_x"
 	}
 
 	PhysicsDesc
@@ -161,7 +164,7 @@ EntityBlueprint
 		{
 			min
 			{
-				x "-0.5"
+				x "-1"
 				y "0"
 				z "-1"
 			}
@@ -209,7 +212,7 @@ EntityBlueprint
 			x "1"
 			y "1"
 		}
-		big_minimap_scale 	"1.9"			
+		big_minimap_scale 	"1.9"
 		visibility			"always"
 	}
 
@@ -262,7 +265,7 @@ EntityBlueprint
 				}
 
 				key "default"
-			}		
+			}	
 			Pair
 			{
 				value
@@ -289,5 +292,66 @@ EntityBlueprint
 		{
 			"buildings/effects_smoke_small_base"
 		}	
+////////////////////////Resources/////////////////////////			
+		EffectGroup
+		{
+			group "att_in_1"
+			enabled "1"				
+			delay "0"
+			
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/building_arrow_twosided"								
+					bone "att_in_1_arrow"
+				}
+			}
+		}		
+		EffectGroup
+		{
+			group "att_in_2"
+			enabled "1"				
+			delay "0"
+			
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/building_arrow"								
+					bone "att_in_2_arrow"
+				}
+			}
+		}	
+		EffectGroup
+		{
+			group "att_in_3"
+			enabled "1"				
+			delay "0"
+			
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/building_arrow_twosided"								
+					bone "att_in_3_arrow"
+				}
+			}
+		}	
+		EffectGroup
+		{
+			group "att_in_4"
+			enabled "1"				
+			delay "0"
+			
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/buildings_and_machines/building_arrow"								
+					bone "att_in_4_arrow"
+				}
+			}
+		}			
 	}	
 }

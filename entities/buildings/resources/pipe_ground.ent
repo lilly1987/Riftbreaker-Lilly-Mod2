@@ -46,7 +46,7 @@ EntityBlueprint
 		acid			"0.1"
 		energy			"0.1"
 		cryo			"0.1"
-		area			"0.0"
+		area			"0.1"
 	}
 	PipeComponent
 	{

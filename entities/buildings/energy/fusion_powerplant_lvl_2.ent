@@ -73,7 +73,7 @@ EntityBlueprint
 				resource 	"plasma"
 				value 		"300"
 				attachment	"att_out_1"
-				optional    "1"				
+				//optional    "1"				
 			}			
 		}
 		priority 9

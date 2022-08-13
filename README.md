@@ -36,6 +36,9 @@
 - Extended Tower Arsenal 확장된 무기고  
 - https://www.nexusmods.com/theriftbreaker/mods/106  
 - 
+- Galatea37 Orbit
+- https://www.nexusmods.com/theriftbreaker/mods/154
+- 
 - Geoscanner Infinite Treasure
 - https://www.nexusmods.com/theriftbreaker/mods/116
 - 
@@ -47,6 +50,9 @@
 - 
 - Jungle more Variation mod  
 - https://www.nexusmods.com/theriftbreaker/mods/150  
+- 
+- Mini Miner mine more
+- https://www.nexusmods.com/theriftbreaker/mods/205
 - 
 - Mod Compatibility Framework 모드 호환성 프레임워크  
 - https://www.nexusmods.com/theriftbreaker/mods/141  
@@ -60,7 +66,7 @@
 - Nite Synthesizers and Rare synthesizers v3.0  
 - https://www.nexusmods.com/theriftbreaker/mods/114  
 - 
-- No Random Weapon Stats  
+- No Random Weapon Stats (Updated)  
 - https://www.nexusmods.com/theriftbreaker/mods/198  
 - 
 - Orbital Strikes  
@@ -72,6 +78,9 @@
 - Tower Pack - Awarded  
 - https://www.nexusmods.com/theriftbreaker/mods/204  
 -
+- Weapons Charge Faster
+- https://www.nexusmods.com/theriftbreaker/mods/203
+- 
 - And Etc....
 - 
 # 수정한 부분

@@ -74,7 +74,7 @@ EntityBlueprint
 				resource 	"plasma"
 				value 		"200"
 				attachment	"att_out_1"
-				optional    "1"
+				//optional    "1"
 			}	
 			GameplayResource
 			{
