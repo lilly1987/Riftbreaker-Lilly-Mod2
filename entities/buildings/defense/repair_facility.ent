@@ -39,7 +39,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"energy"
-				value			 	"1"
+				value			 	"4"
 			}
 			
 		}

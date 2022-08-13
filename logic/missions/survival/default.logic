@@ -246,7 +246,7 @@ FlowGraphTemplate
 					{
 						//editor "layout(data_block_resource.xml)|pos(0,0)"
 						key "ammo_mech_low_caliber"
-						value "320.00"
+						value "3200.00"
 					}
 
 					StringData

@@ -12,7 +12,7 @@ EntityBlueprint
 		menu_icon			"gui/hud/building_icons/portal"
 		require 			"headquarters"
 		order				"3"
-		min_radius			"40"
+		min_radius			"20"
 		radius_name			"portal"
 		min_radius_effect   "voice_over/announcement/portal_too_close" 
 		building_mode		"radius"
@@ -27,7 +27,7 @@ EntityBlueprint
 				building_time 0.5
 				building_cost
 				{
-					carbonium 	"25"		
+					carbonium 	"100"		
 				}
 			}		
 		}
@@ -43,8 +43,8 @@ EntityBlueprint
 
 	HealthDesc
 	{
-		max_health 					"2500"
-		health 						"2500"
+		max_health 					"1000"
+		health 						"1000"
 		regeneration 				"0"
 		regeneration_cooldown 		"0"
 		 is_manual 1

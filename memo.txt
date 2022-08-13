@@ -132,7 +132,8 @@ r_show_map_info 1
 debug_mission_flow 1
 camera_enable_zoom 1
 r_show_lua_names 1
-cheat_debug_difficulty 1
+
+cheat_debug_difficulty 0
 
 debug_show_gui_hitboxes 0
 r_show_entity_blueprints 0

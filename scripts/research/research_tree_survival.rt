@@ -1498,6 +1498,12 @@ Research
 
 						ResearchAward
 						{
+							blueprint "buildings/resources/fusion_synthesizer_lvl_3"
+							is_visible "1"
+						}
+
+						ResearchAward
+						{
 							blueprint "buildings/resources/plasma_converter_lvl_3"
 							is_visible "1"
 						}
@@ -1551,6 +1557,12 @@ Research
 						ResearchAward
 						{
 							blueprint "buildings/energy/fusion_powerplant_lvl_2"
+							is_visible "1"
+						}
+
+						ResearchAward
+						{
+							blueprint "buildings/resources/fusion_synthesizer_lvl_2"
 							is_visible "1"
 						}
 
@@ -3123,6 +3135,12 @@ Research
 						ResearchAward
 						{
 							blueprint "buildings/energy/fusion_powerplant"
+							is_visible "1"
+						}
+
+						ResearchAward
+						{
+							blueprint "buildings/resources/fusion_synthesizer"
 							is_visible "1"
 						}
 
