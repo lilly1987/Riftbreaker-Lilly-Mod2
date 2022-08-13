@@ -19,6 +19,8 @@ DifficultyDef
 	items_dropped_count						"0"
 
 	debug_menu								"1"
+	
+	gravity_scale						"5"
 
 	creatures_base_difficulty				"0.0"
 	//creatures_max_difficulty				"2.5"

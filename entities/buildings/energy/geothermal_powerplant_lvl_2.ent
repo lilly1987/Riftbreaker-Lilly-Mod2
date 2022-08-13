@@ -29,9 +29,9 @@ EntityBlueprint
 				building_time 45
 				building_cost
 				{
-					carbonium 	"600"		
-					steel 		"400"
-					titanium	"100"
+					carbonium 	"1800"		
+					steel 		"1200"
+					titanium	"300"
 				}
 			}		
 		}
@@ -45,7 +45,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 	"geothermal_vent"
-				value 		"1"
+				value 		"3"
 			}
 		}
 		
@@ -54,12 +54,12 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 	"energy"
-				value 		"400"
+				value 		"1200"
 			}
 			GameplayResource
 			{
 				resource 	"mud"
-				value 		"150"
+				value 		"450"
 				attachment	"att_out_1"
 				optional    "1"
 			}			
@@ -74,12 +74,12 @@ EntityBlueprint
 			Storage
 			{
 				resource "energy"
-				max 	 "400"
+				max 	 "1200"
 			}
 			Storage
 			{
 				resource	 	"mud"
-				max 	 		"600"
+				max 	 		"1800"
 				attachment		"att_out_1"
 			}			
 		}

@@ -26,8 +26,8 @@ EntityBlueprint
 				building_time 10
 				building_cost
 				{
-					carbonium 	"300"
-					steel 		"200"		
+					carbonium 	"900"
+					steel 		"600"		
 				}
 			}		
 		}
@@ -40,13 +40,13 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"energy"
-				value			 	"50"
+				value			 	"150"
 			}
 			
 			GameplayResource
 			{
 				resource 			"mud"
-				value			 	"100"
+				value			 	"300"
 				attachment			"att_in_1"
 				family				"in"
 			}
@@ -54,7 +54,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"sludge"
-				value			 	"200"
+				value			 	"600"
 				attachment			"att_in_1"
 				family				"in"
 			}
@@ -65,7 +65,7 @@ EntityBlueprint
 			GameplayResource
 			{
 				resource 			"water"
-				value 				"50"
+				value 				"150"
 				attachment			"att_out_1"
 			}
 		}

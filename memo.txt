@@ -90,6 +90,12 @@ delay\1"0\2\3.\4"
 delay(\s+)"([1-9])"
 delay\1"0.\2"
 
+
+이름	줄	텍스트	경로
+communications_hub.ent	65	   cone_effect   string:"build_cone_5x5" 	C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\entities\buildings\main
+communications_hub.ent	66	   cone_effect_sell string:"sell_big" 	C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\entities\buildings\main
+
+
 ## 연구
 
 가로 최대 600
@@ -117,3 +123,16 @@ delay\1"0.\2"
 				234	179
 				99	45
 				324	269
+				
+				
+
+r_show_fps 1
+show_terrain_grid 1
+r_show_map_info 1
+debug_mission_flow 1
+camera_enable_zoom 1
+r_show_lua_names 1
+cheat_debug_difficulty 1
+
+debug_show_gui_hitboxes 0
+r_show_entity_blueprints 0
