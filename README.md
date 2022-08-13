@@ -11,10 +11,24 @@
 - Real-time editing - github
 - https://github.com/lilly1987/Riftbreaker-Lilly-Mod2
 -
-# 참고 및 포함 모드 Mods that tried to merge
--
+# 권한에 대해 about permissions
+- 
+- 원래 모드의 파일의 소유권은 모두 원작자에게 있습니다
+- All files in the original mod are owned by the original author
+- 
+- 저는 따로 허가를 못받았기에 각 모드의 허가는 각 모더에게 받으셔야 합니다.
+- I didn't get permission separately, so you have to get permission for each mod from each modder.
+- 
+- 제가 직접 수정한 부분도 소유권을 주장하지 않습니다.
+- I do not claim ownership of any modifications made by myself.
+- 
+# 참고 및 원래 모드 Note and original mode
+- 
 - All Pumps
 - https://www.nexusmods.com/theriftbreaker/mods/189
+-
+- Death metal
+- https://www.nexusmods.com/theriftbreaker/mods/209
 - 
 - Expanded Arsenal  
 - https://www.nexusmods.com/theriftbreaker/mods/122  
@@ -59,7 +73,7 @@
 - https://www.nexusmods.com/theriftbreaker/mods/204  
 -
 - And Etc....
-
+- 
 # 수정한 부분
 -
 - 내 취향대로 수정한 타일 추가
@@ -164,21 +178,22 @@
 - Apply override_terrain_type "magma_hot_ground" to tiles
 - biomes\lilly\lilly.biome
 - 
-- 시작시 스캔 사용
+- 시작시 스캔 사용 Enable scan on startup
 - lua\units\ground\mech.lua
 - 
-- 환경 효과 수정
+- 환경 효과 수정 environmental effect change
 - entities\effects\weather.ent
 - 
-- 자원 혜성 거리 수정
+- 자원 혜성 거리 수정 resource comet distance change
 - entities\weather\resource_comet.ent
 - 
-- 자원 혜성 종류 수정
+- 자원 혜성 종류 수정 Resource Comet Type Modification
 - lua\weather\resource_comet.lua
 - 
-- 몇 건물 물위에 건설 가능
+- 몇 건물 물위에 건설 가능 Several buildings can be built on water
+- entities\buildings
 - build_on_water			"1"
-
+- 
 - 적 저항값 수정. 최대 대미지 2배로 조정. 즉 난이도 올라감
 - entities\units\ground
 - (physical|fire|acid|energy|cryo|area)\s+"[\d.]+"
