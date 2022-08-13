@@ -142,7 +142,9 @@ biomes/lilly/tiles/resources/metallic_plains_04/metallic_plains_04.tile
 biomes/lilly/tiles/resources/metallic_plains_05/metallic_plains_05.tile
 biomes/lilly/tiles/resources/jungle_starting_01/jungle_starting_01.tile
 	
-
+biomes/GO37new/tiles/GO37new_1x1/GO37new_1x1.tile
+biomes/GO37new/tiles/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
+biomes/GO37new/tiles/GO37new_Planet/GO37new_Planet.tile
 
     }
 
