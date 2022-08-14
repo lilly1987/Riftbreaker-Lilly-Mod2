@@ -43,7 +43,7 @@ MissionDef
 //biomes/lilly/tiles/GO37new/GO37new_1x1_resources/GO37new_1x1_resources.tile
 biomes/lilly/tiles/GO37new/grid/grid.tile
 biomes/lilly/tiles/GO37new/grid_random/grid_random.tile
-	
+biomes/lilly/tiles/GO37new/grid_L/grid_L.tile
 	}
 
 	tile_spawn_rules
