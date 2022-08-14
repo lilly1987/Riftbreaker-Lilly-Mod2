@@ -9214,6 +9214,117 @@ EntityTemplate
 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-56"
+				z "56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+
+
 EntityTemplate
 {
 	base_blueprint "lilly/bush_grass_random"
@@ -9262,9 +9373,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9320,9 +9431,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9378,9 +9489,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9436,9 +9547,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9494,9 +9605,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9552,9 +9663,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9610,9 +9721,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9668,9 +9779,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9726,9 +9837,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9784,9 +9895,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9842,9 +9953,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9900,9 +10011,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -9958,9 +10069,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10016,9 +10127,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10074,9 +10185,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10132,9 +10243,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10190,9 +10301,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10248,9 +10359,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10306,9 +10417,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10364,9 +10475,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10422,9 +10533,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10480,9 +10591,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10538,9 +10649,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10596,9 +10707,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10654,9 +10765,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10712,9 +10823,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10770,9 +10881,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10828,9 +10939,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10886,9 +10997,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -10944,9 +11055,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11002,9 +11113,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11060,9 +11171,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11118,9 +11229,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11176,9 +11287,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11234,9 +11345,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11292,9 +11403,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11350,9 +11461,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11408,9 +11519,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11466,9 +11577,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11524,9 +11635,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11582,9 +11693,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11640,9 +11751,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11698,9 +11809,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11756,9 +11867,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11814,9 +11925,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11872,9 +11983,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11930,9 +12041,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -11988,9 +12099,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -12046,9 +12157,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -12104,9 +12215,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -12162,9 +12273,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
@@ -12220,9 +12331,9 @@ EntityTemplate
 
 			scale
 			{
-				x "16.00"
+				x "1.00"
 				y "1.000"
-				z "16.00"
+				z "1.00"
 			}
 
 		}
