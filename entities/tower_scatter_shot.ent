@@ -298,6 +298,14 @@ EntityBlueprint
 				stat_features "BASE_MINMAX"
 				stat_type "WEAPON_SCALE"
 			}
+			
+			WeaponStatDef
+			{
+				max_value "42.000"
+				min_value "42.000"
+				stat_features "BASE_MINMAX"
+				stat_type "BEAM_RANGE"
+			}
 
 		}
 
