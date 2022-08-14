@@ -17,7 +17,7 @@ EntityBlueprint
 		//upgrade				"buildings/resources/carbonium_factory_lvl_4"			
 		require 			"headquarters"
 		//exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
-		
+		build_on_water			"1"
 		costs
 		{
 			BuildingCostInfo
