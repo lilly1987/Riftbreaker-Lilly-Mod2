@@ -46,8 +46,11 @@ MissionDef
 //biomes/lilly/tiles/grid/grid_random.tile
 //biomes/lilly/tiles/grid/grid_resources.tile
 
-biomes/lilly/tiles/grid/liquid_cross2.tile
-biomes/lilly/tiles/grid/liquid_cross.tile
+biomes/lilly/tiles/grid/liquid_cross4_3.tile
+biomes/lilly/tiles/grid/liquid_cross4_2.tile
+biomes/lilly/tiles/grid/liquid_cross4.tile
+//biomes/lilly/tiles/grid/liquid_cross2.tile
+//biomes/lilly/tiles/grid/liquid_cross.tile
 //biomes/lilly/tiles/grid/Square.tile
 //biomes/lilly/tiles/grid/grid_liquid_Square.tile
 //biomes/lilly/tiles/grid/grid2.tile

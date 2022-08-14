@@ -27,6 +27,9 @@ biomes/lilly/tiles/grid/Square.tile
 
 biomes/lilly/tiles/grid/liquid_cross.tile
 biomes/lilly/tiles/grid/liquid_cross2.tile
+biomes/lilly/tiles/grid/liquid_cross4_3.tile
+biomes/lilly/tiles/grid/liquid_cross4_2.tile
+biomes/lilly/tiles/grid/liquid_cross4.tile
 
 biomes/acid/tiles/acid_custom_new_resource_01/acid_custom_new_resource_01.tile
 biomes/acid/tiles/acid_custom_new_resource_01/acid_custom_new_resource_01_resources3.tile
