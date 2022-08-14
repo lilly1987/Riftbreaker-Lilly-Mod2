@@ -107,7 +107,9 @@ Blueprint\n\{\nblueprint "\1"\n\}
 \}"[\s]+"
 \n
 
-name\s"props/rocks/.*"
+name\s+"props/rocks/.*"
+name\s+"props/(bush|grass)/.*"
+name\s+"props/(cactus|crystals|mushrooms|trees|trees_dry)/.*"
 
 이름	줄	텍스트	경로
 communications_hub.ent	65	   cone_effect   string:"build_cone_5x5" 	C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\entities\buildings\main

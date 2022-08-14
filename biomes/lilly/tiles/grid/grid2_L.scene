@@ -4517,12 +4517,12 @@ EntityTemplate
 
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4575,12 +4575,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4633,12 +4633,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4691,12 +4691,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4749,12 +4749,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4807,12 +4807,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4865,12 +4865,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4923,12 +4923,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4981,12 +4981,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5039,12 +5039,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5097,12 +5097,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5155,12 +5155,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5213,12 +5213,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5271,12 +5271,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5329,12 +5329,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5387,12 +5387,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5445,12 +5445,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5503,12 +5503,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5561,12 +5561,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5619,12 +5619,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5677,12 +5677,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5735,12 +5735,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5793,12 +5793,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5851,12 +5851,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5909,12 +5909,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5967,12 +5967,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6025,12 +6025,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6083,12 +6083,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6141,12 +6141,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6199,12 +6199,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6257,12 +6257,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6315,12 +6315,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6373,12 +6373,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6431,12 +6431,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6489,12 +6489,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6547,12 +6547,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6605,12 +6605,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6663,12 +6663,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6721,12 +6721,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6779,12 +6779,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6837,12 +6837,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6895,12 +6895,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6953,12 +6953,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7011,12 +7011,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7069,12 +7069,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7127,12 +7127,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7185,12 +7185,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7243,12 +7243,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7301,12 +7301,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7359,12 +7359,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7417,12 +7417,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7475,12 +7475,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7533,12 +7533,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7591,12 +7591,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7649,12 +7649,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7707,12 +7707,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7765,12 +7765,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7823,12 +7823,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7881,12 +7881,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7939,12 +7939,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7997,12 +7997,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8055,12 +8055,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8113,12 +8113,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8171,12 +8171,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8229,12 +8229,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8287,12 +8287,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8345,12 +8345,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8403,12 +8403,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8461,12 +8461,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8519,12 +8519,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8577,12 +8577,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8635,12 +8635,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8693,12 +8693,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8751,12 +8751,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8809,12 +8809,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8867,12 +8867,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8925,12 +8925,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8983,12 +8983,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -9041,12 +9041,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -9099,12 +9099,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -9157,12 +9157,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc

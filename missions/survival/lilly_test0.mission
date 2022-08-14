@@ -35,9 +35,9 @@ MissionDef
 //biomes/lilly/tiles/grid/grid2_random_rock.tile
 //biomes/lilly/tiles/grid/grid2_rock.tile
 
-biomes/lilly/tiles/grid/grid2.tile
-biomes/lilly/tiles/grid/grid2_L.tile
-biomes/lilly/tiles/grid/grid2_random.tile
+//biomes/lilly/tiles/grid/grid2.tile
+//biomes/lilly/tiles/grid/grid2_L.tile
+//biomes/lilly/tiles/grid/grid2_random.tile
 
 //biomes/lilly/tiles/grid/grid_enemy.tile
 //biomes/lilly/tiles/grid/grid_liquid.tile
@@ -45,6 +45,10 @@ biomes/lilly/tiles/grid/grid2_random.tile
 //biomes/lilly/tiles/grid/grid_liquid_resources2.tile
 //biomes/lilly/tiles/grid/grid_random.tile
 //biomes/lilly/tiles/grid/grid_resources.tile
+
+biomes/lilly/tiles/grid/grid2.tile
+biomes/lilly/tiles/grid/grid2_random.tile
+biomes/lilly/tiles/grid/grid2_random_rock.tile
 
 	}
 

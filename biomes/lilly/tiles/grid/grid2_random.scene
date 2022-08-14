@@ -3762,12 +3762,12 @@ EntityTemplate
 
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -3820,12 +3820,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -3878,12 +3878,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -3936,12 +3936,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -3994,12 +3994,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4052,12 +4052,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4110,12 +4110,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4168,12 +4168,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4226,12 +4226,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4284,12 +4284,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4342,12 +4342,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4400,12 +4400,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4458,12 +4458,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4516,12 +4516,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4574,12 +4574,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4632,12 +4632,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4690,12 +4690,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4748,12 +4748,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4806,12 +4806,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4864,12 +4864,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4922,12 +4922,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -4980,12 +4980,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5038,12 +5038,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5096,12 +5096,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5154,12 +5154,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5212,12 +5212,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5270,12 +5270,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5328,12 +5328,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5386,12 +5386,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5444,12 +5444,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5502,12 +5502,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5560,12 +5560,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5618,12 +5618,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5676,12 +5676,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5734,12 +5734,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5792,12 +5792,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5850,12 +5850,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5908,12 +5908,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -5966,12 +5966,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6024,12 +6024,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6082,12 +6082,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6140,12 +6140,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6198,12 +6198,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6256,12 +6256,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6314,12 +6314,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6372,12 +6372,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6430,12 +6430,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6488,12 +6488,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6546,12 +6546,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6604,12 +6604,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6662,12 +6662,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6720,12 +6720,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6778,12 +6778,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6836,12 +6836,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6894,12 +6894,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -6952,12 +6952,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7010,12 +7010,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7068,12 +7068,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7126,12 +7126,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7184,12 +7184,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7242,12 +7242,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7300,12 +7300,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7358,12 +7358,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7416,12 +7416,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7474,12 +7474,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7532,12 +7532,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7590,12 +7590,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7648,12 +7648,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7706,12 +7706,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7764,12 +7764,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7822,12 +7822,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7880,12 +7880,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7938,12 +7938,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -7996,12 +7996,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8054,12 +8054,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8112,12 +8112,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8170,12 +8170,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8228,12 +8228,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8286,12 +8286,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8344,12 +8344,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8402,12 +8402,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "lilly/mushrooms_random"
+	base_blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "lilly/mushrooms_random"
+			blueprint "lilly/cactus_crystals_mushrooms_trees_random"
 		}
 
 		LocalAabbDesc
@@ -8451,6 +8451,3719 @@ EntityTemplate
 				x "1.00"
 				y "1.00"
 				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-56"
+				z "-56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-40"
+				z "-56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-24"
+				z "-56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-8"
+				z "-56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "8"
+				z "-56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "24"
+				z "-56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "40"
+				z "-56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "56"
+				z "-56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-56"
+				z "-40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-40"
+				z "-40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-24"
+				z "-40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-8"
+				z "-40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "8"
+				z "-40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "24"
+				z "-40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "40"
+				z "-40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "56"
+				z "-40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-56"
+				z "-24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-40"
+				z "-24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-24"
+				z "-24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-8"
+				z "-24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "8"
+				z "-24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "24"
+				z "-24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "40"
+				z "-24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "56"
+				z "-24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-56"
+				z "-8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-40"
+				z "-8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-24"
+				z "-8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-8"
+				z "-8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "8"
+				z "-8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "24"
+				z "-8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "40"
+				z "-8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "56"
+				z "-8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-56"
+				z "8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-40"
+				z "8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-24"
+				z "8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-8"
+				z "8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "8"
+				z "8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "24"
+				z "8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "40"
+				z "8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "56"
+				z "8"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-56"
+				z "24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-40"
+				z "24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-24"
+				z "24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-8"
+				z "24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "8"
+				z "24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "24"
+				z "24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "40"
+				z "24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "56"
+				z "24"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-56"
+				z "40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-40"
+				z "40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-24"
+				z "40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-8"
+				z "40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "8"
+				z "40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "24"
+				z "40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "40"
+				z "40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "56"
+				z "40"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-56"
+				z "56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-40"
+				z "56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-24"
+				z "56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-8"
+				z "56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "8"
+				z "56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "24"
+				z "56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "40"
+				z "56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/bush_grass_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/bush_grass_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "56"
+				z "56"
+			}
+
+			scale
+			{
+				x "16.00"
+				y "1.000"
+				z "16.00"
 			}
 
 		}

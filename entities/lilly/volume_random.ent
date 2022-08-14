@@ -36,6 +36,10 @@ EntityBlueprint
 		}
 		Blueprint
 		{
+			blueprint "logic/spawn_special_object"
+		}
+		Blueprint
+		{
 			blueprint "logic/spawn_objective"
 		}
 		Blueprint
@@ -49,6 +53,10 @@ EntityBlueprint
 		Blueprint
 		{
 			blueprint "units/spawner/volume_resources_units_spawner"
+		}
+		Blueprint
+		{
+			blueprint "units/spawner/volume_liquid_units_spawner"
 		}
 	}
 }

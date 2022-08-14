@@ -32,6 +32,9 @@ volcanic
 
 metallic_cube_big_06 너무 큼 8사이즈
 
+name\s+"props/rocks/.*"
+
+
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
