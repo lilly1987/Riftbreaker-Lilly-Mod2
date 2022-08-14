@@ -1,7 +1,7 @@
 
 EntityBlueprint
 {
-	name  "resources/volume_random"
+	name  "lilly/volume_random"
 
 	SceneEditorDesc
     {

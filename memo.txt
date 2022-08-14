@@ -60,7 +60,7 @@ base_blueprint "props/rocks
 base_blueprint "resources/volume_random_placement"
 base_blueprint "resources/volume_random_resources"
 base_blueprint "resources/volume_random_resources_liquid"
-base_blueprint "resources/volume_random"
+base_blueprint "lilly/volume_random"
 base_blueprint "logic/spawn_objective"
 base_blueprint "logic/spawn_enemy"
 base_blueprint "units/spawner/volume_regular_units_spawner"
