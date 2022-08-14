@@ -42,7 +42,7 @@ EntityTemplate
 	}
 
 }
-"EntityTemplate
+EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
 	components
@@ -606,8 +606,8 @@ EntityTemplate
 			
 			position
 			{
-				x "-26"
-				z "42"
+				x "-20"
+				z "48"
 			}
 
 			scale
@@ -838,8 +838,8 @@ EntityTemplate
 			
 			position
 			{
-				x "38"
-				z "42"
+				x "44"
+				z "48"
 			}
 
 			scale
@@ -1418,8 +1418,8 @@ EntityTemplate
 			
 			position
 			{
-				x "-42"
-				z "38"
+				x "-48"
+				z "44"
 			}
 
 			scale
@@ -1534,8 +1534,8 @@ EntityTemplate
 			
 			position
 			{
-				x "-22"
-				z "26"
+				x "-16"
+				z "20"
 			}
 
 			scale
@@ -1592,8 +1592,8 @@ EntityTemplate
 			
 			position
 			{
-				x "22"
-				z "38"
+				x "16"
+				z "44"
 			}
 
 			scale
@@ -1708,8 +1708,8 @@ EntityTemplate
 			
 			position
 			{
-				x "42"
-				z "26"
+				x "48"
+				z "20"
 			}
 
 			scale
@@ -2288,8 +2288,8 @@ EntityTemplate
 			
 			position
 			{
-				x "-38"
-				z "22"
+				x "-44"
+				z "16"
 			}
 
 			scale
@@ -2520,8 +2520,8 @@ EntityTemplate
 			
 			position
 			{
-				x "26"
-				z "22"
+				x "20"
+				z "16"
 			}
 
 			scale
@@ -3854,8 +3854,8 @@ EntityTemplate
 			
 			position
 			{
-				x "-26"
-				z "-22"
+				x "-20"
+				z "-16"
 			}
 
 			scale
@@ -4086,8 +4086,8 @@ EntityTemplate
 			
 			position
 			{
-				x "38"
-				z "-22"
+				x "44"
+				z "-16"
 			}
 
 			scale
@@ -4666,8 +4666,8 @@ EntityTemplate
 			
 			position
 			{
-				x "-42"
-				z "-26"
+				x "-48"
+				z "-20"
 			}
 
 			scale
@@ -4782,8 +4782,8 @@ EntityTemplate
 			
 			position
 			{
-				x "-22"
-				z "-38"
+				x "-16"
+				z "-44"
 			}
 
 			scale
@@ -4840,8 +4840,8 @@ EntityTemplate
 			
 			position
 			{
-				x "22"
-				z "-26"
+				x "16"
+				z "-20"
 			}
 
 			scale
@@ -4956,8 +4956,8 @@ EntityTemplate
 			
 			position
 			{
-				x "42"
-				z "-38"
+				x "48"
+				z "-44"
 			}
 
 			scale
@@ -5536,8 +5536,8 @@ EntityTemplate
 			
 			position
 			{
-				x "-38"
-				z "-42"
+				x "-44"
+				z "-48"
 			}
 
 			scale
@@ -5768,8 +5768,8 @@ EntityTemplate
 			
 			position
 			{
-				x "26"
-				z "-42"
+				x "20"
+				z "-48"
 			}
 
 			scale
@@ -6305,4 +6305,4 @@ EntityTemplate
 
 	}
 
-}"
+}
