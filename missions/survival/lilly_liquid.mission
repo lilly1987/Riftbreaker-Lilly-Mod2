@@ -14,8 +14,8 @@ MissionDef
     //}	
 
 	
-	//map_size        "5"
-	map_size		3,7
+	map_size        "5"
+	//map_size		3,7
 	//map_no_spawn_margin "24"
 	
 	//map_generator_seed	"1626282117"
@@ -35,9 +35,9 @@ biomes/lilly/tiles/GO37new/GO37new_1x1_enemy/GO37new_1x1_enemy.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources/GO37new_1x1_liquid_resources.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources2/GO37new_1x1_liquid_resources2.tile
-biomes/lilly/tiles/GO37new/GO37new_1x1_random/GO37new_1x1_random.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_resources/GO37new_1x1_resources.tile
-	
+biomes/lilly/tiles/GO37new/grid/grid.tile
+
 	}
 
 	tile_spawn_rules

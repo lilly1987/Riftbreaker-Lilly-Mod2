@@ -27,29 +27,29 @@ MissionDef
 	source_tiles
     {
 
-		biomes/acid/tiles/acid_plains_01/acid_plains_01.tile
-		biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
-		biomes/acid/tiles/acid_plains_03/acid_plains_03.tile
-		biomes/desert/tiles/desert_plains_01/desert_plains_01.tile
-		biomes/desert/tiles/desert_plains_02/desert_plains_02.tile
-		biomes/desert/tiles/desert_plains_03/desert_plains_03.tile
-		biomes/desert/tiles/desert_plains_04/desert_plains_04.tile
-		biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01.tile
-		biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02.tile
-		biomes/jungle/tiles/jungle_custom_plains_03/jungle_custom_plains_03.tile
-		biomes/jungle/tiles/jungle_custom_plains_04/jungle_custom_plains_04.tile
-		biomes/jungle/tiles/jungle_plains_01/jungle_plains_01.tile
-		biomes/jungle/tiles/jungle_plains_02/jungle_plains_02.tile
-		biomes/jungle/tiles/jungle_plains_03/jungle_plains_03.tile
-		biomes/jungle/tiles/jungle_plains_04/jungle_plains_04.tile
-		biomes/magma/tiles/magma_plains_01/magma_plains_01.tile
-		biomes/magma/tiles/magma_plains_02/magma_plains_02.tile
-		biomes/magma/tiles/magma_plains_03/magma_plains_03.tile
-		biomes/metallic/tiles/metallic_plains_01/metallic_plains_01.tile
-		biomes/metallic/tiles/metallic_plains_02/metallic_plains_02.tile
-		biomes/metallic/tiles/metallic_plains_03/metallic_plains_03.tile
-		biomes/metallic/tiles/metallic_plains_04/metallic_plains_04.tile
-		biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
+biomes/acid/tiles/acid_plains_01/acid_plains_01.tile
+biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
+biomes/acid/tiles/acid_plains_03/acid_plains_03.tile
+biomes/desert/tiles/desert_plains_01/desert_plains_01.tile
+biomes/desert/tiles/desert_plains_02/desert_plains_02.tile
+biomes/desert/tiles/desert_plains_03/desert_plains_03.tile
+biomes/desert/tiles/desert_plains_04/desert_plains_04.tile
+biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01.tile
+biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02.tile
+biomes/jungle/tiles/jungle_custom_plains_03/jungle_custom_plains_03.tile
+biomes/jungle/tiles/jungle_custom_plains_04/jungle_custom_plains_04.tile
+biomes/jungle/tiles/jungle_plains_01/jungle_plains_01.tile
+biomes/jungle/tiles/jungle_plains_02/jungle_plains_02.tile
+biomes/jungle/tiles/jungle_plains_03/jungle_plains_03.tile
+biomes/jungle/tiles/jungle_plains_04/jungle_plains_04.tile
+biomes/magma/tiles/magma_plains_01/magma_plains_01.tile
+biomes/magma/tiles/magma_plains_02/magma_plains_02.tile
+biomes/magma/tiles/magma_plains_03/magma_plains_03.tile
+biomes/metallic/tiles/metallic_plains_01/metallic_plains_01.tile
+biomes/metallic/tiles/metallic_plains_02/metallic_plains_02.tile
+biomes/metallic/tiles/metallic_plains_03/metallic_plains_03.tile
+biomes/metallic/tiles/metallic_plains_04/metallic_plains_04.tile
+biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 
 biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01.tile
 biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02.tile
@@ -151,6 +151,8 @@ biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources/GO37new_1x1_liquid_resou
 biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources2/GO37new_1x1_liquid_resources2.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_random/GO37new_1x1_random.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_resources/GO37new_1x1_resources.tile
+biomes/lilly/tiles/GO37new/grid/grid.tile
+biomes/lilly/tiles/GO37new/grid_random/grid_random.tile
 
     }
 
