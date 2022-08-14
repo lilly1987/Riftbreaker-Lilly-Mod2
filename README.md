@@ -87,23 +87,14 @@
 -
 - 내 취향대로 수정한 타일 추가
 - Add modified tiles to my liking
-- biomes\lilly\tiles
+- biomes\
 - missions\survival
 - - 
 - - random liquid tile
-- - biomes\lilly\tiles\liquid
-- - 
 - - rock remove
-- - biomes\lilly\tiles\plains
-- - 
 - - random liquid tile + rock remove + volume_random_resources add
-- - biomes\lilly\tiles\resources
-- - 
 - - random liquid tile + rock remove + volume_random_resources custom
-- - biomes\lilly\tiles\resources2
-- -
 - - random liquid tile + volume_random_resources custom
-- - biomes\lilly\tiles\resources3
 - - 
 - 태양광, 풍력, 지열 효율 2배
 - Double the efficiency of solar and wind power and geothermal
@@ -207,7 +198,7 @@
 - entities\units\ground
 - (physical|fire|acid|energy|cryo|area)\s+"[\d.]+"
 - 
-- fusion synthesizer 추가
+- fusion synthesizer add 추가
 - entities\buildings\resources\fusion_synthesizer*.ent
 - materials\scripts\fusion_synthesizer_*.material
 - materials\textures\buildings\resources\fusion_synthesizer_*.dds
