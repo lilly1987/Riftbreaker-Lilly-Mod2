@@ -1,0 +1,2842 @@
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-48"
+				z "-48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-32"
+				z "-48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-16"
+				z "-48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "0"
+				z "-48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "16"
+				z "-48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "32"
+				z "-48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "48"
+				z "-48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-48"
+				z "-32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-32"
+				z "-32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-16"
+				z "-32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "0"
+				z "-32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "16"
+				z "-32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "32"
+				z "-32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "48"
+				z "-32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-48"
+				z "-16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-32"
+				z "-16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-16"
+				z "-16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "0"
+				z "-16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "16"
+				z "-16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "32"
+				z "-16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "48"
+				z "-16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-48"
+				z "0"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-32"
+				z "0"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-16"
+				z "0"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "0"
+				z "0"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "16"
+				z "0"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "32"
+				z "0"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "48"
+				z "0"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-48"
+				z "16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-32"
+				z "16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-16"
+				z "16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "0"
+				z "16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "16"
+				z "16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "32"
+				z "16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "48"
+				z "16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-48"
+				z "32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-32"
+				z "32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-16"
+				z "32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "0"
+				z "32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "16"
+				z "32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "32"
+				z "32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "48"
+				z "32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-48"
+				z "48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-32"
+				z "48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-16"
+				z "48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "0"
+				z "48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "16"
+				z "48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "32"
+				z "48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "48"
+				z "48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}

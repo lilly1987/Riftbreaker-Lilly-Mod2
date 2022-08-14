@@ -21,22 +21,24 @@ MissionDef
     {
 
 biomes/acid/tiles/acid_lakes_01/acid_lakes_01.tile
+biomes/acid/tiles/acid_lakes_01/acid_lakes_01_resources3.tile
 biomes/acid/tiles/acid_lakes_02/acid_lakes_02.tile
+biomes/acid/tiles/acid_lakes_02/acid_lakes_02_resources3.tile
 biomes/acid/tiles/acid_lakes_03/acid_lakes_03.tile
-biomes/jungle/tiles/jungle_custom_lake01/jungle_custom_lake01.tile
+biomes/acid/tiles/acid_lakes_03/acid_lakes_03_liquid.tile
+biomes/acid/tiles/acid_lakes_03/acid_lakes_03_resources3.tile
 biomes/jungle/tiles/jungle_lakes_01/jungle_lakes_01.tile
+biomes/jungle/tiles/jungle_lakes_01/jungle_lakes_01_liquid.tile
+biomes/jungle/tiles/jungle_lakes_01/jungle_lakes_01_resources3.tile
 biomes/magma/tiles/magma_lakes_01/magma_lakes_01.tile
+biomes/magma/tiles/magma_lakes_01/magma_lakes_01_liquid.tile
+biomes/magma/tiles/magma_lakes_01/magma_lakes_01_resources3.tile
 biomes/metallic/tiles/metallic_lakes_01/metallic_lakes_01.tile
+biomes/metallic/tiles/metallic_lakes_01/metallic_lakes_01_liquid.tile
+biomes/metallic/tiles/metallic_lakes_01/metallic_lakes_01_resources3.tile
 biomes/metallic/tiles/metallic_lakes_02/metallic_lakes_02.tile
-
-biomes/lilly/tiles/resources3/acid_lakes_01/acid_lakes_01.tile
-biomes/lilly/tiles/resources3/acid_lakes_02/acid_lakes_02.tile
-biomes/lilly/tiles/resources3/acid_lakes_03/acid_lakes_03.tile
-biomes/lilly/tiles/resources3/jungle_custom_lake01/jungle_custom_lake01.tile
-biomes/lilly/tiles/resources3/jungle_lakes_01/jungle_lakes_01.tile
-biomes/lilly/tiles/resources3/magma_lakes_01/magma_lakes_01.tile
-biomes/lilly/tiles/resources3/metallic_lakes_01/metallic_lakes_01.tile
-biomes/lilly/tiles/resources3/metallic_lakes_02/metallic_lakes_02.tile
+biomes/metallic/tiles/metallic_lakes_02/metallic_lakes_02_liquid.tile
+biomes/metallic/tiles/metallic_lakes_02/metallic_lakes_02_resources3.tile
 
     }
 

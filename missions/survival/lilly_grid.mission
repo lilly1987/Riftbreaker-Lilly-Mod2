@@ -2,7 +2,7 @@ MissionDef
 {
 	//logic "logic/missions/survival/default.logic"
     script          "lua/missions/survival/survival_lilly.lua"
-	localization_id	"lilly_liquid"
+	localization_id	"lilly_grid"
 	description		"test"
 	
 	//script_database
@@ -31,13 +31,18 @@ MissionDef
 	source_tiles
     {
 
-biomes/lilly/tiles/GO37new/GO37new_1x1_enemy/GO37new_1x1_enemy.tile
-biomes/lilly/tiles/GO37new/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
-biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources/GO37new_1x1_liquid_resources.tile
-biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources2/GO37new_1x1_liquid_resources2.tile
-biomes/lilly/tiles/GO37new/GO37new_1x1_resources/GO37new_1x1_resources.tile
-biomes/lilly/tiles/GO37new/grid/grid.tile
-biomes/lilly/tiles/GO37new/grid_L/grid_L.tile
+biomes/lilly/tiles/grid/grid2.tile
+biomes/lilly/tiles/grid/grid2_L.tile
+biomes/lilly/tiles/grid/grid2_L_rock.tile
+biomes/lilly/tiles/grid/grid2_random.tile
+biomes/lilly/tiles/grid/grid2_random_rock.tile
+biomes/lilly/tiles/grid/grid2_rock.tile
+biomes/lilly/tiles/grid/grid_enemy.tile
+biomes/lilly/tiles/grid/grid_liquid.tile
+biomes/lilly/tiles/grid/grid_liquid_resources.tile
+biomes/lilly/tiles/grid/grid_liquid_resources2.tile
+biomes/lilly/tiles/grid/grid_random.tile
+biomes/lilly/tiles/grid/grid_resources.tile
 
 	}
 

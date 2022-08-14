@@ -1,0 +1,79 @@
+cliff
+cliff_black
+cliff_mossy
+cudgle
+granite_mossy
+granite_wet
+jagged
+jagged_energy
+lava
+metallic_cubes
+metallic_mineral
+metallic_sharp
+ovoid_acid
+sandstone
+volcanic
+
+낭떠러지
+절벽_검은색
+절벽 이끼
+껴안다
+화강암_이끼
+화강암_젖은
+들쭉날쭉한
+들쭉날쭉한_에너지
+용암
+금속 큐브
+메탈릭_미네랄
+메탈릭 샤프
+난형_산
+사암
+화산의
+
+metallic_cube_big_06 너무 큼 8사이즈
+
+EntityTemplate
+{
+	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-8.796"
+					y "-6.260"
+					z "-4.993"
+				}
+
+				max
+				{
+					x "6.799"
+					y "4.910"
+					z "7.807"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			position
+			{
+				x "248.500"
+				z "358.000"
+			}
+
+		}
+
+	}
+
+}

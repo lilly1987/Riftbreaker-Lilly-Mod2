@@ -21,15 +21,11 @@ EntityBlueprint
 
 Blueprint
 {
-blueprint "props/rocks/cliff/cliff_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/cliff/cliff_big_02"
-}
-Blueprint
-{
 blueprint "props/rocks/cliff/cliff_big_03"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff/cliff_big_01"
 }
 Blueprint
 {
@@ -37,11 +33,11 @@ blueprint "props/rocks/cliff/cliff_big_04"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff/cliff_big_05"
+blueprint "props/rocks/cliff/cliff_big_02"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff/cliff_big_06"
+blueprint "props/rocks/cliff/cliff_big_05"
 }
 Blueprint
 {
@@ -49,7 +45,7 @@ blueprint "props/rocks/cliff/cliff_debris_01"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff/cliff_debris_02"
+blueprint "props/rocks/cliff/cliff_big_06"
 }
 Blueprint
 {
@@ -57,11 +53,15 @@ blueprint "props/rocks/cliff/cliff_debris_03"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff/cliff_medium_01"
+blueprint "props/rocks/cliff/cliff_debris_02"
 }
 Blueprint
 {
 blueprint "props/rocks/cliff/cliff_medium_02"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff/cliff_medium_01"
 }
 Blueprint
 {
@@ -89,11 +89,11 @@ blueprint "props/rocks/cliff_black/cliff_black_big_01"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff_black/cliff_black_big_02"
+blueprint "props/rocks/cliff_black/cliff_black_big_03"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff_black/cliff_black_big_03"
+blueprint "props/rocks/cliff_black/cliff_black_big_02"
 }
 Blueprint
 {
@@ -105,7 +105,7 @@ blueprint "props/rocks/cliff_black/cliff_black_big_05"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff_black/cliff_black_big_06"
+blueprint "props/rocks/cliff_black/cliff_black_debris_02"
 }
 Blueprint
 {
@@ -113,7 +113,7 @@ blueprint "props/rocks/cliff_black/cliff_black_debris_01"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff_black/cliff_black_debris_02"
+blueprint "props/rocks/cliff_black/cliff_black_big_06"
 }
 Blueprint
 {
@@ -133,11 +133,11 @@ blueprint "props/rocks/cliff_black/cliff_black_medium_03"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff_black/cliff_black_medium_04"
+blueprint "props/rocks/cliff_black/cliff_black_small_01"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff_black/cliff_black_small_01"
+blueprint "props/rocks/cliff_black/cliff_black_medium_04"
 }
 Blueprint
 {
@@ -149,7 +149,7 @@ blueprint "props/rocks/cliff_black/cliff_black_small_03"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
+blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
 }
 Blueprint
 {
@@ -157,11 +157,7 @@ blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
+blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
 }
 Blueprint
 {
@@ -169,11 +165,15 @@ blueprint "props/rocks/cliff_mossy/cliff_mossy_big_05"
 }
 Blueprint
 {
+blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
+}
+Blueprint
+{
 blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
+blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
 }
 Blueprint
 {
@@ -181,19 +181,19 @@ blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_03"
-}
-Blueprint
-{
 blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
 }
 Blueprint
 {
-blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
+blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_03"
 }
 Blueprint
 {
 blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
 }
 Blueprint
 {
@@ -213,123 +213,15 @@ blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
 }
 Blueprint
 {
-blueprint "props/rocks/cudgle/cudgle_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_06"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_08_A"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_08_B"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_08_C"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_08_D"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_09"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_10"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_11"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_12"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_big_13"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_debris_01"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_debris_02"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_debris_03"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_debris_04"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_medium_01"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_medium_03"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_medium_04"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_medium_05"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_medium_06"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_medium_07"
-}
-Blueprint
-{
-blueprint "props/rocks/cudgle/cudgle_medium_08"
-}
-Blueprint
-{
 blueprint "props/rocks/cudgle/cudgle_small_01"
 }
 Blueprint
 {
-blueprint "props/rocks/cudgle/cudgle_small_02"
+blueprint "props/rocks/cudgle/cudgle_small_03"
 }
 Blueprint
 {
-blueprint "props/rocks/cudgle/cudgle_small_03"
+blueprint "props/rocks/cudgle/cudgle_small_02"
 }
 Blueprint
 {
@@ -353,58 +245,6 @@ blueprint "props/rocks/cudgle/cudgle_small_08"
 }
 Blueprint
 {
-blueprint "props/rocks/granite_mossy/granite_mossy_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_big_06"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_big_07"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_02"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_medium_01"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_mossy/granite_mossy_medium_03"
-}
-Blueprint
-{
 blueprint "props/rocks/granite_mossy/granite_mossy_small_01"
 }
 Blueprint
@@ -417,63 +257,7 @@ blueprint "props/rocks/granite_mossy/granite_mossy_small_03"
 }
 Blueprint
 {
-blueprint "props/rocks/granite_wet/granite_wet_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_big_06"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_big_07"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_debris_small_02"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_medium_01"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_medium_03"
-}
-Blueprint
-{
 blueprint "props/rocks/granite_wet/granite_wet_small_01"
-}
-Blueprint
-{
-blueprint "props/rocks/granite_wet/granite_wet_small_02"
 }
 Blueprint
 {
@@ -481,123 +265,7 @@ blueprint "props/rocks/granite_wet/granite_wet_small_03"
 }
 Blueprint
 {
-blueprint "props/rocks/jagged/jagged_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_big_06"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_big_07"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_big_08"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_big_09"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_big_10"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_big_11"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_debris_01"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_debris_02"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_debris_03"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_debris_04"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_flat_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_flat_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_01"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_03"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_04"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_05"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_06"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_07"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_08"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_09"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_10"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_11"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_12"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged/jagged_medium_13"
+blueprint "props/rocks/granite_wet/granite_wet_small_02"
 }
 Blueprint
 {
@@ -621,135 +289,11 @@ blueprint "props/rocks/jagged/jagged_small_05"
 }
 Blueprint
 {
-blueprint "props/rocks/jagged_energy/jagged_energy_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_big_06"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_big_07"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_big_08"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_big_09"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_big_10"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_big_11"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_debris_01"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_debris_02"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_debris_03"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_debris_04"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_flat_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_flat_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_01"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_03"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_04"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_05"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_06"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_07"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_08"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_09"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_10"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_11"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_12"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_medium_13"
-}
-Blueprint
-{
 blueprint "props/rocks/jagged_energy/jagged_energy_small_01"
 }
 Blueprint
 {
 blueprint "props/rocks/jagged_energy/jagged_energy_small_02"
-}
-Blueprint
-{
-blueprint "props/rocks/jagged_energy/jagged_energy_small_03"
 }
 Blueprint
 {
@@ -761,59 +305,7 @@ blueprint "props/rocks/jagged_energy/jagged_energy_small_05"
 }
 Blueprint
 {
-blueprint "props/rocks/lava/lava_debris_small_01"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_debris_small_02"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_debris_small_03"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_medium_01"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_medium_03"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_mossy_boulder_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_mossy_boulder_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_mossy_boulder_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_mossy_boulder_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_mossy_boulder_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_mossy_boulder_big_06"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_mossy_boulder_big_07"
-}
-Blueprint
-{
-blueprint "props/rocks/lava/lava_small_01"
+blueprint "props/rocks/jagged_energy/jagged_energy_small_03"
 }
 Blueprint
 {
@@ -821,311 +313,15 @@ blueprint "props/rocks/lava/lava_small_02"
 }
 Blueprint
 {
+blueprint "props/rocks/lava/lava_small_01"
+}
+Blueprint
+{
 blueprint "props/rocks/lava/lava_small_03"
 }
 Blueprint
 {
-blueprint "props/rocks/metallic_cubes/metallic_cube_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_big_06"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_debris_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_debris_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_debris_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_medium_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_medium_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_medium_04"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_medium_05"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_medium_06"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_medium_07"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_medium_08"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_small_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_small_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_small_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_small_04"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_small_05"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_small_06"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_cubes/metallic_cube_small_07"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_big_06"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_04"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_05"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_06"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_small_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_small_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_small_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_small_04"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_small_05"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_small_06"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_mineral/metallic_mineral_small_07"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_big_06"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_debris_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_debris_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_debris_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_debris_04"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_04"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_05"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_06"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_small_01"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_small_02"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_small_03"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_small_04"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_small_05"
-}
-Blueprint
-{
-blueprint "props/rocks/metallic_sharp/metallic_sharp_small_06"
-}
-Blueprint
-{
-blueprint "props/rocks/ovoid_acid/ovoid_acid_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/ovoid_acid/ovoid_acid_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/ovoid_acid/ovoid_acid_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/ovoid_acid/ovoid_acid_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/ovoid_acid/ovoid_acid_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
-}
-Blueprint
-{
-blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
-}
-Blueprint
-{
-blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_03"
+blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_03"
 }
 Blueprint
 {
@@ -1134,10 +330,6 @@ blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_01"
 Blueprint
 {
 blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_03"
 }
 Blueprint
 {
@@ -1173,58 +365,6 @@ blueprint "props/rocks/ovoid_acid/ovoid_acid_small_04"
 }
 Blueprint
 {
-blueprint "props/rocks/sandstone/sandstone_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_big_06"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_big_07"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_debris_small_01"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_debris_small_02"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_debris_small_03"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_medium_01"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/sandstone/sandstone_medium_03"
-}
-Blueprint
-{
 blueprint "props/rocks/sandstone/sandstone_small_01"
 }
 Blueprint
@@ -1235,91 +375,6 @@ Blueprint
 {
 blueprint "props/rocks/sandstone/sandstone_small_03"
 }
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_big_01"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_big_02"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_big_03"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_big_04"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_big_05"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_big_06"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_big_07"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_debris_01"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_debris_02"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_debris_03"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_debris_04"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_medium_01"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_medium_02"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_medium_03"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_medium_04"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_medium_06"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_medium_07"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_small_01"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_small_02"
-}
-Blueprint
-{
-blueprint "props/rocks/volcanic/volcanic_rock_small_03"
-}
-
 
 	}
 }

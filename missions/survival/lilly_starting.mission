@@ -20,8 +20,14 @@ MissionDef
 	source_tiles
     {
 biomes/desert/tiles/desert_starting_01/desert_starting_01.tile
+biomes/desert/tiles/desert_starting_01/desert_starting_01_resources3.tile
 biomes/desert/tiles/desert_starting_02/desert_starting_02.tile
+biomes/desert/tiles/desert_starting_02/desert_starting_02_resources3.tile
 biomes/jungle/tiles/jungle_starting_01/jungle_starting_01.tile
+biomes/jungle/tiles/jungle_starting_01/jungle_starting_01_resources.tile
+biomes/jungle/tiles/jungle_starting_01/jungle_starting_01_resources2.tile
+biomes/jungle/tiles/jungle_starting_01/jungle_starting_01_resources3.tile
+
     }
 
 

@@ -31,12 +31,18 @@ MissionDef
 	source_tiles
     {
 	
-biomes/lilly/tiles/resources3/metallic_liquid_01/metallic_liquid_01.tile
-biomes/lilly/tiles/resources3/metallic_liquid_02/metallic_liquid_02.tile
-biomes/lilly/tiles/resources3/metallic_liquid_03/metallic_liquid_03.tile
-biomes/lilly/tiles/resources3/metallic_liquid_04/metallic_liquid_04.tile
-biomes/lilly/tiles/resources3/metallic_liquid_island_01/metallic_liquid_island_01.tile
-biomes/lilly/tiles/resources3/metallic_liquid_island_02/metallic_liquid_island_02.tile
+biomes/metallic/tiles/metallic_liquid_01/metallic_liquid_01.tile
+biomes/metallic/tiles/metallic_liquid_01/metallic_liquid_01_resources3.tile
+biomes/metallic/tiles/metallic_liquid_02/metallic_liquid_02.tile
+biomes/metallic/tiles/metallic_liquid_02/metallic_liquid_02_resources3.tile
+biomes/metallic/tiles/metallic_liquid_03/metallic_liquid_03.tile
+biomes/metallic/tiles/metallic_liquid_03/metallic_liquid_03_resources3.tile
+biomes/metallic/tiles/metallic_liquid_04/metallic_liquid_04.tile
+biomes/metallic/tiles/metallic_liquid_04/metallic_liquid_04_resources3.tile
+biomes/metallic/tiles/metallic_liquid_island_01/metallic_liquid_island_01.tile
+biomes/metallic/tiles/metallic_liquid_island_01/metallic_liquid_island_01_resources3.tile
+biomes/metallic/tiles/metallic_liquid_island_02/metallic_liquid_island_02.tile
+biomes/metallic/tiles/metallic_liquid_island_02/metallic_liquid_island_02_resources3.tile
 	
 	}
 

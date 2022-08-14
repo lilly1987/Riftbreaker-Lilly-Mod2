@@ -40,6 +40,586 @@ EntityTemplate
 			
 			position
 			{
+				x "-64"
+				z "-64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-48"
+				z "-64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-32"
+				z "-64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-16"
+				z "-64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "0"
+				z "-64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "16"
+				z "-64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "32"
+				z "-64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "48"
+				z "-64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "64"
+				z "-64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-64"
+				z "-48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
 				x "-48"
 				z "-48"
 			}
@@ -47,7 +627,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -105,7 +685,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -163,7 +743,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -221,7 +801,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -279,7 +859,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -337,7 +917,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -395,7 +975,123 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "64"
+				z "-48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-64"
+				z "-32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -453,7 +1149,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -511,7 +1207,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -569,7 +1265,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -627,7 +1323,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -685,7 +1381,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -743,7 +1439,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -801,7 +1497,123 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "64"
+				z "-32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-64"
+				z "-16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -859,7 +1671,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -917,7 +1729,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -975,7 +1787,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1033,7 +1845,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1091,7 +1903,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1149,7 +1961,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1207,7 +2019,123 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "64"
+				z "-16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-64"
+				z "0"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1265,7 +2193,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1323,7 +2251,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1381,7 +2309,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1390,64 +2318,9 @@ EntityTemplate
 	}
 
 }
-EntityTemplate
-{
-	base_blueprint "lilly/rock_random"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "lilly/rock_random"
-		}
 
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
 
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
 
-			}
-
-		}
-
-		TransformComponent
-		{
-			orientation
-			{
-				w "0.707"
-				y "0.707"
-			}
-			
-			position
-			{
-				x "0"
-				z "0"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
-			}
-
-		}
-
-	}
-
-}
 EntityTemplate
 {
 	base_blueprint "lilly/rock_random"
@@ -1497,7 +2370,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1555,7 +2428,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1613,7 +2486,123 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "64"
+				z "0"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-64"
+				z "16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1671,7 +2660,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1729,7 +2718,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1787,7 +2776,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1845,7 +2834,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1903,7 +2892,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -1961,7 +2950,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2019,7 +3008,123 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "64"
+				z "16"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-64"
+				z "32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2077,7 +3182,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2135,7 +3240,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2193,7 +3298,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2251,7 +3356,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2309,7 +3414,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2367,7 +3472,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2425,7 +3530,123 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "64"
+				z "32"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-64"
+				z "48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2483,7 +3704,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2541,7 +3762,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2599,7 +3820,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2657,7 +3878,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2715,7 +3936,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2773,7 +3994,7 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
 				z "1.00"
 			}
 
@@ -2831,7 +4052,587 @@ EntityTemplate
 			scale
 			{
 				x "1.00"
-				y "1.000"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "64"
+				z "48"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-64"
+				z "64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-48"
+				z "64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-32"
+				z "64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "-16"
+				z "64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "0"
+				z "64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "16"
+				z "64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "32"
+				z "64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "48"
+				z "64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
+				z "1.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "lilly/rock_random"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "lilly/rock_random"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+			
+			position
+			{
+				x "64"
+				z "64"
+			}
+
+			scale
+			{
+				x "1.00"
+				y "1.00"
 				z "1.00"
 			}
 

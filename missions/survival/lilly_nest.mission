@@ -19,17 +19,17 @@ MissionDef
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
 	source_tiles
     {
-biomes/acid/tiles/acid_nest_01/acid_nest_01.tile
-biomes/desert/tiles/desert_nest_01/desert_nest_01.tile
-biomes/jungle/tiles/jungle_nest_01/jungle_nest_01.tile
-biomes/jungle/tiles/jungle_nest_02/jungle_nest_02.tile
-biomes/jungle/tiles/jungle_nest_03/jungle_nest_03.tile
 
-biomes/lilly/tiles/resources3/acid_nest_01/acid_nest_01.tile
-biomes/lilly/tiles/resources3/desert_nest_01/desert_nest_01.tile
-biomes/lilly/tiles/resources3/jungle_nest_01/jungle_nest_01.tile
-biomes/lilly/tiles/resources3/jungle_nest_02/jungle_nest_02.tile
-biomes/lilly/tiles/resources3/jungle_nest_03/jungle_nest_03.tile
+biomes/acid/tiles/acid_nest_01/acid_nest_01.tile
+biomes/acid/tiles/acid_nest_01/acid_nest_01_resources3.tile
+biomes/desert/tiles/desert_nest_01/desert_nest_01.tile
+biomes/desert/tiles/desert_nest_01/desert_nest_01_resources3.tile
+biomes/jungle/tiles/jungle_nest_01/jungle_nest_01.tile
+biomes/jungle/tiles/jungle_nest_01/jungle_nest_01_resources3.tile
+biomes/jungle/tiles/jungle_nest_02/jungle_nest_02.tile
+biomes/jungle/tiles/jungle_nest_02/jungle_nest_02_resources3.tile
+biomes/jungle/tiles/jungle_nest_03/jungle_nest_03.tile
+biomes/jungle/tiles/jungle_nest_03/jungle_nest_03_resources3.tile
     }
 
 
