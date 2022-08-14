@@ -169,6 +169,12 @@ biomes/lilly/tiles/resources2/jungle_starting_01/jungle_starting_01.tile
 biomes/GO37new/tiles/GO37new_1x1/GO37new_1x1.tile
 biomes/GO37new/tiles/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
 biomes/GO37new/tiles/GO37new_Planet/GO37new_Planet.tile
+biomes/lilly/tiles/GO37new/GO37new_1x1_enemy/GO37new_1x1_enemy.tile
+biomes/lilly/tiles/GO37new/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
+biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources/GO37new_1x1_liquid_resources.tile
+biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources2/GO37new_1x1_liquid_resources2.tile
+biomes/lilly/tiles/GO37new/GO37new_1x1_random/GO37new_1x1_random.tile
+biomes/lilly/tiles/GO37new/GO37new_1x1_resources/GO37new_1x1_resources.tile
 	}
 
 	tile_spawn_rules

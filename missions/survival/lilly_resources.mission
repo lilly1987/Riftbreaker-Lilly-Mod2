@@ -134,7 +134,11 @@ biomes/lilly/tiles/resources/metallic_plains_03/metallic_plains_03.tile
 biomes/lilly/tiles/resources/metallic_plains_04/metallic_plains_04.tile
 biomes/lilly/tiles/resources/metallic_plains_05/metallic_plains_05.tile
 
-
+biomes/lilly/tiles/GO37new/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
+biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources/GO37new_1x1_liquid_resources.tile
+biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources2/GO37new_1x1_liquid_resources2.tile
+biomes/lilly/tiles/GO37new/GO37new_1x1_random/GO37new_1x1_random.tile
+biomes/lilly/tiles/GO37new/GO37new_1x1_resources/GO37new_1x1_resources.tile
 	}
 
 	tile_spawn_rules

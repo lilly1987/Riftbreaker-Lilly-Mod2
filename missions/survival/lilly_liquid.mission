@@ -2,16 +2,16 @@ MissionDef
 {
 	//logic "logic/missions/survival/default.logic"
     script          "lua/missions/survival/survival_lilly.lua"
-	localization_id	"campaigns/survival/lilly_test.campaign"
+	localization_id	"lilly_liquid"
 	description		"test"
 	
-	script_database
-    {	 
-        objective_tile         string:"biomes/lilly/tiles/resources2/jungle_starting_01/jungle_starting_01.tile"
-        objective_min_distance float:"0.0"
-        objective_max_distance float:"64.0"
-	//	spawn_near_position string:"50,0,-800"    
-    }	
+	//script_database
+    //{	 
+    //    objective_tile         string:"biomes/lilly/tiles/resources2/jungle_starting_01/jungle_starting_01.tile"
+    //    objective_min_distance float:"0.0"
+    //    objective_max_distance float:"64.0"
+	////	spawn_near_position string:"50,0,-800"    
+    //}	
 
 	
 	//map_size        "5"
@@ -31,235 +31,13 @@ MissionDef
 	source_tiles
     {
 
-biomes/acid/tiles/acid_custom_new_resource_01/acid_custom_new_resource_01.tile
-biomes/acid/tiles/acid_custom_rare_resource_01/acid_custom_rare_resource_01.tile
-biomes/acid/tiles/acid_lakes_01/acid_lakes_01.tile
-biomes/acid/tiles/acid_lakes_02/acid_lakes_02.tile
-biomes/acid/tiles/acid_lakes_03/acid_lakes_03.tile
-biomes/acid/tiles/acid_nest_01/acid_nest_01.tile
-biomes/acid/tiles/acid_plains_01/acid_plains_01.tile
-biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
-biomes/acid/tiles/acid_plains_03/acid_plains_03.tile
-biomes/desert/tiles/desert_canyons_01/desert_canyons_01.tile
-biomes/desert/tiles/desert_canyons_02/desert_canyons_02.tile
-biomes/desert/tiles/desert_custom_crystal_cave_01/desert_custom_crystal_cave_01.tile
-biomes/desert/tiles/desert_custom_rare_resource_01/desert_custom_rare_resource_01.tile
-biomes/desert/tiles/desert_custom_rare_resource_02/desert_custom_rare_resource_02.tile
-biomes/desert/tiles/desert_custom_stregaros_01/desert_custom_stregaros_01.tile
-biomes/desert/tiles/desert_custom_uranium_deposit_01/desert_custom_uranium_deposit_01.tile
-biomes/desert/tiles/desert_nest_01/desert_nest_01.tile
-biomes/desert/tiles/desert_plains_01/desert_plains_01.tile
-biomes/desert/tiles/desert_plains_02/desert_plains_02.tile
-biomes/desert/tiles/desert_plains_03/desert_plains_03.tile
-biomes/desert/tiles/desert_plains_04/desert_plains_04.tile
-biomes/desert/tiles/desert_starting_01/desert_starting_01.tile
-biomes/desert/tiles/desert_starting_02/desert_starting_02.tile
-biomes/jungle/tiles/jungle_canyons_01/jungle_canyons_01.tile
-biomes/jungle/tiles/jungle_canyons_02/jungle_canyons_02.tile
-biomes/jungle/tiles/jungle_canyons_03/jungle_canyons_03.tile
-biomes/jungle/tiles/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
-biomes/jungle/tiles/jungle_lakes_01/jungle_lakes_01.tile
-biomes/jungle/tiles/jungle_nest_01/jungle_nest_01.tile
-biomes/jungle/tiles/jungle_nest_02/jungle_nest_02.tile
-biomes/jungle/tiles/jungle_nest_03/jungle_nest_03.tile
-biomes/jungle/tiles/jungle_plains_01/jungle_plains_01.tile
-biomes/jungle/tiles/jungle_plains_02/jungle_plains_02.tile
-biomes/jungle/tiles/jungle_plains_03/jungle_plains_03.tile
-biomes/jungle/tiles/jungle_plains_04/jungle_plains_04.tile
-biomes/jungle/tiles/jungle_starting_01/jungle_starting_01.tile
-biomes/jungle/tiles/jungle_trees_01/jungle_trees_01.tile
-biomes/magma/tiles/magma_canyons_01/magma_canyons_01.tile
-biomes/magma/tiles/magma_canyons_02/magma_canyons_02.tile
-biomes/magma/tiles/magma_canyons_03/magma_canyons_03.tile
-biomes/magma/tiles/magma_custom_rare_resource_01/magma_custom_rare_resource_01.tile
-biomes/magma/tiles/magma_lakes_01/magma_lakes_01.tile
-biomes/magma/tiles/magma_plains_01/magma_plains_01.tile
-biomes/magma/tiles/magma_plains_02/magma_plains_02.tile
-biomes/magma/tiles/magma_plains_03/magma_plains_03.tile
-biomes/metallic/tiles/metallic_canyons_01/metallic_canyons_01.tile
-biomes/metallic/tiles/metallic_canyons_02/metallic_canyons_02.tile
-biomes/metallic/tiles/metallic_canyons_03/metallic_canyons_03.tile
-biomes/metallic/tiles/metallic_canyons_04/metallic_canyons_04.tile
-biomes/metallic/tiles/metallic_custom_factory_01/metallic_custom_factory_01.tile
-biomes/metallic/tiles/metallic_custom_labirynth_01/metallic_custom_labirynth_01.tile
-biomes/metallic/tiles/metallic_lakes_01/metallic_lakes_01.tile
-biomes/metallic/tiles/metallic_lakes_02/metallic_lakes_02.tile
-biomes/metallic/tiles/metallic_plains_01/metallic_plains_01.tile
-biomes/metallic/tiles/metallic_plains_02/metallic_plains_02.tile
-biomes/metallic/tiles/metallic_plains_03/metallic_plains_03.tile
-biomes/metallic/tiles/metallic_plains_04/metallic_plains_04.tile
-biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
-
-
-biomes/jungle/tiles/jungle_custom_canyon1/jungle_custom_canyon1.tile
-biomes/jungle/tiles/jungle_custom_canyon2/jungle_custom_canyon2.tile
-biomes/jungle/tiles/jungle_custom_canyon_04/jungle_custom_canyon_04.tile
-biomes/jungle/tiles/jungle_custom_lake01/jungle_custom_lake01.tile
-biomes/jungle/tiles/jungle_custom_meteor_2x2/jungle_custom_meteor_2x2.tile
-biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01.tile
-biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02.tile
-biomes/jungle/tiles/jungle_custom_plains_03/jungle_custom_plains_03.tile
-biomes/jungle/tiles/jungle_custom_plains_04/jungle_custom_plains_04.tile
-biomes/jungle/tiles/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
-biomes/jungle/tiles/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
-biomes/jungle/tiles/jungle_custom_swamp_02/jungle_custom_swamp_02.tile
-biomes/lilly/tiles/liquid/acid_lakes_03/acid_lakes_03.tile
-biomes/lilly/tiles/liquid/desert_custom_rare_resource_01/desert_custom_rare_resource_01.tile
-biomes/lilly/tiles/liquid/jungle_custom_canyon2/jungle_custom_canyon2.tile
-biomes/lilly/tiles/liquid/jungle_custom_lake01/jungle_custom_lake01.tile
-biomes/lilly/tiles/liquid/jungle_custom_meteor_2x2/jungle_custom_meteor_2x2.tile
-biomes/lilly/tiles/liquid/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
-biomes/lilly/tiles/liquid/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
-biomes/lilly/tiles/liquid/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
-biomes/lilly/tiles/liquid/jungle_lakes_01/jungle_lakes_01.tile
-biomes/lilly/tiles/liquid/magma_canyons_01/magma_canyons_01.tile
-biomes/lilly/tiles/liquid/magma_canyons_02/magma_canyons_02.tile
-biomes/lilly/tiles/liquid/magma_custom_rare_resource_01/magma_custom_rare_resource_01.tile
-biomes/lilly/tiles/liquid/magma_lakes_01/magma_lakes_01.tile
-biomes/lilly/tiles/liquid/magma_plains_01/magma_plains_01.tile
-biomes/lilly/tiles/liquid/magma_plains_02/magma_plains_02.tile
-biomes/lilly/tiles/liquid/magma_plains_03/magma_plains_03.tile
-biomes/lilly/tiles/liquid/metallic_lakes_01/metallic_lakes_01.tile
-biomes/lilly/tiles/liquid/metallic_lakes_02/metallic_lakes_02.tile
-biomes/lilly/tiles/plains/acid_plains_01/acid_plains_01.tile
-biomes/lilly/tiles/plains/acid_plains_02/acid_plains_02.tile
-biomes/lilly/tiles/plains/acid_plains_03/acid_plains_03.tile
-biomes/lilly/tiles/plains/desert_plains_01/desert_plains_01.tile
-biomes/lilly/tiles/plains/desert_plains_02/desert_plains_02.tile
-biomes/lilly/tiles/plains/desert_plains_03/desert_plains_03.tile
-biomes/lilly/tiles/plains/desert_plains_04/desert_plains_04.tile
-biomes/lilly/tiles/plains/jungle_plains_01/jungle_plains_01.tile
-biomes/lilly/tiles/plains/jungle_plains_02/jungle_plains_02.tile
-biomes/lilly/tiles/plains/jungle_plains_03/jungle_plains_03.tile
-biomes/lilly/tiles/plains/jungle_plains_04/jungle_plains_04.tile
-biomes/lilly/tiles/plains/magma_plains_01/magma_plains_01.tile
-biomes/lilly/tiles/plains/magma_plains_02/magma_plains_02.tile
-biomes/lilly/tiles/plains/magma_plains_03/magma_plains_03.tile
-biomes/lilly/tiles/plains/metallic_plains_01/metallic_plains_01.tile
-biomes/lilly/tiles/plains/metallic_plains_02/metallic_plains_02.tile
-biomes/lilly/tiles/plains/metallic_plains_03/metallic_plains_03.tile
-biomes/lilly/tiles/plains/metallic_plains_04/metallic_plains_04.tile
-biomes/lilly/tiles/plains/metallic_plains_05/metallic_plains_05.tile
-biomes/lilly/tiles/resources2/acid_plains_01/acid_plains_01.tile
-biomes/lilly/tiles/resources2/acid_plains_02/acid_plains_02.tile
-biomes/lilly/tiles/resources2/acid_plains_03/acid_plains_03.tile
-biomes/lilly/tiles/resources2/desert_plains_01/desert_plains_01.tile
-biomes/lilly/tiles/resources2/desert_plains_02/desert_plains_02.tile
-biomes/lilly/tiles/resources2/desert_plains_03/desert_plains_03.tile
-biomes/lilly/tiles/resources2/desert_plains_04/desert_plains_04.tile
-biomes/lilly/tiles/resources2/jungle_plains_01/jungle_plains_01.tile
-biomes/lilly/tiles/resources2/jungle_plains_02/jungle_plains_02.tile
-biomes/lilly/tiles/resources2/jungle_plains_03/jungle_plains_03.tile
-biomes/lilly/tiles/resources2/jungle_plains_04/jungle_plains_04.tile
-biomes/lilly/tiles/resources2/jungle_starting_01/jungle_starting_01.tile
-biomes/lilly/tiles/resources2/magma_plains_01/magma_plains_01.tile
-biomes/lilly/tiles/resources2/magma_plains_02/magma_plains_02.tile
-biomes/lilly/tiles/resources2/magma_plains_03/magma_plains_03.tile
-biomes/lilly/tiles/resources2/metallic_plains_01/metallic_plains_01.tile
-biomes/lilly/tiles/resources2/metallic_plains_02/metallic_plains_02.tile
-biomes/lilly/tiles/resources2/metallic_plains_03/metallic_plains_03.tile
-biomes/lilly/tiles/resources2/metallic_plains_04/metallic_plains_04.tile
-biomes/lilly/tiles/resources2/metallic_plains_05/metallic_plains_05.tile
-biomes/lilly/tiles/resources3/acid_custom_new_resource_01/acid_custom_new_resource_01.tile
-biomes/lilly/tiles/resources3/acid_custom_rare_resource_01/acid_custom_rare_resource_01.tile
-biomes/lilly/tiles/resources3/acid_lakes_01/acid_lakes_01.tile
-biomes/lilly/tiles/resources3/acid_lakes_02/acid_lakes_02.tile
-biomes/lilly/tiles/resources3/acid_lakes_03/acid_lakes_03.tile
-biomes/lilly/tiles/resources3/acid_nest_01/acid_nest_01.tile
-biomes/lilly/tiles/resources3/acid_plains_01/acid_plains_01.tile
-biomes/lilly/tiles/resources3/acid_plains_02/acid_plains_02.tile
-biomes/lilly/tiles/resources3/acid_plains_03/acid_plains_03.tile
-biomes/lilly/tiles/resources3/desert_canyons_01/desert_canyons_01.tile
-biomes/lilly/tiles/resources3/desert_canyons_02/desert_canyons_02.tile
-biomes/lilly/tiles/resources3/desert_custom_crystal_cave_01/desert_custom_crystal_cave_01.tile
-biomes/lilly/tiles/resources3/desert_custom_rare_resource_01/desert_custom_rare_resource_01.tile
-biomes/lilly/tiles/resources3/desert_custom_rare_resource_02/desert_custom_rare_resource_02.tile
-biomes/lilly/tiles/resources3/desert_custom_stregaros_01/desert_custom_stregaros_01.tile
-biomes/lilly/tiles/resources3/desert_custom_uranium_deposit_01/desert_custom_uranium_deposit_01.tile
-biomes/lilly/tiles/resources3/desert_nest_01/desert_nest_01.tile
-biomes/lilly/tiles/resources3/desert_plains_01/desert_plains_01.tile
-biomes/lilly/tiles/resources3/desert_plains_02/desert_plains_02.tile
-biomes/lilly/tiles/resources3/desert_plains_03/desert_plains_03.tile
-biomes/lilly/tiles/resources3/desert_plains_04/desert_plains_04.tile
-biomes/lilly/tiles/resources3/desert_starting_01/desert_starting_01.tile
-biomes/lilly/tiles/resources3/desert_starting_02/desert_starting_02.tile
-biomes/lilly/tiles/resources3/jungle_canyons_01/jungle_canyons_01.tile
-biomes/lilly/tiles/resources3/jungle_canyons_02/jungle_canyons_02.tile
-biomes/lilly/tiles/resources3/jungle_canyons_03/jungle_canyons_03.tile
-biomes/lilly/tiles/resources3/jungle_custom_canyon1/jungle_custom_canyon1.tile
-biomes/lilly/tiles/resources3/jungle_custom_canyon2/jungle_custom_canyon2.tile
-biomes/lilly/tiles/resources3/jungle_custom_canyon_04/jungle_custom_canyon_04.tile
-biomes/lilly/tiles/resources3/jungle_custom_lake01/jungle_custom_lake01.tile
-biomes/lilly/tiles/resources3/jungle_custom_meteor_2x2/jungle_custom_meteor_2x2.tile
-biomes/lilly/tiles/resources3/jungle_custom_plains_01/jungle_custom_plains_01.tile
-biomes/lilly/tiles/resources3/jungle_custom_plains_02/jungle_custom_plains_02.tile
-biomes/lilly/tiles/resources3/jungle_custom_plains_03/jungle_custom_plains_03.tile
-biomes/lilly/tiles/resources3/jungle_custom_plains_04/jungle_custom_plains_04.tile
-biomes/lilly/tiles/resources3/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
-biomes/lilly/tiles/resources3/jungle_custom_small_meteor/jungle_custom_small_meteor.tile
-biomes/lilly/tiles/resources3/jungle_custom_swamp_01/jungle_custom_swamp_01.tile
-biomes/lilly/tiles/resources3/jungle_custom_swamp_02/jungle_custom_swamp_02.tile
-biomes/lilly/tiles/resources3/jungle_lakes_01/jungle_lakes_01.tile
-biomes/lilly/tiles/resources3/jungle_nest_01/jungle_nest_01.tile
-biomes/lilly/tiles/resources3/jungle_nest_02/jungle_nest_02.tile
-biomes/lilly/tiles/resources3/jungle_nest_03/jungle_nest_03.tile
-biomes/lilly/tiles/resources3/jungle_plains_01/jungle_plains_01.tile
-biomes/lilly/tiles/resources3/jungle_plains_02/jungle_plains_02.tile
-biomes/lilly/tiles/resources3/jungle_plains_03/jungle_plains_03.tile
-biomes/lilly/tiles/resources3/jungle_plains_04/jungle_plains_04.tile
-biomes/lilly/tiles/resources3/jungle_starting_01/jungle_starting_01.tile
-biomes/lilly/tiles/resources3/jungle_trees_01/jungle_trees_01.tile
-biomes/lilly/tiles/resources3/magma_canyons_01/magma_canyons_01.tile
-biomes/lilly/tiles/resources3/magma_canyons_02/magma_canyons_02.tile
-biomes/lilly/tiles/resources3/magma_canyons_03/magma_canyons_03.tile
-biomes/lilly/tiles/resources3/magma_custom_rare_resource_01/magma_custom_rare_resource_01.tile
-biomes/lilly/tiles/resources3/magma_lakes_01/magma_lakes_01.tile
-biomes/lilly/tiles/resources3/magma_plains_01/magma_plains_01.tile
-biomes/lilly/tiles/resources3/magma_plains_02/magma_plains_02.tile
-biomes/lilly/tiles/resources3/magma_plains_03/magma_plains_03.tile
-biomes/lilly/tiles/resources3/metallic_canyons_01/metallic_canyons_01.tile
-biomes/lilly/tiles/resources3/metallic_canyons_02/metallic_canyons_02.tile
-biomes/lilly/tiles/resources3/metallic_canyons_03/metallic_canyons_03.tile
-biomes/lilly/tiles/resources3/metallic_canyons_04/metallic_canyons_04.tile
-biomes/lilly/tiles/resources3/metallic_custom_factory_01/metallic_custom_factory_01.tile
-biomes/lilly/tiles/resources3/metallic_custom_labirynth_01/metallic_custom_labirynth_01.tile
-biomes/lilly/tiles/resources3/metallic_lakes_01/metallic_lakes_01.tile
-biomes/lilly/tiles/resources3/metallic_lakes_02/metallic_lakes_02.tile
-biomes/lilly/tiles/resources3/metallic_plains_01/metallic_plains_01.tile
-biomes/lilly/tiles/resources3/metallic_plains_02/metallic_plains_02.tile
-biomes/lilly/tiles/resources3/metallic_plains_03/metallic_plains_03.tile
-biomes/lilly/tiles/resources3/metallic_plains_04/metallic_plains_04.tile
-biomes/lilly/tiles/resources3/metallic_plains_05/metallic_plains_05.tile
-biomes/lilly/tiles/resources/acid_plains_01/acid_plains_01.tile
-biomes/lilly/tiles/resources/acid_plains_02/acid_plains_02.tile
-biomes/lilly/tiles/resources/acid_plains_03/acid_plains_03.tile
-biomes/lilly/tiles/resources/desert_plains_01/desert_plains_01.tile
-biomes/lilly/tiles/resources/desert_plains_02/desert_plains_02.tile
-biomes/lilly/tiles/resources/desert_plains_03/desert_plains_03.tile
-biomes/lilly/tiles/resources/desert_plains_04/desert_plains_04.tile
-biomes/lilly/tiles/resources/jungle_plains_01/jungle_plains_01.tile
-biomes/lilly/tiles/resources/jungle_plains_02/jungle_plains_02.tile
-biomes/lilly/tiles/resources/jungle_plains_03/jungle_plains_03.tile
-biomes/lilly/tiles/resources/jungle_plains_04/jungle_plains_04.tile
-biomes/lilly/tiles/resources/jungle_starting_01/jungle_starting_01.tile
-biomes/lilly/tiles/resources/magma_plains_01/magma_plains_01.tile
-biomes/lilly/tiles/resources/magma_plains_02/magma_plains_02.tile
-biomes/lilly/tiles/resources/magma_plains_03/magma_plains_03.tile
-biomes/lilly/tiles/resources/metallic_plains_01/metallic_plains_01.tile
-biomes/lilly/tiles/resources/metallic_plains_02/metallic_plains_02.tile
-biomes/lilly/tiles/resources/metallic_plains_03/metallic_plains_03.tile
-biomes/lilly/tiles/resources/metallic_plains_04/metallic_plains_04.tile
-biomes/lilly/tiles/resources/metallic_plains_05/metallic_plains_05.tile
-
-biomes/GO37new/tiles/GO37new_1x1/GO37new_1x1.tile
-biomes/GO37new/tiles/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
-biomes/GO37new/tiles/GO37new_Planet/GO37new_Planet.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_enemy/GO37new_1x1_enemy.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources/GO37new_1x1_liquid_resources.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources2/GO37new_1x1_liquid_resources2.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_random/GO37new_1x1_random.tile
 biomes/lilly/tiles/GO37new/GO37new_1x1_resources/GO37new_1x1_resources.tile
+	
 	}
 
 	tile_spawn_rules
