@@ -32,8 +32,8 @@ MissionDef
     {
 
 //biomes/GO37new/tiles/GO37new_1x1/GO37new_1x1.tile
-//biomes/GO37new/tiles/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
-//biomes/GO37new/tiles/GO37new_Planet/GO37new_Planet.tile
+//biomes/GO37new/tiles/GO37new/GO37new_1x1_liquid.tile
+//biomes/GO37new/tiles/GO37new/GO37new_Planet.tile
 //biomes/lilly/tiles/GO37new/GO37new_1x1_enemy/GO37new_1x1_enemy.tile
 //biomes/lilly/tiles/GO37new/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
 //biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources/GO37new_1x1_liquid_resources.tile

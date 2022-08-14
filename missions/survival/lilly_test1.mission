@@ -101,8 +101,8 @@ biomes/desert/tiles/desert_starting_01/desert_starting_01_resources3.tile
 biomes/desert/tiles/desert_starting_02/desert_starting_02.tile
 biomes/desert/tiles/desert_starting_02/desert_starting_02_resources3.tile
 biomes/GO37new/tiles/GO37new_1x1/GO37new_1x1.tile
-biomes/GO37new/tiles/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
-biomes/GO37new/tiles/GO37new_Planet/GO37new_Planet.tile
+biomes/GO37new/tiles/GO37new_1x1/GO37new_1x1_liquid.tile
+biomes/GO37new/tiles/GO37new_1x1/GO37new_Planet.tile
 biomes/jungle/tiles/jungle_canyons_01/jungle_canyons_01.tile
 biomes/jungle/tiles/jungle_canyons_01/jungle_canyons_01_resources3.tile
 biomes/jungle/tiles/jungle_canyons_02/jungle_canyons_02.tile
