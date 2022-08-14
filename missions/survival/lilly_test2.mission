@@ -91,19 +91,6 @@ biomes/metallic/tiles/metallic_plains_03/metallic_plains_03.tile
 biomes/metallic/tiles/metallic_plains_04/metallic_plains_04.tile
 biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 
-biomes/GO37new/tiles/GO37new_1x1/GO37new_1x1.tile
-biomes/GO37new/tiles/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
-biomes/GO37new/tiles/GO37new_Planet/GO37new_Planet.tile
-biomes/lilly/tiles/GO37new/GO37new_1x1_enemy/GO37new_1x1_enemy.tile
-biomes/lilly/tiles/GO37new/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
-biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources/GO37new_1x1_liquid_resources.tile
-biomes/lilly/tiles/GO37new/GO37new_1x1_liquid_resources2/GO37new_1x1_liquid_resources2.tile
-biomes/lilly/tiles/GO37new/GO37new_1x1_random/GO37new_1x1_random.tile
-biomes/lilly/tiles/GO37new/GO37new_1x1_resources/GO37new_1x1_resources.tile
-biomes/lilly/tiles/GO37new/grid/grid.tile
-biomes/lilly/tiles/GO37new/grid_random/grid_random.tile
-biomes/lilly/tiles/GO37new/grid_L/grid_L.tile
-
 	}
 
 	tile_spawn_rules

@@ -2,7 +2,7 @@ MissionDef
 {
 	//logic "logic/missions/survival/default.logic"
     script          "lua/missions/survival/survival_lilly.lua"
-	localization_id	"campaigns/survival/lilly_test.campaign"
+	localization_id	"lilly_test"
 	description		"test"
 	
 	//script_database
@@ -41,9 +41,17 @@ MissionDef
 //biomes/lilly/tiles/GO37new/GO37new_1x1_random/GO37new_1x1_random.tile
 //biomes/lilly/tiles/GO37new/GO37new_1x1_resources/GO37new_1x1_resources.tile
 //biomes/lilly/tiles/GO37new/GO37new_1x1_resources/GO37new_1x1_resources.tile
+
 biomes/lilly/tiles/GO37new/grid/grid.tile
-biomes/lilly/tiles/GO37new/grid_random/grid_random.tile
-biomes/lilly/tiles/GO37new/grid_L/grid_L.tile
+biomes/lilly/tiles/GO37new/grid/grid_random.tile
+biomes/lilly/tiles/GO37new/grid/grid_L.tile
+//biomes/lilly/tiles/GO37new/grid_random/grid_random.tile
+//biomes/lilly/tiles/GO37new/grid_L/grid_L.tile
+
+//biomes/lilly/tiles/GO37new/grid_rock/grid_rock.tile
+//biomes/lilly/tiles/GO37new/grid_random_rock/grid_random_rock.tile
+//biomes/lilly/tiles/GO37new/grid_L_rock/grid_L_rock.tile
+
 	}
 
 	tile_spawn_rules
