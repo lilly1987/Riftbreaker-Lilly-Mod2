@@ -27,8 +27,14 @@
 - All Pumps
 - https://www.nexusmods.com/theriftbreaker/mods/189
 -
+- Dashing to the limit - Reference
+- https://www.nexusmods.com/theriftbreaker/mods/60
+- 
 - Death metal
 - https://www.nexusmods.com/theriftbreaker/mods/209
+- 
+- Dense Pumps
+- https://www.nexusmods.com/theriftbreaker/mods/19
 - 
 - Expanded Arsenal Mod, credit : WirawanMYT.
 - https://www.nexusmods.com/theriftbreaker/mods/122  
@@ -41,6 +47,9 @@
 - 
 - Geoscanner Infinite Treasure
 - https://www.nexusmods.com/theriftbreaker/mods/116
+- 
+- Highspeed Drill
+- https://www.nexusmods.com/theriftbreaker/mods/28
 - 
 - increases pickup range
 - https://discordapp.com/channels/423424585954754565/736688063362891860/1003485921112510475
@@ -66,18 +75,30 @@
 - Nite Synthesizers and Rare synthesizers v3.0  
 - https://www.nexusmods.com/theriftbreaker/mods/114  
 - 
+- No Damage Tornado
+- https://www.nexusmods.com/theriftbreaker/mods/26
+- 
 - No Random Weapon Stats (Updated)  
 - https://www.nexusmods.com/theriftbreaker/mods/198  
 - 
 - Orbital Strikes  
 - https://www.nexusmods.com/theriftbreaker/mods/194  
 - 
+- Scan x10 and Instant scan
+- https://www.nexusmods.com/theriftbreaker/mods/3
+- 
 - Specialized Pumps  
 - https://www.nexusmods.com/theriftbreaker/mods/110  
+- 
+- Stronger Attack Drones
+- https://www.nexusmods.com/theriftbreaker/mods/39
 - 
 - Tower Pack - Awarded  
 - https://www.nexusmods.com/theriftbreaker/mods/204  
 -
+- Vaporater
+- https://www.nexusmods.com/theriftbreaker/mods/21
+- 
 - Weapons Charge Faster
 - https://www.nexusmods.com/theriftbreaker/mods/203
 - 
@@ -183,6 +204,7 @@
 - 
 - 환경 효과 수정 environmental effect change
 - entities\effects\weather.ent
+- entities\weather\*.*
 - 
 - 자원 혜성 거리 수정 resource comet distance change
 - entities\weather\resource_comet.ent
@@ -203,3 +225,8 @@
 - materials\scripts\fusion_synthesizer_*.material
 - materials\textures\buildings\resources\fusion_synthesizer_*.dds
 - materials\textures\gui\hud\building_icons\fusion_synthesizer*.dds
+- 
+- 랜덤 Entity 추가. 대량 사용시 성능 저하가 심함.
+- entities\lilly
+- biomes\*.scene
+

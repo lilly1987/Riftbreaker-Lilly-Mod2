@@ -37,7 +37,7 @@ EntityBlueprint
 		rotate_speed	          "6"
 		wander_jitter_multiplier  "0"
 		oscillation_radius        "15"
-		damage_per_sec	          "4" 
+		damage_per_sec	          "10" 
 		type                      "target_player"		
 	}
 

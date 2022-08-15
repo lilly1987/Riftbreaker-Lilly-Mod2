@@ -116,7 +116,7 @@ EntityBlueprint
 		{
 			radius				float:"4"
 			amount				float:"10"
-			resource			string:"iron_vein|carbon_vein"
+			resource			string:"iron_vein|carbon_vein|uranium_ore_vein|titanium_vein|palladium_vein|cobalt_vein"
 		}
 	}
 }
