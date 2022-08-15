@@ -42,6 +42,9 @@
 - Extended Tower Arsenal 확장된 무기고  
 - https://www.nexusmods.com/theriftbreaker/mods/106  
 - 
+- frognik's Riftbreaker mods
+- https://www.nexusmods.com/theriftbreaker/mods/35
+- 
 - Galatea37 Orbit
 - https://www.nexusmods.com/theriftbreaker/mods/154
 - 
