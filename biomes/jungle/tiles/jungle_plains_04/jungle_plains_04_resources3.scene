@@ -1,7 +1,5 @@
 entity_count "74"
-//editor "index(1)"
 
-//editor "index(2)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_liquids"
@@ -55,7 +53,6 @@ EntityTemplate
 
 }
 
-//editor "index(13)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -109,7 +106,6 @@ EntityTemplate
 
 }
 
-//editor "index(14)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -163,7 +159,6 @@ EntityTemplate
 
 }
 
-//editor "index(15)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -217,7 +212,6 @@ EntityTemplate
 
 }
 
-//editor "index(16)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -271,7 +265,6 @@ EntityTemplate
 
 }
 
-//editor "index(17)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -325,11 +318,8 @@ EntityTemplate
 
 }
 
-//editor "index(19)"
 
-//editor "index(20)"
 
-//editor "index(21)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -389,7 +379,6 @@ EntityTemplate
 
 }
 
-//editor "index(22)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -449,7 +438,6 @@ EntityTemplate
 
 }
 
-//editor "index(23)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -509,7 +497,6 @@ EntityTemplate
 
 }
 
-//editor "index(788)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_04"
@@ -565,7 +552,6 @@ EntityTemplate
 
 }
 
-//editor "index(1118)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -625,9 +611,7 @@ EntityTemplate
 
 }
 
-//editor "index(1119)"
 
-//editor "index(1120)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -687,7 +671,6 @@ EntityTemplate
 
 }
 
-//editor "index(1121)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -747,7 +730,6 @@ EntityTemplate
 
 }
 
-//editor "index(1528)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -801,7 +783,6 @@ EntityTemplate
 
 }
 
-//editor "index(1544)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -855,7 +836,6 @@ EntityTemplate
 
 }
 
-//editor "index(1590)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_05"
@@ -902,7 +882,6 @@ EntityTemplate
 
 }
 
-//editor "index(1591)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_06"
@@ -956,7 +935,6 @@ EntityTemplate
 
 }
 
-//editor "index(1794)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -1009,7 +987,6 @@ EntityTemplate
 
 }
 
-//editor "index(1796)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -1062,7 +1039,6 @@ EntityTemplate
 
 }
 
-//editor "index(1830)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -1115,7 +1091,6 @@ EntityTemplate
 
 }
 
-//editor "index(1831)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -1168,13 +1143,9 @@ EntityTemplate
 
 }
 
-//editor "index(1874)"
 
-//editor "index(1875)"
 
-//editor "index(1876)"
 
-//editor "index(1927)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1228,7 +1199,6 @@ EntityTemplate
 
 }
 
-//editor "index(1928)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1282,7 +1252,6 @@ EntityTemplate
 
 }
 
-//editor "index(1929)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1337,7 +1306,6 @@ EntityTemplate
 
 }
 
-//editor "index(1931)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1391,7 +1359,6 @@ EntityTemplate
 
 }
 
-//editor "index(1933)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1445,7 +1412,6 @@ EntityTemplate
 
 }
 
-//editor "index(1934)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1492,7 +1458,6 @@ EntityTemplate
 
 }
 
-//editor "index(1935)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1539,7 +1504,6 @@ EntityTemplate
 
 }
 
-//editor "index(1936)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1586,7 +1550,6 @@ EntityTemplate
 
 }
 
-//editor "index(1937)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1633,7 +1596,6 @@ EntityTemplate
 
 }
 
-//editor "index(1938)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1681,7 +1643,6 @@ EntityTemplate
 
 }
 
-//editor "index(1939)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1728,7 +1689,6 @@ EntityTemplate
 
 }
 
-//editor "index(1940)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1775,7 +1735,6 @@ EntityTemplate
 
 }
 
-//editor "index(1941)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1822,7 +1781,6 @@ EntityTemplate
 
 }
 
-//editor "index(1942)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1869,7 +1827,6 @@ EntityTemplate
 
 }
 
-//editor "index(1943)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1916,7 +1873,6 @@ EntityTemplate
 
 }
 
-//editor "index(1970)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -1969,7 +1925,6 @@ EntityTemplate
 
 }
 
-//editor "index(1978)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -2022,7 +1977,6 @@ EntityTemplate
 
 }
 
-//editor "index(1987)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2076,7 +2030,6 @@ EntityTemplate
 
 }
 
-//editor "index(1988)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2130,7 +2083,6 @@ EntityTemplate
 
 }
 
-//editor "index(1989)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2184,7 +2136,6 @@ EntityTemplate
 
 }
 
-//editor "index(1991)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2238,7 +2189,6 @@ EntityTemplate
 
 }
 
-//editor "index(1992)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2292,7 +2242,6 @@ EntityTemplate
 
 }
 
-//editor "index(1993)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2346,7 +2295,6 @@ EntityTemplate
 
 }
 
-//editor "index(1995)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -2400,7 +2348,6 @@ EntityTemplate
 
 }
 
-//editor "index(1996)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -2454,7 +2401,6 @@ EntityTemplate
 
 }
 
-//editor "index(1997)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -2508,7 +2454,6 @@ EntityTemplate
 
 }
 
-//editor "index(1998)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -2562,7 +2507,6 @@ EntityTemplate
 
 }
 
-//editor "index(1999)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -2616,7 +2560,6 @@ EntityTemplate
 
 }
 
-//editor "index(2000)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -2670,7 +2613,6 @@ EntityTemplate
 
 }
 
-//editor "index(2001)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -2724,7 +2666,6 @@ EntityTemplate
 
 }
 
-//editor "index(2002)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -2778,7 +2719,6 @@ EntityTemplate
 
 }
 
-//editor "index(2006)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -2833,7 +2773,6 @@ EntityTemplate
 
 }
 
-//editor "index(2007)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -2888,7 +2827,6 @@ EntityTemplate
 
 }
 
-//editor "index(2008)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -2943,7 +2881,6 @@ EntityTemplate
 
 }
 
-//editor "index(2015)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3003,7 +2940,6 @@ EntityTemplate
 
 }
 
-//editor "index(2016)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3063,7 +2999,6 @@ EntityTemplate
 
 }
 
-//editor "index(2017)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3123,7 +3058,6 @@ EntityTemplate
 
 }
 
-//editor "index(2018)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3183,7 +3117,6 @@ EntityTemplate
 
 }
 
-//editor "index(2019)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3243,9 +3176,7 @@ EntityTemplate
 
 }
 
-//editor "index(2020)"
 
-//editor "index(2021)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3305,7 +3236,6 @@ EntityTemplate
 
 }
 
-//editor "index(2022)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3365,7 +3295,6 @@ EntityTemplate
 
 }
 
-//editor "index(2023)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3425,7 +3354,6 @@ EntityTemplate
 
 }
 
-//editor "index(2024)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3485,7 +3413,6 @@ EntityTemplate
 
 }
 
-//editor "index(2025)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3545,7 +3472,6 @@ EntityTemplate
 
 }
 
-//editor "index(2026)"
 
 
 EntityTemplate

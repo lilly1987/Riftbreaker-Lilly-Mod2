@@ -1,5 +1,4 @@
 entity_count "123"
-//editor "index(1)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -47,7 +46,6 @@ EntityTemplate
 
 }
 
-//editor "index(2)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_liquids"
@@ -101,13 +99,9 @@ EntityTemplate
 
 }
 
-//editor "index(9)"
 
-//editor "index(10)"
 
-//editor "index(12)"
 
-//editor "index(13)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -161,7 +155,6 @@ EntityTemplate
 
 }
 
-//editor "index(14)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -215,7 +208,6 @@ EntityTemplate
 
 }
 
-//editor "index(15)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -269,7 +261,6 @@ EntityTemplate
 
 }
 
-//editor "index(16)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -323,7 +314,6 @@ EntityTemplate
 
 }
 
-//editor "index(17)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -377,11 +367,8 @@ EntityTemplate
 
 }
 
-//editor "index(19)"
 
-//editor "index(20)"
 
-//editor "index(21)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -435,7 +422,6 @@ EntityTemplate
 
 }
 
-//editor "index(22)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -489,7 +475,6 @@ EntityTemplate
 
 }
 
-//editor "index(23)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -543,7 +528,6 @@ EntityTemplate
 
 }
 
-//editor "index(787)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -590,7 +574,6 @@ EntityTemplate
 
 }
 
-//editor "index(1118)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -650,9 +633,7 @@ EntityTemplate
 
 }
 
-//editor "index(1119)"
 
-//editor "index(1120)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -712,7 +693,6 @@ EntityTemplate
 
 }
 
-//editor "index(1121)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -772,7 +752,6 @@ EntityTemplate
 
 }
 
-//editor "index(1292)"
 EntityTemplate
 {
 	components
@@ -845,7 +824,6 @@ EntityTemplate
 
 }
 
-//editor "index(1339)"
 EntityTemplate
 {
 	components
@@ -924,9 +902,7 @@ EntityTemplate
 
 }
 
-//editor "index(1592)"
 
-//editor "index(1874)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -973,7 +949,6 @@ EntityTemplate
 
 }
 
-//editor "index(1875)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -1020,7 +995,6 @@ EntityTemplate
 
 }
 
-//editor "index(1876)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -1067,7 +1041,6 @@ EntityTemplate
 
 }
 
-//editor "index(1926)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1122,7 +1095,6 @@ EntityTemplate
 
 }
 
-//editor "index(1927)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1176,7 +1148,6 @@ EntityTemplate
 
 }
 
-//editor "index(1928)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1230,7 +1201,6 @@ EntityTemplate
 
 }
 
-//editor "index(1929)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1285,7 +1255,6 @@ EntityTemplate
 
 }
 
-//editor "index(1931)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1339,7 +1308,6 @@ EntityTemplate
 
 }
 
-//editor "index(1933)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1394,7 +1362,6 @@ EntityTemplate
 
 }
 
-//editor "index(1934)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1441,7 +1408,6 @@ EntityTemplate
 
 }
 
-//editor "index(1935)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1488,7 +1454,6 @@ EntityTemplate
 
 }
 
-//editor "index(1936)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1535,7 +1500,6 @@ EntityTemplate
 
 }
 
-//editor "index(1937)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1582,7 +1546,6 @@ EntityTemplate
 
 }
 
-//editor "index(1938)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1630,7 +1593,6 @@ EntityTemplate
 
 }
 
-//editor "index(1939)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1677,7 +1639,6 @@ EntityTemplate
 
 }
 
-//editor "index(1940)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1724,7 +1685,6 @@ EntityTemplate
 
 }
 
-//editor "index(1941)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1771,7 +1731,6 @@ EntityTemplate
 
 }
 
-//editor "index(1942)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1818,7 +1777,6 @@ EntityTemplate
 
 }
 
-//editor "index(1943)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1866,7 +1824,6 @@ EntityTemplate
 
 }
 
-//editor "index(1944)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -1920,7 +1877,6 @@ EntityTemplate
 
 }
 
-//editor "index(1945)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -1975,7 +1931,6 @@ EntityTemplate
 
 }
 
-//editor "index(1947)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2029,7 +1984,6 @@ EntityTemplate
 
 }
 
-//editor "index(1948)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2083,7 +2037,6 @@ EntityTemplate
 
 }
 
-//editor "index(1949)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2138,7 +2091,6 @@ EntityTemplate
 
 }
 
-//editor "index(1950)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2192,7 +2144,6 @@ EntityTemplate
 
 }
 
-//editor "index(1951)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2246,7 +2197,6 @@ EntityTemplate
 
 }
 
-//editor "index(1952)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2300,7 +2250,6 @@ EntityTemplate
 
 }
 
-//editor "index(1953)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -2355,7 +2304,6 @@ EntityTemplate
 
 }
 
-//editor "index(1954)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -2410,7 +2358,6 @@ EntityTemplate
 
 }
 
-//editor "index(1955)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -2465,53 +2412,29 @@ EntityTemplate
 
 }
 
-//editor "index(1962)"
 
-//editor "index(1963)"
 
-//editor "index(1964)"
 
-//editor "index(1965)"
 
-//editor "index(1966)"
 
-//editor "index(1967)"
 
-//editor "index(1968)"
 
-//editor "index(1969)"
 
-//editor "index(1970)"
 
-//editor "index(1971)"
 
-//editor "index(1972)"
 
-//editor "index(1977)"
 
-//editor "index(1983)"
 
-//editor "index(1984)"
 
-//editor "index(1985)"
 
-//editor "index(1986)"
 
-//editor "index(1987)"
 
-//editor "index(1992)"
 
-//editor "index(1993)"
 
-//editor "index(1994)"
 
-//editor "index(1995)"
 
-//editor "index(1996)"
 
-//editor "index(1997)"
 
-//editor "index(1998)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -2566,7 +2489,6 @@ EntityTemplate
 
 }
 
-//editor "index(1999)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -2621,81 +2543,43 @@ EntityTemplate
 
 }
 
-//editor "index(2000)"
 
-//editor "index(2001)"
 
-//editor "index(2002)"
 
-//editor "index(2003)"
 
-//editor "index(2004)"
 
-//editor "index(2005)"
 
-//editor "index(2006)"
 
-//editor "index(2007)"
 
-//editor "index(2008)"
 
-//editor "index(2009)"
 
-//editor "index(2010)"
 
-//editor "index(2011)"
 
-//editor "index(2012)"
 
-//editor "index(2013)"
 
-//editor "index(2014)"
 
-//editor "index(2015)"
 
-//editor "index(2016)"
 
-//editor "index(2017)"
 
-//editor "index(2018)"
 
-//editor "index(2019)"
 
-//editor "index(2020)"
 
-//editor "index(2021)"
 
-//editor "index(2022)"
 
-//editor "index(2023)"
 
-//editor "index(2024)"
 
-//editor "index(2025)"
 
-//editor "index(2026)"
 
-//editor "index(2027)"
 
-//editor "index(2028)"
 
-//editor "index(2029)"
 
-//editor "index(2030)"
 
-//editor "index(2031)"
 
-//editor "index(2032)"
 
-//editor "index(2033)"
 
-//editor "index(2034)"
 
-//editor "index(2035)"
 
-//editor "index(2036)"
 
-//editor "index(2037)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2755,7 +2639,6 @@ EntityTemplate
 
 }
 
-//editor "index(2038)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2815,7 +2698,6 @@ EntityTemplate
 
 }
 
-//editor "index(2039)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2875,9 +2757,7 @@ EntityTemplate
 
 }
 
-//editor "index(2040)"
 
-//editor "index(2041)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2937,7 +2817,6 @@ EntityTemplate
 
 }
 
-//editor "index(2042)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2997,7 +2876,6 @@ EntityTemplate
 
 }
 
-//editor "index(2043)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3057,10 +2935,8 @@ EntityTemplate
 
 }
 
-//editor "index(2044)"
 
 
-//editor "index(3233)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3114,7 +2990,6 @@ EntityTemplate
 
 }
 
-//editor "index(3002)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3168,7 +3043,6 @@ EntityTemplate
 
 }
 
-//editor "index(2990)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3222,7 +3096,6 @@ EntityTemplate
 
 }
 
-//editor "index(2988)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3276,7 +3149,6 @@ EntityTemplate
 
 }
 
-//editor "index(2987)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3330,7 +3202,6 @@ EntityTemplate
 
 }
 
-//editor "index(2284)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3386,7 +3257,6 @@ EntityTemplate
 
 
 
-//editor "index(2262)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3441,7 +3311,6 @@ EntityTemplate
 
 }
 
-//editor "index(2248)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3496,7 +3365,6 @@ EntityTemplate
 
 }
 
-//editor "index(2249)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3551,7 +3419,6 @@ EntityTemplate
 
 }
 
-//editor "index(2044)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3612,7 +3479,6 @@ EntityTemplate
 
 }
 
-//editor "index(2040)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3673,7 +3539,6 @@ EntityTemplate
 
 }
 
-//editor "index(1119)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3734,7 +3599,6 @@ EntityTemplate
 }
 
 
-//editor "index(19)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3788,7 +3652,6 @@ EntityTemplate
 
 }
 
-//editor "index(20)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -3895,7 +3758,6 @@ EntityTemplate
 
 }
 
-//editor "index(20)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"

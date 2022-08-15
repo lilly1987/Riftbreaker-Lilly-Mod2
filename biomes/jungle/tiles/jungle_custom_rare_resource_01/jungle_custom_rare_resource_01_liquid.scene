@@ -1,5 +1,4 @@
 entity_count "641"
-//editor "index(5)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -54,7 +53,6 @@ EntityTemplate
 
 }
 
-//editor "index(6)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -109,7 +107,6 @@ EntityTemplate
 
 }
 
-//editor "index(7)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -164,7 +161,6 @@ EntityTemplate
 
 }
 
-//editor "index(27)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -218,7 +214,6 @@ EntityTemplate
 
 }
 
-//editor "index(32)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -279,7 +274,6 @@ EntityTemplate
 
 }
 
-//editor "index(67)"
 EntityTemplate
 {
 	base_blueprint "props/bush/standard_small_01"
@@ -333,7 +327,6 @@ EntityTemplate
 
 }
 
-//editor "index(158)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_03_skin2"
@@ -387,7 +380,6 @@ EntityTemplate
 
 }
 
-//editor "index(180)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_03"
@@ -441,7 +433,6 @@ EntityTemplate
 
 }
 
-//editor "index(249)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -501,7 +492,6 @@ EntityTemplate
 
 }
 
-//editor "index(263)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_03"
@@ -555,7 +545,6 @@ EntityTemplate
 
 }
 
-//editor "index(265)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_03"
@@ -609,7 +598,6 @@ EntityTemplate
 
 }
 
-//editor "index(297)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -670,7 +658,6 @@ EntityTemplate
 
 }
 
-//editor "index(321)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -724,7 +711,6 @@ EntityTemplate
 
 }
 
-//editor "index(330)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -785,7 +771,6 @@ EntityTemplate
 
 }
 
-//editor "index(342)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -846,7 +831,6 @@ EntityTemplate
 
 }
 
-//editor "index(354)"
 EntityTemplate
 {
 	base_blueprint "props/bush/standard_small_01"
@@ -900,7 +884,6 @@ EntityTemplate
 
 }
 
-//editor "index(369)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_03"
@@ -954,7 +937,6 @@ EntityTemplate
 
 }
 
-//editor "index(406)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -1015,7 +997,6 @@ EntityTemplate
 
 }
 
-//editor "index(456)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -1068,7 +1049,6 @@ EntityTemplate
 
 }
 
-//editor "index(465)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -1122,7 +1102,6 @@ EntityTemplate
 
 }
 
-//editor "index(537)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -1183,7 +1162,6 @@ EntityTemplate
 
 }
 
-//editor "index(538)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -1243,7 +1221,6 @@ EntityTemplate
 
 }
 
-//editor "index(776)"
 EntityTemplate
 {
 	base_blueprint "props/bush/standard_small_01"
@@ -1297,7 +1274,6 @@ EntityTemplate
 
 }
 
-//editor "index(821)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1349,7 +1325,6 @@ EntityTemplate
 
 }
 
-//editor "index(822)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1401,7 +1376,6 @@ EntityTemplate
 
 }
 
-//editor "index(823)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1453,7 +1427,6 @@ EntityTemplate
 
 }
 
-//editor "index(828)"
 EntityTemplate
 {
 	components
@@ -1526,7 +1499,6 @@ EntityTemplate
 
 }
 
-//editor "index(829)"
 EntityTemplate
 {
 	components
@@ -1599,7 +1571,6 @@ EntityTemplate
 
 }
 
-//editor "index(830)"
 EntityTemplate
 {
 	components
@@ -1672,7 +1643,6 @@ EntityTemplate
 
 }
 
-//editor "index(831)"
 EntityTemplate
 {
 	components
@@ -1745,7 +1715,6 @@ EntityTemplate
 
 }
 
-//editor "index(832)"
 EntityTemplate
 {
 	components
@@ -1818,7 +1787,6 @@ EntityTemplate
 
 }
 
-//editor "index(853)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_03"
@@ -1871,7 +1839,6 @@ EntityTemplate
 
 }
 
-//editor "index(854)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_03"
@@ -1924,7 +1891,6 @@ EntityTemplate
 
 }
 
-//editor "index(903)"
 EntityTemplate
 {
 	components
@@ -2003,7 +1969,6 @@ EntityTemplate
 
 }
 
-//editor "index(977)"
 EntityTemplate
 {
 	components
@@ -2082,7 +2047,6 @@ EntityTemplate
 
 }
 
-//editor "index(1049)"
 EntityTemplate
 {
 	components
@@ -2161,7 +2125,6 @@ EntityTemplate
 
 }
 
-//editor "index(1081)"
 EntityTemplate
 {
 	components
@@ -2234,7 +2197,6 @@ EntityTemplate
 
 }
 
-//editor "index(1091)"
 EntityTemplate
 {
 	components
@@ -2313,7 +2275,6 @@ EntityTemplate
 
 }
 
-//editor "index(1095)"
 EntityTemplate
 {
 	components
@@ -2392,7 +2353,6 @@ EntityTemplate
 
 }
 
-//editor "index(1107)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -2446,7 +2406,6 @@ EntityTemplate
 
 }
 
-//editor "index(1108)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -2501,7 +2460,6 @@ EntityTemplate
 
 }
 
-//editor "index(1110)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2556,7 +2514,6 @@ EntityTemplate
 
 }
 
-//editor "index(1115)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources_liquid"
@@ -2611,7 +2568,6 @@ EntityTemplate
 
 }
 
-//editor "index(1116)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources_liquid"
@@ -2666,7 +2622,6 @@ EntityTemplate
 
 }
 
-//editor "index(1118)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -2729,7 +2684,6 @@ EntityTemplate
 
 }
 
-//editor "index(1126)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -2777,7 +2731,6 @@ EntityTemplate
 
 }
 
-//editor "index(1127)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -2825,7 +2778,6 @@ EntityTemplate
 
 }
 
-//editor "index(1128)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -2879,7 +2831,6 @@ EntityTemplate
 
 }
 
-//editor "index(1130)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
@@ -2927,7 +2878,6 @@ EntityTemplate
 
 }
 
-//editor "index(1131)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_05"
@@ -2990,7 +2940,6 @@ EntityTemplate
 
 }
 
-//editor "index(1132)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -3053,7 +3002,6 @@ EntityTemplate
 
 }
 
-//editor "index(1133)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -3109,7 +3057,6 @@ EntityTemplate
 
 }
 
-//editor "index(1134)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -3170,7 +3117,6 @@ EntityTemplate
 
 }
 
-//editor "index(1135)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_04"
@@ -3225,7 +3171,6 @@ EntityTemplate
 
 }
 
-//editor "index(1136)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -3273,7 +3218,6 @@ EntityTemplate
 
 }
 
-//editor "index(1137)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -3327,7 +3271,6 @@ EntityTemplate
 
 }
 
-//editor "index(1138)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -3375,7 +3318,6 @@ EntityTemplate
 
 }
 
-//editor "index(1139)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -3429,7 +3371,6 @@ EntityTemplate
 
 }
 
-//editor "index(1140)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -3492,7 +3433,6 @@ EntityTemplate
 
 }
 
-//editor "index(1141)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -3548,7 +3488,6 @@ EntityTemplate
 
 }
 
-//editor "index(1150)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_05"
@@ -3611,7 +3550,6 @@ EntityTemplate
 
 }
 
-//editor "index(1151)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
@@ -3665,7 +3603,6 @@ EntityTemplate
 
 }
 
-//editor "index(1152)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -3719,7 +3656,6 @@ EntityTemplate
 
 }
 
-//editor "index(1153)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -3773,7 +3709,6 @@ EntityTemplate
 
 }
 
-//editor "index(1154)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -3828,7 +3763,6 @@ EntityTemplate
 
 }
 
-//editor "index(1155)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -3889,7 +3823,6 @@ EntityTemplate
 
 }
 
-//editor "index(1156)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -3945,7 +3878,6 @@ EntityTemplate
 
 }
 
-//editor "index(1157)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -4008,7 +3940,6 @@ EntityTemplate
 
 }
 
-//editor "index(1158)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_05"
@@ -4071,7 +4002,6 @@ EntityTemplate
 
 }
 
-//editor "index(1159)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -4134,7 +4064,6 @@ EntityTemplate
 
 }
 
-//editor "index(1160)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -4188,7 +4117,6 @@ EntityTemplate
 
 }
 
-//editor "index(1161)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -4242,7 +4170,6 @@ EntityTemplate
 
 }
 
-//editor "index(1162)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -4298,7 +4225,6 @@ EntityTemplate
 
 }
 
-//editor "index(1163)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_04"
@@ -4354,7 +4280,6 @@ EntityTemplate
 
 }
 
-//editor "index(1164)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -4410,7 +4335,6 @@ EntityTemplate
 
 }
 
-//editor "index(1165)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -4458,7 +4382,6 @@ EntityTemplate
 
 }
 
-//editor "index(1166)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -4512,7 +4435,6 @@ EntityTemplate
 
 }
 
-//editor "index(1167)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -4566,7 +4488,6 @@ EntityTemplate
 
 }
 
-//editor "index(1168)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -4620,7 +4541,6 @@ EntityTemplate
 
 }
 
-//editor "index(1169)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -4674,7 +4594,6 @@ EntityTemplate
 
 }
 
-//editor "index(1171)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -4728,7 +4647,6 @@ EntityTemplate
 
 }
 
-//editor "index(1172)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_big_01"
@@ -4776,7 +4694,6 @@ EntityTemplate
 
 }
 
-//editor "index(1173)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_big_01"
@@ -4824,7 +4741,6 @@ EntityTemplate
 
 }
 
-//editor "index(1174)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -4878,7 +4794,6 @@ EntityTemplate
 
 }
 
-//editor "index(1175)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -4926,7 +4841,6 @@ EntityTemplate
 
 }
 
-//editor "index(1176)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -4974,7 +4888,6 @@ EntityTemplate
 
 }
 
-//editor "index(1177)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -5022,7 +4935,6 @@ EntityTemplate
 
 }
 
-//editor "index(1194)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_big_01_skin7"
@@ -5070,7 +4982,6 @@ EntityTemplate
 
 }
 
-//editor "index(1196)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_big_02_skin7"
@@ -5124,7 +5035,6 @@ EntityTemplate
 
 }
 
-//editor "index(1197)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_big_03_skin7"
@@ -5172,7 +5082,6 @@ EntityTemplate
 
 }
 
-//editor "index(1198)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_big_01_skin7"
@@ -5226,7 +5135,6 @@ EntityTemplate
 
 }
 
-//editor "index(1199)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_medium_02_skin7"
@@ -5280,7 +5188,6 @@ EntityTemplate
 
 }
 
-//editor "index(1200)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -5335,7 +5242,6 @@ EntityTemplate
 
 }
 
-//editor "index(1201)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -5390,7 +5296,6 @@ EntityTemplate
 
 }
 
-//editor "index(1202)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -5445,7 +5350,6 @@ EntityTemplate
 
 }
 
-//editor "index(1203)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -5500,7 +5404,6 @@ EntityTemplate
 
 }
 
-//editor "index(1206)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_02_skin2"
@@ -5561,7 +5464,6 @@ EntityTemplate
 
 }
 
-//editor "index(1207)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_01_skin2"
@@ -5624,7 +5526,6 @@ EntityTemplate
 
 }
 
-//editor "index(1208)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -5686,7 +5587,6 @@ EntityTemplate
 
 }
 
-//editor "index(1209)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -5747,7 +5647,6 @@ EntityTemplate
 
 }
 
-//editor "index(1210)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -5809,7 +5708,6 @@ EntityTemplate
 
 }
 
-//editor "index(1212)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -5870,7 +5768,6 @@ EntityTemplate
 
 }
 
-//editor "index(1216)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_01_skin2"
@@ -5926,7 +5823,6 @@ EntityTemplate
 
 }
 
-//editor "index(1217)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -5987,7 +5883,6 @@ EntityTemplate
 
 }
 
-//editor "index(1218)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -6048,7 +5943,6 @@ EntityTemplate
 
 }
 
-//editor "index(1219)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -6110,7 +6004,6 @@ EntityTemplate
 
 }
 
-//editor "index(1220)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -6164,7 +6057,6 @@ EntityTemplate
 
 }
 
-//editor "index(1221)"
 EntityTemplate
 {
 	base_blueprint "props/bush/standard_small_01"
@@ -6218,7 +6110,6 @@ EntityTemplate
 
 }
 
-//editor "index(1222)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_03"
@@ -6272,7 +6163,6 @@ EntityTemplate
 
 }
 
-//editor "index(1223)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -6333,7 +6223,6 @@ EntityTemplate
 
 }
 
-//editor "index(1224)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -6393,7 +6282,6 @@ EntityTemplate
 
 }
 
-//editor "index(1225)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -6456,7 +6344,6 @@ EntityTemplate
 
 }
 
-//editor "index(1226)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -6510,7 +6397,6 @@ EntityTemplate
 
 }
 
-//editor "index(1227)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -6565,7 +6451,6 @@ EntityTemplate
 
 }
 
-//editor "index(1228)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -6626,7 +6511,6 @@ EntityTemplate
 
 }
 
-//editor "index(1229)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
@@ -6682,7 +6566,6 @@ EntityTemplate
 
 }
 
-//editor "index(1230)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_05"
@@ -6743,7 +6626,6 @@ EntityTemplate
 
 }
 
-//editor "index(1231)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -6806,7 +6688,6 @@ EntityTemplate
 
 }
 
-//editor "index(1232)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -6860,7 +6741,6 @@ EntityTemplate
 
 }
 
-//editor "index(1233)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -6923,7 +6803,6 @@ EntityTemplate
 
 }
 
-//editor "index(1234)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_04"
@@ -6979,7 +6858,6 @@ EntityTemplate
 
 }
 
-//editor "index(1235)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -7035,7 +6913,6 @@ EntityTemplate
 
 }
 
-//editor "index(1236)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -7090,7 +6967,6 @@ EntityTemplate
 
 }
 
-//editor "index(1237)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -7153,7 +7029,6 @@ EntityTemplate
 
 }
 
-//editor "index(1238)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -7209,7 +7084,6 @@ EntityTemplate
 
 }
 
-//editor "index(1239)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
@@ -7264,7 +7138,6 @@ EntityTemplate
 
 }
 
-//editor "index(1240)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -7320,7 +7193,6 @@ EntityTemplate
 
 }
 
-//editor "index(1241)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -7368,7 +7240,6 @@ EntityTemplate
 
 }
 
-//editor "index(1242)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -7431,7 +7302,6 @@ EntityTemplate
 
 }
 
-//editor "index(1243)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -7494,7 +7364,6 @@ EntityTemplate
 
 }
 
-//editor "index(1244)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -7550,7 +7419,6 @@ EntityTemplate
 
 }
 
-//editor "index(1245)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_04"
@@ -7604,7 +7472,6 @@ EntityTemplate
 
 }
 
-//editor "index(1246)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -7652,7 +7519,6 @@ EntityTemplate
 
 }
 
-//editor "index(1247)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -7715,7 +7581,6 @@ EntityTemplate
 
 }
 
-//editor "index(1248)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -7771,7 +7636,6 @@ EntityTemplate
 
 }
 
-//editor "index(1249)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -7827,7 +7691,6 @@ EntityTemplate
 
 }
 
-//editor "index(1250)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -7888,7 +7751,6 @@ EntityTemplate
 
 }
 
-//editor "index(1251)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -7949,7 +7811,6 @@ EntityTemplate
 
 }
 
-//editor "index(1252)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -8010,7 +7871,6 @@ EntityTemplate
 
 }
 
-//editor "index(1253)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
@@ -8064,7 +7924,6 @@ EntityTemplate
 
 }
 
-//editor "index(1254)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_05"
@@ -8125,7 +7984,6 @@ EntityTemplate
 
 }
 
-//editor "index(1255)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -8179,7 +8037,6 @@ EntityTemplate
 
 }
 
-//editor "index(1256)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -8235,7 +8092,6 @@ EntityTemplate
 
 }
 
-//editor "index(1257)"
 EntityTemplate
 {
 	components
@@ -8308,7 +8164,6 @@ EntityTemplate
 
 }
 
-//editor "index(1258)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -8363,7 +8218,6 @@ EntityTemplate
 
 }
 
-//editor "index(1259)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -8419,7 +8273,6 @@ EntityTemplate
 
 }
 
-//editor "index(1260)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -8475,7 +8328,6 @@ EntityTemplate
 
 }
 
-//editor "index(1261)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -8531,7 +8383,6 @@ EntityTemplate
 
 }
 
-//editor "index(1262)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -8587,7 +8438,6 @@ EntityTemplate
 
 }
 
-//editor "index(1263)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -8643,7 +8493,6 @@ EntityTemplate
 
 }
 
-//editor "index(1264)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -8704,7 +8553,6 @@ EntityTemplate
 
 }
 
-//editor "index(1265)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -8765,7 +8613,6 @@ EntityTemplate
 
 }
 
-//editor "index(1266)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -8819,7 +8666,6 @@ EntityTemplate
 
 }
 
-//editor "index(1267)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
@@ -8873,7 +8719,6 @@ EntityTemplate
 
 }
 
-//editor "index(1268)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -8936,7 +8781,6 @@ EntityTemplate
 
 }
 
-//editor "index(1269)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -8984,7 +8828,6 @@ EntityTemplate
 
 }
 
-//editor "index(1270)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
@@ -9044,7 +8887,6 @@ EntityTemplate
 
 }
 
-//editor "index(1271)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_05"
@@ -9107,7 +8949,6 @@ EntityTemplate
 
 }
 
-//editor "index(1272)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -9168,7 +9009,6 @@ EntityTemplate
 
 }
 
-//editor "index(1273)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -9222,7 +9062,6 @@ EntityTemplate
 
 }
 
-//editor "index(1274)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -9276,7 +9115,6 @@ EntityTemplate
 
 }
 
-//editor "index(1275)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -9330,7 +9168,6 @@ EntityTemplate
 
 }
 
-//editor "index(1276)"
 EntityTemplate
 {
 	components
@@ -9409,7 +9246,6 @@ EntityTemplate
 
 }
 
-//editor "index(1277)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -9472,7 +9308,6 @@ EntityTemplate
 
 }
 
-//editor "index(1278)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -9528,7 +9363,6 @@ EntityTemplate
 
 }
 
-//editor "index(1279)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -9589,7 +9423,6 @@ EntityTemplate
 
 }
 
-//editor "index(1280)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -9652,7 +9485,6 @@ EntityTemplate
 
 }
 
-//editor "index(1281)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
@@ -9708,7 +9540,6 @@ EntityTemplate
 
 }
 
-//editor "index(1282)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_04"
@@ -9763,7 +9594,6 @@ EntityTemplate
 
 }
 
-//editor "index(1283)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -9817,7 +9647,6 @@ EntityTemplate
 
 }
 
-//editor "index(1284)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_04"
@@ -9873,7 +9702,6 @@ EntityTemplate
 
 }
 
-//editor "index(1285)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -9929,7 +9757,6 @@ EntityTemplate
 
 }
 
-//editor "index(1286)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_05"
@@ -9992,7 +9819,6 @@ EntityTemplate
 
 }
 
-//editor "index(1287)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
@@ -10046,7 +9872,6 @@ EntityTemplate
 
 }
 
-//editor "index(1288)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -10100,7 +9925,6 @@ EntityTemplate
 
 }
 
-//editor "index(1289)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -10154,7 +9978,6 @@ EntityTemplate
 
 }
 
-//editor "index(1290)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -10215,7 +10038,6 @@ EntityTemplate
 
 }
 
-//editor "index(1291)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_05"
@@ -10277,7 +10099,6 @@ EntityTemplate
 
 }
 
-//editor "index(1292)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -10333,7 +10154,6 @@ EntityTemplate
 
 }
 
-//editor "index(1293)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -10389,7 +10209,6 @@ EntityTemplate
 
 }
 
-//editor "index(1294)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -10445,7 +10264,6 @@ EntityTemplate
 
 }
 
-//editor "index(1295)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -10501,7 +10319,6 @@ EntityTemplate
 
 }
 
-//editor "index(1296)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -10563,7 +10380,6 @@ EntityTemplate
 
 }
 
-//editor "index(1297)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -10624,7 +10440,6 @@ EntityTemplate
 
 }
 
-//editor "index(1298)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -10677,7 +10492,6 @@ EntityTemplate
 
 }
 
-//editor "index(1299)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -10730,7 +10544,6 @@ EntityTemplate
 
 }
 
-//editor "index(1300)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
@@ -10784,7 +10597,6 @@ EntityTemplate
 
 }
 
-//editor "index(1301)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -10832,7 +10644,6 @@ EntityTemplate
 
 }
 
-//editor "index(1302)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -10895,7 +10706,6 @@ EntityTemplate
 
 }
 
-//editor "index(1303)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -10956,7 +10766,6 @@ EntityTemplate
 
 }
 
-//editor "index(1304)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -11019,7 +10828,6 @@ EntityTemplate
 
 }
 
-//editor "index(1305)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -11075,7 +10883,6 @@ EntityTemplate
 
 }
 
-//editor "index(1306)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -11131,7 +10938,6 @@ EntityTemplate
 
 }
 
-//editor "index(1307)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -11185,7 +10991,6 @@ EntityTemplate
 
 }
 
-//editor "index(1308)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -11248,7 +11053,6 @@ EntityTemplate
 
 }
 
-//editor "index(1309)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -11311,7 +11115,6 @@ EntityTemplate
 
 }
 
-//editor "index(1310)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -11367,7 +11170,6 @@ EntityTemplate
 
 }
 
-//editor "index(1311)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -11430,7 +11232,6 @@ EntityTemplate
 
 }
 
-//editor "index(1312)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
@@ -11491,7 +11292,6 @@ EntityTemplate
 
 }
 
-//editor "index(1313)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_04"
@@ -11547,7 +11347,6 @@ EntityTemplate
 
 }
 
-//editor "index(1314)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -11601,7 +11400,6 @@ EntityTemplate
 
 }
 
-//editor "index(1315)"
 EntityTemplate
 {
 	components
@@ -11680,7 +11478,6 @@ EntityTemplate
 
 }
 
-//editor "index(1316)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -11743,7 +11540,6 @@ EntityTemplate
 
 }
 
-//editor "index(1317)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -11797,7 +11593,6 @@ EntityTemplate
 
 }
 
-//editor "index(1318)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -11859,7 +11654,6 @@ EntityTemplate
 
 }
 
-//editor "index(1319)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -11920,7 +11714,6 @@ EntityTemplate
 
 }
 
-//editor "index(1320)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_05"
@@ -11983,7 +11776,6 @@ EntityTemplate
 
 }
 
-//editor "index(1321)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -12037,7 +11829,6 @@ EntityTemplate
 
 }
 
-//editor "index(1322)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_02"
@@ -12091,7 +11882,6 @@ EntityTemplate
 
 }
 
-//editor "index(1323)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -12139,7 +11929,6 @@ EntityTemplate
 
 }
 
-//editor "index(1324)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -12187,7 +11976,6 @@ EntityTemplate
 
 }
 
-//editor "index(1325)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
@@ -12235,7 +12023,6 @@ EntityTemplate
 
 }
 
-//editor "index(1326)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -12289,7 +12076,6 @@ EntityTemplate
 
 }
 
-//editor "index(1327)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_big_01"
@@ -12337,7 +12123,6 @@ EntityTemplate
 
 }
 
-//editor "index(1328)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_big_01"
@@ -12385,7 +12170,6 @@ EntityTemplate
 
 }
 
-//editor "index(1329)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -12439,7 +12223,6 @@ EntityTemplate
 
 }
 
-//editor "index(1330)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -12493,7 +12276,6 @@ EntityTemplate
 
 }
 
-//editor "index(1331)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -12547,7 +12329,6 @@ EntityTemplate
 
 }
 
-//editor "index(1332)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -12601,7 +12382,6 @@ EntityTemplate
 
 }
 
-//editor "index(1333)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -12655,7 +12435,6 @@ EntityTemplate
 
 }
 
-//editor "index(1334)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -12709,7 +12488,6 @@ EntityTemplate
 
 }
 
-//editor "index(1335)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -12763,7 +12541,6 @@ EntityTemplate
 
 }
 
-//editor "index(1336)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -12817,7 +12594,6 @@ EntityTemplate
 
 }
 
-//editor "index(1337)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -12871,7 +12647,6 @@ EntityTemplate
 
 }
 
-//editor "index(1338)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -12925,7 +12700,6 @@ EntityTemplate
 
 }
 
-//editor "index(1339)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -12979,7 +12753,6 @@ EntityTemplate
 
 }
 
-//editor "index(1340)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -13033,7 +12806,6 @@ EntityTemplate
 
 }
 
-//editor "index(1341)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -13087,7 +12859,6 @@ EntityTemplate
 
 }
 
-//editor "index(1342)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -13141,7 +12912,6 @@ EntityTemplate
 
 }
 
-//editor "index(1343)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -13195,7 +12965,6 @@ EntityTemplate
 
 }
 
-//editor "index(1344)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -13249,7 +13018,6 @@ EntityTemplate
 
 }
 
-//editor "index(1345)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -13303,7 +13071,6 @@ EntityTemplate
 
 }
 
-//editor "index(1346)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -13357,7 +13124,6 @@ EntityTemplate
 
 }
 
-//editor "index(1347)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -13411,7 +13177,6 @@ EntityTemplate
 
 }
 
-//editor "index(1348)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -13465,7 +13230,6 @@ EntityTemplate
 
 }
 
-//editor "index(1349)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -13519,7 +13283,6 @@ EntityTemplate
 
 }
 
-//editor "index(1350)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -13573,7 +13336,6 @@ EntityTemplate
 
 }
 
-//editor "index(1351)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -13627,7 +13389,6 @@ EntityTemplate
 
 }
 
-//editor "index(1352)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -13681,7 +13442,6 @@ EntityTemplate
 
 }
 
-//editor "index(1353)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -13735,7 +13495,6 @@ EntityTemplate
 
 }
 
-//editor "index(1354)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -13789,7 +13548,6 @@ EntityTemplate
 
 }
 
-//editor "index(1355)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -13843,7 +13601,6 @@ EntityTemplate
 
 }
 
-//editor "index(1356)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_medium_02_skin7"
@@ -13899,7 +13656,6 @@ EntityTemplate
 
 }
 
-//editor "index(1357)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_medium_02_skin7"
@@ -13958,7 +13714,6 @@ EntityTemplate
 
 }
 
-//editor "index(1358)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_medium_02_skin7"
@@ -14019,7 +13774,6 @@ EntityTemplate
 
 }
 
-//editor "index(1359)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -14074,7 +13828,6 @@ EntityTemplate
 
 }
 
-//editor "index(1360)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -14137,7 +13890,6 @@ EntityTemplate
 
 }
 
-//editor "index(1361)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -14198,7 +13950,6 @@ EntityTemplate
 
 }
 
-//editor "index(1362)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -14253,7 +14004,6 @@ EntityTemplate
 
 }
 
-//editor "index(1363)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -14314,7 +14064,6 @@ EntityTemplate
 
 }
 
-//editor "index(1364)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -14375,7 +14124,6 @@ EntityTemplate
 
 }
 
-//editor "index(1365)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -14428,7 +14176,6 @@ EntityTemplate
 
 }
 
-//editor "index(1366)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -14482,7 +14229,6 @@ EntityTemplate
 
 }
 
-//editor "index(1367)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -14536,7 +14282,6 @@ EntityTemplate
 
 }
 
-//editor "index(1368)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -14590,7 +14335,6 @@ EntityTemplate
 
 }
 
-//editor "index(1369)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -14644,7 +14388,6 @@ EntityTemplate
 
 }
 
-//editor "index(1370)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -14698,7 +14441,6 @@ EntityTemplate
 
 }
 
-//editor "index(1371)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -14752,7 +14494,6 @@ EntityTemplate
 
 }
 
-//editor "index(1372)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -14806,7 +14547,6 @@ EntityTemplate
 
 }
 
-//editor "index(1373)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_big_01"
@@ -14854,7 +14594,6 @@ EntityTemplate
 
 }
 
-//editor "index(1374)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -14902,7 +14641,6 @@ EntityTemplate
 
 }
 
-//editor "index(1375)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -14950,7 +14688,6 @@ EntityTemplate
 
 }
 
-//editor "index(1376)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -14998,7 +14735,6 @@ EntityTemplate
 
 }
 
-//editor "index(1377)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -15046,7 +14782,6 @@ EntityTemplate
 
 }
 
-//editor "index(1378)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -15094,7 +14829,6 @@ EntityTemplate
 
 }
 
-//editor "index(1379)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -15157,7 +14891,6 @@ EntityTemplate
 
 }
 
-//editor "index(1380)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -15205,7 +14938,6 @@ EntityTemplate
 
 }
 
-//editor "index(1381)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -15253,7 +14985,6 @@ EntityTemplate
 
 }
 
-//editor "index(1382)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -15307,7 +15038,6 @@ EntityTemplate
 
 }
 
-//editor "index(1383)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -15361,7 +15091,6 @@ EntityTemplate
 
 }
 
-//editor "index(1384)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -15415,7 +15144,6 @@ EntityTemplate
 
 }
 
-//editor "index(1385)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_big_01"
@@ -15469,7 +15197,6 @@ EntityTemplate
 
 }
 
-//editor "index(1386)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -15517,7 +15244,6 @@ EntityTemplate
 
 }
 
-//editor "index(1387)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -15565,7 +15291,6 @@ EntityTemplate
 
 }
 
-//editor "index(1388)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_medium_02_skin7"
@@ -15626,7 +15351,6 @@ EntityTemplate
 
 }
 
-//editor "index(1389)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -15687,7 +15411,6 @@ EntityTemplate
 
 }
 
-//editor "index(1390)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -15750,7 +15473,6 @@ EntityTemplate
 
 }
 
-//editor "index(1391)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_medium_01"
@@ -15804,7 +15526,6 @@ EntityTemplate
 
 }
 
-//editor "index(1392)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -15867,7 +15588,6 @@ EntityTemplate
 
 }
 
-//editor "index(1393)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -15921,7 +15641,6 @@ EntityTemplate
 
 }
 
-//editor "index(1394)"
 EntityTemplate
 {
 	base_blueprint "props/grass/cover_leaves_big_01"
@@ -15969,7 +15688,6 @@ EntityTemplate
 
 }
 
-//editor "index(1395)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -16023,7 +15741,6 @@ EntityTemplate
 
 }
 
-//editor "index(1396)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -16077,7 +15794,6 @@ EntityTemplate
 
 }
 
-//editor "index(1397)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -16131,7 +15847,6 @@ EntityTemplate
 
 }
 
-//editor "index(1398)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -16185,7 +15900,6 @@ EntityTemplate
 
 }
 
-//editor "index(1399)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_01_skin2"
@@ -16239,7 +15953,6 @@ EntityTemplate
 
 }
 
-//editor "index(1400)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_01_skin2"
@@ -16300,7 +16013,6 @@ EntityTemplate
 
 }
 
-//editor "index(1401)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16353,7 +16065,6 @@ EntityTemplate
 
 }
 
-//editor "index(1402)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16407,7 +16118,6 @@ EntityTemplate
 
 }
 
-//editor "index(1403)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16461,7 +16171,6 @@ EntityTemplate
 
 }
 
-//editor "index(1404)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16514,7 +16223,6 @@ EntityTemplate
 
 }
 
-//editor "index(1405)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16568,7 +16276,6 @@ EntityTemplate
 
 }
 
-//editor "index(1406)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16622,7 +16329,6 @@ EntityTemplate
 
 }
 
-//editor "index(1407)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16676,7 +16382,6 @@ EntityTemplate
 
 }
 
-//editor "index(1408)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16730,7 +16435,6 @@ EntityTemplate
 
 }
 
-//editor "index(1409)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16784,7 +16488,6 @@ EntityTemplate
 
 }
 
-//editor "index(1410)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16838,7 +16541,6 @@ EntityTemplate
 
 }
 
-//editor "index(1411)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16892,7 +16594,6 @@ EntityTemplate
 
 }
 
-//editor "index(1412)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -16946,7 +16647,6 @@ EntityTemplate
 
 }
 
-//editor "index(1413)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17000,7 +16700,6 @@ EntityTemplate
 
 }
 
-//editor "index(1414)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17054,7 +16753,6 @@ EntityTemplate
 
 }
 
-//editor "index(1415)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17108,7 +16806,6 @@ EntityTemplate
 
 }
 
-//editor "index(1416)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17162,7 +16859,6 @@ EntityTemplate
 
 }
 
-//editor "index(1417)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17216,7 +16912,6 @@ EntityTemplate
 
 }
 
-//editor "index(1418)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17270,7 +16965,6 @@ EntityTemplate
 
 }
 
-//editor "index(1419)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17324,7 +17018,6 @@ EntityTemplate
 
 }
 
-//editor "index(1420)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17378,7 +17071,6 @@ EntityTemplate
 
 }
 
-//editor "index(1421)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17432,7 +17124,6 @@ EntityTemplate
 
 }
 
-//editor "index(1422)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17486,7 +17177,6 @@ EntityTemplate
 
 }
 
-//editor "index(1423)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17540,7 +17230,6 @@ EntityTemplate
 
 }
 
-//editor "index(1424)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17594,7 +17283,6 @@ EntityTemplate
 
 }
 
-//editor "index(1425)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17648,7 +17336,6 @@ EntityTemplate
 
 }
 
-//editor "index(1426)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17702,7 +17389,6 @@ EntityTemplate
 
 }
 
-//editor "index(1427)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17756,7 +17442,6 @@ EntityTemplate
 
 }
 
-//editor "index(1428)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17810,7 +17495,6 @@ EntityTemplate
 
 }
 
-//editor "index(1429)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17864,7 +17548,6 @@ EntityTemplate
 
 }
 
-//editor "index(1430)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17918,7 +17601,6 @@ EntityTemplate
 
 }
 
-//editor "index(1431)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -17972,7 +17654,6 @@ EntityTemplate
 
 }
 
-//editor "index(1432)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -18026,7 +17707,6 @@ EntityTemplate
 
 }
 
-//editor "index(1433)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -18080,7 +17760,6 @@ EntityTemplate
 
 }
 
-//editor "index(1434)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -18134,7 +17813,6 @@ EntityTemplate
 
 }
 
-//editor "index(1435)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -18188,7 +17866,6 @@ EntityTemplate
 
 }
 
-//editor "index(1436)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -18242,7 +17919,6 @@ EntityTemplate
 
 }
 
-//editor "index(1437)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -18296,7 +17972,6 @@ EntityTemplate
 
 }
 
-//editor "index(1438)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -18350,7 +18025,6 @@ EntityTemplate
 
 }
 
-//editor "index(1439)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -18404,7 +18078,6 @@ EntityTemplate
 
 }
 
-//editor "index(1440)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -18458,7 +18131,6 @@ EntityTemplate
 
 }
 
-//editor "index(1441)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -18512,7 +18184,6 @@ EntityTemplate
 
 }
 
-//editor "index(1442)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -18566,7 +18237,6 @@ EntityTemplate
 
 }
 
-//editor "index(1443)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -18620,7 +18290,6 @@ EntityTemplate
 
 }
 
-//editor "index(1444)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -18674,7 +18343,6 @@ EntityTemplate
 
 }
 
-//editor "index(1445)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -18728,7 +18396,6 @@ EntityTemplate
 
 }
 
-//editor "index(1446)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -18782,7 +18449,6 @@ EntityTemplate
 
 }
 
-//editor "index(1447)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -18836,7 +18502,6 @@ EntityTemplate
 
 }
 
-//editor "index(1448)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -18890,7 +18555,6 @@ EntityTemplate
 
 }
 
-//editor "index(1449)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -18944,7 +18608,6 @@ EntityTemplate
 
 }
 
-//editor "index(1450)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -18998,7 +18661,6 @@ EntityTemplate
 
 }
 
-//editor "index(1451)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19052,7 +18714,6 @@ EntityTemplate
 
 }
 
-//editor "index(1452)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19106,7 +18767,6 @@ EntityTemplate
 
 }
 
-//editor "index(1453)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19160,7 +18820,6 @@ EntityTemplate
 
 }
 
-//editor "index(1454)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19214,7 +18873,6 @@ EntityTemplate
 
 }
 
-//editor "index(1455)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19268,7 +18926,6 @@ EntityTemplate
 
 }
 
-//editor "index(1456)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19322,7 +18979,6 @@ EntityTemplate
 
 }
 
-//editor "index(1457)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19376,7 +19032,6 @@ EntityTemplate
 
 }
 
-//editor "index(1458)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19430,7 +19085,6 @@ EntityTemplate
 
 }
 
-//editor "index(1459)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19484,7 +19138,6 @@ EntityTemplate
 
 }
 
-//editor "index(1460)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19538,7 +19191,6 @@ EntityTemplate
 
 }
 
-//editor "index(1461)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19592,7 +19244,6 @@ EntityTemplate
 
 }
 
-//editor "index(1462)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19646,7 +19297,6 @@ EntityTemplate
 
 }
 
-//editor "index(1463)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19700,7 +19350,6 @@ EntityTemplate
 
 }
 
-//editor "index(1464)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19754,7 +19403,6 @@ EntityTemplate
 
 }
 
-//editor "index(1465)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19808,7 +19456,6 @@ EntityTemplate
 
 }
 
-//editor "index(1466)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19862,7 +19509,6 @@ EntityTemplate
 
 }
 
-//editor "index(1467)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19916,7 +19562,6 @@ EntityTemplate
 
 }
 
-//editor "index(1468)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -19970,7 +19615,6 @@ EntityTemplate
 
 }
 
-//editor "index(1469)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20024,7 +19668,6 @@ EntityTemplate
 
 }
 
-//editor "index(1470)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20078,7 +19721,6 @@ EntityTemplate
 
 }
 
-//editor "index(1471)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20132,7 +19774,6 @@ EntityTemplate
 
 }
 
-//editor "index(1472)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20186,7 +19827,6 @@ EntityTemplate
 
 }
 
-//editor "index(1473)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20240,7 +19880,6 @@ EntityTemplate
 
 }
 
-//editor "index(1474)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20294,7 +19933,6 @@ EntityTemplate
 
 }
 
-//editor "index(1475)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20348,7 +19986,6 @@ EntityTemplate
 
 }
 
-//editor "index(1476)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20402,7 +20039,6 @@ EntityTemplate
 
 }
 
-//editor "index(1477)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20456,7 +20092,6 @@ EntityTemplate
 
 }
 
-//editor "index(1478)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20510,7 +20145,6 @@ EntityTemplate
 
 }
 
-//editor "index(1479)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20564,7 +20198,6 @@ EntityTemplate
 
 }
 
-//editor "index(1480)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20618,7 +20251,6 @@ EntityTemplate
 
 }
 
-//editor "index(1481)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -20672,7 +20304,6 @@ EntityTemplate
 
 }
 
-//editor "index(1482)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -20720,7 +20351,6 @@ EntityTemplate
 
 }
 
-//editor "index(1500)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -20774,7 +20404,6 @@ EntityTemplate
 
 }
 
-//editor "index(1501)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -20828,7 +20457,6 @@ EntityTemplate
 
 }
 
-//editor "index(1509)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -20876,7 +20504,6 @@ EntityTemplate
 
 }
 
-//editor "index(1511)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -20924,7 +20551,6 @@ EntityTemplate
 
 }
 
-//editor "index(1515)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -20972,7 +20598,6 @@ EntityTemplate
 
 }
 
-//editor "index(1527)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -21026,7 +20651,6 @@ EntityTemplate
 
 }
 
-//editor "index(1529)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -21086,7 +20710,6 @@ EntityTemplate
 
 }
 
-//editor "index(1530)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -21147,7 +20770,6 @@ EntityTemplate
 
 }
 
-//editor "index(1535)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21201,7 +20823,6 @@ EntityTemplate
 
 }
 
-//editor "index(1536)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21255,7 +20876,6 @@ EntityTemplate
 
 }
 
-//editor "index(1537)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21309,7 +20929,6 @@ EntityTemplate
 
 }
 
-//editor "index(1539)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21362,7 +20981,6 @@ EntityTemplate
 
 }
 
-//editor "index(1540)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21415,7 +21033,6 @@ EntityTemplate
 
 }
 
-//editor "index(1541)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21468,7 +21085,6 @@ EntityTemplate
 
 }
 
-//editor "index(1543)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21522,7 +21138,6 @@ EntityTemplate
 
 }
 
-//editor "index(1544)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21576,7 +21191,6 @@ EntityTemplate
 
 }
 
-//editor "index(1545)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21630,7 +21244,6 @@ EntityTemplate
 
 }
 
-//editor "index(1546)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21684,7 +21297,6 @@ EntityTemplate
 
 }
 
-//editor "index(1548)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_small_01_skin7"
@@ -21744,7 +21356,6 @@ EntityTemplate
 
 }
 
-//editor "index(1549)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21798,7 +21409,6 @@ EntityTemplate
 
 }
 
-//editor "index(1550)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21851,7 +21461,6 @@ EntityTemplate
 
 }
 
-//editor "index(1552)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21905,7 +21514,6 @@ EntityTemplate
 
 }
 
-//editor "index(1553)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -21959,7 +21567,6 @@ EntityTemplate
 
 }
 
-//editor "index(1556)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -22012,7 +21619,6 @@ EntityTemplate
 
 }
 
-//editor "index(1557)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -22066,7 +21672,6 @@ EntityTemplate
 
 }
 
-//editor "index(1559)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -22120,7 +21725,6 @@ EntityTemplate
 
 }
 
-//editor "index(1560)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -22174,7 +21778,6 @@ EntityTemplate
 
 }
 
-//editor "index(1561)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -22228,7 +21831,6 @@ EntityTemplate
 
 }
 
-//editor "index(1562)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -22282,7 +21884,6 @@ EntityTemplate
 
 }
 
-//editor "index(1564)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -22336,7 +21937,6 @@ EntityTemplate
 
 }
 
-//editor "index(1565)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -22390,7 +21990,6 @@ EntityTemplate
 
 }
 
-//editor "index(1567)"
 EntityTemplate
 {
 	base_blueprint "props/bush/standard_small_01"
@@ -22444,7 +22043,6 @@ EntityTemplate
 
 }
 
-//editor "index(1569)"
 EntityTemplate
 {
 	base_blueprint "props/bush/standard_small_01"
@@ -22498,7 +22096,6 @@ EntityTemplate
 
 }
 
-//editor "index(1570)"
 EntityTemplate
 {
 	base_blueprint "props/bush/standard_small_01"
@@ -22552,7 +22149,6 @@ EntityTemplate
 
 }
 
-//editor "index(1571)"
 EntityTemplate
 {
 	base_blueprint "props/bush/standard_small_01_skin7"
@@ -22606,7 +22202,6 @@ EntityTemplate
 
 }
 
-//editor "index(1572)"
 EntityTemplate
 {
 	base_blueprint "props/bush/standard_small_01_skin7"
@@ -22660,7 +22255,6 @@ EntityTemplate
 
 }
 
-//editor "index(1573)"
 EntityTemplate
 {
 	base_blueprint "props/bush/standard_small_01_skin7"
@@ -22714,7 +22308,6 @@ EntityTemplate
 
 }
 
-//editor "index(1574)"
 EntityTemplate
 {
 	base_blueprint "props/bush/standard_small_01_skin7"
@@ -22768,7 +22361,6 @@ EntityTemplate
 
 }
 
-//editor "index(1575)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/standard_medium_02_skin7"
@@ -22823,7 +22415,6 @@ EntityTemplate
 
 }
 
-//editor "index(1576)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -22876,7 +22467,6 @@ EntityTemplate
 
 }
 
-//editor "index(1577)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -22929,7 +22519,6 @@ EntityTemplate
 
 }
 
-//editor "index(1578)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_01_skin2"
@@ -22982,7 +22571,6 @@ EntityTemplate
 
 }
 
-//editor "index(1579)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -23035,7 +22623,6 @@ EntityTemplate
 
 }
 
-//editor "index(1580)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -23088,7 +22675,6 @@ EntityTemplate
 
 }
 
-//editor "index(1581)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23141,7 +22727,6 @@ EntityTemplate
 
 }
 
-//editor "index(1582)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23193,7 +22778,6 @@ EntityTemplate
 
 }
 
-//editor "index(1583)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -23247,7 +22831,6 @@ EntityTemplate
 
 }
 
-//editor "index(1584)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23308,7 +22891,6 @@ EntityTemplate
 
 }
 
-//editor "index(1585)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -23362,7 +22944,6 @@ EntityTemplate
 
 }
 
-//editor "index(1586)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -23416,7 +22997,6 @@ EntityTemplate
 
 }
 
-//editor "index(1587)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -23470,7 +23050,6 @@ EntityTemplate
 
 }
 
-//editor "index(1588)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23518,7 +23097,6 @@ EntityTemplate
 
 }
 
-//editor "index(1589)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23574,7 +23152,6 @@ EntityTemplate
 
 }
 
-//editor "index(1590)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23629,7 +23206,6 @@ EntityTemplate
 
 }
 
-//editor "index(1591)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23684,7 +23260,6 @@ EntityTemplate
 
 }
 
-//editor "index(1593)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23740,7 +23315,6 @@ EntityTemplate
 
 }
 
-//editor "index(1594)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23795,7 +23369,6 @@ EntityTemplate
 
 }
 
-//editor "index(1596)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23851,7 +23424,6 @@ EntityTemplate
 
 }
 
-//editor "index(1597)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23899,7 +23471,6 @@ EntityTemplate
 
 }
 
-//editor "index(1598)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -23954,7 +23525,6 @@ EntityTemplate
 
 }
 
-//editor "index(1599)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24010,7 +23580,6 @@ EntityTemplate
 
 }
 
-//editor "index(1600)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24065,7 +23634,6 @@ EntityTemplate
 
 }
 
-//editor "index(1601)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24121,7 +23689,6 @@ EntityTemplate
 
 }
 
-//editor "index(1602)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24176,7 +23743,6 @@ EntityTemplate
 
 }
 
-//editor "index(1603)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24231,7 +23797,6 @@ EntityTemplate
 
 }
 
-//editor "index(1604)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24287,7 +23852,6 @@ EntityTemplate
 
 }
 
-//editor "index(1605)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24343,7 +23907,6 @@ EntityTemplate
 
 }
 
-//editor "index(1606)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24398,7 +23961,6 @@ EntityTemplate
 
 }
 
-//editor "index(1607)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24453,7 +24015,6 @@ EntityTemplate
 
 }
 
-//editor "index(1608)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24508,7 +24069,6 @@ EntityTemplate
 
 }
 
-//editor "index(1609)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24564,7 +24124,6 @@ EntityTemplate
 
 }
 
-//editor "index(1610)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24619,7 +24178,6 @@ EntityTemplate
 
 }
 
-//editor "index(1611)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24675,7 +24233,6 @@ EntityTemplate
 
 }
 
-//editor "index(1612)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -24730,7 +24287,6 @@ EntityTemplate
 
 }
 
-//editor "index(1613)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -24785,7 +24341,6 @@ EntityTemplate
 
 }
 
-//editor "index(1614)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -24840,7 +24395,6 @@ EntityTemplate
 
 }
 
-//editor "index(1615)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -24896,7 +24450,6 @@ EntityTemplate
 
 }
 
-//editor "index(1616)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -24951,7 +24504,6 @@ EntityTemplate
 
 }
 
-//editor "index(1617)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25007,7 +24559,6 @@ EntityTemplate
 
 }
 
-//editor "index(1618)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25063,7 +24614,6 @@ EntityTemplate
 
 }
 
-//editor "index(1619)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25119,7 +24669,6 @@ EntityTemplate
 
 }
 
-//editor "index(1620)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25174,7 +24723,6 @@ EntityTemplate
 
 }
 
-//editor "index(1621)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25230,7 +24778,6 @@ EntityTemplate
 
 }
 
-//editor "index(1622)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25285,7 +24832,6 @@ EntityTemplate
 
 }
 
-//editor "index(1623)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25340,7 +24886,6 @@ EntityTemplate
 
 }
 
-//editor "index(1624)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25388,7 +24933,6 @@ EntityTemplate
 
 }
 
-//editor "index(1625)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25444,7 +24988,6 @@ EntityTemplate
 
 }
 
-//editor "index(1626)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25499,7 +25042,6 @@ EntityTemplate
 
 }
 
-//editor "index(1627)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25555,7 +25097,6 @@ EntityTemplate
 
 }
 
-//editor "index(1628)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25610,7 +25151,6 @@ EntityTemplate
 
 }
 
-//editor "index(1629)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -25666,7 +25206,6 @@ EntityTemplate
 
 }
 
-//editor "index(1630)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -25721,7 +25260,6 @@ EntityTemplate
 
 }
 
-//editor "index(1632)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -25777,7 +25315,6 @@ EntityTemplate
 
 }
 
-//editor "index(1633)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -25832,7 +25369,6 @@ EntityTemplate
 
 }
 
-//editor "index(1636)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -25887,7 +25423,6 @@ EntityTemplate
 
 }
 
-//editor "index(1637)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_01_skin2"
@@ -25941,7 +25476,6 @@ EntityTemplate
 
 }
 
-//editor "index(1638)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_03_skin2"
@@ -25994,7 +25528,6 @@ EntityTemplate
 
 }
 
-//editor "index(1639)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_02_skin2"
@@ -26048,7 +25581,6 @@ EntityTemplate
 
 }
 
-//editor "index(1640)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -26096,7 +25628,6 @@ EntityTemplate
 
 }
 
-//editor "index(1641)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -26144,7 +25675,6 @@ EntityTemplate
 
 }
 
-//editor "index(1642)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -26192,7 +25722,6 @@ EntityTemplate
 
 }
 
-//editor "index(1643)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -26248,7 +25777,6 @@ EntityTemplate
 
 }
 
-//editor "index(1644)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_01_skin2"
@@ -26296,7 +25824,6 @@ EntityTemplate
 
 }
 
-//editor "index(1645)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_01_skin2"
@@ -26344,7 +25871,6 @@ EntityTemplate
 
 }
 
-//editor "index(1646)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_01_skin2"
@@ -26400,7 +25926,6 @@ EntityTemplate
 
 }
 
-//editor "index(1652)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -26462,7 +25987,6 @@ EntityTemplate
 
 }
 
-//editor "index(1653)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -26524,7 +26048,6 @@ EntityTemplate
 
 }
 
-//editor "index(1654)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -26586,7 +26109,6 @@ EntityTemplate
 
 }
 
-//editor "index(1655)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -26648,7 +26170,6 @@ EntityTemplate
 
 }
 
-//editor "index(1656)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -26703,7 +26224,6 @@ EntityTemplate
 
 }
 
-//editor "index(1657)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -26758,7 +26278,6 @@ EntityTemplate
 
 }
 
-//editor "index(1658)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -26813,7 +26332,6 @@ EntityTemplate
 
 }
 
-//editor "index(1659)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -26868,7 +26386,6 @@ EntityTemplate
 
 }
 
-//editor "index(1661)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -26921,7 +26438,6 @@ EntityTemplate
 
 }
 
-//editor "index(1662)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -26975,7 +26491,6 @@ EntityTemplate
 
 }
 
-//editor "index(1663)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -27029,7 +26544,6 @@ EntityTemplate
 
 }
 
-//editor "index(1665)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -27085,7 +26599,6 @@ EntityTemplate
 
 }
 
-//editor "index(1666)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -27141,7 +26654,6 @@ EntityTemplate
 
 }
 
-//editor "index(1667)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -27195,7 +26707,6 @@ EntityTemplate
 
 }
 
-//editor "index(1668)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -27249,7 +26760,6 @@ EntityTemplate
 
 }
 
-//editor "index(1669)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -27303,7 +26813,6 @@ EntityTemplate
 
 }
 
-//editor "index(1670)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -27357,7 +26866,6 @@ EntityTemplate
 
 }
 
-//editor "index(1671)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -27411,7 +26919,6 @@ EntityTemplate
 
 }
 
-//editor "index(1672)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -27465,7 +26972,6 @@ EntityTemplate
 
 }
 
-//editor "index(1673)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -27519,7 +27025,6 @@ EntityTemplate
 
 }
 
-//editor "index(1674)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -27573,7 +27078,6 @@ EntityTemplate
 
 }
 
-//editor "index(1675)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -27627,7 +27131,6 @@ EntityTemplate
 
 }
 
-//editor "index(1676)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -27681,7 +27184,6 @@ EntityTemplate
 
 }
 
-//editor "index(1677)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -27735,7 +27237,6 @@ EntityTemplate
 
 }
 
-//editor "index(1678)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -27789,7 +27290,6 @@ EntityTemplate
 
 }
 
-//editor "index(1679)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -27843,7 +27343,6 @@ EntityTemplate
 
 }
 
-//editor "index(1680)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -27897,7 +27396,6 @@ EntityTemplate
 
 }
 
-//editor "index(1681)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -27951,7 +27449,6 @@ EntityTemplate
 
 }
 
-//editor "index(1682)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -28005,7 +27502,6 @@ EntityTemplate
 
 }
 
-//editor "index(1683)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -28059,7 +27555,6 @@ EntityTemplate
 
 }
 
-//editor "index(1684)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -28106,7 +27601,6 @@ EntityTemplate
 
 }
 
-//editor "index(1685)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -28153,7 +27647,6 @@ EntityTemplate
 
 }
 
-//editor "index(1686)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -28200,7 +27693,6 @@ EntityTemplate
 
 }
 
-//editor "index(1687)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -28248,7 +27740,6 @@ EntityTemplate
 
 }
 
-//editor "index(1688)"
 EntityTemplate
 {
 	components
@@ -28322,7 +27813,6 @@ EntityTemplate
 
 }
 
-//editor "index(1689)"
 EntityTemplate
 {
 	components
@@ -28396,7 +27886,6 @@ EntityTemplate
 
 }
 
-//editor "index(1690)"
 EntityTemplate
 {
 	components
@@ -28470,7 +27959,6 @@ EntityTemplate
 
 }
 
-//editor "index(1691)"
 EntityTemplate
 {
 	components
@@ -28544,7 +28032,6 @@ EntityTemplate
 
 }
 
-//editor "index(1692)"
 EntityTemplate
 {
 	components
@@ -28618,7 +28105,6 @@ EntityTemplate
 
 }
 
-//editor "index(1694)"
 EntityTemplate
 {
 	components
@@ -28692,7 +28178,6 @@ EntityTemplate
 
 }
 
-//editor "index(1695)"
 EntityTemplate
 {
 	components
@@ -28766,7 +28251,6 @@ EntityTemplate
 
 }
 
-//editor "index(1696)"
 EntityTemplate
 {
 	components
@@ -28840,7 +28324,6 @@ EntityTemplate
 
 }
 
-//editor "index(1697)"
 EntityTemplate
 {
 	components
@@ -28914,7 +28397,6 @@ EntityTemplate
 
 }
 
-//editor "index(1698)"
 EntityTemplate
 {
 	components
@@ -28988,7 +28470,6 @@ EntityTemplate
 
 }
 
-//editor "index(1699)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -29042,7 +28523,6 @@ EntityTemplate
 
 }
 
-//editor "index(1700)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -29096,7 +28576,6 @@ EntityTemplate
 
 }
 
-//editor "index(1701)"
 EntityTemplate
 {
 	base_blueprint "props/grass/black_big_01"
@@ -29150,7 +28629,6 @@ EntityTemplate
 
 }
 
-//editor "index(1702)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -29204,7 +28682,6 @@ EntityTemplate
 
 }
 
-//editor "index(1703)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -29258,7 +28735,6 @@ EntityTemplate
 
 }
 
-//editor "index(1704)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -29312,7 +28788,6 @@ EntityTemplate
 
 }
 
-//editor "index(1705)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -29366,7 +28841,6 @@ EntityTemplate
 
 }
 
-//editor "index(1706)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -29420,7 +28894,6 @@ EntityTemplate
 
 }
 
-//editor "index(1707)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -29474,7 +28947,6 @@ EntityTemplate
 
 }
 
-//editor "index(1708)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -29528,7 +29000,6 @@ EntityTemplate
 
 }
 
-//editor "index(1709)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -29582,7 +29053,6 @@ EntityTemplate
 
 }
 
-//editor "index(1710)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -29636,7 +29106,6 @@ EntityTemplate
 
 }
 
-//editor "index(1711)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -29684,7 +29153,6 @@ EntityTemplate
 
 }
 
-//editor "index(1712)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -29732,7 +29200,6 @@ EntityTemplate
 
 }
 
-//editor "index(1713)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -29780,7 +29247,6 @@ EntityTemplate
 
 }
 
-//editor "index(1714)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -29828,7 +29294,6 @@ EntityTemplate
 
 }
 
-//editor "index(1715)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -29882,7 +29347,6 @@ EntityTemplate
 
 }
 
-//editor "index(1716)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -29937,7 +29401,6 @@ EntityTemplate
 
 }
 
-//editor "index(1717)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -29991,7 +29454,6 @@ EntityTemplate
 
 }
 
-//editor "index(1718)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30045,7 +29507,6 @@ EntityTemplate
 
 }
 
-//editor "index(1719)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30099,7 +29560,6 @@ EntityTemplate
 
 }
 
-//editor "index(1720)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30153,7 +29613,6 @@ EntityTemplate
 
 }
 
-//editor "index(1721)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30207,7 +29666,6 @@ EntityTemplate
 
 }
 
-//editor "index(1722)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30261,7 +29719,6 @@ EntityTemplate
 
 }
 
-//editor "index(1723)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30315,7 +29772,6 @@ EntityTemplate
 
 }
 
-//editor "index(1724)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30369,7 +29825,6 @@ EntityTemplate
 
 }
 
-//editor "index(1725)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30423,7 +29878,6 @@ EntityTemplate
 
 }
 
-//editor "index(1726)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30477,7 +29931,6 @@ EntityTemplate
 
 }
 
-//editor "index(1727)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30531,7 +29984,6 @@ EntityTemplate
 
 }
 
-//editor "index(1728)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30585,7 +30037,6 @@ EntityTemplate
 
 }
 
-//editor "index(1729)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30639,7 +30090,6 @@ EntityTemplate
 
 }
 
-//editor "index(1730)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -30693,7 +30143,6 @@ EntityTemplate
 
 }
 
-//editor "index(1731)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -30747,7 +30196,6 @@ EntityTemplate
 
 }
 
-//editor "index(1732)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -30801,7 +30249,6 @@ EntityTemplate
 
 }
 
-//editor "index(1733)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -30855,7 +30302,6 @@ EntityTemplate
 
 }
 
-//editor "index(1734)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -30908,7 +30354,6 @@ EntityTemplate
 
 }
 
-//editor "index(1735)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -30962,7 +30407,6 @@ EntityTemplate
 
 }
 
-//editor "index(1736)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31016,7 +30460,6 @@ EntityTemplate
 
 }
 
-//editor "index(1737)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31070,7 +30513,6 @@ EntityTemplate
 
 }
 
-//editor "index(1738)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31124,7 +30566,6 @@ EntityTemplate
 
 }
 
-//editor "index(1739)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31178,7 +30619,6 @@ EntityTemplate
 
 }
 
-//editor "index(1740)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31232,7 +30672,6 @@ EntityTemplate
 
 }
 
-//editor "index(1741)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31286,7 +30725,6 @@ EntityTemplate
 
 }
 
-//editor "index(1742)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31340,7 +30778,6 @@ EntityTemplate
 
 }
 
-//editor "index(1743)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31394,7 +30831,6 @@ EntityTemplate
 
 }
 
-//editor "index(1744)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31448,7 +30884,6 @@ EntityTemplate
 
 }
 
-//editor "index(1745)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31502,7 +30937,6 @@ EntityTemplate
 
 }
 
-//editor "index(1746)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31556,7 +30990,6 @@ EntityTemplate
 
 }
 
-//editor "index(1747)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31610,7 +31043,6 @@ EntityTemplate
 
 }
 
-//editor "index(1748)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -31671,7 +31103,6 @@ EntityTemplate
 
 }
 
-//editor "index(1749)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -31733,7 +31164,6 @@ EntityTemplate
 
 }
 
-//editor "index(1750)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -31795,7 +31225,6 @@ EntityTemplate
 
 }
 
-//editor "index(1751)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -31857,7 +31286,6 @@ EntityTemplate
 
 }
 
-//editor "index(1752)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -31919,7 +31347,6 @@ EntityTemplate
 
 }
 
-//editor "index(1754)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -31973,7 +31400,6 @@ EntityTemplate
 
 }
 
-//editor "index(1755)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -32027,7 +31453,6 @@ EntityTemplate
 
 }
 
-//editor "index(1756)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -32081,7 +31506,6 @@ EntityTemplate
 
 }
 
-//editor "index(1757)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -32135,7 +31559,6 @@ EntityTemplate
 
 }
 
-//editor "index(1758)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -32189,7 +31612,6 @@ EntityTemplate
 
 }
 
-//editor "index(1759)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -32243,7 +31665,6 @@ EntityTemplate
 
 }
 
-//editor "index(1760)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -32297,7 +31718,6 @@ EntityTemplate
 
 }
 
-//editor "index(1761)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -32351,7 +31771,6 @@ EntityTemplate
 
 }
 
-//editor "index(1762)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -32405,7 +31824,6 @@ EntityTemplate
 
 }
 
-//editor "index(1763)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -32459,7 +31877,6 @@ EntityTemplate
 
 }
 
-//editor "index(1764)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -32513,7 +31930,6 @@ EntityTemplate
 
 }
 
-//editor "index(1765)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -32567,7 +31983,6 @@ EntityTemplate
 
 }
 
-//editor "index(1766)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -32621,7 +32036,6 @@ EntityTemplate
 
 }
 
-//editor "index(1767)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -32675,7 +32089,6 @@ EntityTemplate
 
 }
 
-//editor "index(1768)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -32729,7 +32142,6 @@ EntityTemplate
 
 }
 
-//editor "index(1771)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -32792,7 +32204,6 @@ EntityTemplate
 
 }
 
-//editor "index(1772)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_04"
@@ -32848,7 +32259,6 @@ EntityTemplate
 
 }
 
-//editor "index(1773)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -32902,7 +32312,6 @@ EntityTemplate
 
 }
 
-//editor "index(1774)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -32958,7 +32367,6 @@ EntityTemplate
 
 }
 
-//editor "index(1775)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -33012,7 +32420,6 @@ EntityTemplate
 
 }
 
-//editor "index(1776)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -33067,7 +32474,6 @@ EntityTemplate
 
 }
 
-//editor "index(1779)"
 EntityTemplate
 {
 	components
@@ -33146,7 +32552,6 @@ EntityTemplate
 
 }
 
-//editor "index(1781)"
 EntityTemplate
 {
 	components
@@ -33226,7 +32631,6 @@ EntityTemplate
 
 }
 
-//editor "index(1782)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -33282,7 +32686,6 @@ EntityTemplate
 
 }
 
-//editor "index(1783)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_01_skin2"
@@ -33338,7 +32741,6 @@ EntityTemplate
 
 }
 
-//editor "index(1784)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_02"
@@ -33394,7 +32796,6 @@ EntityTemplate
 
 }
 
-//editor "index(1785)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -33449,7 +32850,6 @@ EntityTemplate
 
 }
 
-//editor "index(1786)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -33504,7 +32904,6 @@ EntityTemplate
 
 }
 
-//editor "index(1787)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -33559,7 +32958,6 @@ EntityTemplate
 
 }
 
-//editor "index(1788)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -33606,7 +33004,6 @@ EntityTemplate
 
 }
 
-//editor "index(1789)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -33653,7 +33050,6 @@ EntityTemplate
 
 }
 
-//editor "index(1790)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_01"
@@ -33706,7 +33102,6 @@ EntityTemplate
 
 }
 
-//editor "index(1791)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -33760,7 +33155,6 @@ EntityTemplate
 
 }
 
-//editor "index(1792)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -33814,7 +33208,6 @@ EntityTemplate
 
 }
 
-//editor "index(1793)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
@@ -33868,7 +33261,6 @@ EntityTemplate
 
 }
 
-//editor "index(1794)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -33922,7 +33314,6 @@ EntityTemplate
 
 }
 
-//editor "index(1795)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
@@ -33976,7 +33367,6 @@ EntityTemplate
 
 }
 
-//editor "index(1796)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -34024,7 +33414,6 @@ EntityTemplate
 
 }
 
-//editor "index(1797)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin2"
@@ -34072,7 +33461,6 @@ EntityTemplate
 
 }
 
-//editor "index(1798)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -34126,7 +33514,6 @@ EntityTemplate
 
 }
 
-//editor "index(1799)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -34180,7 +33567,6 @@ EntityTemplate
 
 }
 
-//editor "index(1800)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_03_skin2"
@@ -34234,7 +33620,6 @@ EntityTemplate
 
 }
 
-//editor "index(1801)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -34295,7 +33680,6 @@ EntityTemplate
 
 }
 
-//editor "index(1802)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -34356,7 +33740,6 @@ EntityTemplate
 
 }
 
-//editor "index(1803)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -34417,7 +33800,6 @@ EntityTemplate
 
 }
 
-//editor "index(1804)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -34478,7 +33860,6 @@ EntityTemplate
 
 }
 
-//editor "index(1805)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -34539,7 +33920,6 @@ EntityTemplate
 
 }
 
-//editor "index(1807)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -34601,7 +33981,6 @@ EntityTemplate
 
 }
 
-//editor "index(1808)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin2"
@@ -34662,7 +34041,6 @@ EntityTemplate
 
 }
 
-//editor "index(1809)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -34716,7 +34094,6 @@ EntityTemplate
 
 }
 
-//editor "index(1810)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -34770,7 +34147,6 @@ EntityTemplate
 
 }
 
-//editor "index(1811)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -34824,7 +34200,6 @@ EntityTemplate
 
 }
 
-//editor "index(1812)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -34878,7 +34253,6 @@ EntityTemplate
 
 }
 
-//editor "index(1813)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -34932,7 +34306,6 @@ EntityTemplate
 
 }
 
-//editor "index(1814)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -34986,7 +34359,6 @@ EntityTemplate
 
 }
 
-//editor "index(1815)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -35040,7 +34412,6 @@ EntityTemplate
 
 }
 
-//editor "index(1817)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_02_skin2"
@@ -35096,7 +34467,6 @@ EntityTemplate
 
 }
 
-//editor "index(1818)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -35150,7 +34520,6 @@ EntityTemplate
 
 }
 
-//editor "index(1819)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -35204,7 +34573,6 @@ EntityTemplate
 
 }
 
-//editor "index(1820)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -35258,7 +34626,6 @@ EntityTemplate
 
 }
 
-//editor "index(1821)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -35312,7 +34679,6 @@ EntityTemplate
 
 }
 
-//editor "index(1822)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -35367,7 +34733,6 @@ EntityTemplate
 
 }
 
-//editor "index(1823)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -35421,7 +34786,6 @@ EntityTemplate
 
 }
 
-//editor "index(1824)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -35475,7 +34839,6 @@ EntityTemplate
 
 }
 
-//editor "index(1825)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -35529,7 +34892,6 @@ EntityTemplate
 
 }
 
-//editor "index(1826)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -35584,7 +34946,6 @@ EntityTemplate
 
 }
 
-//editor "index(1827)"
 EntityTemplate
 {
 	base_blueprint "logic/mission_objective_marker"
@@ -35637,7 +34998,6 @@ EntityTemplate
 
 }
 
-//editor "index(1828)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -35692,7 +35052,6 @@ EntityTemplate
 
 }
 
-//editor "index(1829)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"

@@ -1,5 +1,4 @@
 entity_count "380"
-//editor "index(656)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -46,7 +45,6 @@ EntityTemplate
 
 }
 
-//editor "index(691)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -100,49 +98,27 @@ EntityTemplate
 
 }
 
-//editor "index(1184)"
 
-//editor "index(1185)"
 
-//editor "index(1187)"
 
-//editor "index(1258)"
 
-//editor "index(1259)"
 
-//editor "index(1260)"
 
-//editor "index(1261)"
 
-//editor "index(1262)"
 
-//editor "index(1263)"
 
-//editor "index(1264)"
 
-//editor "index(1265)"
 
-//editor "index(1269)"
 
-//editor "index(1270)"
 
-//editor "index(1271)"
 
-//editor "index(1272)"
 
-//editor "index(1276)"
 
-//editor "index(1278)"
 
-//editor "index(1279)"
 
-//editor "index(1521)"
 
-//editor "index(1536)"
 
-//editor "index(1546)"
 
-//editor "index(1579)"
 EntityTemplate
 {
 	base_blueprint "effects/world/magma_fire_ambient_medium"
@@ -196,7 +172,6 @@ EntityTemplate
 
 }
 
-//editor "index(1581)"
 EntityTemplate
 {
 	base_blueprint "effects/world/magma_fire_ambient_small"
@@ -250,7 +225,6 @@ EntityTemplate
 
 }
 
-//editor "index(1582)"
 EntityTemplate
 {
 	base_blueprint "effects/world/magma_fire_ambient_small"
@@ -304,7 +278,6 @@ EntityTemplate
 
 }
 
-//editor "index(1791)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -358,7 +331,6 @@ EntityTemplate
 
 }
 
-//editor "index(1793)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -406,7 +378,6 @@ EntityTemplate
 
 }
 
-//editor "index(1794)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -460,7 +431,6 @@ EntityTemplate
 
 }
 
-//editor "index(1797)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -508,7 +478,6 @@ EntityTemplate
 
 }
 
-//editor "index(1798)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -567,7 +536,6 @@ EntityTemplate
 
 }
 
-//editor "index(1799)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -626,7 +594,6 @@ EntityTemplate
 
 }
 
-//editor "index(1800)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -685,7 +652,6 @@ EntityTemplate
 
 }
 
-//editor "index(1801)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -745,7 +711,6 @@ EntityTemplate
 
 }
 
-//editor "index(1802)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -800,7 +765,6 @@ EntityTemplate
 
 }
 
-//editor "index(1803)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -859,7 +823,6 @@ EntityTemplate
 
 }
 
-//editor "index(1809)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -914,7 +877,6 @@ EntityTemplate
 
 }
 
-//editor "index(1813)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -969,7 +931,6 @@ EntityTemplate
 
 }
 
-//editor "index(1815)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -1024,11 +985,8 @@ EntityTemplate
 
 }
 
-//editor "index(1870)"
 
-//editor "index(1871)"
 
-//editor "index(2049)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_resource_magma"
@@ -1083,7 +1041,6 @@ EntityTemplate
 
 }
 
-//editor "index(2088)"
 EntityTemplate
 {
 	base_blueprint "effects/world/magma_fire_ambient_medium"
@@ -1137,37 +1094,21 @@ EntityTemplate
 
 }
 
-//editor "index(2089)"
 
-//editor "index(2090)"
 
-//editor "index(2091)"
 
-//editor "index(2092)"
 
-//editor "index(2093)"
 
-//editor "index(2094)"
 
-//editor "index(2095)"
 
-//editor "index(2096)"
 
-//editor "index(2097)"
 
-//editor "index(2098)"
 
-//editor "index(2099)"
 
-//editor "index(2100)"
 
-//editor "index(2101)"
 
-//editor "index(2102)"
 
-//editor "index(2104)"
 
-//editor "index(2105)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_01_skin2"
@@ -1215,7 +1156,6 @@ EntityTemplate
 
 }
 
-//editor "index(2106)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_02_skin2"
@@ -1263,7 +1203,6 @@ EntityTemplate
 
 }
 
-//editor "index(2107)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_03_skin2"
@@ -1311,7 +1250,6 @@ EntityTemplate
 
 }
 
-//editor "index(2108)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_03_skin2"
@@ -1359,7 +1297,6 @@ EntityTemplate
 
 }
 
-//editor "index(2111)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -1407,7 +1344,6 @@ EntityTemplate
 
 }
 
-//editor "index(2115)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -1455,7 +1391,6 @@ EntityTemplate
 
 }
 
-//editor "index(2116)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -1503,7 +1438,6 @@ EntityTemplate
 
 }
 
-//editor "index(2117)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -1551,7 +1485,6 @@ EntityTemplate
 
 }
 
-//editor "index(2119)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -1599,7 +1532,6 @@ EntityTemplate
 
 }
 
-//editor "index(2120)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -1647,7 +1579,6 @@ EntityTemplate
 
 }
 
-//editor "index(2121)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -1695,7 +1626,6 @@ EntityTemplate
 
 }
 
-//editor "index(2122)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -1743,7 +1673,6 @@ EntityTemplate
 
 }
 
-//editor "index(2123)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -1791,7 +1720,6 @@ EntityTemplate
 
 }
 
-//editor "index(2124)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -1839,7 +1767,6 @@ EntityTemplate
 
 }
 
-//editor "index(2125)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -1887,7 +1814,6 @@ EntityTemplate
 
 }
 
-//editor "index(2126)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -1935,7 +1861,6 @@ EntityTemplate
 
 }
 
-//editor "index(2133)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -1983,7 +1908,6 @@ EntityTemplate
 
 }
 
-//editor "index(2134)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -2031,7 +1955,6 @@ EntityTemplate
 
 }
 
-//editor "index(2135)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -2079,7 +2002,6 @@ EntityTemplate
 
 }
 
-//editor "index(2136)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -2133,7 +2055,6 @@ EntityTemplate
 
 }
 
-//editor "index(2137)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -2187,7 +2108,6 @@ EntityTemplate
 
 }
 
-//editor "index(2138)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -2241,7 +2161,6 @@ EntityTemplate
 
 }
 
-//editor "index(2139)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -2295,7 +2214,6 @@ EntityTemplate
 
 }
 
-//editor "index(2140)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -2349,7 +2267,6 @@ EntityTemplate
 
 }
 
-//editor "index(2141)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -2403,7 +2320,6 @@ EntityTemplate
 
 }
 
-//editor "index(2142)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -2457,7 +2373,6 @@ EntityTemplate
 
 }
 
-//editor "index(2143)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -2511,7 +2426,6 @@ EntityTemplate
 
 }
 
-//editor "index(2144)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -2565,7 +2479,6 @@ EntityTemplate
 
 }
 
-//editor "index(2145)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -2619,7 +2532,6 @@ EntityTemplate
 
 }
 
-//editor "index(2146)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -2673,7 +2585,6 @@ EntityTemplate
 
 }
 
-//editor "index(2147)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -2727,7 +2638,6 @@ EntityTemplate
 
 }
 
-//editor "index(2148)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -2781,7 +2691,6 @@ EntityTemplate
 
 }
 
-//editor "index(2149)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -2835,7 +2744,6 @@ EntityTemplate
 
 }
 
-//editor "index(2150)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -2889,7 +2797,6 @@ EntityTemplate
 
 }
 
-//editor "index(2151)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -2943,7 +2850,6 @@ EntityTemplate
 
 }
 
-//editor "index(2152)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -2997,7 +2903,6 @@ EntityTemplate
 
 }
 
-//editor "index(2153)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -3051,7 +2956,6 @@ EntityTemplate
 
 }
 
-//editor "index(2154)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -3105,7 +3009,6 @@ EntityTemplate
 
 }
 
-//editor "index(2155)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -3159,7 +3062,6 @@ EntityTemplate
 
 }
 
-//editor "index(2156)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -3213,7 +3115,6 @@ EntityTemplate
 
 }
 
-//editor "index(2157)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -3267,7 +3168,6 @@ EntityTemplate
 
 }
 
-//editor "index(2158)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -3321,7 +3221,6 @@ EntityTemplate
 
 }
 
-//editor "index(2159)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -3375,7 +3274,6 @@ EntityTemplate
 
 }
 
-//editor "index(2160)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -3429,7 +3327,6 @@ EntityTemplate
 
 }
 
-//editor "index(2161)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -3483,7 +3380,6 @@ EntityTemplate
 
 }
 
-//editor "index(2162)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -3537,7 +3433,6 @@ EntityTemplate
 
 }
 
-//editor "index(2163)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -3591,7 +3486,6 @@ EntityTemplate
 
 }
 
-//editor "index(2164)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -3645,7 +3539,6 @@ EntityTemplate
 
 }
 
-//editor "index(2165)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -3699,7 +3592,6 @@ EntityTemplate
 
 }
 
-//editor "index(2166)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -3753,7 +3645,6 @@ EntityTemplate
 
 }
 
-//editor "index(2167)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -3807,7 +3698,6 @@ EntityTemplate
 
 }
 
-//editor "index(2168)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -3861,7 +3751,6 @@ EntityTemplate
 
 }
 
-//editor "index(2169)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -3915,7 +3804,6 @@ EntityTemplate
 
 }
 
-//editor "index(2170)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -3969,7 +3857,6 @@ EntityTemplate
 
 }
 
-//editor "index(2171)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -4023,7 +3910,6 @@ EntityTemplate
 
 }
 
-//editor "index(2172)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -4077,7 +3963,6 @@ EntityTemplate
 
 }
 
-//editor "index(2173)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -4131,7 +4016,6 @@ EntityTemplate
 
 }
 
-//editor "index(2174)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -4185,7 +4069,6 @@ EntityTemplate
 
 }
 
-//editor "index(2175)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -4239,7 +4122,6 @@ EntityTemplate
 
 }
 
-//editor "index(2176)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -4293,7 +4175,6 @@ EntityTemplate
 
 }
 
-//editor "index(2177)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -4347,13 +4228,9 @@ EntityTemplate
 
 }
 
-//editor "index(2178)"
 
-//editor "index(2179)"
 
-//editor "index(2180)"
 
-//editor "index(2181)"
 EntityTemplate
 {
 	base_blueprint "effects/world/magma_fire_ambient_medium"
@@ -4401,7 +4278,6 @@ EntityTemplate
 
 }
 
-//editor "index(2182)"
 EntityTemplate
 {
 	base_blueprint "effects/world/magma_fire_ambient_medium"
@@ -4449,7 +4325,6 @@ EntityTemplate
 
 }
 
-//editor "index(2183)"
 EntityTemplate
 {
 	base_blueprint "effects/world/magma_fire_ambient_medium"
@@ -4497,7 +4372,6 @@ EntityTemplate
 
 }
 
-//editor "index(2184)"
 EntityTemplate
 {
 	base_blueprint "effects/world/magma_fire_ambient_medium"
@@ -4545,7 +4419,6 @@ EntityTemplate
 
 }
 
-//editor "index(2185)"
 EntityTemplate
 {
 	base_blueprint "effects/world/magma_fire_ambient_medium"
@@ -4593,29 +4466,17 @@ EntityTemplate
 
 }
 
-//editor "index(2186)"
 
-//editor "index(2188)"
 
-//editor "index(2190)"
 
-//editor "index(2191)"
 
-//editor "index(2192)"
 
-//editor "index(2193)"
 
-//editor "index(2194)"
 
-//editor "index(2195)"
 
-//editor "index(2196)"
 
-//editor "index(2197)"
 
-//editor "index(2198)"
 
-//editor "index(2199)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_02_skin2"
@@ -4663,7 +4524,6 @@ EntityTemplate
 
 }
 
-//editor "index(2200)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_03_skin2"
@@ -4717,7 +4577,6 @@ EntityTemplate
 
 }
 
-//editor "index(2201)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -4765,7 +4624,6 @@ EntityTemplate
 
 }
 
-//editor "index(2202)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -4813,7 +4671,6 @@ EntityTemplate
 
 }
 
-//editor "index(2203)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -4867,7 +4724,6 @@ EntityTemplate
 
 }
 
-//editor "index(2204)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -4921,7 +4777,6 @@ EntityTemplate
 
 }
 
-//editor "index(2205)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -4975,7 +4830,6 @@ EntityTemplate
 
 }
 
-//editor "index(2206)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -5023,15 +4877,10 @@ EntityTemplate
 
 }
 
-//editor "index(2207)"
 
-//editor "index(2208)"
 
-//editor "index(2215)"
 
-//editor "index(2217)"
 
-//editor "index(2218)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_01_skin2"
@@ -5079,7 +4928,6 @@ EntityTemplate
 
 }
 
-//editor "index(2219)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_03_skin2"
@@ -5127,7 +4975,6 @@ EntityTemplate
 
 }
 
-//editor "index(2220)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_03_skin2"
@@ -5181,7 +5028,6 @@ EntityTemplate
 
 }
 
-//editor "index(2221)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -5229,7 +5075,6 @@ EntityTemplate
 
 }
 
-//editor "index(2222)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -5277,7 +5122,6 @@ EntityTemplate
 
 }
 
-//editor "index(2223)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -5331,7 +5175,6 @@ EntityTemplate
 
 }
 
-//editor "index(2224)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -5385,7 +5228,6 @@ EntityTemplate
 
 }
 
-//editor "index(2225)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -5439,19 +5281,12 @@ EntityTemplate
 
 }
 
-//editor "index(2226)"
 
-//editor "index(2227)"
 
-//editor "index(2228)"
 
-//editor "index(2229)"
 
-//editor "index(2230)"
 
-//editor "index(2231)"
 
-//editor "index(2270)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -5505,7 +5340,6 @@ EntityTemplate
 
 }
 
-//editor "index(2271)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -5559,7 +5393,6 @@ EntityTemplate
 
 }
 
-//editor "index(2272)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -5613,7 +5446,6 @@ EntityTemplate
 
 }
 
-//editor "index(2273)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -5667,7 +5499,6 @@ EntityTemplate
 
 }
 
-//editor "index(2274)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -5721,7 +5552,6 @@ EntityTemplate
 
 }
 
-//editor "index(2275)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -5775,7 +5605,6 @@ EntityTemplate
 
 }
 
-//editor "index(2276)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -5829,7 +5658,6 @@ EntityTemplate
 
 }
 
-//editor "index(2277)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -5883,7 +5711,6 @@ EntityTemplate
 
 }
 
-//editor "index(2278)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -5937,7 +5764,6 @@ EntityTemplate
 
 }
 
-//editor "index(2279)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -5991,7 +5817,6 @@ EntityTemplate
 
 }
 
-//editor "index(2280)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -6045,7 +5870,6 @@ EntityTemplate
 
 }
 
-//editor "index(2281)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -6099,7 +5923,6 @@ EntityTemplate
 
 }
 
-//editor "index(2282)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -6153,7 +5976,6 @@ EntityTemplate
 
 }
 
-//editor "index(2283)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -6207,7 +6029,6 @@ EntityTemplate
 
 }
 
-//editor "index(2284)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -6261,7 +6082,6 @@ EntityTemplate
 
 }
 
-//editor "index(2285)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -6315,7 +6135,6 @@ EntityTemplate
 
 }
 
-//editor "index(2286)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -6369,7 +6188,6 @@ EntityTemplate
 
 }
 
-//editor "index(2287)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -6423,7 +6241,6 @@ EntityTemplate
 
 }
 
-//editor "index(2288)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -6477,7 +6294,6 @@ EntityTemplate
 
 }
 
-//editor "index(2289)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -6531,7 +6347,6 @@ EntityTemplate
 
 }
 
-//editor "index(2290)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -6585,7 +6400,6 @@ EntityTemplate
 
 }
 
-//editor "index(2291)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -6639,7 +6453,6 @@ EntityTemplate
 
 }
 
-//editor "index(2292)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -6693,7 +6506,6 @@ EntityTemplate
 
 }
 
-//editor "index(2293)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -6747,7 +6559,6 @@ EntityTemplate
 
 }
 
-//editor "index(2294)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -6801,7 +6612,6 @@ EntityTemplate
 
 }
 
-//editor "index(2295)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -6855,7 +6665,6 @@ EntityTemplate
 
 }
 
-//editor "index(2296)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -6909,7 +6718,6 @@ EntityTemplate
 
 }
 
-//editor "index(2297)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -6963,7 +6771,6 @@ EntityTemplate
 
 }
 
-//editor "index(2298)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -7017,7 +6824,6 @@ EntityTemplate
 
 }
 
-//editor "index(2299)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -7071,7 +6877,6 @@ EntityTemplate
 
 }
 
-//editor "index(2300)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -7125,7 +6930,6 @@ EntityTemplate
 
 }
 
-//editor "index(2301)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -7179,7 +6983,6 @@ EntityTemplate
 
 }
 
-//editor "index(2302)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -7233,7 +7036,6 @@ EntityTemplate
 
 }
 
-//editor "index(2303)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -7287,7 +7089,6 @@ EntityTemplate
 
 }
 
-//editor "index(2304)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -7341,7 +7142,6 @@ EntityTemplate
 
 }
 
-//editor "index(2305)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -7395,7 +7195,6 @@ EntityTemplate
 
 }
 
-//editor "index(2306)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_03_skin2"
@@ -7449,7 +7248,6 @@ EntityTemplate
 
 }
 
-//editor "index(2307)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_01_skin2"
@@ -7503,7 +7301,6 @@ EntityTemplate
 
 }
 
-//editor "index(2308)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -7557,7 +7354,6 @@ EntityTemplate
 
 }
 
-//editor "index(2309)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -7611,7 +7407,6 @@ EntityTemplate
 
 }
 
-//editor "index(2310)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -7665,7 +7460,6 @@ EntityTemplate
 
 }
 
-//editor "index(2311)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -7719,7 +7513,6 @@ EntityTemplate
 
 }
 
-//editor "index(2312)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -7773,7 +7566,6 @@ EntityTemplate
 
 }
 
-//editor "index(2313)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -7827,7 +7619,6 @@ EntityTemplate
 
 }
 
-//editor "index(2315)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -7881,7 +7672,6 @@ EntityTemplate
 
 }
 
-//editor "index(2317)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -7935,7 +7725,6 @@ EntityTemplate
 
 }
 
-//editor "index(2318)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -7989,7 +7778,6 @@ EntityTemplate
 
 }
 
-//editor "index(2320)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -8043,7 +7831,6 @@ EntityTemplate
 
 }
 
-//editor "index(2321)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -8097,7 +7884,6 @@ EntityTemplate
 
 }
 
-//editor "index(2323)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -8151,7 +7937,6 @@ EntityTemplate
 
 }
 
-//editor "index(2325)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -8205,7 +7990,6 @@ EntityTemplate
 
 }
 
-//editor "index(2329)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -8259,7 +8043,6 @@ EntityTemplate
 
 }
 
-//editor "index(2330)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -8313,7 +8096,6 @@ EntityTemplate
 
 }
 
-//editor "index(2331)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -8367,7 +8149,6 @@ EntityTemplate
 
 }
 
-//editor "index(2332)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -8421,7 +8202,6 @@ EntityTemplate
 
 }
 
-//editor "index(2333)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -8475,7 +8255,6 @@ EntityTemplate
 
 }
 
-//editor "index(2334)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -8529,7 +8308,6 @@ EntityTemplate
 
 }
 
-//editor "index(2335)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_01_skin2"
@@ -8583,7 +8361,6 @@ EntityTemplate
 
 }
 
-//editor "index(2336)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_03_skin2"
@@ -8637,7 +8414,6 @@ EntityTemplate
 
 }
 
-//editor "index(2337)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -8691,7 +8467,6 @@ EntityTemplate
 
 }
 
-//editor "index(2338)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -8745,7 +8520,6 @@ EntityTemplate
 
 }
 
-//editor "index(2339)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -8799,7 +8573,6 @@ EntityTemplate
 
 }
 
-//editor "index(2340)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -8853,7 +8626,6 @@ EntityTemplate
 
 }
 
-//editor "index(2341)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -8907,7 +8679,6 @@ EntityTemplate
 
 }
 
-//editor "index(2342)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -8961,7 +8732,6 @@ EntityTemplate
 
 }
 
-//editor "index(2343)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -9015,7 +8785,6 @@ EntityTemplate
 
 }
 
-//editor "index(2344)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -9069,7 +8838,6 @@ EntityTemplate
 
 }
 
-//editor "index(2345)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -9123,7 +8891,6 @@ EntityTemplate
 
 }
 
-//editor "index(2346)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -9177,7 +8944,6 @@ EntityTemplate
 
 }
 
-//editor "index(2347)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -9231,7 +8997,6 @@ EntityTemplate
 
 }
 
-//editor "index(2348)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -9285,7 +9050,6 @@ EntityTemplate
 
 }
 
-//editor "index(2349)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -9339,7 +9103,6 @@ EntityTemplate
 
 }
 
-//editor "index(2350)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -9393,7 +9156,6 @@ EntityTemplate
 
 }
 
-//editor "index(2351)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -9447,7 +9209,6 @@ EntityTemplate
 
 }
 
-//editor "index(2352)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -9501,7 +9262,6 @@ EntityTemplate
 
 }
 
-//editor "index(2353)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -9555,7 +9315,6 @@ EntityTemplate
 
 }
 
-//editor "index(2354)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -9609,7 +9368,6 @@ EntityTemplate
 
 }
 
-//editor "index(2355)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -9663,7 +9421,6 @@ EntityTemplate
 
 }
 
-//editor "index(2356)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -9717,7 +9474,6 @@ EntityTemplate
 
 }
 
-//editor "index(2357)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -9771,7 +9527,6 @@ EntityTemplate
 
 }
 
-//editor "index(2358)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -9825,7 +9580,6 @@ EntityTemplate
 
 }
 
-//editor "index(2359)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -9879,7 +9633,6 @@ EntityTemplate
 
 }
 
-//editor "index(2360)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -9933,7 +9686,6 @@ EntityTemplate
 
 }
 
-//editor "index(2361)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -9987,7 +9739,6 @@ EntityTemplate
 
 }
 
-//editor "index(2362)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -10041,7 +9792,6 @@ EntityTemplate
 
 }
 
-//editor "index(2363)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -10095,7 +9845,6 @@ EntityTemplate
 
 }
 
-//editor "index(2364)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -10149,7 +9898,6 @@ EntityTemplate
 
 }
 
-//editor "index(2365)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -10203,7 +9951,6 @@ EntityTemplate
 
 }
 
-//editor "index(2366)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -10257,7 +10004,6 @@ EntityTemplate
 
 }
 
-//editor "index(2367)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -10311,7 +10057,6 @@ EntityTemplate
 
 }
 
-//editor "index(2368)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -10365,7 +10110,6 @@ EntityTemplate
 
 }
 
-//editor "index(2369)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -10419,7 +10163,6 @@ EntityTemplate
 
 }
 
-//editor "index(2370)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -10473,7 +10216,6 @@ EntityTemplate
 
 }
 
-//editor "index(2371)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -10527,7 +10269,6 @@ EntityTemplate
 
 }
 
-//editor "index(2372)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -10581,7 +10322,6 @@ EntityTemplate
 
 }
 
-//editor "index(2373)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_03_skin2"
@@ -10635,7 +10375,6 @@ EntityTemplate
 
 }
 
-//editor "index(2374)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -10689,7 +10428,6 @@ EntityTemplate
 
 }
 
-//editor "index(2375)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_01_skin2"
@@ -10743,7 +10481,6 @@ EntityTemplate
 
 }
 
-//editor "index(2376)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -10797,7 +10534,6 @@ EntityTemplate
 
 }
 
-//editor "index(2377)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -10851,7 +10587,6 @@ EntityTemplate
 
 }
 
-//editor "index(2378)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -10905,7 +10640,6 @@ EntityTemplate
 
 }
 
-//editor "index(2379)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -10959,7 +10693,6 @@ EntityTemplate
 
 }
 
-//editor "index(2380)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -11013,7 +10746,6 @@ EntityTemplate
 
 }
 
-//editor "index(2381)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -11067,7 +10799,6 @@ EntityTemplate
 
 }
 
-//editor "index(2382)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -11121,7 +10852,6 @@ EntityTemplate
 
 }
 
-//editor "index(2383)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -11175,7 +10905,6 @@ EntityTemplate
 
 }
 
-//editor "index(2384)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -11229,7 +10958,6 @@ EntityTemplate
 
 }
 
-//editor "index(2385)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_03_skin2"
@@ -11283,7 +11011,6 @@ EntityTemplate
 
 }
 
-//editor "index(2386)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -11337,7 +11064,6 @@ EntityTemplate
 
 }
 
-//editor "index(2387)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -11391,7 +11117,6 @@ EntityTemplate
 
 }
 
-//editor "index(2388)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -11439,7 +11164,6 @@ EntityTemplate
 
 }
 
-//editor "index(2389)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -11493,7 +11217,6 @@ EntityTemplate
 
 }
 
-//editor "index(2390)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_01_skin2"
@@ -11541,7 +11264,6 @@ EntityTemplate
 
 }
 
-//editor "index(2391)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -11595,7 +11317,6 @@ EntityTemplate
 
 }
 
-//editor "index(2392)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -11643,7 +11364,6 @@ EntityTemplate
 
 }
 
-//editor "index(2393)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_big_03_skin2"
@@ -11697,7 +11417,6 @@ EntityTemplate
 
 }
 
-//editor "index(2394)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -11745,7 +11464,6 @@ EntityTemplate
 
 }
 
-//editor "index(2395)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -11793,7 +11511,6 @@ EntityTemplate
 
 }
 
-//editor "index(2396)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -11847,7 +11564,6 @@ EntityTemplate
 
 }
 
-//editor "index(2397)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -11901,7 +11617,6 @@ EntityTemplate
 
 }
 
-//editor "index(2398)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -11955,7 +11670,6 @@ EntityTemplate
 
 }
 
-//editor "index(2399)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -12009,7 +11723,6 @@ EntityTemplate
 
 }
 
-//editor "index(2400)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -12063,7 +11776,6 @@ EntityTemplate
 
 }
 
-//editor "index(2401)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -12117,7 +11829,6 @@ EntityTemplate
 
 }
 
-//editor "index(2402)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -12171,7 +11882,6 @@ EntityTemplate
 
 }
 
-//editor "index(2403)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -12219,7 +11929,6 @@ EntityTemplate
 
 }
 
-//editor "index(2404)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -12273,7 +11982,6 @@ EntityTemplate
 
 }
 
-//editor "index(2405)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -12327,7 +12035,6 @@ EntityTemplate
 
 }
 
-//editor "index(2406)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -12381,7 +12088,6 @@ EntityTemplate
 
 }
 
-//editor "index(2407)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -12435,7 +12141,6 @@ EntityTemplate
 
 }
 
-//editor "index(2408)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -12489,7 +12194,6 @@ EntityTemplate
 
 }
 
-//editor "index(2409)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -12543,7 +12247,6 @@ EntityTemplate
 
 }
 
-//editor "index(2410)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -12597,7 +12300,6 @@ EntityTemplate
 
 }
 
-//editor "index(2411)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -12651,7 +12353,6 @@ EntityTemplate
 
 }
 
-//editor "index(2412)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -12705,7 +12406,6 @@ EntityTemplate
 
 }
 
-//editor "index(2413)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -12759,7 +12459,6 @@ EntityTemplate
 
 }
 
-//editor "index(2414)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -12813,7 +12512,6 @@ EntityTemplate
 
 }
 
-//editor "index(2415)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -12867,7 +12565,6 @@ EntityTemplate
 
 }
 
-//editor "index(2416)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -12921,7 +12618,6 @@ EntityTemplate
 
 }
 
-//editor "index(2417)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -12975,7 +12671,6 @@ EntityTemplate
 
 }
 
-//editor "index(2418)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -13029,7 +12724,6 @@ EntityTemplate
 
 }
 
-//editor "index(2419)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -13083,7 +12777,6 @@ EntityTemplate
 
 }
 
-//editor "index(2420)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -13137,7 +12830,6 @@ EntityTemplate
 
 }
 
-//editor "index(2421)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -13191,7 +12883,6 @@ EntityTemplate
 
 }
 
-//editor "index(2422)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -13245,7 +12936,6 @@ EntityTemplate
 
 }
 
-//editor "index(2423)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -13299,7 +12989,6 @@ EntityTemplate
 
 }
 
-//editor "index(2424)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -13353,7 +13042,6 @@ EntityTemplate
 
 }
 
-//editor "index(2425)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -13407,7 +13095,6 @@ EntityTemplate
 
 }
 
-//editor "index(2426)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -13461,7 +13148,6 @@ EntityTemplate
 
 }
 
-//editor "index(2427)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -13515,7 +13201,6 @@ EntityTemplate
 
 }
 
-//editor "index(2428)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -13569,7 +13254,6 @@ EntityTemplate
 
 }
 
-//editor "index(2429)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -13623,7 +13307,6 @@ EntityTemplate
 
 }
 
-//editor "index(2430)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -13677,7 +13360,6 @@ EntityTemplate
 
 }
 
-//editor "index(2431)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -13731,7 +13413,6 @@ EntityTemplate
 
 }
 
-//editor "index(2432)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_03_skin2"
@@ -13785,7 +13466,6 @@ EntityTemplate
 
 }
 
-//editor "index(2433)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_02_skin2"
@@ -13839,7 +13519,6 @@ EntityTemplate
 
 }
 
-//editor "index(2434)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_small_01_skin2"
@@ -13893,7 +13572,6 @@ EntityTemplate
 
 }
 
-//editor "index(2435)"
 EntityTemplate
 {
 	base_blueprint "props/trees/drexolian_medium_02_skin2"
@@ -13947,7 +13625,6 @@ EntityTemplate
 
 }
 
-//editor "index(2436)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -14001,7 +13678,6 @@ EntityTemplate
 
 }
 
-//editor "index(2437)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -14049,7 +13725,6 @@ EntityTemplate
 
 }
 
-//editor "index(2438)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -14103,7 +13778,6 @@ EntityTemplate
 
 }
 
-//editor "index(2439)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -14162,7 +13836,6 @@ EntityTemplate
 
 }
 
-//editor "index(2440)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -14221,7 +13894,6 @@ EntityTemplate
 
 }
 
-//editor "index(2441)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -14280,7 +13952,6 @@ EntityTemplate
 
 }
 
-//editor "index(2442)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -14334,7 +14005,6 @@ EntityTemplate
 
 }
 
-//editor "index(2443)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -14393,7 +14063,6 @@ EntityTemplate
 
 }
 
-//editor "index(2444)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -14452,7 +14121,6 @@ EntityTemplate
 
 }
 
-//editor "index(2445)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -14511,7 +14179,6 @@ EntityTemplate
 
 }
 
-//editor "index(2446)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -14570,7 +14237,6 @@ EntityTemplate
 
 }
 
-//editor "index(2447)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -14629,7 +14295,6 @@ EntityTemplate
 
 }
 
-//editor "index(2448)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -14688,7 +14353,6 @@ EntityTemplate
 
 }
 
-//editor "index(2449)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -14747,7 +14411,6 @@ EntityTemplate
 
 }
 
-//editor "index(2450)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -14795,7 +14458,6 @@ EntityTemplate
 
 }
 
-//editor "index(2451)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -14843,7 +14505,6 @@ EntityTemplate
 
 }
 
-//editor "index(2452)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -14890,7 +14551,6 @@ EntityTemplate
 
 }
 
-//editor "index(2453)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -14945,7 +14605,6 @@ EntityTemplate
 
 }
 
-//editor "index(2454)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -15000,7 +14659,6 @@ EntityTemplate
 
 }
 
-//editor "index(2455)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -15055,7 +14713,6 @@ EntityTemplate
 
 }
 
-//editor "index(2456)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -15110,7 +14767,6 @@ EntityTemplate
 
 }
 
-//editor "index(2457)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15158,7 +14814,6 @@ EntityTemplate
 
 }
 
-//editor "index(2458)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15206,7 +14861,6 @@ EntityTemplate
 
 }
 
-//editor "index(2459)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15254,7 +14908,6 @@ EntityTemplate
 
 }
 
-//editor "index(2460)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15302,7 +14955,6 @@ EntityTemplate
 
 }
 
-//editor "index(2462)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15350,7 +15002,6 @@ EntityTemplate
 
 }
 
-//editor "index(2463)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15398,7 +15049,6 @@ EntityTemplate
 
 }
 
-//editor "index(2464)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15446,7 +15096,6 @@ EntityTemplate
 
 }
 
-//editor "index(2465)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15494,7 +15143,6 @@ EntityTemplate
 
 }
 
-//editor "index(2466)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15542,7 +15190,6 @@ EntityTemplate
 
 }
 
-//editor "index(2467)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15590,7 +15237,6 @@ EntityTemplate
 
 }
 
-//editor "index(2468)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15638,7 +15284,6 @@ EntityTemplate
 
 }
 
-//editor "index(2469)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15686,7 +15331,6 @@ EntityTemplate
 
 }
 
-//editor "index(2470)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15734,7 +15378,6 @@ EntityTemplate
 
 }
 
-//editor "index(2471)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15782,7 +15425,6 @@ EntityTemplate
 
 }
 
-//editor "index(2472)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15830,7 +15472,6 @@ EntityTemplate
 
 }
 
-//editor "index(2474)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15878,7 +15519,6 @@ EntityTemplate
 
 }
 
-//editor "index(2475)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15926,7 +15566,6 @@ EntityTemplate
 
 }
 
-//editor "index(2476)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -15974,7 +15613,6 @@ EntityTemplate
 
 }
 
-//editor "index(2477)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -16029,7 +15667,6 @@ EntityTemplate
 
 }
 
-//editor "index(2478)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -16084,7 +15721,6 @@ EntityTemplate
 
 }
 
-//editor "index(2479)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -16139,7 +15775,6 @@ EntityTemplate
 
 }
 
-//editor "index(2480)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16198,7 +15833,6 @@ EntityTemplate
 
 }
 
-//editor "index(2481)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16257,7 +15891,6 @@ EntityTemplate
 
 }
 
-//editor "index(2482)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16316,7 +15949,6 @@ EntityTemplate
 
 }
 
-//editor "index(2483)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16375,7 +16007,6 @@ EntityTemplate
 
 }
 
-//editor "index(2484)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16434,7 +16065,6 @@ EntityTemplate
 
 }
 
-//editor "index(2485)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16493,7 +16123,6 @@ EntityTemplate
 
 }
 
-//editor "index(2486)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16552,7 +16181,6 @@ EntityTemplate
 
 }
 
-//editor "index(2487)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -16606,7 +16234,6 @@ EntityTemplate
 
 }
 
-//editor "index(2488)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16665,7 +16292,6 @@ EntityTemplate
 
 }
 
-//editor "index(2489)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16724,7 +16350,6 @@ EntityTemplate
 
 }
 
-//editor "index(2490)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16783,7 +16408,6 @@ EntityTemplate
 
 }
 
-//editor "index(2491)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16842,7 +16466,6 @@ EntityTemplate
 
 }
 
-//editor "index(2492)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16901,7 +16524,6 @@ EntityTemplate
 
 }
 
-//editor "index(2493)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -16960,7 +16582,6 @@ EntityTemplate
 
 }
 
-//editor "index(2494)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -17019,7 +16640,6 @@ EntityTemplate
 
 }
 
-//editor "index(2495)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"

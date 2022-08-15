@@ -1,5 +1,4 @@
 entity_count "433"
-//editor "index(170)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -53,7 +52,6 @@ EntityTemplate
 
 }
 
-//editor "index(171)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -107,7 +105,6 @@ EntityTemplate
 
 }
 
-//editor "index(172)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -161,7 +158,6 @@ EntityTemplate
 
 }
 
-//editor "index(173)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -215,7 +211,6 @@ EntityTemplate
 
 }
 
-//editor "index(180)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -270,9 +265,7 @@ EntityTemplate
 
 }
 
-//editor "index(190)"
 
-//editor "index(193)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -327,7 +320,6 @@ EntityTemplate
 
 }
 
-//editor "index(357)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_01"
@@ -375,7 +367,6 @@ EntityTemplate
 
 }
 
-//editor "index(358)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_02"
@@ -429,7 +420,6 @@ EntityTemplate
 
 }
 
-//editor "index(359)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_03"
@@ -483,7 +473,6 @@ EntityTemplate
 
 }
 
-//editor "index(360)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_01"
@@ -531,7 +520,6 @@ EntityTemplate
 
 }
 
-//editor "index(361)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_02"
@@ -585,7 +573,6 @@ EntityTemplate
 
 }
 
-//editor "index(362)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_03"
@@ -633,7 +620,6 @@ EntityTemplate
 
 }
 
-//editor "index(363)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -681,7 +667,6 @@ EntityTemplate
 
 }
 
-//editor "index(364)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -729,7 +714,6 @@ EntityTemplate
 
 }
 
-//editor "index(365)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -777,7 +761,6 @@ EntityTemplate
 
 }
 
-//editor "index(366)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -825,7 +808,6 @@ EntityTemplate
 
 }
 
-//editor "index(367)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -873,7 +855,6 @@ EntityTemplate
 
 }
 
-//editor "index(368)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -921,7 +902,6 @@ EntityTemplate
 
 }
 
-//editor "index(369)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -975,7 +955,6 @@ EntityTemplate
 
 }
 
-//editor "index(370)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -1029,7 +1008,6 @@ EntityTemplate
 
 }
 
-//editor "index(371)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_01"
@@ -1077,7 +1055,6 @@ EntityTemplate
 
 }
 
-//editor "index(372)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_01"
@@ -1131,7 +1108,6 @@ EntityTemplate
 
 }
 
-//editor "index(373)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_02"
@@ -1185,7 +1161,6 @@ EntityTemplate
 
 }
 
-//editor "index(374)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_03"
@@ -1241,7 +1216,6 @@ EntityTemplate
 
 }
 
-//editor "index(375)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -1289,7 +1263,6 @@ EntityTemplate
 
 }
 
-//editor "index(376)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_small_01"
@@ -1337,7 +1310,6 @@ EntityTemplate
 
 }
 
-//editor "index(377)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -1385,7 +1357,6 @@ EntityTemplate
 
 }
 
-//editor "index(378)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -1433,7 +1404,6 @@ EntityTemplate
 
 }
 
-//editor "index(379)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -1481,7 +1451,6 @@ EntityTemplate
 
 }
 
-//editor "index(380)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_03"
@@ -1528,7 +1497,6 @@ EntityTemplate
 
 }
 
-//editor "index(381)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_03"
@@ -1575,7 +1543,6 @@ EntityTemplate
 
 }
 
-//editor "index(382)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_02"
@@ -1623,7 +1590,6 @@ EntityTemplate
 
 }
 
-//editor "index(383)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_03"
@@ -1671,7 +1637,6 @@ EntityTemplate
 
 }
 
-//editor "index(494)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -1725,7 +1690,6 @@ EntityTemplate
 
 }
 
-//editor "index(496)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -1779,7 +1743,6 @@ EntityTemplate
 
 }
 
-//editor "index(501)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -1833,7 +1796,6 @@ EntityTemplate
 
 }
 
-//editor "index(502)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -1887,7 +1849,6 @@ EntityTemplate
 
 }
 
-//editor "index(503)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -1941,7 +1902,6 @@ EntityTemplate
 
 }
 
-//editor "index(504)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -1995,7 +1955,6 @@ EntityTemplate
 
 }
 
-//editor "index(505)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -2049,7 +2008,6 @@ EntityTemplate
 
 }
 
-//editor "index(506)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -2103,7 +2061,6 @@ EntityTemplate
 
 }
 
-//editor "index(510)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_02"
@@ -2157,7 +2114,6 @@ EntityTemplate
 
 }
 
-//editor "index(513)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -2211,7 +2167,6 @@ EntityTemplate
 
 }
 
-//editor "index(514)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_03"
@@ -2265,7 +2220,6 @@ EntityTemplate
 
 }
 
-//editor "index(517)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -2319,7 +2273,6 @@ EntityTemplate
 
 }
 
-//editor "index(518)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -2373,7 +2326,6 @@ EntityTemplate
 
 }
 
-//editor "index(519)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_02"
@@ -2427,7 +2379,6 @@ EntityTemplate
 
 }
 
-//editor "index(520)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_02"
@@ -2481,7 +2432,6 @@ EntityTemplate
 
 }
 
-//editor "index(522)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_02"
@@ -2535,7 +2485,6 @@ EntityTemplate
 
 }
 
-//editor "index(523)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -2589,7 +2538,6 @@ EntityTemplate
 
 }
 
-//editor "index(524)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_03"
@@ -2643,7 +2591,6 @@ EntityTemplate
 
 }
 
-//editor "index(525)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_01"
@@ -2697,7 +2644,6 @@ EntityTemplate
 
 }
 
-//editor "index(526)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -2751,7 +2697,6 @@ EntityTemplate
 
 }
 
-//editor "index(527)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_02"
@@ -2807,7 +2752,6 @@ EntityTemplate
 
 }
 
-//editor "index(528)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_03"
@@ -2861,7 +2805,6 @@ EntityTemplate
 
 }
 
-//editor "index(530)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_01"
@@ -2915,7 +2858,6 @@ EntityTemplate
 
 }
 
-//editor "index(531)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_03"
@@ -2969,7 +2911,6 @@ EntityTemplate
 
 }
 
-//editor "index(607)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3029,7 +2970,6 @@ EntityTemplate
 
 }
 
-//editor "index(608)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3089,7 +3029,6 @@ EntityTemplate
 
 }
 
-//editor "index(609)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3149,7 +3088,6 @@ EntityTemplate
 
 }
 
-//editor "index(610)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3209,7 +3147,6 @@ EntityTemplate
 
 }
 
-//editor "index(611)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3269,7 +3206,6 @@ EntityTemplate
 
 }
 
-//editor "index(612)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3329,7 +3265,6 @@ EntityTemplate
 
 }
 
-//editor "index(613)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3389,7 +3324,6 @@ EntityTemplate
 
 }
 
-//editor "index(614)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3449,7 +3383,6 @@ EntityTemplate
 
 }
 
-//editor "index(615)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3509,7 +3442,6 @@ EntityTemplate
 
 }
 
-//editor "index(617)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -3569,9 +3501,7 @@ EntityTemplate
 
 }
 
-//editor "index(618)"
 
-//editor "index(801)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_alien_tower_basic"
@@ -3619,7 +3549,6 @@ EntityTemplate
 
 }
 
-//editor "index(802)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_alien_tower_artillery"
@@ -3666,7 +3595,6 @@ EntityTemplate
 
 }
 
-//editor "index(1235)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -3714,7 +3642,6 @@ EntityTemplate
 
 }
 
-//editor "index(1236)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -3769,7 +3696,6 @@ EntityTemplate
 
 }
 
-//editor "index(1237)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -3823,7 +3749,6 @@ EntityTemplate
 
 }
 
-//editor "index(1238)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -3877,7 +3802,6 @@ EntityTemplate
 
 }
 
-//editor "index(1239)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -3931,7 +3855,6 @@ EntityTemplate
 
 }
 
-//editor "index(1240)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -3985,7 +3908,6 @@ EntityTemplate
 
 }
 
-//editor "index(1241)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -4039,7 +3961,6 @@ EntityTemplate
 
 }
 
-//editor "index(1242)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -4093,7 +4014,6 @@ EntityTemplate
 
 }
 
-//editor "index(1243)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -4147,7 +4067,6 @@ EntityTemplate
 
 }
 
-//editor "index(1244)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -4201,7 +4120,6 @@ EntityTemplate
 
 }
 
-//editor "index(1245)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -4255,7 +4173,6 @@ EntityTemplate
 
 }
 
-//editor "index(1246)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -4309,7 +4226,6 @@ EntityTemplate
 
 }
 
-//editor "index(1247)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -4363,7 +4279,6 @@ EntityTemplate
 
 }
 
-//editor "index(1248)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -4417,7 +4332,6 @@ EntityTemplate
 
 }
 
-//editor "index(1250)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -4471,7 +4385,6 @@ EntityTemplate
 
 }
 
-//editor "index(1251)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -4525,7 +4438,6 @@ EntityTemplate
 
 }
 
-//editor "index(1252)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -4579,7 +4491,6 @@ EntityTemplate
 
 }
 
-//editor "index(1253)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -4634,7 +4545,6 @@ EntityTemplate
 
 }
 
-//editor "index(1254)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -4689,7 +4599,6 @@ EntityTemplate
 
 }
 
-//editor "index(1255)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -4744,7 +4653,6 @@ EntityTemplate
 
 }
 
-//editor "index(1256)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -4792,7 +4700,6 @@ EntityTemplate
 
 }
 
-//editor "index(1258)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -4846,7 +4753,6 @@ EntityTemplate
 
 }
 
-//editor "index(1259)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -4900,7 +4806,6 @@ EntityTemplate
 
 }
 
-//editor "index(1260)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -4954,7 +4859,6 @@ EntityTemplate
 
 }
 
-//editor "index(1261)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -5002,7 +4906,6 @@ EntityTemplate
 
 }
 
-//editor "index(1262)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -5058,7 +4961,6 @@ EntityTemplate
 
 }
 
-//editor "index(1263)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -5112,7 +5014,6 @@ EntityTemplate
 
 }
 
-//editor "index(1264)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -5166,7 +5067,6 @@ EntityTemplate
 
 }
 
-//editor "index(1265)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -5220,7 +5120,6 @@ EntityTemplate
 
 }
 
-//editor "index(1266)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -5274,7 +5173,6 @@ EntityTemplate
 
 }
 
-//editor "index(1267)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -5328,7 +5226,6 @@ EntityTemplate
 
 }
 
-//editor "index(1268)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -5383,7 +5280,6 @@ EntityTemplate
 
 }
 
-//editor "index(1269)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -5437,7 +5333,6 @@ EntityTemplate
 
 }
 
-//editor "index(1270)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -5491,7 +5386,6 @@ EntityTemplate
 
 }
 
-//editor "index(1271)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -5547,7 +5441,6 @@ EntityTemplate
 
 }
 
-//editor "index(1272)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -5602,7 +5495,6 @@ EntityTemplate
 
 }
 
-//editor "index(1273)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -5658,7 +5550,6 @@ EntityTemplate
 
 }
 
-//editor "index(1274)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -5712,7 +5603,6 @@ EntityTemplate
 
 }
 
-//editor "index(1275)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -5766,7 +5656,6 @@ EntityTemplate
 
 }
 
-//editor "index(1276)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -5820,7 +5709,6 @@ EntityTemplate
 
 }
 
-//editor "index(1277)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -5874,7 +5762,6 @@ EntityTemplate
 
 }
 
-//editor "index(1278)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -5928,7 +5815,6 @@ EntityTemplate
 
 }
 
-//editor "index(1279)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -5976,7 +5862,6 @@ EntityTemplate
 
 }
 
-//editor "index(1280)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -6031,7 +5916,6 @@ EntityTemplate
 
 }
 
-//editor "index(1281)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -6086,7 +5970,6 @@ EntityTemplate
 
 }
 
-//editor "index(1282)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_03"
@@ -6142,7 +6025,6 @@ EntityTemplate
 
 }
 
-//editor "index(1283)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -6190,7 +6072,6 @@ EntityTemplate
 
 }
 
-//editor "index(1284)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -6244,7 +6125,6 @@ EntityTemplate
 
 }
 
-//editor "index(1285)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -6300,7 +6180,6 @@ EntityTemplate
 
 }
 
-//editor "index(1286)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -6354,7 +6233,6 @@ EntityTemplate
 
 }
 
-//editor "index(1287)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -6408,7 +6286,6 @@ EntityTemplate
 
 }
 
-//editor "index(1288)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -6462,7 +6339,6 @@ EntityTemplate
 
 }
 
-//editor "index(1289)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -6516,7 +6392,6 @@ EntityTemplate
 
 }
 
-//editor "index(1290)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -6570,7 +6445,6 @@ EntityTemplate
 
 }
 
-//editor "index(1291)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -6618,7 +6492,6 @@ EntityTemplate
 
 }
 
-//editor "index(1292)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -6672,7 +6545,6 @@ EntityTemplate
 
 }
 
-//editor "index(1293)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -6727,7 +6599,6 @@ EntityTemplate
 
 }
 
-//editor "index(1296)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -6775,7 +6646,6 @@ EntityTemplate
 
 }
 
-//editor "index(1297)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -6823,7 +6693,6 @@ EntityTemplate
 
 }
 
-//editor "index(1298)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -6877,7 +6746,6 @@ EntityTemplate
 
 }
 
-//editor "index(1299)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -6931,7 +6799,6 @@ EntityTemplate
 
 }
 
-//editor "index(1300)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -6985,7 +6852,6 @@ EntityTemplate
 
 }
 
-//editor "index(1302)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -7039,7 +6905,6 @@ EntityTemplate
 
 }
 
-//editor "index(1303)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -7093,7 +6958,6 @@ EntityTemplate
 
 }
 
-//editor "index(1304)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -7141,7 +7005,6 @@ EntityTemplate
 
 }
 
-//editor "index(1305)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -7195,7 +7058,6 @@ EntityTemplate
 
 }
 
-//editor "index(1306)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -7249,7 +7111,6 @@ EntityTemplate
 
 }
 
-//editor "index(1307)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -7303,7 +7164,6 @@ EntityTemplate
 
 }
 
-//editor "index(1308)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_very_small_01"
@@ -7356,7 +7216,6 @@ EntityTemplate
 
 }
 
-//editor "index(1309)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -7409,7 +7268,6 @@ EntityTemplate
 
 }
 
-//editor "index(1310)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -7465,7 +7323,6 @@ EntityTemplate
 
 }
 
-//editor "index(1311)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -7519,7 +7376,6 @@ EntityTemplate
 
 }
 
-//editor "index(1312)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -7573,7 +7429,6 @@ EntityTemplate
 
 }
 
-//editor "index(1313)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -7627,7 +7482,6 @@ EntityTemplate
 
 }
 
-//editor "index(1314)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -7680,7 +7534,6 @@ EntityTemplate
 
 }
 
-//editor "index(1315)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -7734,7 +7587,6 @@ EntityTemplate
 
 }
 
-//editor "index(1316)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -7789,7 +7641,6 @@ EntityTemplate
 
 }
 
-//editor "index(1317)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -7843,7 +7694,6 @@ EntityTemplate
 
 }
 
-//editor "index(1318)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -7896,7 +7746,6 @@ EntityTemplate
 
 }
 
-//editor "index(1319)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -7950,7 +7799,6 @@ EntityTemplate
 
 }
 
-//editor "index(1320)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -8005,7 +7853,6 @@ EntityTemplate
 
 }
 
-//editor "index(1321)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -8053,7 +7900,6 @@ EntityTemplate
 
 }
 
-//editor "index(1322)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -8107,7 +7953,6 @@ EntityTemplate
 
 }
 
-//editor "index(1323)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -8161,7 +8006,6 @@ EntityTemplate
 
 }
 
-//editor "index(1324)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -8215,7 +8059,6 @@ EntityTemplate
 
 }
 
-//editor "index(1325)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -8269,7 +8112,6 @@ EntityTemplate
 
 }
 
-//editor "index(1326)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -8323,7 +8165,6 @@ EntityTemplate
 
 }
 
-//editor "index(1327)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -8379,7 +8220,6 @@ EntityTemplate
 
 }
 
-//editor "index(1328)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -8433,7 +8273,6 @@ EntityTemplate
 
 }
 
-//editor "index(1329)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -8489,7 +8328,6 @@ EntityTemplate
 
 }
 
-//editor "index(1330)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -8544,7 +8382,6 @@ EntityTemplate
 
 }
 
-//editor "index(1331)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -8600,7 +8437,6 @@ EntityTemplate
 
 }
 
-//editor "index(1332)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -8655,7 +8491,6 @@ EntityTemplate
 
 }
 
-//editor "index(1333)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -8708,7 +8543,6 @@ EntityTemplate
 
 }
 
-//editor "index(1334)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -8756,7 +8590,6 @@ EntityTemplate
 
 }
 
-//editor "index(1335)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -8810,7 +8643,6 @@ EntityTemplate
 
 }
 
-//editor "index(1336)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -8864,7 +8696,6 @@ EntityTemplate
 
 }
 
-//editor "index(1337)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -8919,7 +8750,6 @@ EntityTemplate
 
 }
 
-//editor "index(1338)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -8973,7 +8803,6 @@ EntityTemplate
 
 }
 
-//editor "index(1339)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -9027,7 +8856,6 @@ EntityTemplate
 
 }
 
-//editor "index(1340)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -9083,7 +8911,6 @@ EntityTemplate
 
 }
 
-//editor "index(1341)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -9138,7 +8965,6 @@ EntityTemplate
 
 }
 
-//editor "index(1342)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -9194,7 +9020,6 @@ EntityTemplate
 
 }
 
-//editor "index(1343)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -9250,7 +9075,6 @@ EntityTemplate
 
 }
 
-//editor "index(1344)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -9305,7 +9129,6 @@ EntityTemplate
 
 }
 
-//editor "index(1345)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -9359,7 +9182,6 @@ EntityTemplate
 
 }
 
-//editor "index(1346)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_very_small_01"
@@ -9412,7 +9234,6 @@ EntityTemplate
 
 }
 
-//editor "index(1347)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -9466,7 +9287,6 @@ EntityTemplate
 
 }
 
-//editor "index(1348)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -9521,7 +9341,6 @@ EntityTemplate
 
 }
 
-//editor "index(1349)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -9576,7 +9395,6 @@ EntityTemplate
 
 }
 
-//editor "index(1350)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -9630,7 +9448,6 @@ EntityTemplate
 
 }
 
-//editor "index(1351)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -9684,7 +9501,6 @@ EntityTemplate
 
 }
 
-//editor "index(1352)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -9739,7 +9555,6 @@ EntityTemplate
 
 }
 
-//editor "index(1353)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -9793,7 +9608,6 @@ EntityTemplate
 
 }
 
-//editor "index(1354)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -9847,7 +9661,6 @@ EntityTemplate
 
 }
 
-//editor "index(1355)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -9901,7 +9714,6 @@ EntityTemplate
 
 }
 
-//editor "index(1356)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -9955,7 +9767,6 @@ EntityTemplate
 
 }
 
-//editor "index(1357)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -10003,7 +9814,6 @@ EntityTemplate
 
 }
 
-//editor "index(1358)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -10059,7 +9869,6 @@ EntityTemplate
 
 }
 
-//editor "index(1359)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -10113,7 +9922,6 @@ EntityTemplate
 
 }
 
-//editor "index(1360)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -10168,7 +9976,6 @@ EntityTemplate
 
 }
 
-//editor "index(1361)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -10222,7 +10029,6 @@ EntityTemplate
 
 }
 
-//editor "index(1363)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -10277,7 +10083,6 @@ EntityTemplate
 
 }
 
-//editor "index(1375)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -10331,7 +10136,6 @@ EntityTemplate
 
 }
 
-//editor "index(1376)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -10385,7 +10189,6 @@ EntityTemplate
 
 }
 
-//editor "index(1377)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -10441,7 +10244,6 @@ EntityTemplate
 
 }
 
-//editor "index(1378)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -10495,7 +10297,6 @@ EntityTemplate
 
 }
 
-//editor "index(1380)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -10549,7 +10350,6 @@ EntityTemplate
 
 }
 
-//editor "index(1381)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -10603,7 +10403,6 @@ EntityTemplate
 
 }
 
-//editor "index(1385)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -10658,7 +10457,6 @@ EntityTemplate
 
 }
 
-//editor "index(1387)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -10706,7 +10504,6 @@ EntityTemplate
 
 }
 
-//editor "index(1388)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -10760,7 +10557,6 @@ EntityTemplate
 
 }
 
-//editor "index(1390)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -10815,7 +10611,6 @@ EntityTemplate
 
 }
 
-//editor "index(1391)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -10869,7 +10664,6 @@ EntityTemplate
 
 }
 
-//editor "index(1392)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -10923,7 +10717,6 @@ EntityTemplate
 
 }
 
-//editor "index(1393)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -10976,7 +10769,6 @@ EntityTemplate
 
 }
 
-//editor "index(1394)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -11030,7 +10822,6 @@ EntityTemplate
 
 }
 
-//editor "index(1395)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -11084,7 +10875,6 @@ EntityTemplate
 
 }
 
-//editor "index(1396)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -11132,7 +10922,6 @@ EntityTemplate
 
 }
 
-//editor "index(1397)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -11188,7 +10977,6 @@ EntityTemplate
 
 }
 
-//editor "index(1398)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -11242,7 +11030,6 @@ EntityTemplate
 
 }
 
-//editor "index(1400)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -11290,7 +11077,6 @@ EntityTemplate
 
 }
 
-//editor "index(1401)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -11346,7 +11132,6 @@ EntityTemplate
 
 }
 
-//editor "index(1402)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -11402,7 +11187,6 @@ EntityTemplate
 
 }
 
-//editor "index(1404)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -11456,7 +11240,6 @@ EntityTemplate
 
 }
 
-//editor "index(1405)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -11510,7 +11293,6 @@ EntityTemplate
 
 }
 
-//editor "index(1406)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -11565,7 +11347,6 @@ EntityTemplate
 
 }
 
-//editor "index(1407)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -11621,7 +11402,6 @@ EntityTemplate
 
 }
 
-//editor "index(1408)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -11677,7 +11457,6 @@ EntityTemplate
 
 }
 
-//editor "index(1409)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -11732,7 +11511,6 @@ EntityTemplate
 
 }
 
-//editor "index(1410)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -11786,7 +11564,6 @@ EntityTemplate
 
 }
 
-//editor "index(1411)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_very_small_01"
@@ -11839,7 +11616,6 @@ EntityTemplate
 
 }
 
-//editor "index(1414)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -11892,7 +11668,6 @@ EntityTemplate
 
 }
 
-//editor "index(1416)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -11948,7 +11723,6 @@ EntityTemplate
 
 }
 
-//editor "index(1417)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -12002,7 +11776,6 @@ EntityTemplate
 
 }
 
-//editor "index(1418)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -12058,7 +11831,6 @@ EntityTemplate
 
 }
 
-//editor "index(1419)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -12106,7 +11878,6 @@ EntityTemplate
 
 }
 
-//editor "index(1420)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -12162,7 +11933,6 @@ EntityTemplate
 
 }
 
-//editor "index(1421)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -12217,7 +11987,6 @@ EntityTemplate
 
 }
 
-//editor "index(1422)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -12272,7 +12041,6 @@ EntityTemplate
 
 }
 
-//editor "index(1423)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -12327,7 +12095,6 @@ EntityTemplate
 
 }
 
-//editor "index(1424)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -12381,7 +12148,6 @@ EntityTemplate
 
 }
 
-//editor "index(1425)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -12435,7 +12201,6 @@ EntityTemplate
 
 }
 
-//editor "index(1426)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -12489,7 +12254,6 @@ EntityTemplate
 
 }
 
-//editor "index(1427)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -12544,7 +12308,6 @@ EntityTemplate
 
 }
 
-//editor "index(1428)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -12599,7 +12362,6 @@ EntityTemplate
 
 }
 
-//editor "index(1429)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -12654,7 +12416,6 @@ EntityTemplate
 
 }
 
-//editor "index(1430)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -12710,7 +12471,6 @@ EntityTemplate
 
 }
 
-//editor "index(1431)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -12765,7 +12525,6 @@ EntityTemplate
 
 }
 
-//editor "index(1432)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -12820,7 +12579,6 @@ EntityTemplate
 
 }
 
-//editor "index(1433)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -12875,7 +12633,6 @@ EntityTemplate
 
 }
 
-//editor "index(1434)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -12930,7 +12687,6 @@ EntityTemplate
 
 }
 
-//editor "index(1435)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -12985,7 +12741,6 @@ EntityTemplate
 
 }
 
-//editor "index(1436)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -13041,7 +12796,6 @@ EntityTemplate
 
 }
 
-//editor "index(1437)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -13096,7 +12850,6 @@ EntityTemplate
 
 }
 
-//editor "index(1438)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -13151,7 +12904,6 @@ EntityTemplate
 
 }
 
-//editor "index(1439)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -13206,7 +12958,6 @@ EntityTemplate
 
 }
 
-//editor "index(1440)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -13262,7 +13013,6 @@ EntityTemplate
 
 }
 
-//editor "index(1441)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -13316,7 +13066,6 @@ EntityTemplate
 
 }
 
-//editor "index(1442)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -13370,7 +13119,6 @@ EntityTemplate
 
 }
 
-//editor "index(1443)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -13424,7 +13172,6 @@ EntityTemplate
 
 }
 
-//editor "index(1444)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -13478,7 +13225,6 @@ EntityTemplate
 
 }
 
-//editor "index(1445)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -13534,7 +13280,6 @@ EntityTemplate
 
 }
 
-//editor "index(1446)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -13589,7 +13334,6 @@ EntityTemplate
 
 }
 
-//editor "index(1447)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -13644,7 +13388,6 @@ EntityTemplate
 
 }
 
-//editor "index(1448)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -13698,7 +13441,6 @@ EntityTemplate
 
 }
 
-//editor "index(1449)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -13752,7 +13494,6 @@ EntityTemplate
 
 }
 
-//editor "index(1450)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -13808,7 +13549,6 @@ EntityTemplate
 
 }
 
-//editor "index(1451)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -13862,7 +13602,6 @@ EntityTemplate
 
 }
 
-//editor "index(1452)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -13918,7 +13657,6 @@ EntityTemplate
 
 }
 
-//editor "index(1453)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -13974,7 +13712,6 @@ EntityTemplate
 
 }
 
-//editor "index(1454)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -14030,7 +13767,6 @@ EntityTemplate
 
 }
 
-//editor "index(1455)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -14084,7 +13820,6 @@ EntityTemplate
 
 }
 
-//editor "index(1456)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -14132,7 +13867,6 @@ EntityTemplate
 
 }
 
-//editor "index(1457)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -14186,7 +13920,6 @@ EntityTemplate
 
 }
 
-//editor "index(1458)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -14240,7 +13973,6 @@ EntityTemplate
 
 }
 
-//editor "index(1459)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -14294,7 +14026,6 @@ EntityTemplate
 
 }
 
-//editor "index(1460)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -14349,7 +14080,6 @@ EntityTemplate
 
 }
 
-//editor "index(1461)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -14404,7 +14134,6 @@ EntityTemplate
 
 }
 
-//editor "index(1462)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -14460,7 +14189,6 @@ EntityTemplate
 
 }
 
-//editor "index(1463)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_very_small_01"
@@ -14514,7 +14242,6 @@ EntityTemplate
 
 }
 
-//editor "index(1464)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -14569,7 +14296,6 @@ EntityTemplate
 
 }
 
-//editor "index(1465)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -14624,7 +14350,6 @@ EntityTemplate
 
 }
 
-//editor "index(1466)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -14679,7 +14404,6 @@ EntityTemplate
 
 }
 
-//editor "index(1467)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -14734,7 +14458,6 @@ EntityTemplate
 
 }
 
-//editor "index(1468)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -14789,7 +14512,6 @@ EntityTemplate
 
 }
 
-//editor "index(1469)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -14843,7 +14565,6 @@ EntityTemplate
 
 }
 
-//editor "index(1470)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -14897,7 +14618,6 @@ EntityTemplate
 
 }
 
-//editor "index(1471)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -14952,7 +14672,6 @@ EntityTemplate
 
 }
 
-//editor "index(1472)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -15007,7 +14726,6 @@ EntityTemplate
 
 }
 
-//editor "index(1473)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -15061,7 +14779,6 @@ EntityTemplate
 
 }
 
-//editor "index(1474)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -15115,7 +14832,6 @@ EntityTemplate
 
 }
 
-//editor "index(1475)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_03"
@@ -15171,7 +14887,6 @@ EntityTemplate
 
 }
 
-//editor "index(1476)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -15226,7 +14941,6 @@ EntityTemplate
 
 }
 
-//editor "index(1477)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -15281,7 +14995,6 @@ EntityTemplate
 
 }
 
-//editor "index(1478)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -15335,7 +15048,6 @@ EntityTemplate
 
 }
 
-//editor "index(1479)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -15383,7 +15095,6 @@ EntityTemplate
 
 }
 
-//editor "index(1480)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -15439,7 +15150,6 @@ EntityTemplate
 
 }
 
-//editor "index(1481)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -15494,7 +15204,6 @@ EntityTemplate
 
 }
 
-//editor "index(1482)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -15549,7 +15258,6 @@ EntityTemplate
 
 }
 
-//editor "index(1483)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -15604,7 +15312,6 @@ EntityTemplate
 
 }
 
-//editor "index(1484)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -15659,7 +15366,6 @@ EntityTemplate
 
 }
 
-//editor "index(1485)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -15713,7 +15419,6 @@ EntityTemplate
 
 }
 
-//editor "index(1486)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -15768,7 +15473,6 @@ EntityTemplate
 
 }
 
-//editor "index(1487)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -15823,7 +15527,6 @@ EntityTemplate
 
 }
 
-//editor "index(1488)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -15877,7 +15580,6 @@ EntityTemplate
 
 }
 
-//editor "index(1489)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -15933,7 +15635,6 @@ EntityTemplate
 
 }
 
-//editor "index(1490)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -15987,7 +15688,6 @@ EntityTemplate
 
 }
 
-//editor "index(1491)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -16042,7 +15742,6 @@ EntityTemplate
 
 }
 
-//editor "index(1492)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -16097,7 +15796,6 @@ EntityTemplate
 
 }
 
-//editor "index(1493)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -16152,7 +15850,6 @@ EntityTemplate
 
 }
 
-//editor "index(1494)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -16208,7 +15905,6 @@ EntityTemplate
 
 }
 
-//editor "index(1495)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -16263,7 +15959,6 @@ EntityTemplate
 
 }
 
-//editor "index(1496)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -16318,7 +16013,6 @@ EntityTemplate
 
 }
 
-//editor "index(1497)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -16373,7 +16067,6 @@ EntityTemplate
 
 }
 
-//editor "index(1498)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -16429,7 +16122,6 @@ EntityTemplate
 
 }
 
-//editor "index(1499)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -16484,7 +16176,6 @@ EntityTemplate
 
 }
 
-//editor "index(1500)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -16539,7 +16230,6 @@ EntityTemplate
 
 }
 
-//editor "index(1501)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -16594,7 +16284,6 @@ EntityTemplate
 
 }
 
-//editor "index(1502)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -16650,7 +16339,6 @@ EntityTemplate
 
 }
 
-//editor "index(1503)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -16704,7 +16392,6 @@ EntityTemplate
 
 }
 
-//editor "index(1504)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -16759,7 +16446,6 @@ EntityTemplate
 
 }
 
-//editor "index(1505)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -16813,7 +16499,6 @@ EntityTemplate
 
 }
 
-//editor "index(1506)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -16868,7 +16553,6 @@ EntityTemplate
 
 }
 
-//editor "index(1507)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -16923,7 +16607,6 @@ EntityTemplate
 
 }
 
-//editor "index(1508)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -16977,7 +16660,6 @@ EntityTemplate
 
 }
 
-//editor "index(1509)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -17032,7 +16714,6 @@ EntityTemplate
 
 }
 
-//editor "index(1510)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -17087,7 +16768,6 @@ EntityTemplate
 
 }
 
-//editor "index(1511)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -17141,7 +16821,6 @@ EntityTemplate
 
 }
 
-//editor "index(1512)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -17197,7 +16876,6 @@ EntityTemplate
 
 }
 
-//editor "index(1513)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -17251,7 +16929,6 @@ EntityTemplate
 
 }
 
-//editor "index(1514)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -17306,7 +16983,6 @@ EntityTemplate
 
 }
 
-//editor "index(1515)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -17360,7 +17036,6 @@ EntityTemplate
 
 }
 
-//editor "index(1516)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -17416,7 +17091,6 @@ EntityTemplate
 
 }
 
-//editor "index(1517)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -17471,7 +17145,6 @@ EntityTemplate
 
 }
 
-//editor "index(1518)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -17525,7 +17198,6 @@ EntityTemplate
 
 }
 
-//editor "index(1519)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -17579,7 +17251,6 @@ EntityTemplate
 
 }
 
-//editor "index(1520)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -17633,7 +17304,6 @@ EntityTemplate
 
 }
 
-//editor "index(1521)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -17689,7 +17359,6 @@ EntityTemplate
 
 }
 
-//editor "index(1522)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -17743,7 +17412,6 @@ EntityTemplate
 
 }
 
-//editor "index(1523)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -17797,7 +17465,6 @@ EntityTemplate
 
 }
 
-//editor "index(1524)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -17853,7 +17520,6 @@ EntityTemplate
 
 }
 
-//editor "index(1525)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -17901,7 +17567,6 @@ EntityTemplate
 
 }
 
-//editor "index(1526)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -17956,7 +17621,6 @@ EntityTemplate
 
 }
 
-//editor "index(1527)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -18010,7 +17674,6 @@ EntityTemplate
 
 }
 
-//editor "index(1528)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -18066,7 +17729,6 @@ EntityTemplate
 
 }
 
-//editor "index(1529)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -18122,7 +17784,6 @@ EntityTemplate
 
 }
 
-//editor "index(1530)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_03"
@@ -18178,7 +17839,6 @@ EntityTemplate
 
 }
 
-//editor "index(1531)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -18234,7 +17894,6 @@ EntityTemplate
 
 }
 
-//editor "index(1532)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -18289,7 +17948,6 @@ EntityTemplate
 
 }
 
-//editor "index(1533)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -18343,7 +18001,6 @@ EntityTemplate
 
 }
 
-//editor "index(1534)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -18398,7 +18055,6 @@ EntityTemplate
 
 }
 
-//editor "index(1535)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -18454,7 +18110,6 @@ EntityTemplate
 
 }
 
-//editor "index(1536)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -18509,7 +18164,6 @@ EntityTemplate
 
 }
 
-//editor "index(1537)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -18563,7 +18217,6 @@ EntityTemplate
 
 }
 
-//editor "index(1538)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -18619,7 +18272,6 @@ EntityTemplate
 
 }
 
-//editor "index(1539)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_03"
@@ -18673,7 +18325,6 @@ EntityTemplate
 
 }
 
-//editor "index(1540)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -18720,7 +18371,6 @@ EntityTemplate
 
 }
 
-//editor "index(1541)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -18774,7 +18424,6 @@ EntityTemplate
 
 }
 
-//editor "index(1542)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -18827,7 +18476,6 @@ EntityTemplate
 
 }
 
-//editor "index(1543)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -18880,7 +18528,6 @@ EntityTemplate
 
 }
 
-//editor "index(1544)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -18934,7 +18581,6 @@ EntityTemplate
 
 }
 
-//editor "index(1545)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -18987,7 +18633,6 @@ EntityTemplate
 
 }
 
-//editor "index(1546)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -19040,7 +18685,6 @@ EntityTemplate
 
 }
 
-//editor "index(1547)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_01"
@@ -19088,7 +18732,6 @@ EntityTemplate
 
 }
 
-//editor "index(1548)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_02"
@@ -19143,7 +18786,6 @@ EntityTemplate
 
 }
 
-//editor "index(1549)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_03"
@@ -19198,7 +18840,6 @@ EntityTemplate
 
 }
 
-//editor "index(1550)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_04"
@@ -19253,7 +18894,6 @@ EntityTemplate
 
 }
 
-//editor "index(1551)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_05"
@@ -19309,7 +18949,6 @@ EntityTemplate
 
 }
 
-//editor "index(1552)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_01"
@@ -19365,7 +19004,6 @@ EntityTemplate
 
 }
 
-//editor "index(1553)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_02"
@@ -19421,7 +19059,6 @@ EntityTemplate
 
 }
 
-//editor "index(1554)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_06"
@@ -19477,7 +19114,6 @@ EntityTemplate
 
 }
 
-//editor "index(1555)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_01"
@@ -19532,7 +19168,6 @@ EntityTemplate
 
 }
 
-//editor "index(1556)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_02"
@@ -19587,7 +19222,6 @@ EntityTemplate
 
 }
 
-//editor "index(1557)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_03"
@@ -19642,7 +19276,6 @@ EntityTemplate
 
 }
 
-//editor "index(1558)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_big_02"
@@ -19697,7 +19330,6 @@ EntityTemplate
 
 }
 
-//editor "index(1559)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_05"
@@ -19753,7 +19385,6 @@ EntityTemplate
 
 }
 
-//editor "index(1560)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_05"
@@ -19808,7 +19439,6 @@ EntityTemplate
 
 }
 
-//editor "index(1561)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_06"
@@ -19863,7 +19493,6 @@ EntityTemplate
 
 }
 
-//editor "index(1562)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_07"
@@ -19918,7 +19547,6 @@ EntityTemplate
 
 }
 
-//editor "index(1563)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_07"
@@ -19974,7 +19602,6 @@ EntityTemplate
 
 }
 
-//editor "index(1564)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_07"
@@ -20030,7 +19657,6 @@ EntityTemplate
 
 }
 
-//editor "index(1565)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_07"
@@ -20086,7 +19712,6 @@ EntityTemplate
 
 }
 
-//editor "index(1566)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20138,7 +19763,6 @@ EntityTemplate
 
 }
 
-//editor "index(1567)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20191,7 +19815,6 @@ EntityTemplate
 
 }
 
-//editor "index(1568)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20244,7 +19867,6 @@ EntityTemplate
 
 }
 
-//editor "index(1569)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20297,7 +19919,6 @@ EntityTemplate
 
 }
 
-//editor "index(1570)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20350,7 +19971,6 @@ EntityTemplate
 
 }
 
-//editor "index(1571)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20403,7 +20023,6 @@ EntityTemplate
 
 }
 
-//editor "index(1572)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20456,7 +20075,6 @@ EntityTemplate
 
 }
 
-//editor "index(1573)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20509,7 +20127,6 @@ EntityTemplate
 
 }
 
-//editor "index(1574)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20562,7 +20179,6 @@ EntityTemplate
 
 }
 
-//editor "index(1575)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20615,7 +20231,6 @@ EntityTemplate
 
 }
 
-//editor "index(1576)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20663,7 +20278,6 @@ EntityTemplate
 
 }
 
-//editor "index(1577)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20717,7 +20331,6 @@ EntityTemplate
 
 }
 
-//editor "index(1578)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20771,7 +20384,6 @@ EntityTemplate
 
 }
 
-//editor "index(1579)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20824,7 +20436,6 @@ EntityTemplate
 
 }
 
-//editor "index(1580)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_02"
@@ -20878,7 +20489,6 @@ EntityTemplate
 
 }
 
-//editor "index(1581)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20932,7 +20542,6 @@ EntityTemplate
 
 }
 
-//editor "index(1582)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_01"
@@ -20985,7 +20594,6 @@ EntityTemplate
 
 }
 
-//editor "index(1584)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_debris_03"
@@ -21038,7 +20646,6 @@ EntityTemplate
 
 }
 
-//editor "index(1585)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -21092,7 +20699,6 @@ EntityTemplate
 
 }
 
-//editor "index(1586)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -21147,7 +20753,6 @@ EntityTemplate
 
 }
 
-//editor "index(1587)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_02"
@@ -21201,7 +20806,6 @@ EntityTemplate
 
 }
 
-//editor "index(1588)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -21255,7 +20859,6 @@ EntityTemplate
 
 }
 
-//editor "index(1589)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_02"
@@ -21310,7 +20913,6 @@ EntityTemplate
 
 }
 
-//editor "index(1590)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -21364,7 +20966,6 @@ EntityTemplate
 
 }
 
-//editor "index(1591)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -21418,7 +21019,6 @@ EntityTemplate
 
 }
 
-//editor "index(1592)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -21473,7 +21073,6 @@ EntityTemplate
 
 }
 
-//editor "index(1593)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -21527,7 +21126,6 @@ EntityTemplate
 
 }
 
-//editor "index(1594)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"
@@ -21575,7 +21173,6 @@ EntityTemplate
 
 }
 
-//editor "index(1595)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -21629,7 +21226,6 @@ EntityTemplate
 
 }
 
-//editor "index(1596)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -21683,7 +21279,6 @@ EntityTemplate
 
 }
 
-//editor "index(1597)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_medium_01"
@@ -21737,7 +21332,6 @@ EntityTemplate
 
 }
 
-//editor "index(1598)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_03"
@@ -21792,7 +21386,6 @@ EntityTemplate
 
 }
 
-//editor "index(1599)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -21847,7 +21440,6 @@ EntityTemplate
 
 }
 
-//editor "index(1601)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_alien_tower_artillery"
@@ -21901,7 +21493,6 @@ EntityTemplate
 
 }
 
-//editor "index(1602)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_alien_tower_artillery"
@@ -21955,7 +21546,6 @@ EntityTemplate
 
 }
 
-//editor "index(1603)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_alien_tower_basic"
@@ -22009,7 +21599,6 @@ EntityTemplate
 
 }
 
-//editor "index(1604)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_alien_tower_basic"
@@ -22062,7 +21651,6 @@ EntityTemplate
 
 }
 
-//editor "index(1605)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_alien_tower_basic"
@@ -22109,7 +21697,6 @@ EntityTemplate
 
 }
 
-//editor "index(1606)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_alien_tower_basic"
@@ -22162,7 +21749,6 @@ EntityTemplate
 
 }
 
-//editor "index(1608)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_alien_tower_basic"
@@ -22215,7 +21801,6 @@ EntityTemplate
 
 }
 
-//editor "index(1609)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_alien_tower_basic"
@@ -22269,7 +21854,6 @@ EntityTemplate
 
 }
 
-//editor "index(1610)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -22322,7 +21906,6 @@ EntityTemplate
 
 }
 
-//editor "index(1611)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -22375,7 +21958,6 @@ EntityTemplate
 
 }
 
-//editor "index(1612)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -22428,7 +22010,6 @@ EntityTemplate
 
 }
 
-//editor "index(1613)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -22482,7 +22063,6 @@ EntityTemplate
 
 }
 
-//editor "index(1614)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -22536,7 +22116,6 @@ EntityTemplate
 
 }
 
-//editor "index(1615)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -22590,7 +22169,6 @@ EntityTemplate
 
 }
 
-//editor "index(1616)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -22644,7 +22222,6 @@ EntityTemplate
 
 }
 
-//editor "index(1617)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -22699,7 +22276,6 @@ EntityTemplate
 
 }
 
-//editor "index(1618)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_cube/metallic_cube_medium_05"
@@ -22755,7 +22331,6 @@ EntityTemplate
 
 }
 
-//editor "index(1619)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -22810,7 +22385,6 @@ EntityTemplate
 
 }
 
-//editor "index(1620)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_01"
@@ -22858,7 +22432,6 @@ EntityTemplate
 
 }
 
-//editor "index(1621)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -22906,7 +22479,6 @@ EntityTemplate
 
 }
 
-//editor "index(1622)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -22961,7 +22533,6 @@ EntityTemplate
 
 }
 
-//editor "index(1623)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_big_02"
@@ -23016,7 +22587,6 @@ EntityTemplate
 
 }
 
-//editor "index(1624)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -23071,7 +22641,6 @@ EntityTemplate
 
 }
 
-//editor "index(1625)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -23126,7 +22695,6 @@ EntityTemplate
 
 }
 
-//editor "index(1626)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -23181,7 +22749,6 @@ EntityTemplate
 
 }
 
-//editor "index(1627)"
 EntityTemplate
 {
 	base_blueprint "props/special/alien_structures/hitech_structure_small_01"

@@ -1,7 +1,5 @@
 entity_count "166"
-//editor "index(545)"
 
-//editor "index(546)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -54,7 +52,6 @@ EntityTemplate
 
 }
 
-//editor "index(547)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -113,7 +110,6 @@ EntityTemplate
 
 }
 
-//editor "index(548)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -171,7 +167,6 @@ EntityTemplate
 
 }
 
-//editor "index(549)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -230,7 +225,6 @@ EntityTemplate
 
 }
 
-//editor "index(550)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -289,7 +283,6 @@ EntityTemplate
 
 }
 
-//editor "index(552)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -348,7 +341,6 @@ EntityTemplate
 
 }
 
-//editor "index(553)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -407,7 +399,6 @@ EntityTemplate
 
 }
 
-//editor "index(555)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -466,9 +457,7 @@ EntityTemplate
 
 }
 
-//editor "index(556)"
 
-//editor "index(842)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_08_A"
@@ -516,7 +505,6 @@ EntityTemplate
 
 }
 
-//editor "index(843)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_02"
@@ -564,7 +552,6 @@ EntityTemplate
 
 }
 
-//editor "index(845)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_03"
@@ -618,7 +605,6 @@ EntityTemplate
 
 }
 
-//editor "index(846)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_04"
@@ -671,7 +657,6 @@ EntityTemplate
 
 }
 
-//editor "index(847)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_04"
@@ -719,7 +704,6 @@ EntityTemplate
 
 }
 
-//editor "index(851)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_01"
@@ -773,7 +757,6 @@ EntityTemplate
 
 }
 
-//editor "index(852)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_02"
@@ -826,7 +809,6 @@ EntityTemplate
 
 }
 
-//editor "index(853)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_03"
@@ -879,7 +861,6 @@ EntityTemplate
 
 }
 
-//editor "index(860)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_04"
@@ -933,7 +914,6 @@ EntityTemplate
 
 }
 
-//editor "index(861)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_06"
@@ -988,7 +968,6 @@ EntityTemplate
 
 }
 
-//editor "index(862)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_08_C"
@@ -1036,7 +1015,6 @@ EntityTemplate
 
 }
 
-//editor "index(864)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_08_D"
@@ -1097,7 +1075,6 @@ EntityTemplate
 
 }
 
-//editor "index(865)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_05"
@@ -1151,7 +1128,6 @@ EntityTemplate
 
 }
 
-//editor "index(887)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_small_04"
@@ -1205,7 +1181,6 @@ EntityTemplate
 
 }
 
-//editor "index(890)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_01"
@@ -1259,7 +1234,6 @@ EntityTemplate
 
 }
 
-//editor "index(924)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_04"
@@ -1313,7 +1287,6 @@ EntityTemplate
 
 }
 
-//editor "index(1299)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1361,9 +1334,7 @@ EntityTemplate
 
 }
 
-//editor "index(1300)"
 
-//editor "index(1303)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1411,7 +1382,6 @@ EntityTemplate
 
 }
 
-//editor "index(1305)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1465,7 +1435,6 @@ EntityTemplate
 
 }
 
-//editor "index(1308)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1519,7 +1488,6 @@ EntityTemplate
 
 }
 
-//editor "index(1309)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1573,7 +1541,6 @@ EntityTemplate
 
 }
 
-//editor "index(1310)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1627,7 +1594,6 @@ EntityTemplate
 
 }
 
-//editor "index(1314)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1682,7 +1648,6 @@ EntityTemplate
 
 }
 
-//editor "index(1315)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1736,7 +1701,6 @@ EntityTemplate
 
 }
 
-//editor "index(1316)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1796,7 +1760,6 @@ EntityTemplate
 
 }
 
-//editor "index(1317)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1850,7 +1813,6 @@ EntityTemplate
 
 }
 
-//editor "index(1318)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1910,7 +1872,6 @@ EntityTemplate
 
 }
 
-//editor "index(1319)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1970,9 +1931,7 @@ EntityTemplate
 
 }
 
-//editor "index(1320)"
 
-//editor "index(1328)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_01"
@@ -2020,7 +1979,6 @@ EntityTemplate
 
 }
 
-//editor "index(1329)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_02"
@@ -2068,7 +2026,6 @@ EntityTemplate
 
 }
 
-//editor "index(1330)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_03"
@@ -2116,7 +2073,6 @@ EntityTemplate
 
 }
 
-//editor "index(1332)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_05"
@@ -2164,7 +2120,6 @@ EntityTemplate
 
 }
 
-//editor "index(1333)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_06"
@@ -2212,7 +2167,6 @@ EntityTemplate
 
 }
 
-//editor "index(1334)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_06"
@@ -2266,7 +2220,6 @@ EntityTemplate
 
 }
 
-//editor "index(1335)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_08_A"
@@ -2314,7 +2267,6 @@ EntityTemplate
 
 }
 
-//editor "index(1336)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_08_B"
@@ -2362,7 +2314,6 @@ EntityTemplate
 
 }
 
-//editor "index(1337)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_08_C"
@@ -2410,7 +2361,6 @@ EntityTemplate
 
 }
 
-//editor "index(1338)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_08_D"
@@ -2458,7 +2408,6 @@ EntityTemplate
 
 }
 
-//editor "index(1339)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_09"
@@ -2506,7 +2455,6 @@ EntityTemplate
 
 }
 
-//editor "index(1340)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_09"
@@ -2554,7 +2502,6 @@ EntityTemplate
 
 }
 
-//editor "index(1341)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_big_10"
@@ -2602,7 +2549,6 @@ EntityTemplate
 
 }
 
-//editor "index(1342)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_01"
@@ -2650,7 +2596,6 @@ EntityTemplate
 
 }
 
-//editor "index(1343)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_03"
@@ -2705,7 +2650,6 @@ EntityTemplate
 
 }
 
-//editor "index(1344)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_03"
@@ -2760,7 +2704,6 @@ EntityTemplate
 
 }
 
-//editor "index(1345)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_03"
@@ -2815,7 +2758,6 @@ EntityTemplate
 
 }
 
-//editor "index(1346)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_04"
@@ -2863,7 +2805,6 @@ EntityTemplate
 
 }
 
-//editor "index(1347)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_04"
@@ -2917,7 +2858,6 @@ EntityTemplate
 
 }
 
-//editor "index(1348)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_medium_05"
@@ -2971,7 +2911,6 @@ EntityTemplate
 
 }
 
-//editor "index(1349)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_small_01"
@@ -3019,7 +2958,6 @@ EntityTemplate
 
 }
 
-//editor "index(1350)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_small_02"
@@ -3067,7 +3005,6 @@ EntityTemplate
 
 }
 
-//editor "index(1351)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_small_03"
@@ -3115,7 +3052,6 @@ EntityTemplate
 
 }
 
-//editor "index(1352)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_small_04"
@@ -3163,7 +3099,6 @@ EntityTemplate
 
 }
 
-//editor "index(1353)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_small_05"
@@ -3219,7 +3154,6 @@ EntityTemplate
 
 }
 
-//editor "index(1354)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_01"
@@ -3267,7 +3201,6 @@ EntityTemplate
 
 }
 
-//editor "index(1355)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_01"
@@ -3315,7 +3248,6 @@ EntityTemplate
 
 }
 
-//editor "index(1356)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_01"
@@ -3362,7 +3294,6 @@ EntityTemplate
 
 }
 
-//editor "index(1357)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_01"
@@ -3409,7 +3340,6 @@ EntityTemplate
 
 }
 
-//editor "index(1358)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_01"
@@ -3457,7 +3387,6 @@ EntityTemplate
 
 }
 
-//editor "index(1359)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_01"
@@ -3505,7 +3434,6 @@ EntityTemplate
 
 }
 
-//editor "index(1360)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_01"
@@ -3552,7 +3480,6 @@ EntityTemplate
 
 }
 
-//editor "index(1361)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_01"
@@ -3599,7 +3526,6 @@ EntityTemplate
 
 }
 
-//editor "index(1362)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_01"
@@ -3646,7 +3572,6 @@ EntityTemplate
 
 }
 
-//editor "index(1363)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -3693,7 +3618,6 @@ EntityTemplate
 
 }
 
-//editor "index(1364)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -3740,7 +3664,6 @@ EntityTemplate
 
 }
 
-//editor "index(1365)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -3788,7 +3711,6 @@ EntityTemplate
 
 }
 
-//editor "index(1366)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -3835,7 +3757,6 @@ EntityTemplate
 
 }
 
-//editor "index(1367)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -3883,7 +3804,6 @@ EntityTemplate
 
 }
 
-//editor "index(1368)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -3931,7 +3851,6 @@ EntityTemplate
 
 }
 
-//editor "index(1369)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -3978,7 +3897,6 @@ EntityTemplate
 
 }
 
-//editor "index(1370)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -4026,7 +3944,6 @@ EntityTemplate
 
 }
 
-//editor "index(1371)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_03"
@@ -4073,7 +3990,6 @@ EntityTemplate
 
 }
 
-//editor "index(1372)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -4120,7 +4036,6 @@ EntityTemplate
 
 }
 
-//editor "index(1373)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -4167,7 +4082,6 @@ EntityTemplate
 
 }
 
-//editor "index(1374)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -4214,7 +4128,6 @@ EntityTemplate
 
 }
 
-//editor "index(1375)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -4262,7 +4175,6 @@ EntityTemplate
 
 }
 
-//editor "index(1376)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -4309,7 +4221,6 @@ EntityTemplate
 
 }
 
-//editor "index(1377)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -4357,7 +4268,6 @@ EntityTemplate
 
 }
 
-//editor "index(1378)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_04"
@@ -4404,7 +4314,6 @@ EntityTemplate
 
 }
 
-//editor "index(1379)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_02"
@@ -4452,7 +4361,6 @@ EntityTemplate
 
 }
 
-//editor "index(1381)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_04"
@@ -4500,7 +4408,6 @@ EntityTemplate
 
 }
 
-//editor "index(1382)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_04"
@@ -4548,7 +4455,6 @@ EntityTemplate
 
 }
 
-//editor "index(1383)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_debris_04"
@@ -4595,7 +4501,6 @@ EntityTemplate
 
 }
 
-//editor "index(1384)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cudgle/cudgle_small_01"
@@ -4643,7 +4548,6 @@ EntityTemplate
 
 }
 
-//editor "index(1538)"
 EntityTemplate
 {
 	base_blueprint "props/bush/ray_flower_very_small_01_skin1"
@@ -4697,7 +4601,6 @@ EntityTemplate
 
 }
 
-//editor "index(1549)"
 EntityTemplate
 {
 	base_blueprint "props/bush/ray_flower_very_small_02_skin1"
@@ -4751,7 +4654,6 @@ EntityTemplate
 
 }
 
-//editor "index(1729)"
 EntityTemplate
 {
 	base_blueprint "props/bush/ray_flower_very_small_03_skin1"
@@ -4805,7 +4707,6 @@ EntityTemplate
 
 }
 
-//editor "index(2317)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_01_skin3"
@@ -4860,7 +4761,6 @@ EntityTemplate
 
 }
 
-//editor "index(2318)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_03_skin3"
@@ -4914,7 +4814,6 @@ EntityTemplate
 
 }
 
-//editor "index(2319)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_03_skin3"
@@ -4962,7 +4861,6 @@ EntityTemplate
 
 }
 
-//editor "index(2320)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_01_skin3"
@@ -5017,7 +4915,6 @@ EntityTemplate
 
 }
 
-//editor "index(2321)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_01_skin3"
@@ -5065,7 +4962,6 @@ EntityTemplate
 
 }
 
-//editor "index(2323)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_01_skin3"
@@ -5113,7 +5009,6 @@ EntityTemplate
 
 }
 
-//editor "index(2324)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_01_skin3"
@@ -5161,7 +5056,6 @@ EntityTemplate
 
 }
 
-//editor "index(2325)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_01_skin3"
@@ -5216,7 +5110,6 @@ EntityTemplate
 
 }
 
-//editor "index(2326)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_01_skin3"
@@ -5264,7 +5157,6 @@ EntityTemplate
 
 }
 
-//editor "index(2327)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_06_skin3"
@@ -5319,7 +5211,6 @@ EntityTemplate
 
 }
 
-//editor "index(2328)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_06_skin3"
@@ -5367,7 +5258,6 @@ EntityTemplate
 
 }
 
-//editor "index(2329)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_06_skin3"
@@ -5415,7 +5305,6 @@ EntityTemplate
 
 }
 
-//editor "index(2330)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_06_skin3"
@@ -5463,7 +5352,6 @@ EntityTemplate
 
 }
 
-//editor "index(2331)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_06_skin3"
@@ -5518,7 +5406,6 @@ EntityTemplate
 
 }
 
-//editor "index(2332)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_06_skin3"
@@ -5566,7 +5453,6 @@ EntityTemplate
 
 }
 
-//editor "index(2333)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_06_skin3"
@@ -5614,7 +5500,6 @@ EntityTemplate
 
 }
 
-//editor "index(2334)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_06_skin3"
@@ -5662,7 +5547,6 @@ EntityTemplate
 
 }
 
-//editor "index(2335)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_06_skin3"
@@ -5717,7 +5601,6 @@ EntityTemplate
 
 }
 
-//editor "index(2336)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_06_skin3"
@@ -5765,7 +5648,6 @@ EntityTemplate
 
 }
 
-//editor "index(2337)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_01_skin3"
@@ -5821,7 +5703,6 @@ EntityTemplate
 
 }
 
-//editor "index(2338)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_01_skin3"
@@ -5876,7 +5757,6 @@ EntityTemplate
 
 }
 
-//editor "index(2340)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_03"
@@ -5924,7 +5804,6 @@ EntityTemplate
 
 }
 
-//editor "index(2341)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_03"
@@ -5972,7 +5851,6 @@ EntityTemplate
 
 }
 
-//editor "index(2342)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_03"
@@ -6020,7 +5898,6 @@ EntityTemplate
 
 }
 
-//editor "index(2343)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_03"
@@ -6068,7 +5945,6 @@ EntityTemplate
 
 }
 
-//editor "index(2344)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_03"
@@ -6116,7 +5992,6 @@ EntityTemplate
 
 }
 
-//editor "index(2345)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_03"
@@ -6164,7 +6039,6 @@ EntityTemplate
 
 }
 
-//editor "index(2346)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_03"
@@ -6212,7 +6086,6 @@ EntityTemplate
 
 }
 
-//editor "index(2347)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_03"
@@ -6260,7 +6133,6 @@ EntityTemplate
 
 }
 
-//editor "index(2348)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_01"
@@ -6308,7 +6180,6 @@ EntityTemplate
 
 }
 
-//editor "index(2349)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_01"
@@ -6356,7 +6227,6 @@ EntityTemplate
 
 }
 
-//editor "index(2350)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_01"
@@ -6404,7 +6274,6 @@ EntityTemplate
 
 }
 
-//editor "index(2351)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_01"
@@ -6452,7 +6321,6 @@ EntityTemplate
 
 }
 
-//editor "index(2352)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_01"
@@ -6500,7 +6368,6 @@ EntityTemplate
 
 }
 
-//editor "index(2353)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_01"
@@ -6548,7 +6415,6 @@ EntityTemplate
 
 }
 
-//editor "index(2354)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/pearls_very_small_01"
@@ -6596,7 +6462,6 @@ EntityTemplate
 
 }
 
-//editor "index(2357)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin3"
@@ -6644,7 +6509,6 @@ EntityTemplate
 
 }
 
-//editor "index(2358)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin3"
@@ -6692,7 +6556,6 @@ EntityTemplate
 
 }
 
-//editor "index(2359)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin3"
@@ -6747,7 +6610,6 @@ EntityTemplate
 
 }
 
-//editor "index(2360)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin3"
@@ -6795,7 +6657,6 @@ EntityTemplate
 
 }
 
-//editor "index(2361)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin3"
@@ -6843,7 +6704,6 @@ EntityTemplate
 
 }
 
-//editor "index(2362)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin3"
@@ -6898,7 +6758,6 @@ EntityTemplate
 
 }
 
-//editor "index(2363)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin3"
@@ -6946,7 +6805,6 @@ EntityTemplate
 
 }
 
-//editor "index(2364)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -6994,7 +6852,6 @@ EntityTemplate
 
 }
 
-//editor "index(2365)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -7042,7 +6899,6 @@ EntityTemplate
 
 }
 
-//editor "index(2366)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -7090,11 +6946,8 @@ EntityTemplate
 
 }
 
-//editor "index(2367)"
 
-//editor "index(2368)"
 
-//editor "index(2369)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -7148,7 +7001,6 @@ EntityTemplate
 
 }
 
-//editor "index(2373)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -7203,7 +7055,6 @@ EntityTemplate
 
 }
 
-//editor "index(2374)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -7258,7 +7109,6 @@ EntityTemplate
 
 }
 
-//editor "index(2375)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -7313,7 +7163,6 @@ EntityTemplate
 
 }
 
-//editor "index(2376)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -7368,7 +7217,6 @@ EntityTemplate
 
 }
 
-//editor "index(2377)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -7423,7 +7271,6 @@ EntityTemplate
 
 }
 
-//editor "index(2378)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -7478,7 +7325,6 @@ EntityTemplate
 
 }
 
-//editor "index(2379)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -7533,7 +7379,6 @@ EntityTemplate
 
 }
 
-//editor "index(2380)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -7588,7 +7433,6 @@ EntityTemplate
 
 }
 
-//editor "index(2381)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -7643,7 +7487,6 @@ EntityTemplate
 
 }
 
-//editor "index(2382)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -7698,9 +7541,7 @@ EntityTemplate
 
 }
 
-//editor "index(2383)"
 
-//editor "index(2384)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7759,7 +7600,6 @@ EntityTemplate
 
 }
 
-//editor "index(2385)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7818,7 +7658,6 @@ EntityTemplate
 
 }
 
-//editor "index(2386)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7877,9 +7716,7 @@ EntityTemplate
 
 }
 
-//editor "index(2387)"
 
-//editor "index(2388)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -7934,7 +7771,6 @@ EntityTemplate
 
 }
 
-//editor "index(2389)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -7989,7 +7825,6 @@ EntityTemplate
 
 }
 
-//editor "index(2390)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -8044,7 +7879,6 @@ EntityTemplate
 
 }
 
-//editor "index(2391)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"

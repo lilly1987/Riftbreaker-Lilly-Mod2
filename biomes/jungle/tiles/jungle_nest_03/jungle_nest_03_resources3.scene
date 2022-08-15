@@ -1,5 +1,4 @@
 entity_count "244"
-//editor "index(2)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -59,7 +58,6 @@ EntityTemplate
 
 }
 
-//editor "index(4)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -113,7 +111,6 @@ EntityTemplate
 
 }
 
-//editor "index(5)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -166,7 +163,6 @@ EntityTemplate
 
 }
 
-//editor "index(7)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -219,7 +215,6 @@ EntityTemplate
 
 }
 
-//editor "index(8)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -278,7 +273,6 @@ EntityTemplate
 
 }
 
-//editor "index(11)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -331,7 +325,6 @@ EntityTemplate
 
 }
 
-//editor "index(84)"
 EntityTemplate
 {
 	base_blueprint "props/trees/palm_small_02_skin1"
@@ -385,7 +378,6 @@ EntityTemplate
 
 }
 
-//editor "index(91)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -438,7 +430,6 @@ EntityTemplate
 
 }
 
-//editor "index(120)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -491,7 +482,6 @@ EntityTemplate
 
 }
 
-//editor "index(185)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -544,7 +534,6 @@ EntityTemplate
 
 }
 
-//editor "index(200)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -597,7 +586,6 @@ EntityTemplate
 
 }
 
-//editor "index(222)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -651,7 +639,6 @@ EntityTemplate
 
 }
 
-//editor "index(242)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -704,7 +691,6 @@ EntityTemplate
 
 }
 
-//editor "index(256)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -757,7 +743,6 @@ EntityTemplate
 
 }
 
-//editor "index(318)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -810,7 +795,6 @@ EntityTemplate
 
 }
 
-//editor "index(324)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_02"
@@ -864,7 +848,6 @@ EntityTemplate
 
 }
 
-//editor "index(343)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_medium_02"
@@ -917,7 +900,6 @@ EntityTemplate
 
 }
 
-//editor "index(358)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -970,7 +952,6 @@ EntityTemplate
 
 }
 
-//editor "index(398)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_04"
@@ -1026,7 +1007,6 @@ EntityTemplate
 
 }
 
-//editor "index(399)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -1079,7 +1059,6 @@ EntityTemplate
 
 }
 
-//editor "index(499)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -1133,7 +1112,6 @@ EntityTemplate
 
 }
 
-//editor "index(500)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -1187,7 +1165,6 @@ EntityTemplate
 
 }
 
-//editor "index(501)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -1241,7 +1218,6 @@ EntityTemplate
 
 }
 
-//editor "index(502)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -1295,7 +1271,6 @@ EntityTemplate
 
 }
 
-//editor "index(503)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_05"
@@ -1349,7 +1324,6 @@ EntityTemplate
 
 }
 
-//editor "index(506)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_05"
@@ -1403,7 +1377,6 @@ EntityTemplate
 
 }
 
-//editor "index(920)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -1457,7 +1430,6 @@ EntityTemplate
 
 }
 
-//editor "index(921)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -1511,7 +1483,6 @@ EntityTemplate
 
 }
 
-//editor "index(932)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -1565,7 +1536,6 @@ EntityTemplate
 
 }
 
-//editor "index(933)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -1618,7 +1588,6 @@ EntityTemplate
 
 }
 
-//editor "index(934)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_03"
@@ -1671,7 +1640,6 @@ EntityTemplate
 
 }
 
-//editor "index(1062)"
 EntityTemplate
 {
 	components
@@ -1743,7 +1711,6 @@ EntityTemplate
 
 }
 
-//editor "index(1064)"
 EntityTemplate
 {
 	components
@@ -1816,7 +1783,6 @@ EntityTemplate
 
 }
 
-//editor "index(1065)"
 EntityTemplate
 {
 	components
@@ -1889,7 +1855,6 @@ EntityTemplate
 
 }
 
-//editor "index(1066)"
 EntityTemplate
 {
 	components
@@ -1962,11 +1927,8 @@ EntityTemplate
 
 }
 
-//editor "index(1093)"
 
-//editor "index(1094)"
 
-//editor "index(1095)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -2018,7 +1980,6 @@ EntityTemplate
 
 }
 
-//editor "index(1096)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -2070,7 +2031,6 @@ EntityTemplate
 
 }
 
-//editor "index(1097)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -2128,7 +2088,6 @@ EntityTemplate
 
 }
 
-//editor "index(1098)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -2186,7 +2145,6 @@ EntityTemplate
 
 }
 
-//editor "index(1099)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -2244,7 +2202,6 @@ EntityTemplate
 
 }
 
-//editor "index(1100)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2297,7 +2254,6 @@ EntityTemplate
 
 }
 
-//editor "index(1101)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2350,7 +2306,6 @@ EntityTemplate
 
 }
 
-//editor "index(1102)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2403,7 +2358,6 @@ EntityTemplate
 
 }
 
-//editor "index(1103)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2456,7 +2410,6 @@ EntityTemplate
 
 }
 
-//editor "index(1104)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2509,7 +2462,6 @@ EntityTemplate
 
 }
 
-//editor "index(1106)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2556,7 +2508,6 @@ EntityTemplate
 
 }
 
-//editor "index(1107)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2609,7 +2560,6 @@ EntityTemplate
 
 }
 
-//editor "index(1108)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -2662,7 +2612,6 @@ EntityTemplate
 
 }
 
-//editor "index(1235)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_01"
@@ -2709,7 +2658,6 @@ EntityTemplate
 
 }
 
-//editor "index(1236)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_02"
@@ -2756,7 +2704,6 @@ EntityTemplate
 
 }
 
-//editor "index(1238)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_04"
@@ -2803,7 +2750,6 @@ EntityTemplate
 
 }
 
-//editor "index(1239)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_05"
@@ -2857,7 +2803,6 @@ EntityTemplate
 
 }
 
-//editor "index(1240)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_06"
@@ -2905,7 +2850,6 @@ EntityTemplate
 
 }
 
-//editor "index(1241)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_07"
@@ -2952,7 +2896,6 @@ EntityTemplate
 
 }
 
-//editor "index(1243)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_medium_02"
@@ -2999,7 +2942,6 @@ EntityTemplate
 
 }
 
-//editor "index(1247)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_small_03"
@@ -3047,7 +2989,6 @@ EntityTemplate
 
 }
 
-//editor "index(1248)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -3100,7 +3041,6 @@ EntityTemplate
 
 }
 
-//editor "index(1296)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_01_skin1"
@@ -3153,7 +3093,6 @@ EntityTemplate
 
 }
 
-//editor "index(1297)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_02_skin1"
@@ -3201,7 +3140,6 @@ EntityTemplate
 
 }
 
-//editor "index(1298)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_big_03_skin1"
@@ -3249,7 +3187,6 @@ EntityTemplate
 
 }
 
-//editor "index(1299)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_01_skin1"
@@ -3303,7 +3240,6 @@ EntityTemplate
 
 }
 
-//editor "index(1300)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_02_skin1"
@@ -3356,7 +3292,6 @@ EntityTemplate
 
 }
 
-//editor "index(1301)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_medium_03_skin1"
@@ -3404,7 +3339,6 @@ EntityTemplate
 
 }
 
-//editor "index(1302)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_01_skin1"
@@ -3452,7 +3386,6 @@ EntityTemplate
 
 }
 
-//editor "index(1303)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_small_02_skin1"
@@ -3506,7 +3439,6 @@ EntityTemplate
 
 }
 
-//editor "index(1304)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -3567,7 +3499,6 @@ EntityTemplate
 
 }
 
-//editor "index(1318)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_06"
@@ -3620,7 +3551,6 @@ EntityTemplate
 
 }
 
-//editor "index(1319)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_06"
@@ -3675,7 +3605,6 @@ EntityTemplate
 
 }
 
-//editor "index(1320)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_05"
@@ -3731,7 +3660,6 @@ EntityTemplate
 
 }
 
-//editor "index(1321)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_06"
@@ -3785,7 +3713,6 @@ EntityTemplate
 
 }
 
-//editor "index(1322)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_02"
@@ -3832,7 +3759,6 @@ EntityTemplate
 
 }
 
-//editor "index(1323)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_medium_02"
@@ -3880,7 +3806,6 @@ EntityTemplate
 
 }
 
-//editor "index(1324)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_medium_02"
@@ -3936,7 +3861,6 @@ EntityTemplate
 
 }
 
-//editor "index(1325)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_big_02"
@@ -3992,7 +3916,6 @@ EntityTemplate
 
 }
 
-//editor "index(1328)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -4040,7 +3963,6 @@ EntityTemplate
 
 }
 
-//editor "index(1329)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4100,7 +4022,6 @@ EntityTemplate
 
 }
 
-//editor "index(1330)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4161,7 +4082,6 @@ EntityTemplate
 
 }
 
-//editor "index(1331)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4222,7 +4142,6 @@ EntityTemplate
 
 }
 
-//editor "index(1332)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4283,7 +4202,6 @@ EntityTemplate
 
 }
 
-//editor "index(1333)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4344,7 +4262,6 @@ EntityTemplate
 
 }
 
-//editor "index(1334)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4404,7 +4321,6 @@ EntityTemplate
 
 }
 
-//editor "index(1335)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4465,7 +4381,6 @@ EntityTemplate
 
 }
 
-//editor "index(1336)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4528,7 +4443,6 @@ EntityTemplate
 
 }
 
-//editor "index(1337)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4591,7 +4505,6 @@ EntityTemplate
 
 }
 
-//editor "index(1338)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4651,7 +4564,6 @@ EntityTemplate
 
 }
 
-//editor "index(1339)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4712,7 +4624,6 @@ EntityTemplate
 
 }
 
-//editor "index(1340)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4772,7 +4683,6 @@ EntityTemplate
 
 }
 
-//editor "index(1341)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4832,7 +4742,6 @@ EntityTemplate
 
 }
 
-//editor "index(1342)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4894,7 +4803,6 @@ EntityTemplate
 
 }
 
-//editor "index(1343)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -4953,7 +4861,6 @@ EntityTemplate
 
 }
 
-//editor "index(1344)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5014,7 +4921,6 @@ EntityTemplate
 
 }
 
-//editor "index(1345)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5075,7 +4981,6 @@ EntityTemplate
 
 }
 
-//editor "index(1346)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5136,7 +5041,6 @@ EntityTemplate
 
 }
 
-//editor "index(1347)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5197,7 +5101,6 @@ EntityTemplate
 
 }
 
-//editor "index(1348)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5257,7 +5160,6 @@ EntityTemplate
 
 }
 
-//editor "index(1349)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5317,7 +5219,6 @@ EntityTemplate
 
 }
 
-//editor "index(1350)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5378,7 +5279,6 @@ EntityTemplate
 
 }
 
-//editor "index(1351)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5439,7 +5339,6 @@ EntityTemplate
 
 }
 
-//editor "index(1352)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5499,7 +5398,6 @@ EntityTemplate
 
 }
 
-//editor "index(1353)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5560,7 +5458,6 @@ EntityTemplate
 
 }
 
-//editor "index(1354)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5621,7 +5518,6 @@ EntityTemplate
 
 }
 
-//editor "index(1355)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5682,7 +5578,6 @@ EntityTemplate
 
 }
 
-//editor "index(1356)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5743,7 +5638,6 @@ EntityTemplate
 
 }
 
-//editor "index(1357)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5804,7 +5698,6 @@ EntityTemplate
 
 }
 
-//editor "index(1358)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5864,7 +5757,6 @@ EntityTemplate
 
 }
 
-//editor "index(1359)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5924,7 +5816,6 @@ EntityTemplate
 
 }
 
-//editor "index(1360)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -5984,7 +5875,6 @@ EntityTemplate
 
 }
 
-//editor "index(1361)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/spikybulb_very_small_01_skin1"
@@ -6047,7 +5937,6 @@ EntityTemplate
 
 }
 
-//editor "index(1600)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6095,7 +5984,6 @@ EntityTemplate
 
 }
 
-//editor "index(1601)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6142,7 +6030,6 @@ EntityTemplate
 
 }
 
-//editor "index(1602)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6190,7 +6077,6 @@ EntityTemplate
 
 }
 
-//editor "index(1603)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6243,7 +6129,6 @@ EntityTemplate
 
 }
 
-//editor "index(1605)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6296,7 +6181,6 @@ EntityTemplate
 
 }
 
-//editor "index(1606)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6350,7 +6234,6 @@ EntityTemplate
 
 }
 
-//editor "index(1607)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6403,7 +6286,6 @@ EntityTemplate
 
 }
 
-//editor "index(1608)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6456,7 +6338,6 @@ EntityTemplate
 
 }
 
-//editor "index(1609)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6510,7 +6391,6 @@ EntityTemplate
 
 }
 
-//editor "index(1610)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6564,7 +6444,6 @@ EntityTemplate
 
 }
 
-//editor "index(1611)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6617,7 +6496,6 @@ EntityTemplate
 
 }
 
-//editor "index(1612)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6670,7 +6548,6 @@ EntityTemplate
 
 }
 
-//editor "index(1613)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6723,7 +6600,6 @@ EntityTemplate
 
 }
 
-//editor "index(1614)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6777,7 +6653,6 @@ EntityTemplate
 
 }
 
-//editor "index(1615)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6831,7 +6706,6 @@ EntityTemplate
 
 }
 
-//editor "index(2313)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6884,7 +6758,6 @@ EntityTemplate
 
 }
 
-//editor "index(2314)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6937,7 +6810,6 @@ EntityTemplate
 
 }
 
-//editor "index(2315)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -6990,7 +6862,6 @@ EntityTemplate
 
 }
 
-//editor "index(2354)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -7043,7 +6914,6 @@ EntityTemplate
 
 }
 
-//editor "index(2355)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -7096,7 +6966,6 @@ EntityTemplate
 
 }
 
-//editor "index(2356)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -7149,7 +7018,6 @@ EntityTemplate
 
 }
 
-//editor "index(2357)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -7202,7 +7070,6 @@ EntityTemplate
 
 }
 
-//editor "index(2358)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -7255,7 +7122,6 @@ EntityTemplate
 
 }
 
-//editor "index(2359)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -7308,7 +7174,6 @@ EntityTemplate
 
 }
 
-//editor "index(2360)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -7361,7 +7226,6 @@ EntityTemplate
 
 }
 
-//editor "index(2361)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -7414,7 +7278,6 @@ EntityTemplate
 
 }
 
-//editor "index(2362)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -7467,7 +7330,6 @@ EntityTemplate
 
 }
 
-//editor "index(2363)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -7520,7 +7382,6 @@ EntityTemplate
 
 }
 
-//editor "index(2420)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -7573,7 +7434,6 @@ EntityTemplate
 
 }
 
-//editor "index(2434)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7626,7 +7486,6 @@ EntityTemplate
 
 }
 
-//editor "index(2435)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7679,11 +7538,8 @@ EntityTemplate
 
 }
 
-//editor "index(2436)"
 
-//editor "index(2437)"
 
-//editor "index(2438)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7737,7 +7593,6 @@ EntityTemplate
 
 }
 
-//editor "index(2439)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7791,9 +7646,7 @@ EntityTemplate
 
 }
 
-//editor "index(2447)"
 
-//editor "index(2463)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -7846,7 +7699,6 @@ EntityTemplate
 
 }
 
-//editor "index(2465)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -7899,7 +7751,6 @@ EntityTemplate
 
 }
 
-//editor "index(2466)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -7954,7 +7805,6 @@ EntityTemplate
 
 }
 
-//editor "index(2468)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -8009,7 +7859,6 @@ EntityTemplate
 
 }
 
-//editor "index(2469)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8063,7 +7912,6 @@ EntityTemplate
 
 }
 
-//editor "index(2470)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8117,7 +7965,6 @@ EntityTemplate
 
 }
 
-//editor "index(2471)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8171,7 +8018,6 @@ EntityTemplate
 
 }
 
-//editor "index(2472)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8225,7 +8071,6 @@ EntityTemplate
 
 }
 
-//editor "index(2473)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8273,7 +8118,6 @@ EntityTemplate
 
 }
 
-//editor "index(2474)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8321,7 +8165,6 @@ EntityTemplate
 
 }
 
-//editor "index(2475)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8369,7 +8212,6 @@ EntityTemplate
 
 }
 
-//editor "index(2476)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8417,7 +8259,6 @@ EntityTemplate
 
 }
 
-//editor "index(2477)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8465,7 +8306,6 @@ EntityTemplate
 
 }
 
-//editor "index(2478)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8513,7 +8353,6 @@ EntityTemplate
 
 }
 
-//editor "index(2479)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8561,7 +8400,6 @@ EntityTemplate
 
 }
 
-//editor "index(2480)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8609,7 +8447,6 @@ EntityTemplate
 
 }
 
-//editor "index(2481)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8657,7 +8494,6 @@ EntityTemplate
 
 }
 
-//editor "index(2482)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_small_03"
@@ -8705,7 +8541,6 @@ EntityTemplate
 
 }
 
-//editor "index(2483)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_medium_02"
@@ -8761,7 +8596,6 @@ EntityTemplate
 
 }
 
-//editor "index(2484)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8815,7 +8649,6 @@ EntityTemplate
 
 }
 
-//editor "index(2485)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8869,7 +8702,6 @@ EntityTemplate
 
 }
 
-//editor "index(2486)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8923,7 +8755,6 @@ EntityTemplate
 
 }
 
-//editor "index(2487)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -8977,7 +8808,6 @@ EntityTemplate
 
 }
 
-//editor "index(2488)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -9031,7 +8861,6 @@ EntityTemplate
 
 }
 
-//editor "index(2489)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_01"
@@ -9085,7 +8914,6 @@ EntityTemplate
 
 }
 
-//editor "index(2490)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -9139,7 +8967,6 @@ EntityTemplate
 
 }
 
-//editor "index(2491)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -9193,7 +9020,6 @@ EntityTemplate
 
 }
 
-//editor "index(2492)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -9247,7 +9073,6 @@ EntityTemplate
 
 }
 
-//editor "index(2493)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -9301,7 +9126,6 @@ EntityTemplate
 
 }
 
-//editor "index(2494)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -9355,7 +9179,6 @@ EntityTemplate
 
 }
 
-//editor "index(2495)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -9409,7 +9232,6 @@ EntityTemplate
 
 }
 
-//editor "index(2496)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -9463,7 +9285,6 @@ EntityTemplate
 
 }
 
-//editor "index(2497)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -9517,7 +9338,6 @@ EntityTemplate
 
 }
 
-//editor "index(2498)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -9571,7 +9391,6 @@ EntityTemplate
 
 }
 
-//editor "index(2499)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -9625,7 +9444,6 @@ EntityTemplate
 
 }
 
-//editor "index(2500)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_01"
@@ -9679,7 +9497,6 @@ EntityTemplate
 
 }
 
-//editor "index(2501)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -9733,7 +9550,6 @@ EntityTemplate
 
 }
 
-//editor "index(2502)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -9787,7 +9603,6 @@ EntityTemplate
 
 }
 
-//editor "index(2503)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -9841,7 +9656,6 @@ EntityTemplate
 
 }
 
-//editor "index(2504)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -9895,7 +9709,6 @@ EntityTemplate
 
 }
 
-//editor "index(2505)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -9949,7 +9762,6 @@ EntityTemplate
 
 }
 
-//editor "index(2506)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10003,7 +9815,6 @@ EntityTemplate
 
 }
 
-//editor "index(2507)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10057,7 +9868,6 @@ EntityTemplate
 
 }
 
-//editor "index(2508)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10111,7 +9921,6 @@ EntityTemplate
 
 }
 
-//editor "index(2509)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10165,7 +9974,6 @@ EntityTemplate
 
 }
 
-//editor "index(2510)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10219,7 +10027,6 @@ EntityTemplate
 
 }
 
-//editor "index(2511)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10273,7 +10080,6 @@ EntityTemplate
 
 }
 
-//editor "index(2512)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10327,7 +10133,6 @@ EntityTemplate
 
 }
 
-//editor "index(2513)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10381,7 +10186,6 @@ EntityTemplate
 
 }
 
-//editor "index(2514)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10435,7 +10239,6 @@ EntityTemplate
 
 }
 
-//editor "index(2515)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10489,7 +10292,6 @@ EntityTemplate
 
 }
 
-//editor "index(2516)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10543,7 +10345,6 @@ EntityTemplate
 
 }
 
-//editor "index(2517)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10597,7 +10398,6 @@ EntityTemplate
 
 }
 
-//editor "index(2518)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10651,7 +10451,6 @@ EntityTemplate
 
 }
 
-//editor "index(2519)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10705,7 +10504,6 @@ EntityTemplate
 
 }
 
-//editor "index(2520)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10759,7 +10557,6 @@ EntityTemplate
 
 }
 
-//editor "index(2521)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10813,7 +10610,6 @@ EntityTemplate
 
 }
 
-//editor "index(2522)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10867,7 +10663,6 @@ EntityTemplate
 
 }
 
-//editor "index(2523)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10921,7 +10716,6 @@ EntityTemplate
 
 }
 
-//editor "index(2524)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -10975,7 +10769,6 @@ EntityTemplate
 
 }
 
-//editor "index(2525)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11029,7 +10822,6 @@ EntityTemplate
 
 }
 
-//editor "index(2526)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11083,7 +10875,6 @@ EntityTemplate
 
 }
 
-//editor "index(2527)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11137,7 +10928,6 @@ EntityTemplate
 
 }
 
-//editor "index(2528)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11191,7 +10981,6 @@ EntityTemplate
 
 }
 
-//editor "index(2529)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11245,7 +11034,6 @@ EntityTemplate
 
 }
 
-//editor "index(2530)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11299,7 +11087,6 @@ EntityTemplate
 
 }
 
-//editor "index(2531)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11353,7 +11140,6 @@ EntityTemplate
 
 }
 
-//editor "index(2532)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11407,7 +11193,6 @@ EntityTemplate
 
 }
 
-//editor "index(2533)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11461,7 +11246,6 @@ EntityTemplate
 
 }
 
-//editor "index(2534)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11515,7 +11299,6 @@ EntityTemplate
 
 }
 
-//editor "index(2535)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11569,7 +11352,6 @@ EntityTemplate
 
 }
 
-//editor "index(2537)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11623,7 +11405,6 @@ EntityTemplate
 
 }
 
-//editor "index(2538)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11677,7 +11458,6 @@ EntityTemplate
 
 }
 
-//editor "index(2539)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11731,7 +11511,6 @@ EntityTemplate
 
 }
 
-//editor "index(2540)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11785,7 +11564,6 @@ EntityTemplate
 
 }
 
-//editor "index(2541)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11839,7 +11617,6 @@ EntityTemplate
 
 }
 
-//editor "index(2542)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11893,7 +11670,6 @@ EntityTemplate
 
 }
 
-//editor "index(2543)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -11947,7 +11723,6 @@ EntityTemplate
 
 }
 
-//editor "index(2544)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -12001,7 +11776,6 @@ EntityTemplate
 
 }
 
-//editor "index(2545)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -12055,7 +11829,6 @@ EntityTemplate
 
 }
 
-//editor "index(2546)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -12109,7 +11882,6 @@ EntityTemplate
 
 }
 
-//editor "index(2547)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -12163,7 +11935,6 @@ EntityTemplate
 
 }
 
-//editor "index(2548)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -12217,7 +11988,6 @@ EntityTemplate
 
 }
 
-//editor "index(2549)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -12271,7 +12041,6 @@ EntityTemplate
 
 }
 
-//editor "index(2550)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -12325,7 +12094,6 @@ EntityTemplate
 
 }
 
-//editor "index(2551)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_03"
@@ -12379,7 +12147,6 @@ EntityTemplate
 
 }
 
-//editor "index(2552)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -12438,7 +12205,6 @@ EntityTemplate
 
 }
 
-//editor "index(2553)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -12498,7 +12264,6 @@ EntityTemplate
 
 }
 
-//editor "index(2554)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -12558,7 +12323,6 @@ EntityTemplate
 
 }
 
-//editor "index(2555)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -12618,7 +12382,6 @@ EntityTemplate
 
 }
 
-//editor "index(2556)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -12671,7 +12434,6 @@ EntityTemplate
 
 }
 
-//editor "index(2557)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -12724,9 +12486,7 @@ EntityTemplate
 
 }
 
-//editor "index(2558)"
 
-//editor "index(2559)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12780,7 +12540,6 @@ EntityTemplate
 
 }
 
-//editor "index(2560)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12834,7 +12593,6 @@ EntityTemplate
 
 }
 
-//editor "index(2561)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12888,7 +12646,6 @@ EntityTemplate
 
 }
 
-//editor "index(2562)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12942,7 +12699,6 @@ EntityTemplate
 
 }
 
-//editor "index(2563)"
 
 
 EntityTemplate

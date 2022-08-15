@@ -1,7 +1,5 @@
 entity_count "155"
-//editor "index(545)"
 
-//editor "index(546)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -54,7 +52,6 @@ EntityTemplate
 
 }
 
-//editor "index(547)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -113,7 +110,6 @@ EntityTemplate
 
 }
 
-//editor "index(548)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -171,7 +167,6 @@ EntityTemplate
 
 }
 
-//editor "index(549)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -230,7 +225,6 @@ EntityTemplate
 
 }
 
-//editor "index(550)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -289,7 +283,6 @@ EntityTemplate
 
 }
 
-//editor "index(552)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -348,7 +341,6 @@ EntityTemplate
 
 }
 
-//editor "index(553)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -407,7 +399,6 @@ EntityTemplate
 
 }
 
-//editor "index(555)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -466,9 +457,7 @@ EntityTemplate
 
 }
 
-//editor "index(556)"
 
-//editor "index(1308)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -522,7 +511,6 @@ EntityTemplate
 
 }
 
-//editor "index(1315)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -575,7 +563,6 @@ EntityTemplate
 
 }
 
-//editor "index(1316)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -634,7 +621,6 @@ EntityTemplate
 
 }
 
-//editor "index(1317)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -687,7 +673,6 @@ EntityTemplate
 
 }
 
-//editor "index(1318)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -746,7 +731,6 @@ EntityTemplate
 
 }
 
-//editor "index(1319)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -805,9 +789,7 @@ EntityTemplate
 
 }
 
-//editor "index(1320)"
 
-//editor "index(2366)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -855,13 +837,9 @@ EntityTemplate
 
 }
 
-//editor "index(3655)"
 
-//editor "index(3656)"
 
-//editor "index(3657)"
 
-//editor "index(3670)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -916,7 +894,6 @@ EntityTemplate
 
 }
 
-//editor "index(3671)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -971,7 +948,6 @@ EntityTemplate
 
 }
 
-//editor "index(3672)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -1026,7 +1002,6 @@ EntityTemplate
 
 }
 
-//editor "index(3688)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_big_01"
@@ -1074,7 +1049,6 @@ EntityTemplate
 
 }
 
-//editor "index(3689)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_big_02"
@@ -1122,7 +1096,6 @@ EntityTemplate
 
 }
 
-//editor "index(3690)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_01"
@@ -1176,7 +1149,6 @@ EntityTemplate
 
 }
 
-//editor "index(3691)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -1230,7 +1202,6 @@ EntityTemplate
 
 }
 
-//editor "index(3692)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -1283,7 +1254,6 @@ EntityTemplate
 
 }
 
-//editor "index(3693)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -1337,7 +1307,6 @@ EntityTemplate
 
 }
 
-//editor "index(3694)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -1391,7 +1360,6 @@ EntityTemplate
 
 }
 
-//editor "index(3695)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -1445,7 +1413,6 @@ EntityTemplate
 
 }
 
-//editor "index(3696)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -1492,7 +1459,6 @@ EntityTemplate
 
 }
 
-//editor "index(3697)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -1545,7 +1511,6 @@ EntityTemplate
 
 }
 
-//editor "index(3698)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -1599,7 +1564,6 @@ EntityTemplate
 
 }
 
-//editor "index(3761)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_02"
@@ -1653,7 +1617,6 @@ EntityTemplate
 
 }
 
-//editor "index(3767)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -1706,7 +1669,6 @@ EntityTemplate
 
 }
 
-//editor "index(3768)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -1754,7 +1716,6 @@ EntityTemplate
 
 }
 
-//editor "index(3806)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_big_03"
@@ -1802,7 +1763,6 @@ EntityTemplate
 
 }
 
-//editor "index(3807)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_big_04"
@@ -1856,7 +1816,6 @@ EntityTemplate
 
 }
 
-//editor "index(3808)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_big_05"
@@ -1904,7 +1863,6 @@ EntityTemplate
 
 }
 
-//editor "index(3809)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_big_01"
@@ -1958,7 +1916,6 @@ EntityTemplate
 
 }
 
-//editor "index(3810)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_big_02"
@@ -2014,7 +1971,6 @@ EntityTemplate
 
 }
 
-//editor "index(3811)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_big_03"
@@ -2070,7 +2026,6 @@ EntityTemplate
 
 }
 
-//editor "index(3812)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_01"
@@ -2124,7 +2079,6 @@ EntityTemplate
 
 }
 
-//editor "index(3813)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_02"
@@ -2178,7 +2132,6 @@ EntityTemplate
 
 }
 
-//editor "index(3814)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_small_01"
@@ -2226,7 +2179,6 @@ EntityTemplate
 
 }
 
-//editor "index(3815)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_small_01"
@@ -2280,7 +2232,6 @@ EntityTemplate
 
 }
 
-//editor "index(3816)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_small_04"
@@ -2328,7 +2279,6 @@ EntityTemplate
 
 }
 
-//editor "index(3817)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_small_02"
@@ -2376,7 +2326,6 @@ EntityTemplate
 
 }
 
-//editor "index(3818)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_06"
@@ -2424,7 +2373,6 @@ EntityTemplate
 
 }
 
-//editor "index(3819)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_06"
@@ -2472,7 +2420,6 @@ EntityTemplate
 
 }
 
-//editor "index(3820)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_06"
@@ -2528,7 +2475,6 @@ EntityTemplate
 
 }
 
-//editor "index(3821)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_05"
@@ -2583,7 +2529,6 @@ EntityTemplate
 
 }
 
-//editor "index(3822)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_06"
@@ -2637,7 +2582,6 @@ EntityTemplate
 
 }
 
-//editor "index(3823)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_02"
@@ -2691,7 +2635,6 @@ EntityTemplate
 
 }
 
-//editor "index(3824)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -2745,7 +2688,6 @@ EntityTemplate
 
 }
 
-//editor "index(3825)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -2799,7 +2741,6 @@ EntityTemplate
 
 }
 
-//editor "index(3826)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -2853,7 +2794,6 @@ EntityTemplate
 
 }
 
-//editor "index(3827)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -2907,7 +2847,6 @@ EntityTemplate
 
 }
 
-//editor "index(3828)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -2961,7 +2900,6 @@ EntityTemplate
 
 }
 
-//editor "index(3829)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -3015,7 +2953,6 @@ EntityTemplate
 
 }
 
-//editor "index(3830)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -3069,7 +3006,6 @@ EntityTemplate
 
 }
 
-//editor "index(3831)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -3123,7 +3059,6 @@ EntityTemplate
 
 }
 
-//editor "index(3832)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -3177,7 +3112,6 @@ EntityTemplate
 
 }
 
-//editor "index(3833)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -3231,7 +3165,6 @@ EntityTemplate
 
 }
 
-//editor "index(3834)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -3285,7 +3218,6 @@ EntityTemplate
 
 }
 
-//editor "index(3835)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -3333,7 +3265,6 @@ EntityTemplate
 
 }
 
-//editor "index(3836)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -3381,7 +3312,6 @@ EntityTemplate
 
 }
 
-//editor "index(3837)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -3429,7 +3359,6 @@ EntityTemplate
 
 }
 
-//editor "index(3838)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -3477,7 +3406,6 @@ EntityTemplate
 
 }
 
-//editor "index(3839)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -3525,7 +3453,6 @@ EntityTemplate
 
 }
 
-//editor "index(3840)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_03"
@@ -3572,7 +3499,6 @@ EntityTemplate
 
 }
 
-//editor "index(3841)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_03"
@@ -3620,7 +3546,6 @@ EntityTemplate
 
 }
 
-//editor "index(3842)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_03"
@@ -3668,7 +3593,6 @@ EntityTemplate
 
 }
 
-//editor "index(3843)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_03"
@@ -3716,7 +3640,6 @@ EntityTemplate
 
 }
 
-//editor "index(3844)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_03"
@@ -3764,7 +3687,6 @@ EntityTemplate
 
 }
 
-//editor "index(3845)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_03"
@@ -3812,7 +3734,6 @@ EntityTemplate
 
 }
 
-//editor "index(3867)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -3866,7 +3787,6 @@ EntityTemplate
 
 }
 
-//editor "index(3868)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -3920,7 +3840,6 @@ EntityTemplate
 
 }
 
-//editor "index(3869)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -3974,7 +3893,6 @@ EntityTemplate
 
 }
 
-//editor "index(3870)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -4028,7 +3946,6 @@ EntityTemplate
 
 }
 
-//editor "index(3905)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_06"
@@ -4076,7 +3993,6 @@ EntityTemplate
 
 }
 
-//editor "index(3906)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_small_02"
@@ -4130,7 +4046,6 @@ EntityTemplate
 
 }
 
-//editor "index(3907)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -4184,7 +4099,6 @@ EntityTemplate
 
 }
 
-//editor "index(3908)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -4238,7 +4152,6 @@ EntityTemplate
 
 }
 
-//editor "index(3910)"
 EntityTemplate
 {
 	base_blueprint "props/mushrooms/lumio_medium_02_skin2"
@@ -4293,7 +4206,6 @@ EntityTemplate
 
 }
 
-//editor "index(4082)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_02"
@@ -4349,7 +4261,6 @@ EntityTemplate
 
 }
 
-//editor "index(4083)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_03"
@@ -4405,7 +4316,6 @@ EntityTemplate
 
 }
 
-//editor "index(4084)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_small_04"
@@ -4453,7 +4363,6 @@ EntityTemplate
 
 }
 
-//editor "index(4085)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_small_03"
@@ -4501,7 +4410,6 @@ EntityTemplate
 
 }
 
-//editor "index(4086)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_small_02"
@@ -4557,7 +4465,6 @@ EntityTemplate
 
 }
 
-//editor "index(4087)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -4605,7 +4512,6 @@ EntityTemplate
 
 }
 
-//editor "index(4088)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -4652,7 +4558,6 @@ EntityTemplate
 
 }
 
-//editor "index(4089)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_03"
@@ -4700,7 +4605,6 @@ EntityTemplate
 
 }
 
-//editor "index(4091)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_03"
@@ -4748,7 +4652,6 @@ EntityTemplate
 
 }
 
-//editor "index(4130)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_big_03"
@@ -4804,7 +4707,6 @@ EntityTemplate
 
 }
 
-//editor "index(4149)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_small_01"
@@ -4852,7 +4754,6 @@ EntityTemplate
 
 }
 
-//editor "index(4150)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_small_03"
@@ -4900,7 +4801,6 @@ EntityTemplate
 
 }
 
-//editor "index(4151)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_medium_05"
@@ -4956,7 +4856,6 @@ EntityTemplate
 
 }
 
-//editor "index(4152)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -5010,7 +4909,6 @@ EntityTemplate
 
 }
 
-//editor "index(4153)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -5064,7 +4962,6 @@ EntityTemplate
 
 }
 
-//editor "index(4154)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_01"
@@ -5118,7 +5015,6 @@ EntityTemplate
 
 }
 
-//editor "index(4155)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -5166,7 +5062,6 @@ EntityTemplate
 
 }
 
-//editor "index(4156)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -5214,7 +5109,6 @@ EntityTemplate
 
 }
 
-//editor "index(4157)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -5262,7 +5156,6 @@ EntityTemplate
 
 }
 
-//editor "index(4247)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -5316,7 +5209,6 @@ EntityTemplate
 
 }
 
-//editor "index(4248)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -5370,7 +5262,6 @@ EntityTemplate
 
 }
 
-//editor "index(4249)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -5424,7 +5315,6 @@ EntityTemplate
 
 }
 
-//editor "index(4250)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -5472,7 +5362,6 @@ EntityTemplate
 
 }
 
-//editor "index(4251)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -5520,7 +5409,6 @@ EntityTemplate
 
 }
 
-//editor "index(4252)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -5574,7 +5462,6 @@ EntityTemplate
 
 }
 
-//editor "index(4253)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -5622,7 +5509,6 @@ EntityTemplate
 
 }
 
-//editor "index(4254)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -5677,7 +5563,6 @@ EntityTemplate
 
 }
 
-//editor "index(4255)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -5732,7 +5617,6 @@ EntityTemplate
 
 }
 
-//editor "index(4256)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -5787,7 +5671,6 @@ EntityTemplate
 
 }
 
-//editor "index(4257)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -5842,7 +5725,6 @@ EntityTemplate
 
 }
 
-//editor "index(4258)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -5897,7 +5779,6 @@ EntityTemplate
 
 }
 
-//editor "index(4259)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -5952,7 +5833,6 @@ EntityTemplate
 
 }
 
-//editor "index(4260)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -6007,7 +5887,6 @@ EntityTemplate
 
 }
 
-//editor "index(4261)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -6062,7 +5941,6 @@ EntityTemplate
 
 }
 
-//editor "index(4262)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -6117,7 +5995,6 @@ EntityTemplate
 
 }
 
-//editor "index(4277)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -6172,9 +6049,7 @@ EntityTemplate
 
 }
 
-//editor "index(4278)"
 
-//editor "index(4279)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6222,7 +6097,6 @@ EntityTemplate
 
 }
 
-//editor "index(4280)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6270,7 +6144,6 @@ EntityTemplate
 
 }
 
-//editor "index(4281)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6318,7 +6191,6 @@ EntityTemplate
 
 }
 
-//editor "index(4282)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6366,7 +6238,6 @@ EntityTemplate
 
 }
 
-//editor "index(4283)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6414,7 +6285,6 @@ EntityTemplate
 
 }
 
-//editor "index(4284)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6462,7 +6332,6 @@ EntityTemplate
 
 }
 
-//editor "index(4285)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6510,7 +6379,6 @@ EntityTemplate
 
 }
 
-//editor "index(4286)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6558,7 +6426,6 @@ EntityTemplate
 
 }
 
-//editor "index(4287)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6606,7 +6473,6 @@ EntityTemplate
 
 }
 
-//editor "index(4288)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6654,7 +6520,6 @@ EntityTemplate
 
 }
 
-//editor "index(4289)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6702,7 +6567,6 @@ EntityTemplate
 
 }
 
-//editor "index(4290)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6750,7 +6614,6 @@ EntityTemplate
 
 }
 
-//editor "index(4291)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6798,7 +6661,6 @@ EntityTemplate
 
 }
 
-//editor "index(4292)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6846,7 +6708,6 @@ EntityTemplate
 
 }
 
-//editor "index(4293)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6894,7 +6755,6 @@ EntityTemplate
 
 }
 
-//editor "index(4294)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6942,7 +6802,6 @@ EntityTemplate
 
 }
 
-//editor "index(4295)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -6990,7 +6849,6 @@ EntityTemplate
 
 }
 
-//editor "index(4296)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -7038,7 +6896,6 @@ EntityTemplate
 
 }
 
-//editor "index(4297)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -7086,7 +6943,6 @@ EntityTemplate
 
 }
 
-//editor "index(4298)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -7134,7 +6990,6 @@ EntityTemplate
 
 }
 
-//editor "index(4299)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -7182,7 +7037,6 @@ EntityTemplate
 
 }
 
-//editor "index(4300)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -7230,7 +7084,6 @@ EntityTemplate
 
 }
 
-//editor "index(4301)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -7278,7 +7131,6 @@ EntityTemplate
 
 }
 
-//editor "index(4302)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -7326,7 +7178,6 @@ EntityTemplate
 
 }
 
-//editor "index(4303)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/ovoid_acid/ovoid_acid_debris_02"
@@ -7374,7 +7225,6 @@ EntityTemplate
 
 }
 
-//editor "index(4304)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7427,7 +7277,6 @@ EntityTemplate
 
 }
 
-//editor "index(4305)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7486,7 +7335,6 @@ EntityTemplate
 
 }
 
-//editor "index(4306)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7539,7 +7387,6 @@ EntityTemplate
 
 }
 
-//editor "index(4307)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7598,7 +7445,6 @@ EntityTemplate
 
 }
 
-//editor "index(4308)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -7657,7 +7503,6 @@ EntityTemplate
 
 }
 
-//editor "index(4309)"
 
 
 EntityTemplate

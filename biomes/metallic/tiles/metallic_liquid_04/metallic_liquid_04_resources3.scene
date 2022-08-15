@@ -1,5 +1,4 @@
 entity_count "285"
-//editor "index(158)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -53,7 +52,6 @@ EntityTemplate
 
 }
 
-//editor "index(159)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -107,7 +105,6 @@ EntityTemplate
 
 }
 
-//editor "index(160)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -161,7 +158,6 @@ EntityTemplate
 
 }
 
-//editor "index(161)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -215,7 +211,6 @@ EntityTemplate
 
 }
 
-//editor "index(162)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -269,7 +264,6 @@ EntityTemplate
 
 }
 
-//editor "index(163)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -323,7 +317,6 @@ EntityTemplate
 
 }
 
-//editor "index(164)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -377,7 +370,6 @@ EntityTemplate
 
 }
 
-//editor "index(165)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -431,7 +423,6 @@ EntityTemplate
 
 }
 
-//editor "index(431)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources_liquid"
@@ -484,7 +475,6 @@ EntityTemplate
 
 }
 
-//editor "index(432)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -539,7 +529,6 @@ EntityTemplate
 
 }
 
-//editor "index(662)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -594,7 +583,6 @@ EntityTemplate
 
 }
 
-//editor "index(663)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -655,7 +643,6 @@ EntityTemplate
 
 }
 
-//editor "index(664)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -710,7 +697,6 @@ EntityTemplate
 
 }
 
-//editor "index(793)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_01"
@@ -764,7 +750,6 @@ EntityTemplate
 
 }
 
-//editor "index(794)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_02"
@@ -812,7 +797,6 @@ EntityTemplate
 
 }
 
-//editor "index(795)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_03"
@@ -860,7 +844,6 @@ EntityTemplate
 
 }
 
-//editor "index(796)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_04"
@@ -908,7 +891,6 @@ EntityTemplate
 
 }
 
-//editor "index(797)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_05"
@@ -964,7 +946,6 @@ EntityTemplate
 
 }
 
-//editor "index(798)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_06"
@@ -1018,7 +999,6 @@ EntityTemplate
 
 }
 
-//editor "index(800)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_01"
@@ -1066,7 +1046,6 @@ EntityTemplate
 
 }
 
-//editor "index(801)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_02"
@@ -1120,7 +1099,6 @@ EntityTemplate
 
 }
 
-//editor "index(802)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_01"
@@ -1168,7 +1146,6 @@ EntityTemplate
 
 }
 
-//editor "index(803)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_05"
@@ -1216,7 +1193,6 @@ EntityTemplate
 
 }
 
-//editor "index(804)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_04"
@@ -1264,7 +1240,6 @@ EntityTemplate
 
 }
 
-//editor "index(805)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_04"
@@ -1312,7 +1287,6 @@ EntityTemplate
 
 }
 
-//editor "index(807)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_06"
@@ -1360,7 +1334,6 @@ EntityTemplate
 
 }
 
-//editor "index(809)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_01"
@@ -1416,7 +1389,6 @@ EntityTemplate
 
 }
 
-//editor "index(811)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_01"
@@ -1471,7 +1443,6 @@ EntityTemplate
 
 }
 
-//editor "index(813)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_02"
@@ -1527,7 +1498,6 @@ EntityTemplate
 
 }
 
-//editor "index(820)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_03"
@@ -1589,7 +1559,6 @@ EntityTemplate
 
 }
 
-//editor "index(821)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -1643,7 +1612,6 @@ EntityTemplate
 
 }
 
-//editor "index(822)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -1697,7 +1665,6 @@ EntityTemplate
 
 }
 
-//editor "index(823)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -1751,7 +1718,6 @@ EntityTemplate
 
 }
 
-//editor "index(824)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -1805,7 +1771,6 @@ EntityTemplate
 
 }
 
-//editor "index(825)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -1859,7 +1824,6 @@ EntityTemplate
 
 }
 
-//editor "index(826)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -1913,7 +1877,6 @@ EntityTemplate
 
 }
 
-//editor "index(827)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -1967,7 +1930,6 @@ EntityTemplate
 
 }
 
-//editor "index(829)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -2021,7 +1983,6 @@ EntityTemplate
 
 }
 
-//editor "index(830)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -2075,7 +2036,6 @@ EntityTemplate
 
 }
 
-//editor "index(831)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -2129,7 +2089,6 @@ EntityTemplate
 
 }
 
-//editor "index(832)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -2182,7 +2141,6 @@ EntityTemplate
 
 }
 
-//editor "index(833)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -2236,7 +2194,6 @@ EntityTemplate
 
 }
 
-//editor "index(834)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -2290,7 +2247,6 @@ EntityTemplate
 
 }
 
-//editor "index(836)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_07"
@@ -2346,7 +2302,6 @@ EntityTemplate
 
 }
 
-//editor "index(837)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_05"
@@ -2402,7 +2357,6 @@ EntityTemplate
 
 }
 
-//editor "index(838)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_07"
@@ -2458,7 +2412,6 @@ EntityTemplate
 
 }
 
-//editor "index(839)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_06"
@@ -2514,7 +2467,6 @@ EntityTemplate
 
 }
 
-//editor "index(840)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_04"
@@ -2570,7 +2522,6 @@ EntityTemplate
 
 }
 
-//editor "index(841)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_04"
@@ -2626,7 +2577,6 @@ EntityTemplate
 
 }
 
-//editor "index(842)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_05"
@@ -2682,7 +2632,6 @@ EntityTemplate
 
 }
 
-//editor "index(843)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_06"
@@ -2736,7 +2685,6 @@ EntityTemplate
 
 }
 
-//editor "index(844)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_06"
@@ -2792,7 +2740,6 @@ EntityTemplate
 
 }
 
-//editor "index(845)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_06"
@@ -2846,7 +2793,6 @@ EntityTemplate
 
 }
 
-//editor "index(846)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_04"
@@ -2900,7 +2846,6 @@ EntityTemplate
 
 }
 
-//editor "index(847)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_05"
@@ -2956,7 +2901,6 @@ EntityTemplate
 
 }
 
-//editor "index(848)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_05"
@@ -3012,7 +2956,6 @@ EntityTemplate
 
 }
 
-//editor "index(849)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_07"
@@ -3068,7 +3011,6 @@ EntityTemplate
 
 }
 
-//editor "index(850)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_07"
@@ -3124,7 +3066,6 @@ EntityTemplate
 
 }
 
-//editor "index(851)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_05"
@@ -3180,7 +3121,6 @@ EntityTemplate
 
 }
 
-//editor "index(852)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_05"
@@ -3236,7 +3176,6 @@ EntityTemplate
 
 }
 
-//editor "index(853)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_07"
@@ -3292,7 +3231,6 @@ EntityTemplate
 
 }
 
-//editor "index(854)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_07"
@@ -3348,7 +3286,6 @@ EntityTemplate
 
 }
 
-//editor "index(855)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_05"
@@ -3404,7 +3341,6 @@ EntityTemplate
 
 }
 
-//editor "index(856)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_05"
@@ -3460,7 +3396,6 @@ EntityTemplate
 
 }
 
-//editor "index(857)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_04"
@@ -3516,7 +3451,6 @@ EntityTemplate
 
 }
 
-//editor "index(858)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_04"
@@ -3572,7 +3506,6 @@ EntityTemplate
 
 }
 
-//editor "index(859)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_02"
@@ -3628,7 +3561,6 @@ EntityTemplate
 
 }
 
-//editor "index(860)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_02"
@@ -3684,7 +3616,6 @@ EntityTemplate
 
 }
 
-//editor "index(861)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_02"
@@ -3740,7 +3671,6 @@ EntityTemplate
 
 }
 
-//editor "index(862)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_02"
@@ -3796,7 +3726,6 @@ EntityTemplate
 
 }
 
-//editor "index(863)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_01"
@@ -3852,7 +3781,6 @@ EntityTemplate
 
 }
 
-//editor "index(864)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_01"
@@ -3908,7 +3836,6 @@ EntityTemplate
 
 }
 
-//editor "index(865)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_01"
@@ -3964,7 +3891,6 @@ EntityTemplate
 
 }
 
-//editor "index(866)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_01"
@@ -4018,7 +3944,6 @@ EntityTemplate
 
 }
 
-//editor "index(867)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_01"
@@ -4074,7 +3999,6 @@ EntityTemplate
 
 }
 
-//editor "index(868)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_06"
@@ -4130,7 +4054,6 @@ EntityTemplate
 
 }
 
-//editor "index(869)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_01"
@@ -4184,7 +4107,6 @@ EntityTemplate
 
 }
 
-//editor "index(870)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_02"
@@ -4240,7 +4162,6 @@ EntityTemplate
 
 }
 
-//editor "index(871)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_06"
@@ -4303,7 +4224,6 @@ EntityTemplate
 
 }
 
-//editor "index(872)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_06"
@@ -4366,7 +4286,6 @@ EntityTemplate
 
 }
 
-//editor "index(873)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_06"
@@ -4420,7 +4339,6 @@ EntityTemplate
 
 }
 
-//editor "index(874)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_02"
@@ -4476,7 +4394,6 @@ EntityTemplate
 
 }
 
-//editor "index(875)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_02"
@@ -4532,7 +4449,6 @@ EntityTemplate
 
 }
 
-//editor "index(876)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_01"
@@ -4595,7 +4511,6 @@ EntityTemplate
 
 }
 
-//editor "index(877)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_06"
@@ -4651,7 +4566,6 @@ EntityTemplate
 
 }
 
-//editor "index(878)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_03"
@@ -4707,7 +4621,6 @@ EntityTemplate
 
 }
 
-//editor "index(879)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_06"
@@ -4763,7 +4676,6 @@ EntityTemplate
 
 }
 
-//editor "index(880)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_05"
@@ -4819,7 +4731,6 @@ EntityTemplate
 
 }
 
-//editor "index(881)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_03"
@@ -4875,7 +4786,6 @@ EntityTemplate
 
 }
 
-//editor "index(882)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_02"
@@ -4931,7 +4841,6 @@ EntityTemplate
 
 }
 
-//editor "index(883)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_03"
@@ -4987,7 +4896,6 @@ EntityTemplate
 
 }
 
-//editor "index(884)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_04"
@@ -5050,7 +4958,6 @@ EntityTemplate
 
 }
 
-//editor "index(885)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_03"
@@ -5106,7 +5013,6 @@ EntityTemplate
 
 }
 
-//editor "index(886)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_05"
@@ -5160,7 +5066,6 @@ EntityTemplate
 
 }
 
-//editor "index(887)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_06"
@@ -5216,7 +5121,6 @@ EntityTemplate
 
 }
 
-//editor "index(888)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_05"
@@ -5272,7 +5176,6 @@ EntityTemplate
 
 }
 
-//editor "index(889)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_03"
@@ -5328,7 +5231,6 @@ EntityTemplate
 
 }
 
-//editor "index(890)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_05"
@@ -5384,7 +5286,6 @@ EntityTemplate
 
 }
 
-//editor "index(891)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_01"
@@ -5447,7 +5348,6 @@ EntityTemplate
 
 }
 
-//editor "index(892)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_04"
@@ -5503,7 +5403,6 @@ EntityTemplate
 
 }
 
-//editor "index(893)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_05"
@@ -5564,7 +5463,6 @@ EntityTemplate
 
 }
 
-//editor "index(894)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_06"
@@ -5620,7 +5518,6 @@ EntityTemplate
 
 }
 
-//editor "index(895)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_05"
@@ -5676,7 +5573,6 @@ EntityTemplate
 
 }
 
-//editor "index(896)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_06"
@@ -5732,7 +5628,6 @@ EntityTemplate
 
 }
 
-//editor "index(897)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_06"
@@ -5788,7 +5683,6 @@ EntityTemplate
 
 }
 
-//editor "index(898)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_06"
@@ -5844,7 +5738,6 @@ EntityTemplate
 
 }
 
-//editor "index(899)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_04"
@@ -5907,7 +5800,6 @@ EntityTemplate
 
 }
 
-//editor "index(900)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_04"
@@ -5963,7 +5855,6 @@ EntityTemplate
 
 }
 
-//editor "index(901)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_03"
@@ -6019,7 +5910,6 @@ EntityTemplate
 
 }
 
-//editor "index(902)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_02"
@@ -6073,7 +5963,6 @@ EntityTemplate
 
 }
 
-//editor "index(903)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_06"
@@ -6129,7 +6018,6 @@ EntityTemplate
 
 }
 
-//editor "index(904)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_03"
@@ -6185,7 +6073,6 @@ EntityTemplate
 
 }
 
-//editor "index(905)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_06"
@@ -6241,7 +6128,6 @@ EntityTemplate
 
 }
 
-//editor "index(906)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_03"
@@ -6295,7 +6181,6 @@ EntityTemplate
 
 }
 
-//editor "index(907)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_05"
@@ -6351,7 +6236,6 @@ EntityTemplate
 
 }
 
-//editor "index(908)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_01"
@@ -6407,7 +6291,6 @@ EntityTemplate
 
 }
 
-//editor "index(909)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_04"
@@ -6463,7 +6346,6 @@ EntityTemplate
 
 }
 
-//editor "index(910)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -6517,7 +6399,6 @@ EntityTemplate
 
 }
 
-//editor "index(911)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -6571,7 +6452,6 @@ EntityTemplate
 
 }
 
-//editor "index(912)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -6625,7 +6505,6 @@ EntityTemplate
 
 }
 
-//editor "index(913)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_debris_04"
@@ -6679,7 +6558,6 @@ EntityTemplate
 
 }
 
-//editor "index(914)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_debris_01"
@@ -6733,7 +6611,6 @@ EntityTemplate
 
 }
 
-//editor "index(915)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_debris_04"
@@ -6787,7 +6664,6 @@ EntityTemplate
 
 }
 
-//editor "index(916)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_debris_03"
@@ -6841,7 +6717,6 @@ EntityTemplate
 
 }
 
-//editor "index(917)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_debris_04"
@@ -6895,7 +6770,6 @@ EntityTemplate
 
 }
 
-//editor "index(918)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -6949,7 +6823,6 @@ EntityTemplate
 
 }
 
-//editor "index(919)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -7003,7 +6876,6 @@ EntityTemplate
 
 }
 
-//editor "index(920)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -7057,7 +6929,6 @@ EntityTemplate
 
 }
 
-//editor "index(921)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -7111,7 +6982,6 @@ EntityTemplate
 
 }
 
-//editor "index(922)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -7165,7 +7035,6 @@ EntityTemplate
 
 }
 
-//editor "index(923)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -7219,7 +7088,6 @@ EntityTemplate
 
 }
 
-//editor "index(924)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -7273,7 +7141,6 @@ EntityTemplate
 
 }
 
-//editor "index(925)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -7327,7 +7194,6 @@ EntityTemplate
 
 }
 
-//editor "index(926)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -7381,7 +7247,6 @@ EntityTemplate
 
 }
 
-//editor "index(927)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -7435,7 +7300,6 @@ EntityTemplate
 
 }
 
-//editor "index(928)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -7489,7 +7353,6 @@ EntityTemplate
 
 }
 
-//editor "index(929)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -7543,7 +7406,6 @@ EntityTemplate
 
 }
 
-//editor "index(930)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -7597,7 +7459,6 @@ EntityTemplate
 
 }
 
-//editor "index(931)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -7651,7 +7512,6 @@ EntityTemplate
 
 }
 
-//editor "index(932)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -7704,7 +7564,6 @@ EntityTemplate
 
 }
 
-//editor "index(933)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -7758,7 +7617,6 @@ EntityTemplate
 
 }
 
-//editor "index(934)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -7812,7 +7670,6 @@ EntityTemplate
 
 }
 
-//editor "index(935)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -7866,7 +7723,6 @@ EntityTemplate
 
 }
 
-//editor "index(936)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -7920,7 +7776,6 @@ EntityTemplate
 
 }
 
-//editor "index(937)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -7974,7 +7829,6 @@ EntityTemplate
 
 }
 
-//editor "index(938)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8028,7 +7882,6 @@ EntityTemplate
 
 }
 
-//editor "index(939)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8082,7 +7935,6 @@ EntityTemplate
 
 }
 
-//editor "index(940)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8136,7 +7988,6 @@ EntityTemplate
 
 }
 
-//editor "index(941)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8190,7 +8041,6 @@ EntityTemplate
 
 }
 
-//editor "index(942)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8244,7 +8094,6 @@ EntityTemplate
 
 }
 
-//editor "index(943)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8298,7 +8147,6 @@ EntityTemplate
 
 }
 
-//editor "index(944)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8352,7 +8200,6 @@ EntityTemplate
 
 }
 
-//editor "index(945)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8406,7 +8253,6 @@ EntityTemplate
 
 }
 
-//editor "index(946)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8460,7 +8306,6 @@ EntityTemplate
 
 }
 
-//editor "index(947)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8514,7 +8359,6 @@ EntityTemplate
 
 }
 
-//editor "index(948)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8568,7 +8412,6 @@ EntityTemplate
 
 }
 
-//editor "index(949)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8622,7 +8465,6 @@ EntityTemplate
 
 }
 
-//editor "index(950)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8676,7 +8518,6 @@ EntityTemplate
 
 }
 
-//editor "index(951)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -8730,7 +8571,6 @@ EntityTemplate
 
 }
 
-//editor "index(955)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -8784,7 +8624,6 @@ EntityTemplate
 
 }
 
-//editor "index(956)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -8838,7 +8677,6 @@ EntityTemplate
 
 }
 
-//editor "index(957)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_04"
@@ -8893,7 +8731,6 @@ EntityTemplate
 
 }
 
-//editor "index(958)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_04"
@@ -8948,7 +8785,6 @@ EntityTemplate
 
 }
 
-//editor "index(959)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -9002,7 +8838,6 @@ EntityTemplate
 
 }
 
-//editor "index(960)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_02"
@@ -9056,7 +8891,6 @@ EntityTemplate
 
 }
 
-//editor "index(961)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -9110,7 +8944,6 @@ EntityTemplate
 
 }
 
-//editor "index(962)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -9164,7 +8997,6 @@ EntityTemplate
 
 }
 
-//editor "index(963)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -9218,7 +9050,6 @@ EntityTemplate
 
 }
 
-//editor "index(964)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -9272,7 +9103,6 @@ EntityTemplate
 
 }
 
-//editor "index(965)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_04"
@@ -9320,7 +9150,6 @@ EntityTemplate
 
 }
 
-//editor "index(966)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_04"
@@ -9368,7 +9197,6 @@ EntityTemplate
 
 }
 
-//editor "index(967)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_01"
@@ -9424,7 +9252,6 @@ EntityTemplate
 
 }
 
-//editor "index(968)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_02"
@@ -9480,7 +9307,6 @@ EntityTemplate
 
 }
 
-//editor "index(969)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_03"
@@ -9536,7 +9362,6 @@ EntityTemplate
 
 }
 
-//editor "index(970)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_04"
@@ -9592,7 +9417,6 @@ EntityTemplate
 
 }
 
-//editor "index(971)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_05"
@@ -9648,7 +9472,6 @@ EntityTemplate
 
 }
 
-//editor "index(972)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_06"
@@ -9704,7 +9527,6 @@ EntityTemplate
 
 }
 
-//editor "index(974)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_01"
@@ -9760,7 +9582,6 @@ EntityTemplate
 
 }
 
-//editor "index(975)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_02"
@@ -9816,7 +9637,6 @@ EntityTemplate
 
 }
 
-//editor "index(976)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_03"
@@ -9872,7 +9692,6 @@ EntityTemplate
 
 }
 
-//editor "index(977)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_02"
@@ -9920,7 +9739,6 @@ EntityTemplate
 
 }
 
-//editor "index(979)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_05"
@@ -9974,7 +9792,6 @@ EntityTemplate
 
 }
 
-//editor "index(980)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_04"
@@ -10022,7 +9839,6 @@ EntityTemplate
 
 }
 
-//editor "index(981)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_06"
@@ -10078,7 +9894,6 @@ EntityTemplate
 
 }
 
-//editor "index(983)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_05"
@@ -10133,7 +9948,6 @@ EntityTemplate
 
 }
 
-//editor "index(984)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_03"
@@ -10189,7 +10003,6 @@ EntityTemplate
 
 }
 
-//editor "index(985)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_03"
@@ -10245,7 +10058,6 @@ EntityTemplate
 
 }
 
-//editor "index(986)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_01"
@@ -10293,7 +10105,6 @@ EntityTemplate
 
 }
 
-//editor "index(987)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_05"
@@ -10341,7 +10152,6 @@ EntityTemplate
 
 }
 
-//editor "index(988)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_06"
@@ -10389,7 +10199,6 @@ EntityTemplate
 
 }
 
-//editor "index(989)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -10443,7 +10252,6 @@ EntityTemplate
 
 }
 
-//editor "index(990)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -10497,7 +10305,6 @@ EntityTemplate
 
 }
 
-//editor "index(991)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -10551,7 +10358,6 @@ EntityTemplate
 
 }
 
-//editor "index(992)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -10605,7 +10411,6 @@ EntityTemplate
 
 }
 
-//editor "index(993)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -10659,7 +10464,6 @@ EntityTemplate
 
 }
 
-//editor "index(994)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -10713,7 +10517,6 @@ EntityTemplate
 
 }
 
-//editor "index(995)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -10767,7 +10570,6 @@ EntityTemplate
 
 }
 
-//editor "index(996)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -10821,7 +10623,6 @@ EntityTemplate
 
 }
 
-//editor "index(997)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -10875,7 +10676,6 @@ EntityTemplate
 
 }
 
-//editor "index(998)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -10929,7 +10729,6 @@ EntityTemplate
 
 }
 
-//editor "index(999)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_01"
@@ -10985,7 +10784,6 @@ EntityTemplate
 
 }
 
-//editor "index(1001)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11039,7 +10837,6 @@ EntityTemplate
 
 }
 
-//editor "index(1002)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11093,7 +10890,6 @@ EntityTemplate
 
 }
 
-//editor "index(1003)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11147,7 +10943,6 @@ EntityTemplate
 
 }
 
-//editor "index(1004)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11201,7 +10996,6 @@ EntityTemplate
 
 }
 
-//editor "index(1005)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11255,7 +11049,6 @@ EntityTemplate
 
 }
 
-//editor "index(1006)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11309,7 +11102,6 @@ EntityTemplate
 
 }
 
-//editor "index(1007)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11363,7 +11155,6 @@ EntityTemplate
 
 }
 
-//editor "index(1008)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11417,7 +11208,6 @@ EntityTemplate
 
 }
 
-//editor "index(1009)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11471,7 +11261,6 @@ EntityTemplate
 
 }
 
-//editor "index(1010)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11525,7 +11314,6 @@ EntityTemplate
 
 }
 
-//editor "index(1011)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11579,7 +11367,6 @@ EntityTemplate
 
 }
 
-//editor "index(1012)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11633,7 +11420,6 @@ EntityTemplate
 
 }
 
-//editor "index(1013)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11687,7 +11473,6 @@ EntityTemplate
 
 }
 
-//editor "index(1014)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11741,7 +11526,6 @@ EntityTemplate
 
 }
 
-//editor "index(1015)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11795,7 +11579,6 @@ EntityTemplate
 
 }
 
-//editor "index(1016)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11849,7 +11632,6 @@ EntityTemplate
 
 }
 
-//editor "index(1017)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11903,7 +11685,6 @@ EntityTemplate
 
 }
 
-//editor "index(1018)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -11957,7 +11738,6 @@ EntityTemplate
 
 }
 
-//editor "index(1019)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -12011,7 +11791,6 @@ EntityTemplate
 
 }
 
-//editor "index(1020)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -12065,7 +11844,6 @@ EntityTemplate
 
 }
 
-//editor "index(1021)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -12119,7 +11897,6 @@ EntityTemplate
 
 }
 
-//editor "index(1022)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -12173,7 +11950,6 @@ EntityTemplate
 
 }
 
-//editor "index(1023)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -12227,7 +12003,6 @@ EntityTemplate
 
 }
 
-//editor "index(1024)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -12281,7 +12056,6 @@ EntityTemplate
 
 }
 
-//editor "index(1025)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -12335,7 +12109,6 @@ EntityTemplate
 
 }
 
-//editor "index(1026)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -12389,7 +12162,6 @@ EntityTemplate
 
 }
 
-//editor "index(1027)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -12443,7 +12215,6 @@ EntityTemplate
 
 }
 
-//editor "index(1028)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_01"
@@ -12499,7 +12270,6 @@ EntityTemplate
 
 }
 
-//editor "index(1030)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_01"
@@ -12562,7 +12332,6 @@ EntityTemplate
 
 }
 
-//editor "index(1031)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_01"
@@ -12625,7 +12394,6 @@ EntityTemplate
 
 }
 
-//editor "index(1033)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_06"
@@ -12681,7 +12449,6 @@ EntityTemplate
 
 }
 
-//editor "index(1035)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_big_01"
@@ -12737,7 +12504,6 @@ EntityTemplate
 
 }
 
-//editor "index(1037)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_02"
@@ -12793,7 +12559,6 @@ EntityTemplate
 
 }
 
-//editor "index(1039)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_01"
@@ -12848,7 +12613,6 @@ EntityTemplate
 
 }
 
-//editor "index(1044)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_04"
@@ -12904,7 +12668,6 @@ EntityTemplate
 
 }
 
-//editor "index(1046)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_04"
@@ -12960,7 +12723,6 @@ EntityTemplate
 
 }
 
-//editor "index(1047)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_04"
@@ -13015,7 +12777,6 @@ EntityTemplate
 
 }
 
-//editor "index(1049)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_05"
@@ -13070,7 +12831,6 @@ EntityTemplate
 
 }
 
-//editor "index(1051)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_06"
@@ -13125,7 +12885,6 @@ EntityTemplate
 
 }
 
-//editor "index(1052)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_06"
@@ -13180,7 +12939,6 @@ EntityTemplate
 
 }
 
-//editor "index(1053)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_01"
@@ -13236,7 +12994,6 @@ EntityTemplate
 
 }
 
-//editor "index(1054)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_02"
@@ -13292,7 +13049,6 @@ EntityTemplate
 
 }
 
-//editor "index(1055)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_02"
@@ -13348,7 +13104,6 @@ EntityTemplate
 
 }
 
-//editor "index(1056)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_big_04"
@@ -13404,7 +13159,6 @@ EntityTemplate
 
 }
 
-//editor "index(1057)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -13457,7 +13211,6 @@ EntityTemplate
 
 }
 
-//editor "index(1058)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -13511,7 +13264,6 @@ EntityTemplate
 
 }
 
-//editor "index(1059)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -13565,7 +13317,6 @@ EntityTemplate
 
 }
 
-//editor "index(1060)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -13619,7 +13370,6 @@ EntityTemplate
 
 }
 
-//editor "index(1061)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_01"
@@ -13673,7 +13423,6 @@ EntityTemplate
 
 }
 
-//editor "index(1062)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -13727,7 +13476,6 @@ EntityTemplate
 
 }
 
-//editor "index(1063)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -13781,7 +13529,6 @@ EntityTemplate
 
 }
 
-//editor "index(1064)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -13835,7 +13582,6 @@ EntityTemplate
 
 }
 
-//editor "index(1065)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -13889,7 +13635,6 @@ EntityTemplate
 
 }
 
-//editor "index(1066)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_debris_03"
@@ -13943,7 +13688,6 @@ EntityTemplate
 
 }
 
-//editor "index(1067)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_01"
@@ -13999,7 +13743,6 @@ EntityTemplate
 
 }
 
-//editor "index(1068)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_small_06"
@@ -14055,7 +13798,6 @@ EntityTemplate
 
 }
 
-//editor "index(1069)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_mineral/metallic_mineral_medium_01"
@@ -14111,7 +13853,6 @@ EntityTemplate
 
 }
 
-//editor "index(1071)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_01"
@@ -14167,7 +13908,6 @@ EntityTemplate
 
 }
 
-//editor "index(1073)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_02"
@@ -14222,7 +13962,6 @@ EntityTemplate
 
 }
 
-//editor "index(1075)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_03"
@@ -14277,7 +14016,6 @@ EntityTemplate
 
 }
 
-//editor "index(1077)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_medium_04"
@@ -14333,7 +14071,6 @@ EntityTemplate
 
 }
 
-//editor "index(1080)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_04"
@@ -14389,7 +14126,6 @@ EntityTemplate
 
 }
 
-//editor "index(1084)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_05"
@@ -14445,7 +14181,6 @@ EntityTemplate
 
 }
 
-//editor "index(1087)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_04"
@@ -14501,7 +14236,6 @@ EntityTemplate
 
 }
 
-//editor "index(1088)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_04"
@@ -14556,7 +14290,6 @@ EntityTemplate
 
 }
 
-//editor "index(1089)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/metallic_sharp/metallic_sharp_small_04"
@@ -14611,7 +14344,6 @@ EntityTemplate
 
 }
 
-//editor "index(1090)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -14666,7 +14398,6 @@ EntityTemplate
 
 }
 
-//editor "index(1091)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -14721,7 +14452,6 @@ EntityTemplate
 
 }
 
-//editor "index(1092)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -14776,7 +14506,6 @@ EntityTemplate
 
 }
 
-//editor "index(1093)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -14831,7 +14560,6 @@ EntityTemplate
 
 }
 
-//editor "index(1094)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -14886,7 +14614,6 @@ EntityTemplate
 
 }
 
-//editor "index(1095)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -14941,7 +14668,6 @@ EntityTemplate
 
 }
 
-//editor "index(1096)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -15001,7 +14727,6 @@ EntityTemplate
 
 }
 
-//editor "index(1097)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -15061,7 +14786,6 @@ EntityTemplate
 
 }
 
-//editor "index(1098)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -15121,7 +14845,6 @@ EntityTemplate
 
 }
 
-//editor "index(1099)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -15181,7 +14904,6 @@ EntityTemplate
 
 }
 
-//editor "index(1100)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -15241,7 +14963,6 @@ EntityTemplate
 
 }
 
-//editor "index(1101)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -15302,7 +15023,6 @@ EntityTemplate
 
 }
 
-//editor "index(1102)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -15362,7 +15082,6 @@ EntityTemplate
 
 }
 
-//editor "index(1103)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -15423,7 +15142,6 @@ EntityTemplate
 
 }
 
-//editor "index(1104)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -15484,7 +15202,6 @@ EntityTemplate
 
 }
 
-//editor "index(1105)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -15545,7 +15262,6 @@ EntityTemplate
 
 }
 
-//editor "index(1106)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -15606,7 +15322,6 @@ EntityTemplate
 
 }
 
-//editor "index(1107)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"

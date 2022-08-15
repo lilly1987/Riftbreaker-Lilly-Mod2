@@ -1,5 +1,4 @@
 entity_count "273"
-//editor "index(278)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_debris_04"
@@ -53,7 +52,6 @@ EntityTemplate
 
 }
 
-//editor "index(291)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_debris_02"
@@ -107,7 +105,6 @@ EntityTemplate
 
 }
 
-//editor "index(298)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_debris_02"
@@ -161,7 +158,6 @@ EntityTemplate
 
 }
 
-//editor "index(305)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_debris_02"
@@ -215,7 +211,6 @@ EntityTemplate
 
 }
 
-//editor "index(310)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_debris_02"
@@ -269,7 +264,6 @@ EntityTemplate
 
 }
 
-//editor "index(312)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_debris_02"
@@ -323,7 +317,6 @@ EntityTemplate
 
 }
 
-//editor "index(315)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_debris_02"
@@ -377,7 +370,6 @@ EntityTemplate
 
 }
 
-//editor "index(326)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_debris_01"
@@ -431,7 +423,6 @@ EntityTemplate
 
 }
 
-//editor "index(330)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_debris_01"
@@ -485,7 +476,6 @@ EntityTemplate
 
 }
 
-//editor "index(332)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -539,7 +529,6 @@ EntityTemplate
 
 }
 
-//editor "index(333)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -593,7 +582,6 @@ EntityTemplate
 
 }
 
-//editor "index(334)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_01"
@@ -647,7 +635,6 @@ EntityTemplate
 
 }
 
-//editor "index(335)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -701,7 +688,6 @@ EntityTemplate
 
 }
 
-//editor "index(336)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -755,7 +741,6 @@ EntityTemplate
 
 }
 
-//editor "index(337)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_02"
@@ -809,7 +794,6 @@ EntityTemplate
 
 }
 
-//editor "index(338)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -863,7 +847,6 @@ EntityTemplate
 
 }
 
-//editor "index(339)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_01"
@@ -917,7 +900,6 @@ EntityTemplate
 
 }
 
-//editor "index(340)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_07"
@@ -971,7 +953,6 @@ EntityTemplate
 
 }
 
-//editor "index(341)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_06"
@@ -1025,7 +1006,6 @@ EntityTemplate
 
 }
 
-//editor "index(342)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -1079,7 +1059,6 @@ EntityTemplate
 
 }
 
-//editor "index(343)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_04"
@@ -1133,7 +1112,6 @@ EntityTemplate
 
 }
 
-//editor "index(344)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_03"
@@ -1187,7 +1165,6 @@ EntityTemplate
 
 }
 
-//editor "index(345)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_02"
@@ -1241,7 +1218,6 @@ EntityTemplate
 
 }
 
-//editor "index(346)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_01"
@@ -1295,7 +1271,6 @@ EntityTemplate
 
 }
 
-//editor "index(347)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -1349,7 +1324,6 @@ EntityTemplate
 
 }
 
-//editor "index(348)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_01"
@@ -1403,7 +1377,6 @@ EntityTemplate
 
 }
 
-//editor "index(349)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_07"
@@ -1464,7 +1437,6 @@ EntityTemplate
 
 }
 
-//editor "index(350)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -1518,7 +1490,6 @@ EntityTemplate
 
 }
 
-//editor "index(351)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -1574,7 +1545,6 @@ EntityTemplate
 
 }
 
-//editor "index(352)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_07"
@@ -1628,7 +1598,6 @@ EntityTemplate
 
 }
 
-//editor "index(353)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_06"
@@ -1682,7 +1651,6 @@ EntityTemplate
 
 }
 
-//editor "index(354)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -1736,7 +1704,6 @@ EntityTemplate
 
 }
 
-//editor "index(355)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_04"
@@ -1790,7 +1757,6 @@ EntityTemplate
 
 }
 
-//editor "index(356)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -1844,7 +1810,6 @@ EntityTemplate
 
 }
 
-//editor "index(357)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_04"
@@ -1898,7 +1863,6 @@ EntityTemplate
 
 }
 
-//editor "index(358)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -1952,7 +1916,6 @@ EntityTemplate
 
 }
 
-//editor "index(359)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -2006,7 +1969,6 @@ EntityTemplate
 
 }
 
-//editor "index(360)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -2060,7 +2022,6 @@ EntityTemplate
 
 }
 
-//editor "index(361)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_small_01"
@@ -2114,7 +2075,6 @@ EntityTemplate
 
 }
 
-//editor "index(362)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_small_01"
@@ -2168,7 +2128,6 @@ EntityTemplate
 
 }
 
-//editor "index(363)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -2222,7 +2181,6 @@ EntityTemplate
 
 }
 
-//editor "index(364)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -2276,7 +2234,6 @@ EntityTemplate
 
 }
 
-//editor "index(365)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -2330,7 +2287,6 @@ EntityTemplate
 
 }
 
-//editor "index(366)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_04"
@@ -2384,7 +2340,6 @@ EntityTemplate
 
 }
 
-//editor "index(367)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -2438,7 +2393,6 @@ EntityTemplate
 
 }
 
-//editor "index(368)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -2492,7 +2446,6 @@ EntityTemplate
 
 }
 
-//editor "index(369)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_04"
@@ -2546,7 +2499,6 @@ EntityTemplate
 
 }
 
-//editor "index(370)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -2600,7 +2552,6 @@ EntityTemplate
 
 }
 
-//editor "index(371)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_06"
@@ -2654,7 +2605,6 @@ EntityTemplate
 
 }
 
-//editor "index(372)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_07"
@@ -2708,7 +2658,6 @@ EntityTemplate
 
 }
 
-//editor "index(373)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -2764,7 +2713,6 @@ EntityTemplate
 
 }
 
-//editor "index(374)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -2818,7 +2766,6 @@ EntityTemplate
 
 }
 
-//editor "index(375)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -2872,7 +2819,6 @@ EntityTemplate
 
 }
 
-//editor "index(376)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_04"
@@ -2926,7 +2872,6 @@ EntityTemplate
 
 }
 
-//editor "index(377)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -2980,7 +2925,6 @@ EntityTemplate
 
 }
 
-//editor "index(378)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -3034,7 +2978,6 @@ EntityTemplate
 
 }
 
-//editor "index(379)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_02"
@@ -3088,7 +3031,6 @@ EntityTemplate
 
 }
 
-//editor "index(380)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_small_02"
@@ -3142,7 +3084,6 @@ EntityTemplate
 
 }
 
-//editor "index(381)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_01"
@@ -3196,7 +3137,6 @@ EntityTemplate
 
 }
 
-//editor "index(382)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -3250,7 +3190,6 @@ EntityTemplate
 
 }
 
-//editor "index(383)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -3304,7 +3243,6 @@ EntityTemplate
 
 }
 
-//editor "index(384)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_04"
@@ -3358,7 +3296,6 @@ EntityTemplate
 
 }
 
-//editor "index(385)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -3412,7 +3349,6 @@ EntityTemplate
 
 }
 
-//editor "index(386)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -3466,7 +3402,6 @@ EntityTemplate
 
 }
 
-//editor "index(387)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -3522,7 +3457,6 @@ EntityTemplate
 
 }
 
-//editor "index(388)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_07"
@@ -3576,7 +3510,6 @@ EntityTemplate
 
 }
 
-//editor "index(389)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_06"
@@ -3630,7 +3563,6 @@ EntityTemplate
 
 }
 
-//editor "index(390)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -3684,7 +3616,6 @@ EntityTemplate
 
 }
 
-//editor "index(391)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_04"
@@ -3745,7 +3676,6 @@ EntityTemplate
 
 }
 
-//editor "index(392)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_03"
@@ -3799,7 +3729,6 @@ EntityTemplate
 
 }
 
-//editor "index(393)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_02"
@@ -3853,7 +3782,6 @@ EntityTemplate
 
 }
 
-//editor "index(394)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_01"
@@ -3907,7 +3835,6 @@ EntityTemplate
 
 }
 
-//editor "index(395)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -3961,7 +3888,6 @@ EntityTemplate
 
 }
 
-//editor "index(396)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_04"
@@ -4015,7 +3941,6 @@ EntityTemplate
 
 }
 
-//editor "index(397)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -4069,7 +3994,6 @@ EntityTemplate
 
 }
 
-//editor "index(398)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -4123,7 +4047,6 @@ EntityTemplate
 
 }
 
-//editor "index(399)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_01"
@@ -4177,7 +4100,6 @@ EntityTemplate
 
 }
 
-//editor "index(400)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_06"
@@ -4231,7 +4153,6 @@ EntityTemplate
 
 }
 
-//editor "index(401)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_07"
@@ -4285,7 +4206,6 @@ EntityTemplate
 
 }
 
-//editor "index(402)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_01"
@@ -4339,7 +4259,6 @@ EntityTemplate
 
 }
 
-//editor "index(403)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -4393,7 +4312,6 @@ EntityTemplate
 
 }
 
-//editor "index(404)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_02"
@@ -4447,7 +4365,6 @@ EntityTemplate
 
 }
 
-//editor "index(405)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -4501,7 +4418,6 @@ EntityTemplate
 
 }
 
-//editor "index(406)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -4555,7 +4471,6 @@ EntityTemplate
 
 }
 
-//editor "index(407)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_01"
@@ -4609,7 +4524,6 @@ EntityTemplate
 
 }
 
-//editor "index(408)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -4663,7 +4577,6 @@ EntityTemplate
 
 }
 
-//editor "index(409)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -4717,7 +4630,6 @@ EntityTemplate
 
 }
 
-//editor "index(410)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_04"
@@ -4771,7 +4683,6 @@ EntityTemplate
 
 }
 
-//editor "index(411)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_01"
@@ -4825,7 +4736,6 @@ EntityTemplate
 
 }
 
-//editor "index(412)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -4879,7 +4789,6 @@ EntityTemplate
 
 }
 
-//editor "index(413)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -4933,7 +4842,6 @@ EntityTemplate
 
 }
 
-//editor "index(414)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_04"
@@ -4987,7 +4895,6 @@ EntityTemplate
 
 }
 
-//editor "index(415)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -5041,7 +4948,6 @@ EntityTemplate
 
 }
 
-//editor "index(416)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_01"
@@ -5095,7 +5001,6 @@ EntityTemplate
 
 }
 
-//editor "index(417)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_02"
@@ -5149,7 +5054,6 @@ EntityTemplate
 
 }
 
-//editor "index(418)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_03"
@@ -5203,7 +5107,6 @@ EntityTemplate
 
 }
 
-//editor "index(419)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_04"
@@ -5257,7 +5160,6 @@ EntityTemplate
 
 }
 
-//editor "index(420)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -5311,7 +5213,6 @@ EntityTemplate
 
 }
 
-//editor "index(421)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_06"
@@ -5365,7 +5266,6 @@ EntityTemplate
 
 }
 
-//editor "index(422)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_07"
@@ -5419,7 +5319,6 @@ EntityTemplate
 
 }
 
-//editor "index(423)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -5475,7 +5374,6 @@ EntityTemplate
 
 }
 
-//editor "index(424)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -5529,7 +5427,6 @@ EntityTemplate
 
 }
 
-//editor "index(425)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -5583,7 +5480,6 @@ EntityTemplate
 
 }
 
-//editor "index(426)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_04"
@@ -5637,7 +5533,6 @@ EntityTemplate
 
 }
 
-//editor "index(427)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -5691,7 +5586,6 @@ EntityTemplate
 
 }
 
-//editor "index(428)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_05"
@@ -5745,7 +5639,6 @@ EntityTemplate
 
 }
 
-//editor "index(429)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_01"
@@ -5799,7 +5692,6 @@ EntityTemplate
 
 }
 
-//editor "index(430)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_medium_03"
@@ -5853,7 +5745,6 @@ EntityTemplate
 
 }
 
-//editor "index(431)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_small_03"
@@ -5907,7 +5798,6 @@ EntityTemplate
 
 }
 
-//editor "index(432)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_small_01"
@@ -5961,7 +5851,6 @@ EntityTemplate
 
 }
 
-//editor "index(433)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_small_02"
@@ -6015,7 +5904,6 @@ EntityTemplate
 
 }
 
-//editor "index(434)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_small_02"
@@ -6069,7 +5957,6 @@ EntityTemplate
 
 }
 
-//editor "index(436)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_small_01"
@@ -6123,7 +6010,6 @@ EntityTemplate
 
 }
 
-//editor "index(437)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_small_02"
@@ -6177,7 +6063,6 @@ EntityTemplate
 
 }
 
-//editor "index(438)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_small_01"
@@ -6231,7 +6116,6 @@ EntityTemplate
 
 }
 
-//editor "index(439)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_07"
@@ -6294,7 +6178,6 @@ EntityTemplate
 
 }
 
-//editor "index(440)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_07"
@@ -6355,7 +6238,6 @@ EntityTemplate
 
 }
 
-//editor "index(441)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_04"
@@ -6416,7 +6298,6 @@ EntityTemplate
 
 }
 
-//editor "index(442)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_02"
@@ -6477,7 +6358,6 @@ EntityTemplate
 
 }
 
-//editor "index(443)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_06"
@@ -6531,7 +6411,6 @@ EntityTemplate
 
 }
 
-//editor "index(444)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_medium_03"
@@ -6585,7 +6464,6 @@ EntityTemplate
 
 }
 
-//editor "index(445)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_medium_03"
@@ -6639,7 +6517,6 @@ EntityTemplate
 
 }
 
-//editor "index(446)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_medium_02"
@@ -6702,7 +6579,6 @@ EntityTemplate
 
 }
 
-//editor "index(447)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_medium_01"
@@ -6763,7 +6639,6 @@ EntityTemplate
 
 }
 
-//editor "index(449)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_debris_02"
@@ -6817,7 +6692,6 @@ EntityTemplate
 
 }
 
-//editor "index(450)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_07"
@@ -6878,7 +6752,6 @@ EntityTemplate
 
 }
 
-//editor "index(451)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_04"
@@ -6939,7 +6812,6 @@ EntityTemplate
 
 }
 
-//editor "index(452)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources_liquid"
@@ -6994,7 +6866,6 @@ EntityTemplate
 
 }
 
-//editor "index(453)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_06"
@@ -7057,7 +6928,6 @@ EntityTemplate
 
 }
 
-//editor "index(454)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_05"
@@ -7118,7 +6988,6 @@ EntityTemplate
 
 }
 
-//editor "index(456)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_04"
@@ -7179,7 +7048,6 @@ EntityTemplate
 
 }
 
-//editor "index(457)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_06"
@@ -7241,7 +7109,6 @@ EntityTemplate
 
 }
 
-//editor "index(459)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_04"
@@ -7303,7 +7170,6 @@ EntityTemplate
 
 }
 
-//editor "index(460)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_06"
@@ -7366,7 +7232,6 @@ EntityTemplate
 
 }
 
-//editor "index(478)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_06"
@@ -7427,7 +7292,6 @@ EntityTemplate
 
 }
 
-//editor "index(479)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_04"
@@ -7488,7 +7352,6 @@ EntityTemplate
 
 }
 
-//editor "index(481)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_06"
@@ -7550,7 +7413,6 @@ EntityTemplate
 
 }
 
-//editor "index(482)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_05"
@@ -7611,7 +7473,6 @@ EntityTemplate
 
 }
 
-//editor "index(483)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_06"
@@ -7674,7 +7535,6 @@ EntityTemplate
 
 }
 
-//editor "index(484)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_06"
@@ -7735,7 +7595,6 @@ EntityTemplate
 
 }
 
-//editor "index(485)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/lava/lava_big_04"
@@ -7796,7 +7655,6 @@ EntityTemplate
 
 }
 
-//editor "index(486)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_01"
@@ -7850,7 +7708,6 @@ EntityTemplate
 
 }
 
-//editor "index(487)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -7904,7 +7761,6 @@ EntityTemplate
 
 }
 
-//editor "index(488)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_05"
@@ -7960,7 +7816,6 @@ EntityTemplate
 
 }
 
-//editor "index(489)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_01"
@@ -8014,7 +7869,6 @@ EntityTemplate
 
 }
 
-//editor "index(490)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -8068,7 +7922,6 @@ EntityTemplate
 
 }
 
-//editor "index(491)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_04"
@@ -8122,7 +7975,6 @@ EntityTemplate
 
 }
 
-//editor "index(493)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_07"
@@ -8178,7 +8030,6 @@ EntityTemplate
 
 }
 
-//editor "index(494)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -8232,7 +8083,6 @@ EntityTemplate
 
 }
 
-//editor "index(495)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_01"
@@ -8286,7 +8136,6 @@ EntityTemplate
 
 }
 
-//editor "index(496)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_big_02"
@@ -8340,7 +8189,6 @@ EntityTemplate
 
 }
 
-//editor "index(497)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/volcanic/volcanic_rock_medium_06"
@@ -8394,7 +8242,6 @@ EntityTemplate
 
 }
 
-//editor "index(498)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_02"
@@ -8442,7 +8289,6 @@ EntityTemplate
 
 }
 
-//editor "index(499)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_03"
@@ -8490,7 +8336,6 @@ EntityTemplate
 
 }
 
-//editor "index(500)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_02"
@@ -8538,7 +8383,6 @@ EntityTemplate
 
 }
 
-//editor "index(501)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_01"
@@ -8586,7 +8430,6 @@ EntityTemplate
 
 }
 
-//editor "index(502)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_medium_03"
@@ -8634,7 +8477,6 @@ EntityTemplate
 
 }
 
-//editor "index(503)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_05"
@@ -8682,7 +8524,6 @@ EntityTemplate
 
 }
 
-//editor "index(504)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_02"
@@ -8730,7 +8571,6 @@ EntityTemplate
 
 }
 
-//editor "index(505)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_01"
@@ -8778,7 +8618,6 @@ EntityTemplate
 
 }
 
-//editor "index(506)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_big_03"
@@ -8826,7 +8665,6 @@ EntityTemplate
 
 }
 
-//editor "index(507)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_02"
@@ -8874,7 +8712,6 @@ EntityTemplate
 
 }
 
-//editor "index(508)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_big_01"
@@ -8922,7 +8759,6 @@ EntityTemplate
 
 }
 
-//editor "index(509)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_medium_02"
@@ -8970,7 +8806,6 @@ EntityTemplate
 
 }
 
-//editor "index(510)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_01"
@@ -9018,7 +8853,6 @@ EntityTemplate
 
 }
 
-//editor "index(511)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_02"
@@ -9066,7 +8900,6 @@ EntityTemplate
 
 }
 
-//editor "index(512)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_03"
@@ -9114,7 +8947,6 @@ EntityTemplate
 
 }
 
-//editor "index(513)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_01"
@@ -9162,7 +8994,6 @@ EntityTemplate
 
 }
 
-//editor "index(514)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_02"
@@ -9210,7 +9041,6 @@ EntityTemplate
 
 }
 
-//editor "index(515)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_01"
@@ -9258,7 +9088,6 @@ EntityTemplate
 
 }
 
-//editor "index(516)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_03"
@@ -9306,7 +9135,6 @@ EntityTemplate
 
 }
 
-//editor "index(517)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_02"
@@ -9354,7 +9182,6 @@ EntityTemplate
 
 }
 
-//editor "index(518)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_04"
@@ -9402,7 +9229,6 @@ EntityTemplate
 
 }
 
-//editor "index(519)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_04"
@@ -9450,7 +9276,6 @@ EntityTemplate
 
 }
 
-//editor "index(520)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_01"
@@ -9498,7 +9323,6 @@ EntityTemplate
 
 }
 
-//editor "index(521)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_05"
@@ -9546,7 +9370,6 @@ EntityTemplate
 
 }
 
-//editor "index(522)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_05"
@@ -9594,7 +9417,6 @@ EntityTemplate
 
 }
 
-//editor "index(523)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_medium_02"
@@ -9642,7 +9464,6 @@ EntityTemplate
 
 }
 
-//editor "index(524)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_02"
@@ -9690,7 +9511,6 @@ EntityTemplate
 
 }
 
-//editor "index(525)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_05"
@@ -9744,7 +9564,6 @@ EntityTemplate
 
 }
 
-//editor "index(526)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_02"
@@ -9798,7 +9617,6 @@ EntityTemplate
 
 }
 
-//editor "index(527)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_01"
@@ -9852,7 +9670,6 @@ EntityTemplate
 
 }
 
-//editor "index(528)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_04"
@@ -9906,7 +9723,6 @@ EntityTemplate
 
 }
 
-//editor "index(529)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_04"
@@ -9960,7 +9776,6 @@ EntityTemplate
 
 }
 
-//editor "index(530)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_02"
@@ -10014,7 +9829,6 @@ EntityTemplate
 
 }
 
-//editor "index(531)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_02"
@@ -10068,7 +9882,6 @@ EntityTemplate
 
 }
 
-//editor "index(532)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_03"
@@ -10122,7 +9935,6 @@ EntityTemplate
 
 }
 
-//editor "index(533)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_01"
@@ -10176,7 +9988,6 @@ EntityTemplate
 
 }
 
-//editor "index(534)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_02"
@@ -10230,7 +10041,6 @@ EntityTemplate
 
 }
 
-//editor "index(535)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_01"
@@ -10284,7 +10094,6 @@ EntityTemplate
 
 }
 
-//editor "index(536)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_03"
@@ -10338,7 +10147,6 @@ EntityTemplate
 
 }
 
-//editor "index(537)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_05"
@@ -10386,7 +10194,6 @@ EntityTemplate
 
 }
 
-//editor "index(538)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_02"
@@ -10434,7 +10241,6 @@ EntityTemplate
 
 }
 
-//editor "index(539)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_01"
@@ -10482,7 +10288,6 @@ EntityTemplate
 
 }
 
-//editor "index(540)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_04"
@@ -10530,7 +10335,6 @@ EntityTemplate
 
 }
 
-//editor "index(541)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/twisted_small_04"
@@ -10578,7 +10382,6 @@ EntityTemplate
 
 }
 
-//editor "index(542)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_02"
@@ -10626,7 +10429,6 @@ EntityTemplate
 
 }
 
-//editor "index(543)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_02"
@@ -10674,7 +10476,6 @@ EntityTemplate
 
 }
 
-//editor "index(544)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_03"
@@ -10722,7 +10523,6 @@ EntityTemplate
 
 }
 
-//editor "index(545)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_01"
@@ -10770,7 +10570,6 @@ EntityTemplate
 
 }
 
-//editor "index(546)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_medium_02"
@@ -10818,7 +10617,6 @@ EntityTemplate
 
 }
 
-//editor "index(547)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_01"
@@ -10866,7 +10664,6 @@ EntityTemplate
 
 }
 
-//editor "index(548)"
 EntityTemplate
 {
 	base_blueprint "props/trees_dry/simple_big_03"
@@ -10914,7 +10711,6 @@ EntityTemplate
 
 }
 
-//editor "index(549)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -10974,7 +10770,6 @@ EntityTemplate
 
 }
 
-//editor "index(550)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11034,7 +10829,6 @@ EntityTemplate
 
 }
 
-//editor "index(551)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11093,7 +10887,6 @@ EntityTemplate
 
 }
 
-//editor "index(552)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11153,7 +10946,6 @@ EntityTemplate
 
 }
 
-//editor "index(553)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11213,7 +11005,6 @@ EntityTemplate
 
 }
 
-//editor "index(554)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11273,7 +11064,6 @@ EntityTemplate
 
 }
 
-//editor "index(555)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11333,7 +11123,6 @@ EntityTemplate
 
 }
 
-//editor "index(556)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11393,7 +11182,6 @@ EntityTemplate
 
 }
 
-//editor "index(557)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11453,7 +11241,6 @@ EntityTemplate
 
 }
 
-//editor "index(558)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11513,7 +11300,6 @@ EntityTemplate
 
 }
 
-//editor "index(559)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11573,7 +11359,6 @@ EntityTemplate
 
 }
 
-//editor "index(560)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11633,7 +11418,6 @@ EntityTemplate
 
 }
 
-//editor "index(561)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -11694,7 +11478,6 @@ EntityTemplate
 
 }
 
-//editor "index(562)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -11755,7 +11538,6 @@ EntityTemplate
 
 }
 
-//editor "index(563)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -11816,7 +11598,6 @@ EntityTemplate
 
 }
 
-//editor "index(564)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11876,7 +11657,6 @@ EntityTemplate
 
 }
 
-//editor "index(568)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11936,7 +11716,6 @@ EntityTemplate
 
 }
 
-//editor "index(569)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -11995,7 +11774,6 @@ EntityTemplate
 
 }
 
-//editor "index(570)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12055,7 +11833,6 @@ EntityTemplate
 
 }
 
-//editor "index(572)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -12116,7 +11893,6 @@ EntityTemplate
 
 }
 
-//editor "index(573)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12176,7 +11952,6 @@ EntityTemplate
 
 }
 
-//editor "index(574)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12236,7 +12011,6 @@ EntityTemplate
 
 }
 
-//editor "index(575)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12296,7 +12070,6 @@ EntityTemplate
 
 }
 
-//editor "index(576)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -12357,7 +12130,6 @@ EntityTemplate
 
 }
 
-//editor "index(581)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12417,7 +12189,6 @@ EntityTemplate
 
 }
 
-//editor "index(582)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12477,7 +12248,6 @@ EntityTemplate
 
 }
 
-//editor "index(583)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12537,7 +12307,6 @@ EntityTemplate
 
 }
 
-//editor "index(584)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -12598,7 +12367,6 @@ EntityTemplate
 
 }
 
-//editor "index(585)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12658,7 +12426,6 @@ EntityTemplate
 
 }
 
-//editor "index(586)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12718,7 +12485,6 @@ EntityTemplate
 
 }
 
-//editor "index(587)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12778,7 +12544,6 @@ EntityTemplate
 
 }
 
-//editor "index(588)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -12839,7 +12604,6 @@ EntityTemplate
 
 }
 
-//editor "index(589)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12899,7 +12663,6 @@ EntityTemplate
 
 }
 
-//editor "index(590)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -12959,7 +12722,6 @@ EntityTemplate
 
 }
 
-//editor "index(591)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -13019,7 +12781,6 @@ EntityTemplate
 
 }
 
-//editor "index(592)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -13080,7 +12841,6 @@ EntityTemplate
 
 }
 
-//editor "index(593)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -13140,7 +12900,6 @@ EntityTemplate
 
 }
 
-//editor "index(594)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -13200,7 +12959,6 @@ EntityTemplate
 
 }
 
-//editor "index(595)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -13260,7 +13018,6 @@ EntityTemplate
 
 }
 
-//editor "index(596)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -13321,7 +13078,6 @@ EntityTemplate
 
 }
 
-//editor "index(597)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13369,7 +13125,6 @@ EntityTemplate
 
 }
 
-//editor "index(598)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13417,7 +13172,6 @@ EntityTemplate
 
 }
 
-//editor "index(599)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13465,7 +13219,6 @@ EntityTemplate
 
 }
 
-//editor "index(600)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13513,7 +13266,6 @@ EntityTemplate
 
 }
 
-//editor "index(601)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13561,7 +13313,6 @@ EntityTemplate
 
 }
 
-//editor "index(602)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13609,7 +13360,6 @@ EntityTemplate
 
 }
 
-//editor "index(603)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13657,7 +13407,6 @@ EntityTemplate
 
 }
 
-//editor "index(604)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13705,7 +13454,6 @@ EntityTemplate
 
 }
 
-//editor "index(605)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13753,7 +13501,6 @@ EntityTemplate
 
 }
 
-//editor "index(606)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13801,7 +13548,6 @@ EntityTemplate
 
 }
 
-//editor "index(607)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13849,7 +13595,6 @@ EntityTemplate
 
 }
 
-//editor "index(608)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13897,7 +13642,6 @@ EntityTemplate
 
 }
 
-//editor "index(609)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13945,7 +13689,6 @@ EntityTemplate
 
 }
 
-//editor "index(610)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -13993,7 +13736,6 @@ EntityTemplate
 
 }
 
-//editor "index(611)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -14041,7 +13783,6 @@ EntityTemplate
 
 }
 
-//editor "index(612)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -14089,7 +13830,6 @@ EntityTemplate
 
 }
 
-//editor "index(614)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -14137,7 +13877,6 @@ EntityTemplate
 
 }
 
-//editor "index(615)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -14185,7 +13924,6 @@ EntityTemplate
 
 }
 
-//editor "index(620)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -14233,7 +13971,6 @@ EntityTemplate
 
 }
 
-//editor "index(621)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -14281,7 +14018,6 @@ EntityTemplate
 
 }
 
-//editor "index(622)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -14336,7 +14072,6 @@ EntityTemplate
 
 }
 
-//editor "index(623)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -14391,7 +14126,6 @@ EntityTemplate
 
 }
 
-//editor "index(624)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -14446,7 +14180,6 @@ EntityTemplate
 
 }
 
-//editor "index(625)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -14501,7 +14234,6 @@ EntityTemplate
 
 }
 
-//editor "index(626)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -14556,7 +14288,6 @@ EntityTemplate
 
 }
 
-//editor "index(627)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -14611,7 +14342,6 @@ EntityTemplate
 
 }
 
-//editor "index(628)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -14666,7 +14396,6 @@ EntityTemplate
 
 }
 
-//editor "index(629)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -14721,7 +14450,6 @@ EntityTemplate
 
 }
 
-//editor "index(630)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -14776,7 +14504,6 @@ EntityTemplate
 
 }
 
-//editor "index(631)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"

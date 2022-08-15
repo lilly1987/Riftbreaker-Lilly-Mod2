@@ -1,5 +1,4 @@
 entity_count "752"
-//editor "index(166)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -53,7 +52,6 @@ EntityTemplate
 
 }
 
-//editor "index(167)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -107,7 +105,6 @@ EntityTemplate
 
 }
 
-//editor "index(168)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -161,7 +158,6 @@ EntityTemplate
 
 }
 
-//editor "index(169)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -215,7 +211,6 @@ EntityTemplate
 
 }
 
-//editor "index(170)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -269,7 +264,6 @@ EntityTemplate
 
 }
 
-//editor "index(171)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -323,7 +317,6 @@ EntityTemplate
 
 }
 
-//editor "index(172)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -377,7 +370,6 @@ EntityTemplate
 
 }
 
-//editor "index(173)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -431,7 +423,6 @@ EntityTemplate
 
 }
 
-//editor "index(174)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -491,7 +482,6 @@ EntityTemplate
 
 }
 
-//editor "index(175)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -551,7 +541,6 @@ EntityTemplate
 
 }
 
-//editor "index(176)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -611,7 +600,6 @@ EntityTemplate
 
 }
 
-//editor "index(177)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -671,7 +659,6 @@ EntityTemplate
 
 }
 
-//editor "index(178)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -725,7 +712,6 @@ EntityTemplate
 
 }
 
-//editor "index(179)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -779,7 +765,6 @@ EntityTemplate
 
 }
 
-//editor "index(180)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -834,7 +819,6 @@ EntityTemplate
 
 }
 
-//editor "index(182)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -889,7 +873,6 @@ EntityTemplate
 
 }
 
-//editor "index(189)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -944,7 +927,6 @@ EntityTemplate
 
 }
 
-//editor "index(190)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -999,7 +981,6 @@ EntityTemplate
 
 }
 
-//editor "index(191)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -1060,7 +1041,6 @@ EntityTemplate
 
 }
 
-//editor "index(192)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -1115,7 +1095,6 @@ EntityTemplate
 
 }
 
-//editor "index(196)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1170,7 +1149,6 @@ EntityTemplate
 
 }
 
-//editor "index(405)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1224,7 +1202,6 @@ EntityTemplate
 
 }
 
-//editor "index(406)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1278,7 +1255,6 @@ EntityTemplate
 
 }
 
-//editor "index(407)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1332,7 +1308,6 @@ EntityTemplate
 
 }
 
-//editor "index(408)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1386,7 +1361,6 @@ EntityTemplate
 
 }
 
-//editor "index(409)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1440,7 +1414,6 @@ EntityTemplate
 
 }
 
-//editor "index(410)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1494,7 +1467,6 @@ EntityTemplate
 
 }
 
-//editor "index(428)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1548,7 +1520,6 @@ EntityTemplate
 
 }
 
-//editor "index(429)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -1602,7 +1573,6 @@ EntityTemplate
 
 }
 
-//editor "index(2737)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -1665,7 +1635,6 @@ EntityTemplate
 
 }
 
-//editor "index(2738)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -1728,7 +1697,6 @@ EntityTemplate
 
 }
 
-//editor "index(2739)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -1791,7 +1759,6 @@ EntityTemplate
 
 }
 
-//editor "index(2740)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -1847,7 +1814,6 @@ EntityTemplate
 
 }
 
-//editor "index(2742)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -1910,7 +1876,6 @@ EntityTemplate
 
 }
 
-//editor "index(2743)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -1973,7 +1938,6 @@ EntityTemplate
 
 }
 
-//editor "index(2744)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -2036,7 +2000,6 @@ EntityTemplate
 
 }
 
-//editor "index(2745)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -2097,7 +2060,6 @@ EntityTemplate
 
 }
 
-//editor "index(2746)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -2160,7 +2122,6 @@ EntityTemplate
 
 }
 
-//editor "index(2747)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -2221,7 +2182,6 @@ EntityTemplate
 
 }
 
-//editor "index(2748)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -2284,7 +2244,6 @@ EntityTemplate
 
 }
 
-//editor "index(2749)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -2340,7 +2299,6 @@ EntityTemplate
 
 }
 
-//editor "index(2750)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -2403,7 +2361,6 @@ EntityTemplate
 
 }
 
-//editor "index(2751)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -2462,7 +2419,6 @@ EntityTemplate
 
 }
 
-//editor "index(2752)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -2523,7 +2479,6 @@ EntityTemplate
 
 }
 
-//editor "index(2754)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -2586,7 +2541,6 @@ EntityTemplate
 
 }
 
-//editor "index(2755)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -2649,7 +2603,6 @@ EntityTemplate
 
 }
 
-//editor "index(2756)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -2712,7 +2665,6 @@ EntityTemplate
 
 }
 
-//editor "index(2759)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_02"
@@ -2771,7 +2723,6 @@ EntityTemplate
 
 }
 
-//editor "index(2760)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -2834,7 +2785,6 @@ EntityTemplate
 
 }
 
-//editor "index(2761)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -2895,7 +2845,6 @@ EntityTemplate
 
 }
 
-//editor "index(2762)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -2958,7 +2907,6 @@ EntityTemplate
 
 }
 
-//editor "index(2763)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -3019,7 +2967,6 @@ EntityTemplate
 
 }
 
-//editor "index(2764)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -3075,7 +3022,6 @@ EntityTemplate
 
 }
 
-//editor "index(2765)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -3138,7 +3084,6 @@ EntityTemplate
 
 }
 
-//editor "index(2766)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -3201,7 +3146,6 @@ EntityTemplate
 
 }
 
-//editor "index(2767)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -3264,7 +3208,6 @@ EntityTemplate
 
 }
 
-//editor "index(2768)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -3327,7 +3270,6 @@ EntityTemplate
 
 }
 
-//editor "index(2769)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -3390,7 +3332,6 @@ EntityTemplate
 
 }
 
-//editor "index(2770)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -3453,7 +3394,6 @@ EntityTemplate
 
 }
 
-//editor "index(2773)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -3516,7 +3456,6 @@ EntityTemplate
 
 }
 
-//editor "index(2776)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -3579,7 +3518,6 @@ EntityTemplate
 
 }
 
-//editor "index(2777)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -3640,7 +3578,6 @@ EntityTemplate
 
 }
 
-//editor "index(2778)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -3703,7 +3640,6 @@ EntityTemplate
 
 }
 
-//editor "index(2780)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -3766,7 +3702,6 @@ EntityTemplate
 
 }
 
-//editor "index(2782)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -3827,7 +3762,6 @@ EntityTemplate
 
 }
 
-//editor "index(2783)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -3890,7 +3824,6 @@ EntityTemplate
 
 }
 
-//editor "index(2785)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -3953,7 +3886,6 @@ EntityTemplate
 
 }
 
-//editor "index(2788)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -4014,7 +3946,6 @@ EntityTemplate
 
 }
 
-//editor "index(2791)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -4077,7 +4008,6 @@ EntityTemplate
 
 }
 
-//editor "index(2792)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -4140,7 +4070,6 @@ EntityTemplate
 
 }
 
-//editor "index(2795)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -4199,7 +4128,6 @@ EntityTemplate
 
 }
 
-//editor "index(2797)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -4260,7 +4188,6 @@ EntityTemplate
 
 }
 
-//editor "index(2798)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -4321,7 +4248,6 @@ EntityTemplate
 
 }
 
-//editor "index(2799)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -4380,7 +4306,6 @@ EntityTemplate
 
 }
 
-//editor "index(2800)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -4441,7 +4366,6 @@ EntityTemplate
 
 }
 
-//editor "index(2801)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -4500,7 +4424,6 @@ EntityTemplate
 
 }
 
-//editor "index(2804)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -4563,7 +4486,6 @@ EntityTemplate
 
 }
 
-//editor "index(2805)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -4624,7 +4546,6 @@ EntityTemplate
 
 }
 
-//editor "index(2806)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -4685,7 +4606,6 @@ EntityTemplate
 
 }
 
-//editor "index(2807)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -4746,7 +4666,6 @@ EntityTemplate
 
 }
 
-//editor "index(2808)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -4807,7 +4726,6 @@ EntityTemplate
 
 }
 
-//editor "index(2809)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -4868,7 +4786,6 @@ EntityTemplate
 
 }
 
-//editor "index(2811)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -4931,7 +4848,6 @@ EntityTemplate
 
 }
 
-//editor "index(2812)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -4994,7 +4910,6 @@ EntityTemplate
 
 }
 
-//editor "index(2813)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -5053,7 +4968,6 @@ EntityTemplate
 
 }
 
-//editor "index(2814)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -5116,7 +5030,6 @@ EntityTemplate
 
 }
 
-//editor "index(2815)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -5179,7 +5092,6 @@ EntityTemplate
 
 }
 
-//editor "index(2816)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -5242,7 +5154,6 @@ EntityTemplate
 
 }
 
-//editor "index(2817)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -5303,7 +5214,6 @@ EntityTemplate
 
 }
 
-//editor "index(2819)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -5364,7 +5274,6 @@ EntityTemplate
 
 }
 
-//editor "index(2822)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -5427,7 +5336,6 @@ EntityTemplate
 
 }
 
-//editor "index(2823)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -5490,7 +5398,6 @@ EntityTemplate
 
 }
 
-//editor "index(2824)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_03"
@@ -5549,7 +5456,6 @@ EntityTemplate
 
 }
 
-//editor "index(2829)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -5612,7 +5518,6 @@ EntityTemplate
 
 }
 
-//editor "index(2831)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -5671,7 +5576,6 @@ EntityTemplate
 
 }
 
-//editor "index(2832)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -5732,7 +5636,6 @@ EntityTemplate
 
 }
 
-//editor "index(2834)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -5793,7 +5696,6 @@ EntityTemplate
 
 }
 
-//editor "index(2836)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_03"
@@ -5854,7 +5756,6 @@ EntityTemplate
 
 }
 
-//editor "index(2838)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -5917,7 +5818,6 @@ EntityTemplate
 
 }
 
-//editor "index(2839)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -5980,7 +5880,6 @@ EntityTemplate
 
 }
 
-//editor "index(2841)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -6043,7 +5942,6 @@ EntityTemplate
 
 }
 
-//editor "index(2844)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -6104,7 +6002,6 @@ EntityTemplate
 
 }
 
-//editor "index(2845)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -6167,7 +6064,6 @@ EntityTemplate
 
 }
 
-//editor "index(2846)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -6230,7 +6126,6 @@ EntityTemplate
 
 }
 
-//editor "index(2847)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -6291,7 +6186,6 @@ EntityTemplate
 
 }
 
-//editor "index(2848)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -6352,7 +6246,6 @@ EntityTemplate
 
 }
 
-//editor "index(2851)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -6415,7 +6308,6 @@ EntityTemplate
 
 }
 
-//editor "index(2853)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -6476,7 +6368,6 @@ EntityTemplate
 
 }
 
-//editor "index(2854)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -6539,7 +6430,6 @@ EntityTemplate
 
 }
 
-//editor "index(2855)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -6602,7 +6492,6 @@ EntityTemplate
 
 }
 
-//editor "index(2858)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -6661,7 +6550,6 @@ EntityTemplate
 
 }
 
-//editor "index(2865)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -6724,7 +6612,6 @@ EntityTemplate
 
 }
 
-//editor "index(2867)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -6787,7 +6674,6 @@ EntityTemplate
 
 }
 
-//editor "index(2868)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -6843,7 +6729,6 @@ EntityTemplate
 
 }
 
-//editor "index(2870)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -6904,7 +6789,6 @@ EntityTemplate
 
 }
 
-//editor "index(2871)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -6967,7 +6851,6 @@ EntityTemplate
 
 }
 
-//editor "index(2876)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -7026,7 +6909,6 @@ EntityTemplate
 
 }
 
-//editor "index(2879)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -7089,7 +6971,6 @@ EntityTemplate
 
 }
 
-//editor "index(2880)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -7150,7 +7031,6 @@ EntityTemplate
 
 }
 
-//editor "index(2881)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -7211,7 +7091,6 @@ EntityTemplate
 
 }
 
-//editor "index(2882)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -7274,7 +7153,6 @@ EntityTemplate
 
 }
 
-//editor "index(2883)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -7333,7 +7211,6 @@ EntityTemplate
 
 }
 
-//editor "index(2884)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -7394,7 +7271,6 @@ EntityTemplate
 
 }
 
-//editor "index(2885)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -7457,7 +7333,6 @@ EntityTemplate
 
 }
 
-//editor "index(2886)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -7520,7 +7395,6 @@ EntityTemplate
 
 }
 
-//editor "index(2887)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -7583,7 +7457,6 @@ EntityTemplate
 
 }
 
-//editor "index(2889)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -7644,7 +7517,6 @@ EntityTemplate
 
 }
 
-//editor "index(2891)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -7705,7 +7577,6 @@ EntityTemplate
 
 }
 
-//editor "index(2892)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -7768,7 +7639,6 @@ EntityTemplate
 
 }
 
-//editor "index(2894)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -7829,7 +7699,6 @@ EntityTemplate
 
 }
 
-//editor "index(2896)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -7890,7 +7759,6 @@ EntityTemplate
 
 }
 
-//editor "index(2897)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -7953,7 +7821,6 @@ EntityTemplate
 
 }
 
-//editor "index(2906)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -8016,7 +7883,6 @@ EntityTemplate
 
 }
 
-//editor "index(2907)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -8079,7 +7945,6 @@ EntityTemplate
 
 }
 
-//editor "index(2908)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -8140,7 +8005,6 @@ EntityTemplate
 
 }
 
-//editor "index(2909)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -8203,7 +8067,6 @@ EntityTemplate
 
 }
 
-//editor "index(2910)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -8266,7 +8129,6 @@ EntityTemplate
 
 }
 
-//editor "index(2912)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -8329,7 +8191,6 @@ EntityTemplate
 
 }
 
-//editor "index(2913)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -8390,7 +8251,6 @@ EntityTemplate
 
 }
 
-//editor "index(2914)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -8446,7 +8306,6 @@ EntityTemplate
 
 }
 
-//editor "index(2915)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -8507,7 +8366,6 @@ EntityTemplate
 
 }
 
-//editor "index(2916)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -8568,7 +8426,6 @@ EntityTemplate
 
 }
 
-//editor "index(2917)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -8631,7 +8488,6 @@ EntityTemplate
 
 }
 
-//editor "index(2918)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -8694,7 +8550,6 @@ EntityTemplate
 
 }
 
-//editor "index(2919)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -8757,7 +8612,6 @@ EntityTemplate
 
 }
 
-//editor "index(2920)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -8820,7 +8674,6 @@ EntityTemplate
 
 }
 
-//editor "index(2921)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -8883,7 +8736,6 @@ EntityTemplate
 
 }
 
-//editor "index(2922)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -8944,7 +8796,6 @@ EntityTemplate
 
 }
 
-//editor "index(2923)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -9003,7 +8854,6 @@ EntityTemplate
 
 }
 
-//editor "index(2924)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -9059,7 +8909,6 @@ EntityTemplate
 
 }
 
-//editor "index(2925)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -9120,7 +8969,6 @@ EntityTemplate
 
 }
 
-//editor "index(2926)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -9183,7 +9031,6 @@ EntityTemplate
 
 }
 
-//editor "index(2927)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -9239,7 +9086,6 @@ EntityTemplate
 
 }
 
-//editor "index(2928)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -9302,7 +9148,6 @@ EntityTemplate
 
 }
 
-//editor "index(2929)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -9365,7 +9210,6 @@ EntityTemplate
 
 }
 
-//editor "index(2930)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -9428,7 +9272,6 @@ EntityTemplate
 
 }
 
-//editor "index(2932)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_03"
@@ -9484,7 +9327,6 @@ EntityTemplate
 
 }
 
-//editor "index(2933)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -9547,7 +9389,6 @@ EntityTemplate
 
 }
 
-//editor "index(2934)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -9608,7 +9449,6 @@ EntityTemplate
 
 }
 
-//editor "index(2935)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -9671,7 +9511,6 @@ EntityTemplate
 
 }
 
-//editor "index(2936)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -9732,7 +9571,6 @@ EntityTemplate
 
 }
 
-//editor "index(2937)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -9791,7 +9629,6 @@ EntityTemplate
 
 }
 
-//editor "index(2938)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -9852,7 +9689,6 @@ EntityTemplate
 
 }
 
-//editor "index(2940)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -9915,7 +9751,6 @@ EntityTemplate
 
 }
 
-//editor "index(2941)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -9976,7 +9811,6 @@ EntityTemplate
 
 }
 
-//editor "index(2942)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -10039,7 +9873,6 @@ EntityTemplate
 
 }
 
-//editor "index(2943)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -10100,7 +9933,6 @@ EntityTemplate
 
 }
 
-//editor "index(2944)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -10159,7 +9991,6 @@ EntityTemplate
 
 }
 
-//editor "index(2945)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -10222,7 +10053,6 @@ EntityTemplate
 
 }
 
-//editor "index(2946)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -10285,7 +10115,6 @@ EntityTemplate
 
 }
 
-//editor "index(2947)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -10344,7 +10173,6 @@ EntityTemplate
 
 }
 
-//editor "index(2948)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -10407,7 +10235,6 @@ EntityTemplate
 
 }
 
-//editor "index(2949)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -10470,7 +10297,6 @@ EntityTemplate
 
 }
 
-//editor "index(2950)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -10533,7 +10359,6 @@ EntityTemplate
 
 }
 
-//editor "index(2951)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -10596,7 +10421,6 @@ EntityTemplate
 
 }
 
-//editor "index(2952)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -10659,7 +10483,6 @@ EntityTemplate
 
 }
 
-//editor "index(2953)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -10722,7 +10545,6 @@ EntityTemplate
 
 }
 
-//editor "index(2954)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -10781,7 +10603,6 @@ EntityTemplate
 
 }
 
-//editor "index(2955)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -10842,7 +10663,6 @@ EntityTemplate
 
 }
 
-//editor "index(2956)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -10901,7 +10721,6 @@ EntityTemplate
 
 }
 
-//editor "index(2957)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -10964,7 +10783,6 @@ EntityTemplate
 
 }
 
-//editor "index(2958)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -11025,7 +10843,6 @@ EntityTemplate
 
 }
 
-//editor "index(2959)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -11088,7 +10905,6 @@ EntityTemplate
 
 }
 
-//editor "index(2960)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -11149,7 +10965,6 @@ EntityTemplate
 
 }
 
-//editor "index(2961)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -11212,7 +11027,6 @@ EntityTemplate
 
 }
 
-//editor "index(2962)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -11275,7 +11089,6 @@ EntityTemplate
 
 }
 
-//editor "index(2963)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -11338,7 +11151,6 @@ EntityTemplate
 
 }
 
-//editor "index(2964)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -11399,7 +11211,6 @@ EntityTemplate
 
 }
 
-//editor "index(2966)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -11462,7 +11273,6 @@ EntityTemplate
 
 }
 
-//editor "index(2967)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -11523,7 +11333,6 @@ EntityTemplate
 
 }
 
-//editor "index(2968)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -11584,7 +11393,6 @@ EntityTemplate
 
 }
 
-//editor "index(2969)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -11645,7 +11453,6 @@ EntityTemplate
 
 }
 
-//editor "index(2970)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -11704,7 +11511,6 @@ EntityTemplate
 
 }
 
-//editor "index(2972)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -11765,7 +11571,6 @@ EntityTemplate
 
 }
 
-//editor "index(2973)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -11828,7 +11633,6 @@ EntityTemplate
 
 }
 
-//editor "index(2974)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -11891,7 +11695,6 @@ EntityTemplate
 
 }
 
-//editor "index(2975)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -11954,7 +11757,6 @@ EntityTemplate
 
 }
 
-//editor "index(2976)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -12015,7 +11817,6 @@ EntityTemplate
 
 }
 
-//editor "index(2977)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -12074,7 +11875,6 @@ EntityTemplate
 
 }
 
-//editor "index(2978)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12137,7 +11937,6 @@ EntityTemplate
 
 }
 
-//editor "index(2980)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12198,7 +11997,6 @@ EntityTemplate
 
 }
 
-//editor "index(2981)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12261,7 +12059,6 @@ EntityTemplate
 
 }
 
-//editor "index(2982)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -12317,7 +12114,6 @@ EntityTemplate
 
 }
 
-//editor "index(2983)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -12373,7 +12169,6 @@ EntityTemplate
 
 }
 
-//editor "index(2984)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12434,7 +12229,6 @@ EntityTemplate
 
 }
 
-//editor "index(2985)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -12495,7 +12289,6 @@ EntityTemplate
 
 }
 
-//editor "index(2986)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12556,7 +12349,6 @@ EntityTemplate
 
 }
 
-//editor "index(2987)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12619,7 +12411,6 @@ EntityTemplate
 
 }
 
-//editor "index(2988)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12680,7 +12471,6 @@ EntityTemplate
 
 }
 
-//editor "index(2989)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12741,7 +12531,6 @@ EntityTemplate
 
 }
 
-//editor "index(2990)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12804,7 +12593,6 @@ EntityTemplate
 
 }
 
-//editor "index(2992)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12865,7 +12653,6 @@ EntityTemplate
 
 }
 
-//editor "index(2993)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12928,7 +12715,6 @@ EntityTemplate
 
 }
 
-//editor "index(2994)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -12989,7 +12775,6 @@ EntityTemplate
 
 }
 
-//editor "index(2996)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -13050,7 +12835,6 @@ EntityTemplate
 
 }
 
-//editor "index(2997)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -13111,7 +12895,6 @@ EntityTemplate
 
 }
 
-//editor "index(2998)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -13172,7 +12955,6 @@ EntityTemplate
 
 }
 
-//editor "index(2999)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -13233,7 +13015,6 @@ EntityTemplate
 
 }
 
-//editor "index(3001)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -13294,7 +13075,6 @@ EntityTemplate
 
 }
 
-//editor "index(3003)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -13355,7 +13135,6 @@ EntityTemplate
 
 }
 
-//editor "index(3004)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -13414,7 +13193,6 @@ EntityTemplate
 
 }
 
-//editor "index(3005)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -13475,7 +13253,6 @@ EntityTemplate
 
 }
 
-//editor "index(3006)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -13536,7 +13313,6 @@ EntityTemplate
 
 }
 
-//editor "index(3007)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -13597,7 +13373,6 @@ EntityTemplate
 
 }
 
-//editor "index(3008)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -13658,7 +13433,6 @@ EntityTemplate
 
 }
 
-//editor "index(3009)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -13719,7 +13493,6 @@ EntityTemplate
 
 }
 
-//editor "index(3010)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -13782,7 +13555,6 @@ EntityTemplate
 
 }
 
-//editor "index(3012)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -13845,7 +13617,6 @@ EntityTemplate
 
 }
 
-//editor "index(3014)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -13906,7 +13677,6 @@ EntityTemplate
 
 }
 
-//editor "index(3015)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -13969,7 +13739,6 @@ EntityTemplate
 
 }
 
-//editor "index(3016)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -14030,7 +13799,6 @@ EntityTemplate
 
 }
 
-//editor "index(3017)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -14091,7 +13859,6 @@ EntityTemplate
 
 }
 
-//editor "index(3018)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -14154,7 +13921,6 @@ EntityTemplate
 
 }
 
-//editor "index(3019)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -14217,7 +13983,6 @@ EntityTemplate
 
 }
 
-//editor "index(3020)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -14278,7 +14043,6 @@ EntityTemplate
 
 }
 
-//editor "index(3022)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -14337,7 +14101,6 @@ EntityTemplate
 
 }
 
-//editor "index(3027)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -14398,7 +14161,6 @@ EntityTemplate
 
 }
 
-//editor "index(3028)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -14461,7 +14223,6 @@ EntityTemplate
 
 }
 
-//editor "index(3030)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -14520,7 +14281,6 @@ EntityTemplate
 
 }
 
-//editor "index(3031)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -14581,7 +14341,6 @@ EntityTemplate
 
 }
 
-//editor "index(3032)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -14642,7 +14401,6 @@ EntityTemplate
 
 }
 
-//editor "index(3033)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -14696,7 +14454,6 @@ EntityTemplate
 
 }
 
-//editor "index(3034)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -14759,7 +14516,6 @@ EntityTemplate
 
 }
 
-//editor "index(3035)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -14820,7 +14576,6 @@ EntityTemplate
 
 }
 
-//editor "index(3036)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -14881,7 +14636,6 @@ EntityTemplate
 
 }
 
-//editor "index(3037)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -14944,7 +14698,6 @@ EntityTemplate
 
 }
 
-//editor "index(3038)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -15007,7 +14760,6 @@ EntityTemplate
 
 }
 
-//editor "index(3039)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -15070,7 +14822,6 @@ EntityTemplate
 
 }
 
-//editor "index(3041)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -15129,7 +14880,6 @@ EntityTemplate
 
 }
 
-//editor "index(3042)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -15183,7 +14933,6 @@ EntityTemplate
 
 }
 
-//editor "index(3043)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -15244,7 +14993,6 @@ EntityTemplate
 
 }
 
-//editor "index(3044)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -15305,7 +15053,6 @@ EntityTemplate
 
 }
 
-//editor "index(3045)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -15366,7 +15113,6 @@ EntityTemplate
 
 }
 
-//editor "index(3046)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -15427,7 +15173,6 @@ EntityTemplate
 
 }
 
-//editor "index(3047)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -15490,7 +15235,6 @@ EntityTemplate
 
 }
 
-//editor "index(3048)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -15553,7 +15297,6 @@ EntityTemplate
 
 }
 
-//editor "index(3049)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -15612,7 +15355,6 @@ EntityTemplate
 
 }
 
-//editor "index(3051)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -15673,7 +15415,6 @@ EntityTemplate
 
 }
 
-//editor "index(3052)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -15734,7 +15475,6 @@ EntityTemplate
 
 }
 
-//editor "index(3053)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -15795,7 +15535,6 @@ EntityTemplate
 
 }
 
-//editor "index(3056)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -15858,7 +15597,6 @@ EntityTemplate
 
 }
 
-//editor "index(3058)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -15919,7 +15657,6 @@ EntityTemplate
 
 }
 
-//editor "index(3062)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -15980,7 +15717,6 @@ EntityTemplate
 
 }
 
-//editor "index(3066)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -16041,7 +15777,6 @@ EntityTemplate
 
 }
 
-//editor "index(3069)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -16102,7 +15837,6 @@ EntityTemplate
 
 }
 
-//editor "index(3070)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -16163,7 +15897,6 @@ EntityTemplate
 
 }
 
-//editor "index(3071)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -16224,7 +15957,6 @@ EntityTemplate
 
 }
 
-//editor "index(3072)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -16285,7 +16017,6 @@ EntityTemplate
 
 }
 
-//editor "index(3073)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -16346,7 +16077,6 @@ EntityTemplate
 
 }
 
-//editor "index(3074)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -16409,7 +16139,6 @@ EntityTemplate
 
 }
 
-//editor "index(3075)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -16468,7 +16197,6 @@ EntityTemplate
 
 }
 
-//editor "index(3076)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -16529,7 +16257,6 @@ EntityTemplate
 
 }
 
-//editor "index(3077)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -16590,7 +16317,6 @@ EntityTemplate
 
 }
 
-//editor "index(3078)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -16653,7 +16379,6 @@ EntityTemplate
 
 }
 
-//editor "index(3079)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -16714,7 +16439,6 @@ EntityTemplate
 
 }
 
-//editor "index(3080)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -16777,7 +16501,6 @@ EntityTemplate
 
 }
 
-//editor "index(3081)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -16838,7 +16561,6 @@ EntityTemplate
 
 }
 
-//editor "index(3082)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -16899,7 +16621,6 @@ EntityTemplate
 
 }
 
-//editor "index(3083)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -16960,7 +16681,6 @@ EntityTemplate
 
 }
 
-//editor "index(3084)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -17021,7 +16741,6 @@ EntityTemplate
 
 }
 
-//editor "index(3085)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -17084,7 +16803,6 @@ EntityTemplate
 
 }
 
-//editor "index(3086)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -17147,7 +16865,6 @@ EntityTemplate
 
 }
 
-//editor "index(3088)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -17208,7 +16925,6 @@ EntityTemplate
 
 }
 
-//editor "index(3089)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -17267,7 +16983,6 @@ EntityTemplate
 
 }
 
-//editor "index(3090)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -17330,7 +17045,6 @@ EntityTemplate
 
 }
 
-//editor "index(3091)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -17386,7 +17100,6 @@ EntityTemplate
 
 }
 
-//editor "index(3092)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -17447,7 +17160,6 @@ EntityTemplate
 
 }
 
-//editor "index(3093)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -17506,7 +17218,6 @@ EntityTemplate
 
 }
 
-//editor "index(3094)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -17567,7 +17278,6 @@ EntityTemplate
 
 }
 
-//editor "index(3095)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -17628,7 +17338,6 @@ EntityTemplate
 
 }
 
-//editor "index(3096)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -17689,7 +17398,6 @@ EntityTemplate
 
 }
 
-//editor "index(3097)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -17748,7 +17456,6 @@ EntityTemplate
 
 }
 
-//editor "index(3098)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -17806,7 +17513,6 @@ EntityTemplate
 
 }
 
-//editor "index(3105)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -17867,7 +17573,6 @@ EntityTemplate
 
 }
 
-//editor "index(3106)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -17928,7 +17633,6 @@ EntityTemplate
 
 }
 
-//editor "index(3107)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -17987,7 +17691,6 @@ EntityTemplate
 
 }
 
-//editor "index(3108)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_02"
@@ -18046,7 +17749,6 @@ EntityTemplate
 
 }
 
-//editor "index(3109)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -18109,7 +17811,6 @@ EntityTemplate
 
 }
 
-//editor "index(3110)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -18170,7 +17871,6 @@ EntityTemplate
 
 }
 
-//editor "index(3111)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -18233,7 +17933,6 @@ EntityTemplate
 
 }
 
-//editor "index(3112)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -18294,7 +17993,6 @@ EntityTemplate
 
 }
 
-//editor "index(3114)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -18357,7 +18055,6 @@ EntityTemplate
 
 }
 
-//editor "index(3116)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -18418,7 +18115,6 @@ EntityTemplate
 
 }
 
-//editor "index(3117)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -18477,7 +18173,6 @@ EntityTemplate
 
 }
 
-//editor "index(3118)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -18532,7 +18227,6 @@ EntityTemplate
 
 }
 
-//editor "index(3119)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -18593,7 +18287,6 @@ EntityTemplate
 
 }
 
-//editor "index(3120)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -18656,7 +18349,6 @@ EntityTemplate
 
 }
 
-//editor "index(3121)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -18719,7 +18411,6 @@ EntityTemplate
 
 }
 
-//editor "index(3125)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -18778,7 +18469,6 @@ EntityTemplate
 
 }
 
-//editor "index(3126)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -18841,7 +18531,6 @@ EntityTemplate
 
 }
 
-//editor "index(3132)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -18895,7 +18584,6 @@ EntityTemplate
 
 }
 
-//editor "index(3135)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -18958,7 +18646,6 @@ EntityTemplate
 
 }
 
-//editor "index(3136)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -19021,7 +18708,6 @@ EntityTemplate
 
 }
 
-//editor "index(3138)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -19084,7 +18770,6 @@ EntityTemplate
 
 }
 
-//editor "index(3139)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -19143,7 +18828,6 @@ EntityTemplate
 
 }
 
-//editor "index(3140)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -19206,7 +18890,6 @@ EntityTemplate
 
 }
 
-//editor "index(3141)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -19269,7 +18952,6 @@ EntityTemplate
 
 }
 
-//editor "index(3142)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -19332,7 +19014,6 @@ EntityTemplate
 
 }
 
-//editor "index(3143)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -19395,7 +19076,6 @@ EntityTemplate
 
 }
 
-//editor "index(3144)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -19454,7 +19134,6 @@ EntityTemplate
 
 }
 
-//editor "index(3145)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -19515,7 +19194,6 @@ EntityTemplate
 
 }
 
-//editor "index(3146)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -19578,7 +19256,6 @@ EntityTemplate
 
 }
 
-//editor "index(3147)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -19641,7 +19318,6 @@ EntityTemplate
 
 }
 
-//editor "index(3148)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -19702,7 +19378,6 @@ EntityTemplate
 
 }
 
-//editor "index(3149)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -19765,7 +19440,6 @@ EntityTemplate
 
 }
 
-//editor "index(3150)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_02"
@@ -19824,7 +19498,6 @@ EntityTemplate
 
 }
 
-//editor "index(3152)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -19887,7 +19560,6 @@ EntityTemplate
 
 }
 
-//editor "index(3153)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -19946,7 +19618,6 @@ EntityTemplate
 
 }
 
-//editor "index(3160)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -20009,7 +19680,6 @@ EntityTemplate
 
 }
 
-//editor "index(3165)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -20070,7 +19740,6 @@ EntityTemplate
 
 }
 
-//editor "index(3167)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_01"
@@ -20118,7 +19787,6 @@ EntityTemplate
 
 }
 
-//editor "index(3168)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_01"
@@ -20172,7 +19840,6 @@ EntityTemplate
 
 }
 
-//editor "index(3182)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -20233,7 +19900,6 @@ EntityTemplate
 
 }
 
-//editor "index(3183)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -20288,7 +19954,6 @@ EntityTemplate
 
 }
 
-//editor "index(3184)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -20343,7 +20008,6 @@ EntityTemplate
 
 }
 
-//editor "index(3185)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -20404,7 +20068,6 @@ EntityTemplate
 
 }
 
-//editor "index(3186)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -20459,7 +20122,6 @@ EntityTemplate
 
 }
 
-//editor "index(3187)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -20522,7 +20184,6 @@ EntityTemplate
 
 }
 
-//editor "index(3188)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -20585,7 +20246,6 @@ EntityTemplate
 
 }
 
-//editor "index(3189)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -20648,7 +20308,6 @@ EntityTemplate
 
 }
 
-//editor "index(3190)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -20710,7 +20369,6 @@ EntityTemplate
 
 }
 
-//editor "index(3191)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -20771,7 +20429,6 @@ EntityTemplate
 
 }
 
-//editor "index(3192)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -20834,7 +20491,6 @@ EntityTemplate
 
 }
 
-//editor "index(3193)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -20890,7 +20546,6 @@ EntityTemplate
 
 }
 
-//editor "index(3194)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -20946,7 +20601,6 @@ EntityTemplate
 
 }
 
-//editor "index(3196)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -21002,7 +20656,6 @@ EntityTemplate
 
 }
 
-//editor "index(3197)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -21065,7 +20718,6 @@ EntityTemplate
 
 }
 
-//editor "index(3198)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -21128,7 +20780,6 @@ EntityTemplate
 
 }
 
-//editor "index(3199)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -21184,7 +20835,6 @@ EntityTemplate
 
 }
 
-//editor "index(3200)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -21247,7 +20897,6 @@ EntityTemplate
 
 }
 
-//editor "index(3201)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -21306,7 +20955,6 @@ EntityTemplate
 
 }
 
-//editor "index(3202)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -21369,7 +21017,6 @@ EntityTemplate
 
 }
 
-//editor "index(3203)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -21432,7 +21079,6 @@ EntityTemplate
 
 }
 
-//editor "index(3204)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -21495,7 +21141,6 @@ EntityTemplate
 
 }
 
-//editor "index(3205)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -21558,7 +21203,6 @@ EntityTemplate
 
 }
 
-//editor "index(3206)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_01"
@@ -21619,7 +21263,6 @@ EntityTemplate
 
 }
 
-//editor "index(3207)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -21682,7 +21325,6 @@ EntityTemplate
 
 }
 
-//editor "index(3208)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -21745,7 +21387,6 @@ EntityTemplate
 
 }
 
-//editor "index(3209)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -21808,7 +21449,6 @@ EntityTemplate
 
 }
 
-//editor "index(3210)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -21871,7 +21511,6 @@ EntityTemplate
 
 }
 
-//editor "index(3211)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -21932,7 +21571,6 @@ EntityTemplate
 
 }
 
-//editor "index(3212)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -21988,7 +21626,6 @@ EntityTemplate
 
 }
 
-//editor "index(3213)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -22049,7 +21686,6 @@ EntityTemplate
 
 }
 
-//editor "index(3214)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -22112,7 +21748,6 @@ EntityTemplate
 
 }
 
-//editor "index(3215)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -22175,7 +21810,6 @@ EntityTemplate
 
 }
 
-//editor "index(3216)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -22238,7 +21872,6 @@ EntityTemplate
 
 }
 
-//editor "index(3221)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -22301,7 +21934,6 @@ EntityTemplate
 
 }
 
-//editor "index(3223)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -22364,7 +21996,6 @@ EntityTemplate
 
 }
 
-//editor "index(3224)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -22427,7 +22058,6 @@ EntityTemplate
 
 }
 
-//editor "index(3225)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -22488,7 +22118,6 @@ EntityTemplate
 
 }
 
-//editor "index(3226)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -22549,7 +22178,6 @@ EntityTemplate
 
 }
 
-//editor "index(3227)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -22610,7 +22238,6 @@ EntityTemplate
 
 }
 
-//editor "index(3228)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -22666,7 +22293,6 @@ EntityTemplate
 
 }
 
-//editor "index(3229)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_01"
@@ -22722,7 +22348,6 @@ EntityTemplate
 
 }
 
-//editor "index(3231)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_03"
@@ -22783,7 +22408,6 @@ EntityTemplate
 
 }
 
-//editor "index(3233)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_02"
@@ -22837,7 +22461,6 @@ EntityTemplate
 
 }
 
-//editor "index(3234)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -22898,7 +22521,6 @@ EntityTemplate
 
 }
 
-//editor "index(3235)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -22959,7 +22581,6 @@ EntityTemplate
 
 }
 
-//editor "index(3236)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -23013,7 +22634,6 @@ EntityTemplate
 
 }
 
-//editor "index(3237)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -23069,7 +22689,6 @@ EntityTemplate
 
 }
 
-//editor "index(3238)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -23130,7 +22749,6 @@ EntityTemplate
 
 }
 
-//editor "index(3239)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -23184,7 +22802,6 @@ EntityTemplate
 
 }
 
-//editor "index(3240)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -23245,7 +22862,6 @@ EntityTemplate
 
 }
 
-//editor "index(3241)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -23306,7 +22922,6 @@ EntityTemplate
 
 }
 
-//editor "index(3242)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -23367,7 +22982,6 @@ EntityTemplate
 
 }
 
-//editor "index(3245)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -23430,7 +23044,6 @@ EntityTemplate
 
 }
 
-//editor "index(3246)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -23491,7 +23104,6 @@ EntityTemplate
 
 }
 
-//editor "index(3247)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -23554,7 +23166,6 @@ EntityTemplate
 
 }
 
-//editor "index(3248)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -23615,7 +23226,6 @@ EntityTemplate
 
 }
 
-//editor "index(3249)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -23676,7 +23286,6 @@ EntityTemplate
 
 }
 
-//editor "index(3250)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -23737,7 +23346,6 @@ EntityTemplate
 
 }
 
-//editor "index(3251)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -23798,7 +23406,6 @@ EntityTemplate
 
 }
 
-//editor "index(3252)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -23852,7 +23459,6 @@ EntityTemplate
 
 }
 
-//editor "index(3253)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -23913,7 +23519,6 @@ EntityTemplate
 
 }
 
-//editor "index(3254)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -23969,7 +23574,6 @@ EntityTemplate
 
 }
 
-//editor "index(3255)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_02"
@@ -24025,7 +23629,6 @@ EntityTemplate
 
 }
 
-//editor "index(3257)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -24079,7 +23682,6 @@ EntityTemplate
 
 }
 
-//editor "index(3258)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -24135,7 +23737,6 @@ EntityTemplate
 
 }
 
-//editor "index(3259)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -24196,7 +23797,6 @@ EntityTemplate
 
 }
 
-//editor "index(3260)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -24250,7 +23850,6 @@ EntityTemplate
 
 }
 
-//editor "index(3261)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -24311,7 +23910,6 @@ EntityTemplate
 
 }
 
-//editor "index(3262)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -24367,7 +23965,6 @@ EntityTemplate
 
 }
 
-//editor "index(3263)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_01"
@@ -24428,7 +24025,6 @@ EntityTemplate
 
 }
 
-//editor "index(3264)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -24489,7 +24085,6 @@ EntityTemplate
 
 }
 
-//editor "index(3265)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -24548,7 +24143,6 @@ EntityTemplate
 
 }
 
-//editor "index(3266)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -24604,7 +24198,6 @@ EntityTemplate
 
 }
 
-//editor "index(3267)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -24665,7 +24258,6 @@ EntityTemplate
 
 }
 
-//editor "index(3268)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -24721,7 +24313,6 @@ EntityTemplate
 
 }
 
-//editor "index(3269)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -24777,7 +24368,6 @@ EntityTemplate
 
 }
 
-//editor "index(3270)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_01"
@@ -24825,7 +24415,6 @@ EntityTemplate
 
 }
 
-//editor "index(3274)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -24886,7 +24475,6 @@ EntityTemplate
 
 }
 
-//editor "index(3275)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -24947,7 +24535,6 @@ EntityTemplate
 
 }
 
-//editor "index(3280)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -25008,7 +24595,6 @@ EntityTemplate
 
 }
 
-//editor "index(3282)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -25067,7 +24653,6 @@ EntityTemplate
 
 }
 
-//editor "index(3284)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -25128,7 +24713,6 @@ EntityTemplate
 
 }
 
-//editor "index(3285)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_01"
@@ -25187,7 +24771,6 @@ EntityTemplate
 
 }
 
-//editor "index(3286)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_03"
@@ -25246,7 +24829,6 @@ EntityTemplate
 
 }
 
-//editor "index(3287)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -25307,7 +24889,6 @@ EntityTemplate
 
 }
 
-//editor "index(3288)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -25368,7 +24949,6 @@ EntityTemplate
 
 }
 
-//editor "index(3289)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -25429,7 +25009,6 @@ EntityTemplate
 
 }
 
-//editor "index(3290)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -25490,7 +25069,6 @@ EntityTemplate
 
 }
 
-//editor "index(3291)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -25551,7 +25129,6 @@ EntityTemplate
 
 }
 
-//editor "index(3292)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -25612,7 +25189,6 @@ EntityTemplate
 
 }
 
-//editor "index(3293)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -25673,7 +25249,6 @@ EntityTemplate
 
 }
 
-//editor "index(3294)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -25734,9 +25309,7 @@ EntityTemplate
 
 }
 
-//editor "index(5365)"
 
-//editor "index(5366)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -25797,7 +25370,6 @@ EntityTemplate
 
 }
 
-//editor "index(5367)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -25860,7 +25432,6 @@ EntityTemplate
 
 }
 
-//editor "index(5368)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -25923,7 +25494,6 @@ EntityTemplate
 
 }
 
-//editor "index(5369)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -25986,7 +25556,6 @@ EntityTemplate
 
 }
 
-//editor "index(5370)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -26040,7 +25609,6 @@ EntityTemplate
 
 }
 
-//editor "index(5371)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -26101,7 +25669,6 @@ EntityTemplate
 
 }
 
-//editor "index(5372)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -26164,7 +25731,6 @@ EntityTemplate
 
 }
 
-//editor "index(5373)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -26227,7 +25793,6 @@ EntityTemplate
 
 }
 
-//editor "index(5374)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -26290,7 +25855,6 @@ EntityTemplate
 
 }
 
-//editor "index(5375)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -26353,7 +25917,6 @@ EntityTemplate
 
 }
 
-//editor "index(5376)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -26414,7 +25977,6 @@ EntityTemplate
 
 }
 
-//editor "index(5377)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -26477,7 +26039,6 @@ EntityTemplate
 
 }
 
-//editor "index(5378)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -26540,7 +26101,6 @@ EntityTemplate
 
 }
 
-//editor "index(5379)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -26601,7 +26161,6 @@ EntityTemplate
 
 }
 
-//editor "index(5380)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -26664,7 +26223,6 @@ EntityTemplate
 
 }
 
-//editor "index(5381)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -26725,7 +26283,6 @@ EntityTemplate
 
 }
 
-//editor "index(5382)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -26786,7 +26343,6 @@ EntityTemplate
 
 }
 
-//editor "index(5383)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -26842,7 +26398,6 @@ EntityTemplate
 
 }
 
-//editor "index(5384)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_01"
@@ -26898,7 +26453,6 @@ EntityTemplate
 
 }
 
-//editor "index(5385)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_02"
@@ -26952,7 +26506,6 @@ EntityTemplate
 
 }
 
-//editor "index(5386)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -27008,7 +26561,6 @@ EntityTemplate
 
 }
 
-//editor "index(5387)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -27069,7 +26621,6 @@ EntityTemplate
 
 }
 
-//editor "index(5388)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -27130,7 +26681,6 @@ EntityTemplate
 
 }
 
-//editor "index(5389)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -27193,7 +26743,6 @@ EntityTemplate
 
 }
 
-//editor "index(5390)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -27256,7 +26805,6 @@ EntityTemplate
 
 }
 
-//editor "index(5391)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -27317,7 +26865,6 @@ EntityTemplate
 
 }
 
-//editor "index(5392)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -27380,7 +26927,6 @@ EntityTemplate
 
 }
 
-//editor "index(5393)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -27443,7 +26989,6 @@ EntityTemplate
 
 }
 
-//editor "index(5394)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -27506,7 +27051,6 @@ EntityTemplate
 
 }
 
-//editor "index(5395)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -27569,7 +27113,6 @@ EntityTemplate
 
 }
 
-//editor "index(5396)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -27632,7 +27175,6 @@ EntityTemplate
 
 }
 
-//editor "index(5397)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -27695,7 +27237,6 @@ EntityTemplate
 
 }
 
-//editor "index(5398)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -27758,7 +27299,6 @@ EntityTemplate
 
 }
 
-//editor "index(5399)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -27819,7 +27359,6 @@ EntityTemplate
 
 }
 
-//editor "index(5400)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -27880,7 +27419,6 @@ EntityTemplate
 
 }
 
-//editor "index(5401)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -27943,7 +27481,6 @@ EntityTemplate
 
 }
 
-//editor "index(5402)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -28006,7 +27543,6 @@ EntityTemplate
 
 }
 
-//editor "index(5403)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_03"
@@ -28062,7 +27598,6 @@ EntityTemplate
 
 }
 
-//editor "index(5404)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -28125,21 +27660,13 @@ EntityTemplate
 
 }
 
-//editor "index(5405)"
 
-//editor "index(5406)"
 
-//editor "index(5407)"
 
-//editor "index(5408)"
 
-//editor "index(5409)"
 
-//editor "index(5410)"
 
-//editor "index(5413)"
 
-//editor "index(5438)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -28194,7 +27721,6 @@ EntityTemplate
 
 }
 
-//editor "index(5439)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -28256,7 +27782,6 @@ EntityTemplate
 
 }
 
-//editor "index(5440)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -28318,7 +27843,6 @@ EntityTemplate
 
 }
 
-//editor "index(5441)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -28380,7 +27904,6 @@ EntityTemplate
 
 }
 
-//editor "index(5442)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -28443,7 +27966,6 @@ EntityTemplate
 
 }
 
-//editor "index(5444)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -28503,7 +28025,6 @@ EntityTemplate
 
 }
 
-//editor "index(5446)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -28566,7 +28087,6 @@ EntityTemplate
 
 }
 
-//editor "index(5447)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -28628,7 +28148,6 @@ EntityTemplate
 
 }
 
-//editor "index(5448)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -28690,7 +28209,6 @@ EntityTemplate
 
 }
 
-//editor "index(5449)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -28750,25 +28268,15 @@ EntityTemplate
 
 }
 
-//editor "index(5450)"
 
-//editor "index(5452)"
 
-//editor "index(5453)"
 
-//editor "index(5454)"
 
-//editor "index(5455)"
 
-//editor "index(5456)"
 
-//editor "index(5457)"
 
-//editor "index(5458)"
 
-//editor "index(5459)"
 
-//editor "index(5461)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -28824,7 +28332,6 @@ EntityTemplate
 
 }
 
-//editor "index(5463)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -28880,7 +28387,6 @@ EntityTemplate
 
 }
 
-//editor "index(5464)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -28935,7 +28441,6 @@ EntityTemplate
 
 }
 
-//editor "index(5465)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -28991,7 +28496,6 @@ EntityTemplate
 
 }
 
-//editor "index(5466)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -29046,7 +28550,6 @@ EntityTemplate
 
 }
 
-//editor "index(5467)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -29102,7 +28605,6 @@ EntityTemplate
 
 }
 
-//editor "index(5468)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -29162,7 +28664,6 @@ EntityTemplate
 
 }
 
-//editor "index(5469)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -29222,7 +28723,6 @@ EntityTemplate
 
 }
 
-//editor "index(5470)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -29284,7 +28784,6 @@ EntityTemplate
 
 }
 
-//editor "index(5471)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -29344,7 +28843,6 @@ EntityTemplate
 
 }
 
-//editor "index(5472)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -29402,7 +28900,6 @@ EntityTemplate
 
 }
 
-//editor "index(5473)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -29464,7 +28961,6 @@ EntityTemplate
 
 }
 
-//editor "index(5474)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -29526,7 +29022,6 @@ EntityTemplate
 
 }
 
-//editor "index(5475)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -29586,7 +29081,6 @@ EntityTemplate
 
 }
 
-//editor "index(5476)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -29649,7 +29143,6 @@ EntityTemplate
 
 }
 
-//editor "index(5477)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -29712,7 +29205,6 @@ EntityTemplate
 
 }
 
-//editor "index(5478)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -29775,7 +29267,6 @@ EntityTemplate
 
 }
 
-//editor "index(5479)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -29838,7 +29329,6 @@ EntityTemplate
 
 }
 
-//editor "index(5480)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -29899,7 +29389,6 @@ EntityTemplate
 
 }
 
-//editor "index(5481)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -29958,7 +29447,6 @@ EntityTemplate
 
 }
 
-//editor "index(5482)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -30021,7 +29509,6 @@ EntityTemplate
 
 }
 
-//editor "index(5483)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -30082,7 +29569,6 @@ EntityTemplate
 
 }
 
-//editor "index(5484)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_03"
@@ -30141,7 +29627,6 @@ EntityTemplate
 
 }
 
-//editor "index(5485)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -30202,7 +29687,6 @@ EntityTemplate
 
 }
 
-//editor "index(5486)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -30263,7 +29747,6 @@ EntityTemplate
 
 }
 
-//editor "index(5487)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -30324,7 +29807,6 @@ EntityTemplate
 
 }
 
-//editor "index(5488)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -30385,7 +29867,6 @@ EntityTemplate
 
 }
 
-//editor "index(5489)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -30448,7 +29929,6 @@ EntityTemplate
 
 }
 
-//editor "index(5490)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -30511,7 +29991,6 @@ EntityTemplate
 
 }
 
-//editor "index(5491)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -30574,7 +30053,6 @@ EntityTemplate
 
 }
 
-//editor "index(5492)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -30635,7 +30113,6 @@ EntityTemplate
 
 }
 
-//editor "index(5493)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -30694,7 +30171,6 @@ EntityTemplate
 
 }
 
-//editor "index(5494)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -30750,7 +30226,6 @@ EntityTemplate
 
 }
 
-//editor "index(5495)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -30811,7 +30286,6 @@ EntityTemplate
 
 }
 
-//editor "index(5496)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -30872,7 +30346,6 @@ EntityTemplate
 
 }
 
-//editor "index(5497)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -30935,7 +30408,6 @@ EntityTemplate
 
 }
 
-//editor "index(5498)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -30998,7 +30470,6 @@ EntityTemplate
 
 }
 
-//editor "index(5499)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -31061,7 +30532,6 @@ EntityTemplate
 
 }
 
-//editor "index(5500)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -31124,7 +30594,6 @@ EntityTemplate
 
 }
 
-//editor "index(5501)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -31185,7 +30654,6 @@ EntityTemplate
 
 }
 
-//editor "index(5502)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -31246,7 +30714,6 @@ EntityTemplate
 
 }
 
-//editor "index(5503)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -31307,7 +30774,6 @@ EntityTemplate
 
 }
 
-//editor "index(5504)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -31366,7 +30832,6 @@ EntityTemplate
 
 }
 
-//editor "index(5505)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -31429,7 +30894,6 @@ EntityTemplate
 
 }
 
-//editor "index(5506)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -31492,7 +30956,6 @@ EntityTemplate
 
 }
 
-//editor "index(5507)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -31555,7 +31018,6 @@ EntityTemplate
 
 }
 
-//editor "index(5508)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -31618,7 +31080,6 @@ EntityTemplate
 
 }
 
-//editor "index(5509)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -31679,7 +31140,6 @@ EntityTemplate
 
 }
 
-//editor "index(5510)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -31738,7 +31198,6 @@ EntityTemplate
 
 }
 
-//editor "index(5511)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -31801,7 +31260,6 @@ EntityTemplate
 
 }
 
-//editor "index(5512)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -31864,7 +31322,6 @@ EntityTemplate
 
 }
 
-//editor "index(5513)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -31927,7 +31384,6 @@ EntityTemplate
 
 }
 
-//editor "index(5514)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -31990,7 +31446,6 @@ EntityTemplate
 
 }
 
-//editor "index(5515)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -32051,7 +31506,6 @@ EntityTemplate
 
 }
 
-//editor "index(5516)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -32112,31 +31566,18 @@ EntityTemplate
 
 }
 
-//editor "index(5517)"
 
-//editor "index(5518)"
 
-//editor "index(5519)"
 
-//editor "index(5520)"
 
-//editor "index(5521)"
 
-//editor "index(5522)"
 
-//editor "index(5523)"
 
-//editor "index(5524)"
 
-//editor "index(5525)"
 
-//editor "index(5526)"
 
-//editor "index(5527)"
 
-//editor "index(5528)"
 
-//editor "index(5539)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -32197,7 +31638,6 @@ EntityTemplate
 
 }
 
-//editor "index(5540)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -32258,7 +31698,6 @@ EntityTemplate
 
 }
 
-//editor "index(5543)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_03"
@@ -32314,7 +31753,6 @@ EntityTemplate
 
 }
 
-//editor "index(5549)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -32370,7 +31808,6 @@ EntityTemplate
 
 }
 
-//editor "index(5550)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -32431,7 +31868,6 @@ EntityTemplate
 
 }
 
-//editor "index(5551)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -32494,7 +31930,6 @@ EntityTemplate
 
 }
 
-//editor "index(5557)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -32555,7 +31990,6 @@ EntityTemplate
 
 }
 
-//editor "index(5558)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -32616,7 +32050,6 @@ EntityTemplate
 
 }
 
-//editor "index(5559)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -32679,7 +32112,6 @@ EntityTemplate
 
 }
 
-//editor "index(5560)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -32742,7 +32174,6 @@ EntityTemplate
 
 }
 
-//editor "index(5561)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -32803,7 +32234,6 @@ EntityTemplate
 
 }
 
-//editor "index(5562)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -32864,7 +32294,6 @@ EntityTemplate
 
 }
 
-//editor "index(5563)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -32925,7 +32354,6 @@ EntityTemplate
 
 }
 
-//editor "index(5564)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -32981,7 +32409,6 @@ EntityTemplate
 
 }
 
-//editor "index(5565)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_01"
@@ -33037,7 +32464,6 @@ EntityTemplate
 
 }
 
-//editor "index(5566)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_02"
@@ -33093,7 +32519,6 @@ EntityTemplate
 
 }
 
-//editor "index(5567)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -33149,7 +32574,6 @@ EntityTemplate
 
 }
 
-//editor "index(5569)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -33212,7 +32636,6 @@ EntityTemplate
 
 }
 
-//editor "index(5570)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -33275,7 +32698,6 @@ EntityTemplate
 
 }
 
-//editor "index(5571)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -33338,7 +32760,6 @@ EntityTemplate
 
 }
 
-//editor "index(5574)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -33401,7 +32822,6 @@ EntityTemplate
 
 }
 
-//editor "index(5575)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -33464,7 +32884,6 @@ EntityTemplate
 
 }
 
-//editor "index(5576)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -33525,7 +32944,6 @@ EntityTemplate
 
 }
 
-//editor "index(5577)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -33588,7 +33006,6 @@ EntityTemplate
 
 }
 
-//editor "index(5578)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -33651,7 +33068,6 @@ EntityTemplate
 
 }
 
-//editor "index(5580)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -33714,7 +33130,6 @@ EntityTemplate
 
 }
 
-//editor "index(5581)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -33777,7 +33192,6 @@ EntityTemplate
 
 }
 
-//editor "index(5583)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -33833,7 +33247,6 @@ EntityTemplate
 
 }
 
-//editor "index(5584)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -33894,7 +33307,6 @@ EntityTemplate
 
 }
 
-//editor "index(5587)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -33957,7 +33369,6 @@ EntityTemplate
 
 }
 
-//editor "index(5590)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -34020,7 +33431,6 @@ EntityTemplate
 
 }
 
-//editor "index(5591)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -34081,7 +33491,6 @@ EntityTemplate
 
 }
 
-//editor "index(5592)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -34144,7 +33553,6 @@ EntityTemplate
 
 }
 
-//editor "index(5594)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -34207,7 +33615,6 @@ EntityTemplate
 
 }
 
-//editor "index(5596)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -34270,7 +33677,6 @@ EntityTemplate
 
 }
 
-//editor "index(5598)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -34326,7 +33732,6 @@ EntityTemplate
 
 }
 
-//editor "index(5603)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -34389,7 +33794,6 @@ EntityTemplate
 
 }
 
-//editor "index(5604)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -34445,7 +33849,6 @@ EntityTemplate
 
 }
 
-//editor "index(5606)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -34506,7 +33909,6 @@ EntityTemplate
 
 }
 
-//editor "index(5607)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -34569,7 +33971,6 @@ EntityTemplate
 
 }
 
-//editor "index(5608)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -34625,7 +34026,6 @@ EntityTemplate
 
 }
 
-//editor "index(5610)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -34686,7 +34086,6 @@ EntityTemplate
 
 }
 
-//editor "index(5611)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -34747,7 +34146,6 @@ EntityTemplate
 
 }
 
-//editor "index(5612)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -34808,7 +34206,6 @@ EntityTemplate
 
 }
 
-//editor "index(5613)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -34869,7 +34266,6 @@ EntityTemplate
 
 }
 
-//editor "index(5614)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -34925,7 +34321,6 @@ EntityTemplate
 
 }
 
-//editor "index(5615)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -34986,7 +34381,6 @@ EntityTemplate
 
 }
 
-//editor "index(5616)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -35042,7 +34436,6 @@ EntityTemplate
 
 }
 
-//editor "index(5617)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_02"
@@ -35098,7 +34491,6 @@ EntityTemplate
 
 }
 
-//editor "index(5618)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_big_01"
@@ -35154,7 +34546,6 @@ EntityTemplate
 
 }
 
-//editor "index(5619)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_02"
@@ -35215,7 +34606,6 @@ EntityTemplate
 
 }
 
-//editor "index(5627)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -35276,7 +34666,6 @@ EntityTemplate
 
 }
 
-//editor "index(5628)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -35332,7 +34721,6 @@ EntityTemplate
 
 }
 
-//editor "index(5629)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -35388,7 +34776,6 @@ EntityTemplate
 
 }
 
-//editor "index(5630)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -35444,7 +34831,6 @@ EntityTemplate
 
 }
 
-//editor "index(5631)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -35500,7 +34886,6 @@ EntityTemplate
 
 }
 
-//editor "index(5632)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -35561,7 +34946,6 @@ EntityTemplate
 
 }
 
-//editor "index(5633)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -35617,7 +35001,6 @@ EntityTemplate
 
 }
 
-//editor "index(5634)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -35678,7 +35061,6 @@ EntityTemplate
 
 }
 
-//editor "index(5635)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -35741,7 +35123,6 @@ EntityTemplate
 
 }
 
-//editor "index(5636)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -35802,7 +35183,6 @@ EntityTemplate
 
 }
 
-//editor "index(5637)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -35865,7 +35245,6 @@ EntityTemplate
 
 }
 
-//editor "index(5639)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -35928,7 +35307,6 @@ EntityTemplate
 
 }
 
-//editor "index(5640)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -35989,7 +35367,6 @@ EntityTemplate
 
 }
 
-//editor "index(5641)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -36050,7 +35427,6 @@ EntityTemplate
 
 }
 
-//editor "index(5642)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -36113,7 +35489,6 @@ EntityTemplate
 
 }
 
-//editor "index(5643)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -36173,7 +35548,6 @@ EntityTemplate
 
 }
 
-//editor "index(5644)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -36233,7 +35607,6 @@ EntityTemplate
 
 }
 
-//editor "index(5645)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -36295,7 +35668,6 @@ EntityTemplate
 
 }
 
-//editor "index(5646)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -36353,7 +35725,6 @@ EntityTemplate
 
 }
 
-//editor "index(5647)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -36413,7 +35784,6 @@ EntityTemplate
 
 }
 
-//editor "index(5648)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -36471,7 +35841,6 @@ EntityTemplate
 
 }
 
-//editor "index(5649)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -36531,7 +35900,6 @@ EntityTemplate
 
 }
 
-//editor "index(5650)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -36591,7 +35959,6 @@ EntityTemplate
 
 }
 
-//editor "index(5651)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -36653,7 +36020,6 @@ EntityTemplate
 
 }
 
-//editor "index(5652)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -36713,7 +36079,6 @@ EntityTemplate
 
 }
 
-//editor "index(5653)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -36775,7 +36140,6 @@ EntityTemplate
 
 }
 
-//editor "index(5654)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -36835,7 +36199,6 @@ EntityTemplate
 
 }
 
-//editor "index(5655)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -36895,7 +36258,6 @@ EntityTemplate
 
 }
 
-//editor "index(5656)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -36957,7 +36319,6 @@ EntityTemplate
 
 }
 
-//editor "index(5657)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -37019,7 +36380,6 @@ EntityTemplate
 
 }
 
-//editor "index(5658)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -37081,7 +36441,6 @@ EntityTemplate
 
 }
 
-//editor "index(5659)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -37143,7 +36502,6 @@ EntityTemplate
 
 }
 
-//editor "index(5660)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -37205,7 +36563,6 @@ EntityTemplate
 
 }
 
-//editor "index(5661)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -37265,7 +36622,6 @@ EntityTemplate
 
 }
 
-//editor "index(5662)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -37327,7 +36683,6 @@ EntityTemplate
 
 }
 
-//editor "index(5663)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -37389,7 +36744,6 @@ EntityTemplate
 
 }
 
-//editor "index(5664)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -37447,7 +36801,6 @@ EntityTemplate
 
 }
 
-//editor "index(5672)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_03"
@@ -37505,7 +36858,6 @@ EntityTemplate
 
 }
 
-//editor "index(5673)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -37558,7 +36910,6 @@ EntityTemplate
 
 }
 
-//editor "index(5674)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -37613,7 +36964,6 @@ EntityTemplate
 
 }
 
-//editor "index(5675)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -37668,7 +37018,6 @@ EntityTemplate
 
 }
 
-//editor "index(5676)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -37723,7 +37072,6 @@ EntityTemplate
 
 }
 
-//editor "index(5677)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_03"
@@ -37783,7 +37131,6 @@ EntityTemplate
 
 }
 
-//editor "index(5678)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_medium_01"
@@ -37838,7 +37185,6 @@ EntityTemplate
 
 }
 
-//editor "index(5679)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -37900,7 +37246,6 @@ EntityTemplate
 
 }
 
-//editor "index(5680)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -37962,7 +37307,6 @@ EntityTemplate
 
 }
 
-//editor "index(5681)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -38020,7 +37364,6 @@ EntityTemplate
 
 }
 
-//editor "index(5682)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -38080,7 +37423,6 @@ EntityTemplate
 
 }
 
-//editor "index(5683)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -38142,7 +37484,6 @@ EntityTemplate
 
 }
 
-//editor "index(5684)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -38204,7 +37545,6 @@ EntityTemplate
 
 }
 
-//editor "index(5685)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_01"
@@ -38266,7 +37606,6 @@ EntityTemplate
 
 }
 
-//editor "index(5686)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/metal_small_02"
@@ -38328,89 +37667,47 @@ EntityTemplate
 
 }
 
-//editor "index(5687)"
 
-//editor "index(5688)"
 
-//editor "index(5689)"
 
-//editor "index(5690)"
 
-//editor "index(5691)"
 
-//editor "index(5692)"
 
-//editor "index(5693)"
 
-//editor "index(5694)"
 
-//editor "index(5695)"
 
-//editor "index(5696)"
 
-//editor "index(5697)"
 
-//editor "index(5698)"
 
-//editor "index(5699)"
 
-//editor "index(5700)"
 
-//editor "index(5701)"
 
-//editor "index(5702)"
 
-//editor "index(5703)"
 
-//editor "index(5704)"
 
-//editor "index(5705)"
 
-//editor "index(5706)"
 
-//editor "index(5707)"
 
-//editor "index(5708)"
 
-//editor "index(5709)"
 
-//editor "index(5710)"
 
-//editor "index(5711)"
 
-//editor "index(5712)"
 
-//editor "index(5713)"
 
-//editor "index(5714)"
 
-//editor "index(5715)"
 
-//editor "index(5716)"
 
-//editor "index(5717)"
 
-//editor "index(5718)"
 
-//editor "index(5719)"
 
-//editor "index(5720)"
 
-//editor "index(5721)"
 
-//editor "index(5722)"
 
-//editor "index(5723)"
 
-//editor "index(5724)"
 
-//editor "index(5725)"
 
-//editor "index(5726)"
 
-//editor "index(5727)"
 
-//editor "index(5728)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -38463,7 +37760,6 @@ EntityTemplate
 
 }
 
-//editor "index(5729)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -38516,7 +37812,6 @@ EntityTemplate
 
 }
 
-//editor "index(5730)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -38569,7 +37864,6 @@ EntityTemplate
 
 }
 
-//editor "index(5731)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -38622,7 +37916,6 @@ EntityTemplate
 
 }
 
-//editor "index(5732)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -38675,7 +37968,6 @@ EntityTemplate
 
 }
 
-//editor "index(5733)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -38728,7 +38020,6 @@ EntityTemplate
 
 }
 
-//editor "index(5734)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -38781,7 +38072,6 @@ EntityTemplate
 
 }
 
-//editor "index(5735)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -38835,7 +38125,6 @@ EntityTemplate
 
 }
 
-//editor "index(5736)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -38888,7 +38177,6 @@ EntityTemplate
 
 }
 
-//editor "index(5737)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -38935,7 +38223,6 @@ EntityTemplate
 
 }
 
-//editor "index(5738)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -38982,7 +38269,6 @@ EntityTemplate
 
 }
 
-//editor "index(5739)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -39029,7 +38315,6 @@ EntityTemplate
 
 }
 
-//editor "index(5740)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -39076,7 +38361,6 @@ EntityTemplate
 
 }
 
-//editor "index(5741)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -39123,7 +38407,6 @@ EntityTemplate
 
 }
 
-//editor "index(5742)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -39178,7 +38461,6 @@ EntityTemplate
 
 }
 
-//editor "index(5743)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -39233,7 +38515,6 @@ EntityTemplate
 
 }
 
-//editor "index(5744)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -39288,7 +38569,6 @@ EntityTemplate
 
 }
 
-//editor "index(5745)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -39342,7 +38622,6 @@ EntityTemplate
 
 }
 
-//editor "index(5746)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -39396,7 +38675,6 @@ EntityTemplate
 
 }
 
-//editor "index(5747)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -39450,7 +38728,6 @@ EntityTemplate
 
 }
 
-//editor "index(5748)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -39504,7 +38781,6 @@ EntityTemplate
 
 }
 
-//editor "index(5749)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -39559,7 +38835,6 @@ EntityTemplate
 
 }
 
-//editor "index(5750)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -39613,7 +38888,6 @@ EntityTemplate
 
 }
 
-//editor "index(5751)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -39667,7 +38941,6 @@ EntityTemplate
 
 }
 
-//editor "index(5752)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -39715,7 +38988,6 @@ EntityTemplate
 
 }
 
-//editor "index(5753)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -39763,7 +39035,6 @@ EntityTemplate
 
 }
 
-//editor "index(5754)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -39811,7 +39082,6 @@ EntityTemplate
 
 }
 
-//editor "index(5755)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -39859,7 +39129,6 @@ EntityTemplate
 
 }
 
-//editor "index(5756)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -39907,7 +39176,6 @@ EntityTemplate
 
 }
 
-//editor "index(5757)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -39955,7 +39223,6 @@ EntityTemplate
 
 }
 
-//editor "index(5758)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40003,7 +39270,6 @@ EntityTemplate
 
 }
 
-//editor "index(5759)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40051,7 +39317,6 @@ EntityTemplate
 
 }
 
-//editor "index(5760)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40099,7 +39364,6 @@ EntityTemplate
 
 }
 
-//editor "index(5761)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40147,7 +39411,6 @@ EntityTemplate
 
 }
 
-//editor "index(5762)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40195,7 +39458,6 @@ EntityTemplate
 
 }
 
-//editor "index(5763)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40243,7 +39505,6 @@ EntityTemplate
 
 }
 
-//editor "index(5765)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40291,7 +39552,6 @@ EntityTemplate
 
 }
 
-//editor "index(5766)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40339,7 +39599,6 @@ EntityTemplate
 
 }
 
-//editor "index(5767)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40387,7 +39646,6 @@ EntityTemplate
 
 }
 
-//editor "index(5768)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40435,7 +39693,6 @@ EntityTemplate
 
 }
 
-//editor "index(5769)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40483,7 +39740,6 @@ EntityTemplate
 
 }
 
-//editor "index(5770)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40531,7 +39787,6 @@ EntityTemplate
 
 }
 
-//editor "index(5771)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40579,7 +39834,6 @@ EntityTemplate
 
 }
 
-//editor "index(5772)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_special_object"
@@ -40627,7 +39881,6 @@ EntityTemplate
 
 }
 
-//editor "index(5773)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -40681,7 +39934,6 @@ EntityTemplate
 
 }
 
-//editor "index(5774)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -40735,7 +39987,6 @@ EntityTemplate
 
 }
 
-//editor "index(5775)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -40789,7 +40040,6 @@ EntityTemplate
 
 }
 
-//editor "index(5776)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -40844,7 +40094,6 @@ EntityTemplate
 
 }
 
-//editor "index(5777)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"
@@ -40898,7 +40147,6 @@ EntityTemplate
 
 }
 
-//editor "index(5778)"
 EntityTemplate
 {
 	base_blueprint "volumes/air_path_blocker"

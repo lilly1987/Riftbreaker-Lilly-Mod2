@@ -1,5 +1,4 @@
 entity_count "469"
-//editor "index(1)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -47,7 +46,6 @@ EntityTemplate
 
 }
 
-//editor "index(8)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_05"
@@ -101,7 +99,6 @@ EntityTemplate
 
 }
 
-//editor "index(11)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -164,7 +161,6 @@ EntityTemplate
 
 }
 
-//editor "index(12)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -219,7 +215,6 @@ EntityTemplate
 
 }
 
-//editor "index(13)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -280,7 +275,6 @@ EntityTemplate
 
 }
 
-//editor "index(15)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -343,7 +337,6 @@ EntityTemplate
 
 }
 
-//editor "index(16)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -406,7 +399,6 @@ EntityTemplate
 
 }
 
-//editor "index(17)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -469,7 +461,6 @@ EntityTemplate
 
 }
 
-//editor "index(19)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -532,7 +523,6 @@ EntityTemplate
 
 }
 
-//editor "index(23)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -595,7 +585,6 @@ EntityTemplate
 
 }
 
-//editor "index(24)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_04"
@@ -658,7 +647,6 @@ EntityTemplate
 
 }
 
-//editor "index(27)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_03"
@@ -719,7 +707,6 @@ EntityTemplate
 
 }
 
-//editor "index(29)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_03"
@@ -780,7 +767,6 @@ EntityTemplate
 
 }
 
-//editor "index(31)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -835,7 +821,6 @@ EntityTemplate
 
 }
 
-//editor "index(32)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -898,7 +883,6 @@ EntityTemplate
 
 }
 
-//editor "index(33)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_01"
@@ -953,7 +937,6 @@ EntityTemplate
 
 }
 
-//editor "index(34)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -1001,7 +984,6 @@ EntityTemplate
 
 }
 
-//editor "index(35)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -1064,7 +1046,6 @@ EntityTemplate
 
 }
 
-//editor "index(36)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -1119,7 +1100,6 @@ EntityTemplate
 
 }
 
-//editor "index(39)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -1174,7 +1154,6 @@ EntityTemplate
 
 }
 
-//editor "index(40)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -1229,7 +1208,6 @@ EntityTemplate
 
 }
 
-//editor "index(41)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_03"
@@ -1284,7 +1262,6 @@ EntityTemplate
 
 }
 
-//editor "index(42)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -1339,7 +1316,6 @@ EntityTemplate
 
 }
 
-//editor "index(43)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -1400,7 +1376,6 @@ EntityTemplate
 
 }
 
-//editor "index(45)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -1455,7 +1430,6 @@ EntityTemplate
 
 }
 
-//editor "index(51)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_small_03"
@@ -1510,7 +1484,6 @@ EntityTemplate
 
 }
 
-//editor "index(53)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -1573,7 +1546,6 @@ EntityTemplate
 
 }
 
-//editor "index(54)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -1628,7 +1600,6 @@ EntityTemplate
 
 }
 
-//editor "index(55)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
@@ -1689,7 +1660,6 @@ EntityTemplate
 
 }
 
-//editor "index(56)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -1750,7 +1720,6 @@ EntityTemplate
 
 }
 
-//editor "index(57)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -1813,7 +1782,6 @@ EntityTemplate
 
 }
 
-//editor "index(58)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -1868,7 +1836,6 @@ EntityTemplate
 
 }
 
-//editor "index(60)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -1921,7 +1888,6 @@ EntityTemplate
 
 }
 
-//editor "index(61)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_07"
@@ -1969,7 +1935,6 @@ EntityTemplate
 
 }
 
-//editor "index(62)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -2017,7 +1982,6 @@ EntityTemplate
 
 }
 
-//editor "index(63)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_02"
@@ -2070,7 +2034,6 @@ EntityTemplate
 
 }
 
-//editor "index(64)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_07"
@@ -2118,7 +2081,6 @@ EntityTemplate
 
 }
 
-//editor "index(65)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_small_02"
@@ -2166,7 +2128,6 @@ EntityTemplate
 
 }
 
-//editor "index(66)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_small_03"
@@ -2214,7 +2175,6 @@ EntityTemplate
 
 }
 
-//editor "index(67)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_medium_02"
@@ -2270,7 +2230,6 @@ EntityTemplate
 
 }
 
-//editor "index(69)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_03"
@@ -2318,7 +2277,6 @@ EntityTemplate
 
 }
 
-//editor "index(71)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -2372,7 +2330,6 @@ EntityTemplate
 
 }
 
-//editor "index(79)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -2426,7 +2383,6 @@ EntityTemplate
 
 }
 
-//editor "index(80)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -2480,7 +2436,6 @@ EntityTemplate
 
 }
 
-//editor "index(92)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -2534,7 +2489,6 @@ EntityTemplate
 
 }
 
-//editor "index(97)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -2588,7 +2542,6 @@ EntityTemplate
 
 }
 
-//editor "index(98)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_05"
@@ -2642,7 +2595,6 @@ EntityTemplate
 
 }
 
-//editor "index(101)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -2696,7 +2648,6 @@ EntityTemplate
 
 }
 
-//editor "index(104)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -2750,7 +2701,6 @@ EntityTemplate
 
 }
 
-//editor "index(105)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -2804,7 +2754,6 @@ EntityTemplate
 
 }
 
-//editor "index(107)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -2858,7 +2807,6 @@ EntityTemplate
 
 }
 
-//editor "index(112)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -2912,7 +2860,6 @@ EntityTemplate
 
 }
 
-//editor "index(133)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -2966,7 +2913,6 @@ EntityTemplate
 
 }
 
-//editor "index(136)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_05"
@@ -3020,7 +2966,6 @@ EntityTemplate
 
 }
 
-//editor "index(144)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -3074,7 +3019,6 @@ EntityTemplate
 
 }
 
-//editor "index(147)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -3128,7 +3072,6 @@ EntityTemplate
 
 }
 
-//editor "index(151)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -3182,7 +3125,6 @@ EntityTemplate
 
 }
 
-//editor "index(153)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -3236,7 +3178,6 @@ EntityTemplate
 
 }
 
-//editor "index(155)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -3297,7 +3238,6 @@ EntityTemplate
 
 }
 
-//editor "index(160)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -3351,7 +3291,6 @@ EntityTemplate
 
 }
 
-//editor "index(163)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -3405,7 +3344,6 @@ EntityTemplate
 
 }
 
-//editor "index(179)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -3459,7 +3397,6 @@ EntityTemplate
 
 }
 
-//editor "index(180)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -3513,7 +3450,6 @@ EntityTemplate
 
 }
 
-//editor "index(181)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -3567,7 +3503,6 @@ EntityTemplate
 
 }
 
-//editor "index(192)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -3621,7 +3556,6 @@ EntityTemplate
 
 }
 
-//editor "index(201)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -3675,7 +3609,6 @@ EntityTemplate
 
 }
 
-//editor "index(204)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -3729,7 +3662,6 @@ EntityTemplate
 
 }
 
-//editor "index(214)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -3783,7 +3715,6 @@ EntityTemplate
 
 }
 
-//editor "index(215)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -3837,7 +3768,6 @@ EntityTemplate
 
 }
 
-//editor "index(216)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -3891,7 +3821,6 @@ EntityTemplate
 
 }
 
-//editor "index(232)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -3945,7 +3874,6 @@ EntityTemplate
 
 }
 
-//editor "index(238)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -3999,7 +3927,6 @@ EntityTemplate
 
 }
 
-//editor "index(242)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -4053,7 +3980,6 @@ EntityTemplate
 
 }
 
-//editor "index(252)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -4107,7 +4033,6 @@ EntityTemplate
 
 }
 
-//editor "index(254)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -4161,7 +4086,6 @@ EntityTemplate
 
 }
 
-//editor "index(259)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -4215,7 +4139,6 @@ EntityTemplate
 
 }
 
-//editor "index(263)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -4269,7 +4192,6 @@ EntityTemplate
 
 }
 
-//editor "index(264)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -4323,7 +4245,6 @@ EntityTemplate
 
 }
 
-//editor "index(272)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -4377,7 +4298,6 @@ EntityTemplate
 
 }
 
-//editor "index(278)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -4431,7 +4351,6 @@ EntityTemplate
 
 }
 
-//editor "index(279)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -4485,7 +4404,6 @@ EntityTemplate
 
 }
 
-//editor "index(282)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -4539,7 +4457,6 @@ EntityTemplate
 
 }
 
-//editor "index(302)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -4593,7 +4510,6 @@ EntityTemplate
 
 }
 
-//editor "index(317)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -4647,7 +4563,6 @@ EntityTemplate
 
 }
 
-//editor "index(320)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -4701,7 +4616,6 @@ EntityTemplate
 
 }
 
-//editor "index(322)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -4755,7 +4669,6 @@ EntityTemplate
 
 }
 
-//editor "index(323)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -4809,7 +4722,6 @@ EntityTemplate
 
 }
 
-//editor "index(328)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -4863,7 +4775,6 @@ EntityTemplate
 
 }
 
-//editor "index(329)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -4917,7 +4828,6 @@ EntityTemplate
 
 }
 
-//editor "index(338)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -4971,7 +4881,6 @@ EntityTemplate
 
 }
 
-//editor "index(356)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -5025,7 +4934,6 @@ EntityTemplate
 
 }
 
-//editor "index(361)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -5079,7 +4987,6 @@ EntityTemplate
 
 }
 
-//editor "index(363)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -5132,7 +5039,6 @@ EntityTemplate
 
 }
 
-//editor "index(367)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -5186,7 +5092,6 @@ EntityTemplate
 
 }
 
-//editor "index(369)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -5240,7 +5145,6 @@ EntityTemplate
 
 }
 
-//editor "index(371)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -5294,7 +5198,6 @@ EntityTemplate
 
 }
 
-//editor "index(372)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -5348,7 +5251,6 @@ EntityTemplate
 
 }
 
-//editor "index(374)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -5402,7 +5304,6 @@ EntityTemplate
 
 }
 
-//editor "index(379)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -5456,7 +5357,6 @@ EntityTemplate
 
 }
 
-//editor "index(382)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -5510,7 +5410,6 @@ EntityTemplate
 
 }
 
-//editor "index(383)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -5564,7 +5463,6 @@ EntityTemplate
 
 }
 
-//editor "index(384)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -5618,7 +5516,6 @@ EntityTemplate
 
 }
 
-//editor "index(385)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -5672,7 +5569,6 @@ EntityTemplate
 
 }
 
-//editor "index(386)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -5726,7 +5622,6 @@ EntityTemplate
 
 }
 
-//editor "index(387)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -5780,7 +5675,6 @@ EntityTemplate
 
 }
 
-//editor "index(388)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -5834,7 +5728,6 @@ EntityTemplate
 
 }
 
-//editor "index(389)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -5888,7 +5781,6 @@ EntityTemplate
 
 }
 
-//editor "index(390)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -5942,7 +5834,6 @@ EntityTemplate
 
 }
 
-//editor "index(391)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -5996,7 +5887,6 @@ EntityTemplate
 
 }
 
-//editor "index(392)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -6050,7 +5940,6 @@ EntityTemplate
 
 }
 
-//editor "index(393)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -6104,7 +5993,6 @@ EntityTemplate
 
 }
 
-//editor "index(394)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -6158,7 +6046,6 @@ EntityTemplate
 
 }
 
-//editor "index(395)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -6212,7 +6099,6 @@ EntityTemplate
 
 }
 
-//editor "index(396)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -6266,7 +6152,6 @@ EntityTemplate
 
 }
 
-//editor "index(397)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -6320,7 +6205,6 @@ EntityTemplate
 
 }
 
-//editor "index(398)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -6374,7 +6258,6 @@ EntityTemplate
 
 }
 
-//editor "index(399)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -6428,7 +6311,6 @@ EntityTemplate
 
 }
 
-//editor "index(400)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -6482,7 +6364,6 @@ EntityTemplate
 
 }
 
-//editor "index(401)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -6536,7 +6417,6 @@ EntityTemplate
 
 }
 
-//editor "index(402)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -6590,7 +6470,6 @@ EntityTemplate
 
 }
 
-//editor "index(403)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -6644,7 +6523,6 @@ EntityTemplate
 
 }
 
-//editor "index(404)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -6698,7 +6576,6 @@ EntityTemplate
 
 }
 
-//editor "index(405)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -6752,7 +6629,6 @@ EntityTemplate
 
 }
 
-//editor "index(406)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -6806,7 +6682,6 @@ EntityTemplate
 
 }
 
-//editor "index(407)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -6860,7 +6735,6 @@ EntityTemplate
 
 }
 
-//editor "index(408)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -6914,7 +6788,6 @@ EntityTemplate
 
 }
 
-//editor "index(409)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -6968,7 +6841,6 @@ EntityTemplate
 
 }
 
-//editor "index(410)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -7022,7 +6894,6 @@ EntityTemplate
 
 }
 
-//editor "index(411)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -7076,7 +6947,6 @@ EntityTemplate
 
 }
 
-//editor "index(412)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -7130,7 +7000,6 @@ EntityTemplate
 
 }
 
-//editor "index(413)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -7184,7 +7053,6 @@ EntityTemplate
 
 }
 
-//editor "index(414)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -7238,7 +7106,6 @@ EntityTemplate
 
 }
 
-//editor "index(415)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -7292,7 +7159,6 @@ EntityTemplate
 
 }
 
-//editor "index(416)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -7346,7 +7212,6 @@ EntityTemplate
 
 }
 
-//editor "index(417)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -7400,7 +7265,6 @@ EntityTemplate
 
 }
 
-//editor "index(418)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -7454,7 +7318,6 @@ EntityTemplate
 
 }
 
-//editor "index(419)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -7508,7 +7371,6 @@ EntityTemplate
 
 }
 
-//editor "index(459)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -7562,7 +7424,6 @@ EntityTemplate
 
 }
 
-//editor "index(464)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -7616,7 +7477,6 @@ EntityTemplate
 
 }
 
-//editor "index(468)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -7670,7 +7530,6 @@ EntityTemplate
 
 }
 
-//editor "index(469)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -7724,7 +7583,6 @@ EntityTemplate
 
 }
 
-//editor "index(471)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -7778,7 +7636,6 @@ EntityTemplate
 
 }
 
-//editor "index(481)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -7832,7 +7689,6 @@ EntityTemplate
 
 }
 
-//editor "index(485)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -7886,7 +7742,6 @@ EntityTemplate
 
 }
 
-//editor "index(486)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -7940,7 +7795,6 @@ EntityTemplate
 
 }
 
-//editor "index(487)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -7994,7 +7848,6 @@ EntityTemplate
 
 }
 
-//editor "index(488)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -8048,7 +7901,6 @@ EntityTemplate
 
 }
 
-//editor "index(489)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -8102,7 +7954,6 @@ EntityTemplate
 
 }
 
-//editor "index(490)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -8156,7 +8007,6 @@ EntityTemplate
 
 }
 
-//editor "index(491)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -8210,7 +8060,6 @@ EntityTemplate
 
 }
 
-//editor "index(492)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -8264,7 +8113,6 @@ EntityTemplate
 
 }
 
-//editor "index(493)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -8318,7 +8166,6 @@ EntityTemplate
 
 }
 
-//editor "index(494)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -8372,7 +8219,6 @@ EntityTemplate
 
 }
 
-//editor "index(495)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -8426,7 +8272,6 @@ EntityTemplate
 
 }
 
-//editor "index(496)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -8480,7 +8325,6 @@ EntityTemplate
 
 }
 
-//editor "index(497)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -8534,7 +8378,6 @@ EntityTemplate
 
 }
 
-//editor "index(498)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -8588,7 +8431,6 @@ EntityTemplate
 
 }
 
-//editor "index(499)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -8642,7 +8484,6 @@ EntityTemplate
 
 }
 
-//editor "index(500)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -8696,7 +8537,6 @@ EntityTemplate
 
 }
 
-//editor "index(501)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -8750,7 +8590,6 @@ EntityTemplate
 
 }
 
-//editor "index(502)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -8804,7 +8643,6 @@ EntityTemplate
 
 }
 
-//editor "index(503)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -8858,7 +8696,6 @@ EntityTemplate
 
 }
 
-//editor "index(504)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -8912,7 +8749,6 @@ EntityTemplate
 
 }
 
-//editor "index(505)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -8966,7 +8802,6 @@ EntityTemplate
 
 }
 
-//editor "index(506)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -9020,7 +8855,6 @@ EntityTemplate
 
 }
 
-//editor "index(507)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -9074,7 +8908,6 @@ EntityTemplate
 
 }
 
-//editor "index(508)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -9128,7 +8961,6 @@ EntityTemplate
 
 }
 
-//editor "index(509)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -9182,7 +9014,6 @@ EntityTemplate
 
 }
 
-//editor "index(510)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -9236,7 +9067,6 @@ EntityTemplate
 
 }
 
-//editor "index(511)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -9290,7 +9120,6 @@ EntityTemplate
 
 }
 
-//editor "index(512)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -9344,7 +9173,6 @@ EntityTemplate
 
 }
 
-//editor "index(542)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -9398,7 +9226,6 @@ EntityTemplate
 
 }
 
-//editor "index(545)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -9452,7 +9279,6 @@ EntityTemplate
 
 }
 
-//editor "index(548)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -9506,7 +9332,6 @@ EntityTemplate
 
 }
 
-//editor "index(549)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -9560,7 +9385,6 @@ EntityTemplate
 
 }
 
-//editor "index(550)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -9614,7 +9438,6 @@ EntityTemplate
 
 }
 
-//editor "index(554)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -9668,7 +9491,6 @@ EntityTemplate
 
 }
 
-//editor "index(557)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -9722,7 +9544,6 @@ EntityTemplate
 
 }
 
-//editor "index(560)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -9776,7 +9597,6 @@ EntityTemplate
 
 }
 
-//editor "index(561)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -9830,7 +9650,6 @@ EntityTemplate
 
 }
 
-//editor "index(563)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -9884,7 +9703,6 @@ EntityTemplate
 
 }
 
-//editor "index(564)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -9938,7 +9756,6 @@ EntityTemplate
 
 }
 
-//editor "index(568)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -9992,7 +9809,6 @@ EntityTemplate
 
 }
 
-//editor "index(570)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -10046,7 +9862,6 @@ EntityTemplate
 
 }
 
-//editor "index(572)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -10100,7 +9915,6 @@ EntityTemplate
 
 }
 
-//editor "index(716)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -10154,7 +9968,6 @@ EntityTemplate
 
 }
 
-//editor "index(722)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -10208,7 +10021,6 @@ EntityTemplate
 
 }
 
-//editor "index(723)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -10262,7 +10074,6 @@ EntityTemplate
 
 }
 
-//editor "index(724)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -10316,7 +10127,6 @@ EntityTemplate
 
 }
 
-//editor "index(726)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -10370,7 +10180,6 @@ EntityTemplate
 
 }
 
-//editor "index(729)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -10424,7 +10233,6 @@ EntityTemplate
 
 }
 
-//editor "index(733)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -10478,7 +10286,6 @@ EntityTemplate
 
 }
 
-//editor "index(735)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -10532,7 +10339,6 @@ EntityTemplate
 
 }
 
-//editor "index(737)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -10586,7 +10392,6 @@ EntityTemplate
 
 }
 
-//editor "index(738)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -10640,7 +10445,6 @@ EntityTemplate
 
 }
 
-//editor "index(742)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -10694,7 +10498,6 @@ EntityTemplate
 
 }
 
-//editor "index(746)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -10748,7 +10551,6 @@ EntityTemplate
 
 }
 
-//editor "index(747)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -10802,7 +10604,6 @@ EntityTemplate
 
 }
 
-//editor "index(748)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -10856,7 +10657,6 @@ EntityTemplate
 
 }
 
-//editor "index(749)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -10910,7 +10710,6 @@ EntityTemplate
 
 }
 
-//editor "index(750)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -10964,7 +10763,6 @@ EntityTemplate
 
 }
 
-//editor "index(751)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -11018,7 +10816,6 @@ EntityTemplate
 
 }
 
-//editor "index(752)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -11072,7 +10869,6 @@ EntityTemplate
 
 }
 
-//editor "index(754)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -11126,7 +10922,6 @@ EntityTemplate
 
 }
 
-//editor "index(758)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -11179,7 +10974,6 @@ EntityTemplate
 
 }
 
-//editor "index(761)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -11233,7 +11027,6 @@ EntityTemplate
 
 }
 
-//editor "index(762)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -11287,7 +11080,6 @@ EntityTemplate
 
 }
 
-//editor "index(763)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -11341,7 +11133,6 @@ EntityTemplate
 
 }
 
-//editor "index(771)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -11395,7 +11186,6 @@ EntityTemplate
 
 }
 
-//editor "index(774)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -11449,7 +11239,6 @@ EntityTemplate
 
 }
 
-//editor "index(777)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -11503,7 +11292,6 @@ EntityTemplate
 
 }
 
-//editor "index(779)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -11557,7 +11345,6 @@ EntityTemplate
 
 }
 
-//editor "index(781)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -11611,7 +11398,6 @@ EntityTemplate
 
 }
 
-//editor "index(787)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -11665,7 +11451,6 @@ EntityTemplate
 
 }
 
-//editor "index(789)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -11719,7 +11504,6 @@ EntityTemplate
 
 }
 
-//editor "index(791)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -11773,7 +11557,6 @@ EntityTemplate
 
 }
 
-//editor "index(793)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -11827,7 +11610,6 @@ EntityTemplate
 
 }
 
-//editor "index(794)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -11881,7 +11663,6 @@ EntityTemplate
 
 }
 
-//editor "index(795)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -11935,7 +11716,6 @@ EntityTemplate
 
 }
 
-//editor "index(796)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -11989,7 +11769,6 @@ EntityTemplate
 
 }
 
-//editor "index(801)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -12043,7 +11822,6 @@ EntityTemplate
 
 }
 
-//editor "index(802)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -12097,7 +11875,6 @@ EntityTemplate
 
 }
 
-//editor "index(806)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -12151,7 +11928,6 @@ EntityTemplate
 
 }
 
-//editor "index(808)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -12205,7 +11981,6 @@ EntityTemplate
 
 }
 
-//editor "index(809)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -12259,7 +12034,6 @@ EntityTemplate
 
 }
 
-//editor "index(814)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -12313,7 +12087,6 @@ EntityTemplate
 
 }
 
-//editor "index(816)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -12367,7 +12140,6 @@ EntityTemplate
 
 }
 
-//editor "index(818)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -12421,7 +12193,6 @@ EntityTemplate
 
 }
 
-//editor "index(820)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -12475,7 +12246,6 @@ EntityTemplate
 
 }
 
-//editor "index(821)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -12529,7 +12299,6 @@ EntityTemplate
 
 }
 
-//editor "index(822)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -12583,7 +12352,6 @@ EntityTemplate
 
 }
 
-//editor "index(823)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -12637,7 +12405,6 @@ EntityTemplate
 
 }
 
-//editor "index(825)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -12691,7 +12458,6 @@ EntityTemplate
 
 }
 
-//editor "index(829)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -12745,7 +12511,6 @@ EntityTemplate
 
 }
 
-//editor "index(830)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -12799,7 +12564,6 @@ EntityTemplate
 
 }
 
-//editor "index(831)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -12853,7 +12617,6 @@ EntityTemplate
 
 }
 
-//editor "index(832)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -12907,7 +12670,6 @@ EntityTemplate
 
 }
 
-//editor "index(833)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -12961,7 +12723,6 @@ EntityTemplate
 
 }
 
-//editor "index(834)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -13015,7 +12776,6 @@ EntityTemplate
 
 }
 
-//editor "index(835)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -13069,7 +12829,6 @@ EntityTemplate
 
 }
 
-//editor "index(836)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -13123,7 +12882,6 @@ EntityTemplate
 
 }
 
-//editor "index(837)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -13177,7 +12935,6 @@ EntityTemplate
 
 }
 
-//editor "index(838)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -13231,7 +12988,6 @@ EntityTemplate
 
 }
 
-//editor "index(839)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -13285,7 +13041,6 @@ EntityTemplate
 
 }
 
-//editor "index(840)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -13339,7 +13094,6 @@ EntityTemplate
 
 }
 
-//editor "index(841)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -13393,7 +13147,6 @@ EntityTemplate
 
 }
 
-//editor "index(842)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -13447,7 +13200,6 @@ EntityTemplate
 
 }
 
-//editor "index(843)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -13501,7 +13253,6 @@ EntityTemplate
 
 }
 
-//editor "index(844)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -13555,7 +13306,6 @@ EntityTemplate
 
 }
 
-//editor "index(845)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -13609,7 +13359,6 @@ EntityTemplate
 
 }
 
-//editor "index(846)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -13663,7 +13412,6 @@ EntityTemplate
 
 }
 
-//editor "index(848)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -13717,7 +13465,6 @@ EntityTemplate
 
 }
 
-//editor "index(849)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -13771,7 +13518,6 @@ EntityTemplate
 
 }
 
-//editor "index(850)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -13825,7 +13571,6 @@ EntityTemplate
 
 }
 
-//editor "index(851)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -13879,7 +13624,6 @@ EntityTemplate
 
 }
 
-//editor "index(852)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01"
@@ -13933,7 +13677,6 @@ EntityTemplate
 
 }
 
-//editor "index(853)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -13987,7 +13730,6 @@ EntityTemplate
 
 }
 
-//editor "index(854)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -14041,7 +13783,6 @@ EntityTemplate
 
 }
 
-//editor "index(859)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_05"
@@ -14095,7 +13836,6 @@ EntityTemplate
 
 }
 
-//editor "index(862)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -14149,7 +13889,6 @@ EntityTemplate
 
 }
 
-//editor "index(863)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -14203,7 +13942,6 @@ EntityTemplate
 
 }
 
-//editor "index(865)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_05"
@@ -14257,7 +13995,6 @@ EntityTemplate
 
 }
 
-//editor "index(867)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -14311,7 +14048,6 @@ EntityTemplate
 
 }
 
-//editor "index(869)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -14365,7 +14101,6 @@ EntityTemplate
 
 }
 
-//editor "index(871)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_05"
@@ -14419,7 +14154,6 @@ EntityTemplate
 
 }
 
-//editor "index(873)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -14473,7 +14207,6 @@ EntityTemplate
 
 }
 
-//editor "index(874)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_05"
@@ -14527,7 +14260,6 @@ EntityTemplate
 
 }
 
-//editor "index(876)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -14581,7 +14313,6 @@ EntityTemplate
 
 }
 
-//editor "index(886)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_medium_02"
@@ -14644,7 +14375,6 @@ EntityTemplate
 
 }
 
-//editor "index(887)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_small_03"
@@ -14705,7 +14435,6 @@ EntityTemplate
 
 }
 
-//editor "index(888)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_07"
@@ -14766,7 +14495,6 @@ EntityTemplate
 
 }
 
-//editor "index(889)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_02"
@@ -14827,7 +14555,6 @@ EntityTemplate
 
 }
 
-//editor "index(890)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -14888,7 +14615,6 @@ EntityTemplate
 
 }
 
-//editor "index(891)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_07"
@@ -14949,7 +14675,6 @@ EntityTemplate
 
 }
 
-//editor "index(892)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -15010,7 +14735,6 @@ EntityTemplate
 
 }
 
-//editor "index(893)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -15071,7 +14795,6 @@ EntityTemplate
 
 }
 
-//editor "index(894)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -15134,7 +14857,6 @@ EntityTemplate
 
 }
 
-//editor "index(895)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -15197,7 +14919,6 @@ EntityTemplate
 
 }
 
-//editor "index(896)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
@@ -15260,7 +14981,6 @@ EntityTemplate
 
 }
 
-//editor "index(897)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -15321,7 +15041,6 @@ EntityTemplate
 
 }
 
-//editor "index(898)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -15384,7 +15103,6 @@ EntityTemplate
 
 }
 
-//editor "index(899)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_small_03"
@@ -15445,7 +15163,6 @@ EntityTemplate
 
 }
 
-//editor "index(900)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -15508,7 +15225,6 @@ EntityTemplate
 
 }
 
-//editor "index(901)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -15569,7 +15285,6 @@ EntityTemplate
 
 }
 
-//editor "index(902)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -15632,7 +15347,6 @@ EntityTemplate
 
 }
 
-//editor "index(904)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_03"
@@ -15693,7 +15407,6 @@ EntityTemplate
 
 }
 
-//editor "index(906)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -15741,7 +15454,6 @@ EntityTemplate
 
 }
 
-//editor "index(907)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -15789,7 +15501,6 @@ EntityTemplate
 
 }
 
-//editor "index(928)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_medium_02"
@@ -15845,7 +15556,6 @@ EntityTemplate
 
 }
 
-//editor "index(929)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_small_03"
@@ -15899,7 +15609,6 @@ EntityTemplate
 
 }
 
-//editor "index(930)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_02"
@@ -15953,7 +15662,6 @@ EntityTemplate
 
 }
 
-//editor "index(931)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -16007,7 +15715,6 @@ EntityTemplate
 
 }
 
-//editor "index(932)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_07"
@@ -16061,7 +15768,6 @@ EntityTemplate
 
 }
 
-//editor "index(933)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -16115,7 +15821,6 @@ EntityTemplate
 
 }
 
-//editor "index(934)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -16169,7 +15874,6 @@ EntityTemplate
 
 }
 
-//editor "index(935)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -16225,7 +15929,6 @@ EntityTemplate
 
 }
 
-//editor "index(936)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -16281,7 +15984,6 @@ EntityTemplate
 
 }
 
-//editor "index(937)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
@@ -16337,7 +16039,6 @@ EntityTemplate
 
 }
 
-//editor "index(938)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -16391,7 +16092,6 @@ EntityTemplate
 
 }
 
-//editor "index(939)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -16447,7 +16147,6 @@ EntityTemplate
 
 }
 
-//editor "index(940)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_small_03"
@@ -16501,7 +16200,6 @@ EntityTemplate
 
 }
 
-//editor "index(941)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -16557,7 +16255,6 @@ EntityTemplate
 
 }
 
-//editor "index(942)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -16611,7 +16308,6 @@ EntityTemplate
 
 }
 
-//editor "index(943)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -16667,7 +16363,6 @@ EntityTemplate
 
 }
 
-//editor "index(944)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -16721,7 +16416,6 @@ EntityTemplate
 
 }
 
-//editor "index(945)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_03"
@@ -16775,7 +16469,6 @@ EntityTemplate
 
 }
 
-//editor "index(946)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -16829,7 +16522,6 @@ EntityTemplate
 
 }
 
-//editor "index(947)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -16883,7 +16575,6 @@ EntityTemplate
 
 }
 
-//editor "index(948)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01_skin2"
@@ -16937,7 +16628,6 @@ EntityTemplate
 
 }
 
-//editor "index(970)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -16993,7 +16683,6 @@ EntityTemplate
 
 }
 
-//editor "index(971)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -17049,7 +16738,6 @@ EntityTemplate
 
 }
 
-//editor "index(972)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -17103,7 +16791,6 @@ EntityTemplate
 
 }
 
-//editor "index(973)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
@@ -17158,7 +16845,6 @@ EntityTemplate
 
 }
 
-//editor "index(975)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_03"
@@ -17212,7 +16898,6 @@ EntityTemplate
 
 }
 
-//editor "index(977)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -17268,7 +16953,6 @@ EntityTemplate
 
 }
 
-//editor "index(978)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -17324,7 +17008,6 @@ EntityTemplate
 
 }
 
-//editor "index(979)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -17378,7 +17061,6 @@ EntityTemplate
 
 }
 
-//editor "index(980)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -17434,7 +17116,6 @@ EntityTemplate
 
 }
 
-//editor "index(981)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_small_03"
@@ -17488,7 +17169,6 @@ EntityTemplate
 
 }
 
-//editor "index(983)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -17549,7 +17229,6 @@ EntityTemplate
 
 }
 
-//editor "index(984)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -17612,7 +17291,6 @@ EntityTemplate
 
 }
 
-//editor "index(985)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_07"
@@ -17666,7 +17344,6 @@ EntityTemplate
 
 }
 
-//editor "index(994)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -17720,7 +17397,6 @@ EntityTemplate
 
 }
 
-//editor "index(995)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -17774,7 +17450,6 @@ EntityTemplate
 
 }
 
-//editor "index(996)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -17830,7 +17505,6 @@ EntityTemplate
 
 }
 
-//editor "index(997)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -17886,7 +17560,6 @@ EntityTemplate
 
 }
 
-//editor "index(998)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
@@ -17942,7 +17615,6 @@ EntityTemplate
 
 }
 
-//editor "index(999)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -17996,7 +17668,6 @@ EntityTemplate
 
 }
 
-//editor "index(1001)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -18052,7 +17723,6 @@ EntityTemplate
 
 }
 
-//editor "index(1017)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -18106,7 +17776,6 @@ EntityTemplate
 
 }
 
-//editor "index(1018)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -18162,7 +17831,6 @@ EntityTemplate
 
 }
 
-//editor "index(1019)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -18225,7 +17893,6 @@ EntityTemplate
 
 }
 
-//editor "index(1020)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
@@ -18281,7 +17948,6 @@ EntityTemplate
 
 }
 
-//editor "index(1021)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -18335,7 +18001,6 @@ EntityTemplate
 
 }
 
-//editor "index(1022)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -18391,7 +18056,6 @@ EntityTemplate
 
 }
 
-//editor "index(1023)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -18452,7 +18116,6 @@ EntityTemplate
 
 }
 
-//editor "index(1025)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_02"
@@ -18506,7 +18169,6 @@ EntityTemplate
 
 }
 
-//editor "index(1026)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_medium_02"
@@ -18562,7 +18224,6 @@ EntityTemplate
 
 }
 
-//editor "index(1027)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_small_03"
@@ -18616,7 +18277,6 @@ EntityTemplate
 
 }
 
-//editor "index(1028)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -18670,7 +18330,6 @@ EntityTemplate
 
 }
 
-//editor "index(1030)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -18733,7 +18392,6 @@ EntityTemplate
 
 }
 
-//editor "index(1040)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -18781,7 +18439,6 @@ EntityTemplate
 
 }
 
-//editor "index(1041)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -18829,7 +18486,6 @@ EntityTemplate
 
 }
 
-//editor "index(1042)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -18877,7 +18533,6 @@ EntityTemplate
 
 }
 
-//editor "index(1043)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -18925,7 +18580,6 @@ EntityTemplate
 
 }
 
-//editor "index(1044)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -18973,7 +18627,6 @@ EntityTemplate
 
 }
 
-//editor "index(1045)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -19020,7 +18673,6 @@ EntityTemplate
 
 }
 
-//editor "index(1046)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -19068,7 +18720,6 @@ EntityTemplate
 
 }
 
-//editor "index(1047)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -19116,7 +18767,6 @@ EntityTemplate
 
 }
 
-//editor "index(1048)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -19164,7 +18814,6 @@ EntityTemplate
 
 }
 
-//editor "index(1055)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -19227,7 +18876,6 @@ EntityTemplate
 
 }
 
-//editor "index(1056)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -19275,7 +18923,6 @@ EntityTemplate
 
 }
 
-//editor "index(1057)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_01"
@@ -19330,7 +18977,6 @@ EntityTemplate
 
 }
 
-//editor "index(1058)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -19393,7 +19039,6 @@ EntityTemplate
 
 }
 
-//editor "index(1059)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -19448,7 +19093,6 @@ EntityTemplate
 
 }
 
-//editor "index(1062)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -19511,7 +19155,6 @@ EntityTemplate
 
 }
 
-//editor "index(1064)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -19565,7 +19208,6 @@ EntityTemplate
 
 }
 
-//editor "index(1066)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
@@ -19621,7 +19263,6 @@ EntityTemplate
 
 }
 
-//editor "index(1067)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -19677,7 +19318,6 @@ EntityTemplate
 
 }
 
-//editor "index(1068)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -19733,7 +19373,6 @@ EntityTemplate
 
 }
 
-//editor "index(1069)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -19787,7 +19426,6 @@ EntityTemplate
 
 }
 
-//editor "index(1070)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -19843,7 +19481,6 @@ EntityTemplate
 
 }
 
-//editor "index(1071)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -19899,7 +19536,6 @@ EntityTemplate
 
 }
 
-//editor "index(1072)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_07"
@@ -19960,7 +19596,6 @@ EntityTemplate
 
 }
 
-//editor "index(1073)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_small_03"
@@ -20021,7 +19656,6 @@ EntityTemplate
 
 }
 
-//editor "index(1074)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_07"
@@ -20082,7 +19716,6 @@ EntityTemplate
 
 }
 
-//editor "index(1075)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_medium_02"
@@ -20145,7 +19778,6 @@ EntityTemplate
 
 }
 
-//editor "index(1076)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_02"
@@ -20206,7 +19838,6 @@ EntityTemplate
 
 }
 
-//editor "index(1077)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -20267,7 +19898,6 @@ EntityTemplate
 
 }
 
-//editor "index(1078)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_03"
@@ -20328,7 +19958,6 @@ EntityTemplate
 
 }
 
-//editor "index(1079)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -20391,7 +20020,6 @@ EntityTemplate
 
 }
 
-//editor "index(1080)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -20452,7 +20080,6 @@ EntityTemplate
 
 }
 
-//editor "index(1081)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_01"
@@ -20515,7 +20142,6 @@ EntityTemplate
 
 }
 
-//editor "index(1082)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_small_03"
@@ -20576,7 +20202,6 @@ EntityTemplate
 
 }
 
-//editor "index(1083)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -20639,7 +20264,6 @@ EntityTemplate
 
 }
 
-//editor "index(1084)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -20700,7 +20324,6 @@ EntityTemplate
 
 }
 
-//editor "index(1085)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
@@ -20763,7 +20386,6 @@ EntityTemplate
 
 }
 
-//editor "index(1086)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -20826,7 +20448,6 @@ EntityTemplate
 
 }
 
-//editor "index(1087)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_medium_03"
@@ -20889,7 +20510,6 @@ EntityTemplate
 
 }
 
-//editor "index(1088)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
@@ -20950,7 +20570,6 @@ EntityTemplate
 
 }
 
-//editor "index(1089)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_03"
@@ -21011,7 +20630,6 @@ EntityTemplate
 
 }
 
-//editor "index(1090)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -21072,7 +20690,6 @@ EntityTemplate
 
 }
 
-//editor "index(1091)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -21135,7 +20752,6 @@ EntityTemplate
 
 }
 
-//editor "index(1092)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_01"
@@ -21189,7 +20805,6 @@ EntityTemplate
 
 }
 
-//editor "index(1093)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -21252,7 +20867,6 @@ EntityTemplate
 
 }
 
-//editor "index(1094)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -21306,7 +20920,6 @@ EntityTemplate
 
 }
 
-//editor "index(1097)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -21362,7 +20975,6 @@ EntityTemplate
 
 }
 
-//editor "index(1098)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -21418,7 +21030,6 @@ EntityTemplate
 
 }
 
-//editor "index(1101)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -21479,7 +21090,6 @@ EntityTemplate
 
 }
 
-//editor "index(1116)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -21535,7 +21145,6 @@ EntityTemplate
 
 }
 
-//editor "index(1117)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -21596,7 +21205,6 @@ EntityTemplate
 
 }
 
-//editor "index(1120)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -21652,7 +21260,6 @@ EntityTemplate
 
 }
 
-//editor "index(1121)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/granite_mossy/granite_mossy_big_07"
@@ -21712,7 +21319,6 @@ EntityTemplate
 
 }
 
-//editor "index(1128)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
@@ -21773,7 +21379,6 @@ EntityTemplate
 
 }
 
-//editor "index(1129)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -21836,7 +21441,6 @@ EntityTemplate
 
 }
 
-//editor "index(1130)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -21897,7 +21501,6 @@ EntityTemplate
 
 }
 
-//editor "index(1131)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_03"
@@ -21958,7 +21561,6 @@ EntityTemplate
 
 }
 
-//editor "index(1132)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -22019,7 +21621,6 @@ EntityTemplate
 
 }
 
-//editor "index(1133)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -22082,7 +21683,6 @@ EntityTemplate
 
 }
 
-//editor "index(1135)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_mossy/cliff_mossy_big_06"
@@ -22138,7 +21738,6 @@ EntityTemplate
 
 }
 
-//editor "index(1136)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_01"
@@ -22199,7 +21798,6 @@ EntityTemplate
 
 }
 
-//editor "index(1137)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -22253,7 +21851,6 @@ EntityTemplate
 
 }
 
-//editor "index(1146)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -22307,7 +21904,6 @@ EntityTemplate
 
 }
 
-//editor "index(1147)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -22361,7 +21957,6 @@ EntityTemplate
 
 }
 
-//editor "index(1149)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -22415,7 +22010,6 @@ EntityTemplate
 
 }
 
-//editor "index(1164)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_06"
@@ -22469,7 +22063,6 @@ EntityTemplate
 
 }
 
-//editor "index(1165)"
 EntityTemplate
 {
 	base_blueprint "props/grass/prairie_medium_04"
@@ -22523,7 +22116,6 @@ EntityTemplate
 
 }
 
-//editor "index(1168)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_big_01"
@@ -22577,7 +22169,6 @@ EntityTemplate
 
 }
 
-//editor "index(1181)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_medium_01_skin3_f"
@@ -22631,7 +22222,6 @@ EntityTemplate
 
 }
 
-//editor "index(1184)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_big_01"
@@ -22679,7 +22269,6 @@ EntityTemplate
 
 }
 
-//editor "index(1186)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_big_06"
@@ -22727,7 +22316,6 @@ EntityTemplate
 
 }
 
-//editor "index(1191)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_big_05_skin2"
@@ -22782,7 +22370,6 @@ EntityTemplate
 
 }
 
-//editor "index(1193)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02"
@@ -22830,7 +22417,6 @@ EntityTemplate
 
 }
 
-//editor "index(1195)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_04"
@@ -22878,7 +22464,6 @@ EntityTemplate
 
 }
 
-//editor "index(1196)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_06"
@@ -22926,7 +22511,6 @@ EntityTemplate
 
 }
 
-//editor "index(1197)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_04"
@@ -22974,7 +22558,6 @@ EntityTemplate
 
 }
 
-//editor "index(1198)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_big_02"
@@ -23022,7 +22605,6 @@ EntityTemplate
 
 }
 
-//editor "index(1199)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_big_05"
@@ -23070,7 +22652,6 @@ EntityTemplate
 
 }
 
-//editor "index(1200)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_04"
@@ -23118,7 +22699,6 @@ EntityTemplate
 
 }
 
-//editor "index(1201)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_big_06"
@@ -23173,7 +22753,6 @@ EntityTemplate
 
 }
 
-//editor "index(1203)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_05"
@@ -23221,7 +22800,6 @@ EntityTemplate
 
 }
 
-//editor "index(1204)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_06"
@@ -23269,7 +22847,6 @@ EntityTemplate
 
 }
 
-//editor "index(1206)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/jagged/jagged_big_09"
@@ -23317,7 +22894,6 @@ EntityTemplate
 
 }
 
-//editor "index(1210)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -23372,7 +22948,6 @@ EntityTemplate
 
 }
 
-//editor "index(1211)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -23427,7 +23002,6 @@ EntityTemplate
 
 }
 
-//editor "index(1212)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -23482,7 +23056,6 @@ EntityTemplate
 
 }
 
-//editor "index(1213)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -23537,7 +23110,6 @@ EntityTemplate
 
 }
 
-//editor "index(1215)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -23592,7 +23164,6 @@ EntityTemplate
 
 }
 
-//editor "index(1216)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -23647,7 +23218,6 @@ EntityTemplate
 
 }
 
-//editor "index(1217)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -23702,7 +23272,6 @@ EntityTemplate
 
 }
 
-//editor "index(1219)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -23763,7 +23332,6 @@ EntityTemplate
 
 }
 
-//editor "index(1220)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -23818,7 +23386,6 @@ EntityTemplate
 
 }
 
-//editor "index(1221)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -23873,7 +23440,6 @@ EntityTemplate
 
 }
 
-//editor "index(1222)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -23928,7 +23494,6 @@ EntityTemplate
 
 }
 
-//editor "index(1223)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -23983,7 +23548,6 @@ EntityTemplate
 
 }
 
-//editor "index(1224)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24037,7 +23601,6 @@ EntityTemplate
 
 }
 
-//editor "index(1225)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24091,7 +23654,6 @@ EntityTemplate
 
 }
 
-//editor "index(1226)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24145,7 +23707,6 @@ EntityTemplate
 
 }
 
-//editor "index(1227)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24199,7 +23760,6 @@ EntityTemplate
 
 }
 
-//editor "index(1228)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24253,7 +23813,6 @@ EntityTemplate
 
 }
 
-//editor "index(1229)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24307,7 +23866,6 @@ EntityTemplate
 
 }
 
-//editor "index(1230)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24361,7 +23919,6 @@ EntityTemplate
 
 }
 
-//editor "index(1231)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24415,7 +23972,6 @@ EntityTemplate
 
 }
 
-//editor "index(1232)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24469,7 +24025,6 @@ EntityTemplate
 
 }
 
-//editor "index(1233)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24523,7 +24078,6 @@ EntityTemplate
 
 }
 
-//editor "index(1234)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24577,7 +24131,6 @@ EntityTemplate
 
 }
 
-//editor "index(1235)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24631,7 +24184,6 @@ EntityTemplate
 
 }
 
-//editor "index(1236)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24685,7 +24237,6 @@ EntityTemplate
 
 }
 
-//editor "index(1237)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24739,7 +24290,6 @@ EntityTemplate
 
 }
 
-//editor "index(1238)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24793,7 +24343,6 @@ EntityTemplate
 
 }
 
-//editor "index(1239)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24847,7 +24396,6 @@ EntityTemplate
 
 }
 
-//editor "index(1240)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24901,7 +24449,6 @@ EntityTemplate
 
 }
 
-//editor "index(1241)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -24955,7 +24502,6 @@ EntityTemplate
 
 }
 
-//editor "index(1242)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -25009,7 +24555,6 @@ EntityTemplate
 
 }
 
-//editor "index(1243)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -25063,7 +24608,6 @@ EntityTemplate
 
 }
 
-//editor "index(1244)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -25117,7 +24661,6 @@ EntityTemplate
 
 }
 
-//editor "index(1245)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -25171,7 +24714,6 @@ EntityTemplate
 
 }
 
-//editor "index(1246)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -25225,7 +24767,6 @@ EntityTemplate
 
 }
 
-//editor "index(1247)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -25279,7 +24820,6 @@ EntityTemplate
 
 }
 
-//editor "index(1248)"
 EntityTemplate
 {
 	base_blueprint "volumes/world_blocker"
@@ -25340,7 +24880,6 @@ EntityTemplate
 
 }
 
-//editor "index(1249)"
 EntityTemplate
 {
 	base_blueprint "volumes/world_blocker"
@@ -25401,7 +24940,6 @@ EntityTemplate
 
 }
 
-//editor "index(1250)"
 EntityTemplate
 {
 	base_blueprint "volumes/world_blocker"
@@ -25462,7 +25000,6 @@ EntityTemplate
 
 }
 
-//editor "index(1251)"
 EntityTemplate
 {
 	base_blueprint "volumes/world_blocker"
@@ -25523,7 +25060,6 @@ EntityTemplate
 
 }
 
-//editor "index(1252)"
 EntityTemplate
 {
 	base_blueprint "volumes/world_blocker"
@@ -25584,7 +25120,6 @@ EntityTemplate
 
 }
 
-//editor "index(1254)"
 EntityTemplate
 {
 	base_blueprint "volumes/world_blocker"
@@ -25645,7 +25180,6 @@ EntityTemplate
 
 }
 
-//editor "index(1255)"
 EntityTemplate
 {
 	base_blueprint "volumes/world_blocker"
@@ -25706,7 +25240,6 @@ EntityTemplate
 
 }
 
-//editor "index(1256)"
 EntityTemplate
 {
 	base_blueprint "volumes/world_blocker"
@@ -25767,7 +25300,6 @@ EntityTemplate
 
 }
 
-//editor "index(1257)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_03"
@@ -25821,7 +25353,6 @@ EntityTemplate
 
 }
 
-//editor "index(1258)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_06"

@@ -1,5 +1,4 @@
 entity_count "238"
-//editor "index(32)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -58,7 +57,6 @@ EntityTemplate
 
 }
 
-//editor "index(33)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -117,7 +115,6 @@ EntityTemplate
 
 }
 
-//editor "index(34)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -176,7 +173,6 @@ EntityTemplate
 
 }
 
-//editor "index(35)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -235,7 +231,6 @@ EntityTemplate
 
 }
 
-//editor "index(36)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -294,7 +289,6 @@ EntityTemplate
 
 }
 
-//editor "index(37)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -354,7 +348,6 @@ EntityTemplate
 
 }
 
-//editor "index(38)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -414,7 +407,6 @@ EntityTemplate
 
 }
 
-//editor "index(39)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -474,7 +466,6 @@ EntityTemplate
 
 }
 
-//editor "index(41)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -534,7 +525,6 @@ EntityTemplate
 
 }
 
-//editor "index(42)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -587,7 +577,6 @@ EntityTemplate
 
 }
 
-//editor "index(43)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -640,7 +629,6 @@ EntityTemplate
 
 }
 
-//editor "index(44)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -693,7 +681,6 @@ EntityTemplate
 
 }
 
-//editor "index(45)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -752,7 +739,6 @@ EntityTemplate
 
 }
 
-//editor "index(46)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -811,7 +797,6 @@ EntityTemplate
 
 }
 
-//editor "index(47)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -870,7 +855,6 @@ EntityTemplate
 
 }
 
-//editor "index(48)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -917,7 +901,6 @@ EntityTemplate
 
 }
 
-//editor "index(49)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -964,7 +947,6 @@ EntityTemplate
 
 }
 
-//editor "index(51)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1017,7 +999,6 @@ EntityTemplate
 
 }
 
-//editor "index(52)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1070,9 +1051,7 @@ EntityTemplate
 
 }
 
-//editor "index(386)"
 
-//editor "index(391)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1126,7 +1105,6 @@ EntityTemplate
 
 }
 
-//editor "index(392)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1180,7 +1158,6 @@ EntityTemplate
 
 }
 
-//editor "index(393)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1234,7 +1211,6 @@ EntityTemplate
 
 }
 
-//editor "index(395)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1295,7 +1271,6 @@ EntityTemplate
 
 }
 
-//editor "index(396)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1349,7 +1324,6 @@ EntityTemplate
 
 }
 
-//editor "index(398)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1403,7 +1377,6 @@ EntityTemplate
 
 }
 
-//editor "index(401)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1457,15 +1430,10 @@ EntityTemplate
 
 }
 
-//editor "index(402)"
 
-//editor "index(403)"
 
-//editor "index(404)"
 
-//editor "index(405)"
 
-//editor "index(414)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1518,7 +1486,6 @@ EntityTemplate
 
 }
 
-//editor "index(415)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1571,7 +1538,6 @@ EntityTemplate
 
 }
 
-//editor "index(416)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1624,7 +1590,6 @@ EntityTemplate
 
 }
 
-//editor "index(417)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -1677,7 +1642,6 @@ EntityTemplate
 
 }
 
-//editor "index(419)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1724,7 +1688,6 @@ EntityTemplate
 
 }
 
-//editor "index(420)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1771,7 +1734,6 @@ EntityTemplate
 
 }
 
-//editor "index(421)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1818,7 +1780,6 @@ EntityTemplate
 
 }
 
-//editor "index(422)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1872,7 +1833,6 @@ EntityTemplate
 
 }
 
-//editor "index(424)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -1927,7 +1887,6 @@ EntityTemplate
 
 }
 
-//editor "index(425)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
@@ -1982,7 +1941,6 @@ EntityTemplate
 
 }
 
-//editor "index(429)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2037,7 +1995,6 @@ EntityTemplate
 
 }
 
-//editor "index(430)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2092,7 +2049,6 @@ EntityTemplate
 
 }
 
-//editor "index(432)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2147,7 +2103,6 @@ EntityTemplate
 
 }
 
-//editor "index(433)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2202,7 +2157,6 @@ EntityTemplate
 
 }
 
-//editor "index(434)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2257,7 +2211,6 @@ EntityTemplate
 
 }
 
-//editor "index(435)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -2312,7 +2265,6 @@ EntityTemplate
 
 }
 
-//editor "index(453)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_02_skin1"
@@ -2366,7 +2318,6 @@ EntityTemplate
 
 }
 
-//editor "index(455)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_02_skin1"
@@ -2420,7 +2371,6 @@ EntityTemplate
 
 }
 
-//editor "index(456)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_02_skin1"
@@ -2474,7 +2424,6 @@ EntityTemplate
 
 }
 
-//editor "index(457)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_02_skin1"
@@ -2528,7 +2477,6 @@ EntityTemplate
 
 }
 
-//editor "index(459)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_big_02_skin1"
@@ -2582,7 +2530,6 @@ EntityTemplate
 
 }
 
-//editor "index(461)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_big_03_skin1"
@@ -2643,7 +2590,6 @@ EntityTemplate
 
 }
 
-//editor "index(462)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_02_skin1"
@@ -2699,7 +2645,6 @@ EntityTemplate
 
 }
 
-//editor "index(463)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_02_skin1"
@@ -2753,7 +2698,6 @@ EntityTemplate
 
 }
 
-//editor "index(563)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -2814,7 +2758,6 @@ EntityTemplate
 
 }
 
-//editor "index(565)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -2875,7 +2818,6 @@ EntityTemplate
 
 }
 
-//editor "index(567)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -2938,7 +2880,6 @@ EntityTemplate
 
 }
 
-//editor "index(571)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3001,7 +2942,6 @@ EntityTemplate
 
 }
 
-//editor "index(572)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3062,7 +3002,6 @@ EntityTemplate
 
 }
 
-//editor "index(573)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3123,7 +3062,6 @@ EntityTemplate
 
 }
 
-//editor "index(574)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3184,7 +3122,6 @@ EntityTemplate
 
 }
 
-//editor "index(576)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3245,7 +3182,6 @@ EntityTemplate
 
 }
 
-//editor "index(577)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3306,7 +3242,6 @@ EntityTemplate
 
 }
 
-//editor "index(580)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3367,7 +3302,6 @@ EntityTemplate
 
 }
 
-//editor "index(583)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3430,7 +3364,6 @@ EntityTemplate
 
 }
 
-//editor "index(589)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3491,7 +3424,6 @@ EntityTemplate
 
 }
 
-//editor "index(590)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3552,7 +3484,6 @@ EntityTemplate
 
 }
 
-//editor "index(591)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3615,7 +3546,6 @@ EntityTemplate
 
 }
 
-//editor "index(592)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3676,7 +3606,6 @@ EntityTemplate
 
 }
 
-//editor "index(593)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3737,7 +3666,6 @@ EntityTemplate
 
 }
 
-//editor "index(594)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3798,7 +3726,6 @@ EntityTemplate
 
 }
 
-//editor "index(595)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3861,7 +3788,6 @@ EntityTemplate
 
 }
 
-//editor "index(596)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3924,7 +3850,6 @@ EntityTemplate
 
 }
 
-//editor "index(597)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -3985,7 +3910,6 @@ EntityTemplate
 
 }
 
-//editor "index(598)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -4046,7 +3970,6 @@ EntityTemplate
 
 }
 
-//editor "index(604)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -4109,7 +4032,6 @@ EntityTemplate
 
 }
 
-//editor "index(605)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -4172,7 +4094,6 @@ EntityTemplate
 
 }
 
-//editor "index(606)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -4233,7 +4154,6 @@ EntityTemplate
 
 }
 
-//editor "index(608)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -4294,7 +4214,6 @@ EntityTemplate
 
 }
 
-//editor "index(609)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -4357,235 +4276,120 @@ EntityTemplate
 
 }
 
-//editor "index(635)"
 
-//editor "index(658)"
 
-//editor "index(662)"
 
-//editor "index(663)"
 
-//editor "index(664)"
 
-//editor "index(665)"
 
-//editor "index(667)"
 
-//editor "index(669)"
 
-//editor "index(672)"
 
-//editor "index(673)"
 
-//editor "index(678)"
 
-//editor "index(679)"
 
-//editor "index(686)"
 
-//editor "index(689)"
 
-//editor "index(692)"
 
-//editor "index(698)"
 
-//editor "index(699)"
 
-//editor "index(701)"
 
-//editor "index(702)"
 
-//editor "index(703)"
 
-//editor "index(704)"
 
-//editor "index(705)"
 
-//editor "index(706)"
 
-//editor "index(707)"
 
-//editor "index(708)"
 
-//editor "index(710)"
 
-//editor "index(712)"
 
-//editor "index(713)"
 
-//editor "index(714)"
 
-//editor "index(716)"
 
-//editor "index(718)"
 
-//editor "index(719)"
 
-//editor "index(720)"
 
-//editor "index(723)"
 
-//editor "index(724)"
 
-//editor "index(725)"
 
-//editor "index(726)"
 
-//editor "index(727)"
 
-//editor "index(728)"
 
-//editor "index(729)"
 
-//editor "index(730)"
 
-//editor "index(735)"
 
-//editor "index(736)"
 
-//editor "index(737)"
 
-//editor "index(738)"
 
-//editor "index(739)"
 
-//editor "index(740)"
 
-//editor "index(741)"
 
-//editor "index(742)"
 
-//editor "index(743)"
 
-//editor "index(744)"
 
-//editor "index(745)"
 
-//editor "index(746)"
 
-//editor "index(747)"
 
-//editor "index(748)"
 
-//editor "index(749)"
 
-//editor "index(750)"
 
-//editor "index(754)"
 
-//editor "index(755)"
 
-//editor "index(756)"
 
-//editor "index(757)"
 
-//editor "index(758)"
 
-//editor "index(761)"
 
-//editor "index(765)"
 
-//editor "index(766)"
 
-//editor "index(767)"
 
-//editor "index(820)"
 
-//editor "index(822)"
 
-//editor "index(824)"
 
-//editor "index(826)"
 
-//editor "index(831)"
 
-//editor "index(832)"
 
-//editor "index(834)"
 
-//editor "index(835)"
 
-//editor "index(836)"
 
-//editor "index(837)"
 
-//editor "index(840)"
 
-//editor "index(841)"
 
-//editor "index(842)"
 
-//editor "index(843)"
 
-//editor "index(844)"
 
-//editor "index(845)"
 
-//editor "index(846)"
 
-//editor "index(847)"
 
-//editor "index(848)"
 
-//editor "index(849)"
 
-//editor "index(850)"
 
-//editor "index(857)"
 
-//editor "index(950)"
 
-//editor "index(954)"
 
-//editor "index(956)"
 
-//editor "index(957)"
 
-//editor "index(958)"
 
-//editor "index(959)"
 
-//editor "index(962)"
 
-//editor "index(970)"
 
-//editor "index(980)"
 
-//editor "index(985)"
 
-//editor "index(1001)"
 
-//editor "index(1004)"
 
-//editor "index(1020)"
 
-//editor "index(1024)"
 
-//editor "index(1036)"
 
-//editor "index(1049)"
 
-//editor "index(1051)"
 
-//editor "index(1053)"
 
-//editor "index(1055)"
 
-//editor "index(1057)"
 
-//editor "index(1065)"
 
-//editor "index(1091)"
 
-//editor "index(1094)"
 
-//editor "index(1101)"
 
-//editor "index(1104)"
 
-//editor "index(1112)"
 
-//editor "index(1157)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -4648,11 +4452,8 @@ EntityTemplate
 
 }
 
-//editor "index(1165)"
 
-//editor "index(1173)"
 
-//editor "index(1187)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -4706,7 +4507,6 @@ EntityTemplate
 
 }
 
-//editor "index(1252)"
 EntityTemplate
 {
 	base_blueprint "props/grass/standard_small_01"
@@ -4760,7 +4560,6 @@ EntityTemplate
 
 }
 
-//editor "index(1293)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_02_skin1"
@@ -4816,49 +4615,27 @@ EntityTemplate
 
 }
 
-//editor "index(1296)"
 
-//editor "index(1332)"
 
-//editor "index(1351)"
 
-//editor "index(1353)"
 
-//editor "index(1370)"
 
-//editor "index(1384)"
 
-//editor "index(1446)"
 
-//editor "index(1447)"
 
-//editor "index(1489)"
 
-//editor "index(1525)"
 
-//editor "index(1557)"
 
-//editor "index(1585)"
 
-//editor "index(1586)"
 
-//editor "index(1589)"
 
-//editor "index(1592)"
 
-//editor "index(1593)"
 
-//editor "index(1596)"
 
-//editor "index(1597)"
 
-//editor "index(1598)"
 
-//editor "index(1599)"
 
-//editor "index(1601)"
 
-//editor "index(1654)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -4921,7 +4698,6 @@ EntityTemplate
 
 }
 
-//editor "index(1662)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -4981,7 +4757,6 @@ EntityTemplate
 
 }
 
-//editor "index(1663)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -5042,9 +4817,7 @@ EntityTemplate
 
 }
 
-//editor "index(1664)"
 
-//editor "index(1668)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -5105,9 +4878,7 @@ EntityTemplate
 
 }
 
-//editor "index(1685)"
 
-//editor "index(1840)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_02_skin1"
@@ -5163,11 +4934,8 @@ EntityTemplate
 
 }
 
-//editor "index(1869)"
 
-//editor "index(1871)"
 
-//editor "index(1872)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -5230,7 +4998,6 @@ EntityTemplate
 
 }
 
-//editor "index(1878)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_02_skin1"
@@ -5284,15 +5051,10 @@ EntityTemplate
 
 }
 
-//editor "index(1882)"
 
-//editor "index(1883)"
 
-//editor "index(1884)"
 
-//editor "index(1885)"
 
-//editor "index(1886)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
