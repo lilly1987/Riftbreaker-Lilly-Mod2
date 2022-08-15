@@ -2732,12 +2732,12 @@ EntityTemplate
 
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_magma"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_resource_magma"
+			blueprint "resources/volume_random_resources_liquid"
 		}
 
 		LocalAabbDesc
@@ -2786,12 +2786,12 @@ EntityTemplate
 
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_magma"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_resource_magma"
+			blueprint "resources/volume_random_resources_liquid"
 		}
 
 		LocalAabbDesc
@@ -2840,12 +2840,12 @@ EntityTemplate
 
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_magma"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_resource_magma"
+			blueprint "resources/volume_random_resources_liquid"
 		}
 
 		LocalAabbDesc
@@ -2894,12 +2894,12 @@ EntityTemplate
 
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_magma"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_resource_magma"
+			blueprint "resources/volume_random_resources_liquid"
 		}
 
 		LocalAabbDesc
@@ -2948,12 +2948,12 @@ EntityTemplate
 
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_magma"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_resource_magma"
+			blueprint "resources/volume_random_resources_liquid"
 		}
 
 		LocalAabbDesc
@@ -3002,12 +3002,12 @@ EntityTemplate
 
 EntityTemplate
 {
-	base_blueprint "resources/volume_resource_magma"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_resource_magma"
+			blueprint "resources/volume_random_resources_liquid"
 		}
 
 		LocalAabbDesc
