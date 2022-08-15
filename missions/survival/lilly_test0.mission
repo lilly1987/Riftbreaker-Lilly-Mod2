@@ -46,7 +46,9 @@ MissionDef
 //biomes/lilly/tiles/lilly/grid_random.tile
 //biomes/lilly/tiles/lilly/grid_resources.tile
 
-biomes/lilly/tiles/lilly/Square1.tile
+biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02_lilly0.scene
+
+//biomes/lilly/tiles/lilly/Square1.tile
 //biomes/lilly/tiles/lilly/Square0.tile
 //biomes/lilly/tiles/lilly/Square9.tile
 //biomes/lilly/tiles/lilly/Square8.tile
