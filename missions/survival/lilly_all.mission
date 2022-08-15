@@ -22,6 +22,10 @@ MissionDef
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
 	source_tiles
 	{
+
+biomes/acid/tiles/acid_plains_02/acid_plains_02_lake1.tile
+biomes/acid/tiles/acid_plains_02/acid_plains_02_lake0.tile
+
 biomes/lilly/tiles/lilly/Square0.tile
 biomes/lilly/tiles/lilly/Square9.tile
 biomes/lilly/tiles/lilly/Square8.tile
@@ -149,6 +153,7 @@ biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01.tile
 biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01_resources3.tile
 biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02.tile
 biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02_resources3.tile
+biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02_resources4.tile
 biomes/jungle/tiles/jungle_custom_plains_03/jungle_custom_plains_03.tile
 biomes/jungle/tiles/jungle_custom_plains_03/jungle_custom_plains_03_resources3.tile
 biomes/jungle/tiles/jungle_custom_plains_04/jungle_custom_plains_04.tile

@@ -20,6 +20,8 @@ MissionDef
 	source_tiles
 	{
 
+biomes/acid/tiles/acid_plains_02/acid_plains_02_lake1.tile
+biomes/acid/tiles/acid_plains_02/acid_plains_02_lake0.tile
 biomes/acid/tiles/acid_lakes_01/acid_lakes_01.tile
 biomes/acid/tiles/acid_lakes_01/acid_lakes_01_resources3.tile
 biomes/acid/tiles/acid_lakes_02/acid_lakes_02.tile

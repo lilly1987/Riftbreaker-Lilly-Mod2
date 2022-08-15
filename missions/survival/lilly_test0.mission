@@ -46,9 +46,17 @@ MissionDef
 //biomes/lilly/tiles/lilly/grid_random.tile
 //biomes/lilly/tiles/lilly/grid_resources.tile
 
-biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02.tile
-biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02_resources3.tile
-biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02_resources4.tile
+biomes/acid/tiles/acid_plains_02/acid_plains_02_lake1.tile
+biomes/acid/tiles/acid_plains_02/acid_plains_02_lake0.tile
+biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
+//biomes/acid/tiles/acid_plains_02/acid_plains_02_plains.tile
+//biomes/acid/tiles/acid_plains_02/acid_plains_02_resources.tile
+//biomes/acid/tiles/acid_plains_02/acid_plains_02_resources2.tile
+//biomes/acid/tiles/acid_plains_02/acid_plains_02_resources3.tile
+
+//biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02.tile
+//biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02_resources3.tile
+//biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02_resources4.tile
 
 
 //biomes/lilly/tiles/lilly/Square1.tile
