@@ -1,0 +1,289 @@
+import * from "materials/scripts/pbr.material"
+
+material buildings/metal_plate_1x1_FAA556 : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FAA556_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FC884B : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FC884B_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FD8C2A : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FD8C2A_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FF470F : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FF470F_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FF926E : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FF926E_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FF7220 : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FF7220_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FFA61E : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FFA61E_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FFAD3E : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FFAD3E_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FFB47F : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FFB47F_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FFBD25 : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FFBD25_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FFD628 : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FFD628_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FFE9C4 : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FFE9C4_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FFE565 : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FFE565_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FFEDA9 : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FFEDA9_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FFF432 : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FFF432_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
+
+material buildings/metal_plate_1x1_FFFFFF : pbr/default
+{
+	set_texture_alias albedo materials/textures/buildings/decorations/metal_plate_1x1_FFFFFF_albedo.dds
+	set_texture_alias normal materials/textures/buildings/decorations/metal_plate_1x1_normal.dds
+	set_texture_alias packed materials/textures/buildings/decorations/metal_plate_1x1_packed.dds
+
+	technique 0
+	{
+		pass 0
+		{
+			vertex_program_ref deferred_gbuffer_tiled_vp
+			{
+				param_named      cTilingFactor  float 16
+			}
+		}
+	}
+}
