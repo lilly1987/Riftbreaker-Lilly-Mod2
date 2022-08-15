@@ -31,55 +31,12 @@ MissionDef
 	source_tiles
 	{
 
-//biomes/lilly/tiles/lilly/grid2_L_rock.tile
-//biomes/lilly/tiles/lilly/grid2_random_rock.tile
-//biomes/lilly/tiles/lilly/grid2_rock.tile
 
-//biomes/lilly/tiles/lilly/grid2.tile
-//biomes/lilly/tiles/lilly/grid2_L.tile
-//biomes/lilly/tiles/lilly/grid2_random.tile
+//biomes/jungle/tiles/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
+biomes/jungle/tiles/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01_liquid.tile
+biomes/jungle/tiles/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01_resources3.tile
 
-//biomes/lilly/tiles/lilly/grid_enemy.tile
-//biomes/lilly/tiles/lilly/grid_liquid.tile
-//biomes/lilly/tiles/lilly/grid_liquid_resources.tile
-//biomes/lilly/tiles/lilly/grid_liquid_resources2.tile
-//biomes/lilly/tiles/lilly/grid_random.tile
-//biomes/lilly/tiles/lilly/grid_resources.tile
-
-biomes/acid/tiles/acid_plains_02/acid_plains_02_lake1.tile
-biomes/acid/tiles/acid_plains_02/acid_plains_02_lake0.tile
 biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
-//biomes/acid/tiles/acid_plains_02/acid_plains_02_plains.tile
-//biomes/acid/tiles/acid_plains_02/acid_plains_02_resources.tile
-//biomes/acid/tiles/acid_plains_02/acid_plains_02_resources2.tile
-//biomes/acid/tiles/acid_plains_02/acid_plains_02_resources3.tile
-
-//biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02.tile
-//biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02_resources3.tile
-//biomes/jungle/tiles/jungle_custom_plains_02/jungle_custom_plains_02_resources4.tile
-
-
-//biomes/lilly/tiles/lilly/Square1.tile
-//biomes/lilly/tiles/lilly/Square0.tile
-//biomes/lilly/tiles/lilly/Square9.tile
-//biomes/lilly/tiles/lilly/Square8.tile
-//biomes/lilly/tiles/lilly/Square7.tile
-//biomes/lilly/tiles/lilly/Square6.tile
-//biomes/lilly/tiles/lilly/Square5.tile
-//biomes/lilly/tiles/lilly/Square4.tile
-//biomes/lilly/tiles/lilly/Square3.tile
-//biomes/lilly/tiles/lilly/Square2.tile
-//biomes/lilly/tiles/lilly/liquid_cross4_4.tile
-//biomes/lilly/tiles/lilly/liquid_cross4_3.tile
-//biomes/lilly/tiles/lilly/liquid_cross4_2.tile
-//biomes/lilly/tiles/lilly/liquid_cross4.tile
-//biomes/lilly/tiles/lilly/liquid_cross2.tile
-//biomes/lilly/tiles/lilly/liquid_cross.tile
-//biomes/lilly/tiles/lilly/Square.tile
-//biomes/lilly/tiles/lilly/grid_liquid_Square.tile
-//biomes/lilly/tiles/lilly/grid2.tile
-//biomes/lilly/tiles/lilly/grid2_random.tile
-//biomes/lilly/tiles/lilly/grid2_random_rock.tile
 
 	}
 

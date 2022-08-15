@@ -35091,7 +35091,7 @@ EntityTemplate
 			position
 			{
 				x "0.000"
-				z "0.000"
+				z "-64.000"
 			}
 
 		}
@@ -35102,6 +35102,7 @@ EntityTemplate
 
 ///
 
+
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -35118,16 +35119,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
 				}
 
 				max
 				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
+					x "1.0"
+					y "1.0"
+					z "1.0"
 				}
 
 			}
@@ -35136,121 +35137,139 @@ EntityTemplate
 
 		TransformComponent
 		{
-			position
+			orientation
 			{
-				x "26"
-				z "0"
+				w "0.923"
+				y "0.382"
 			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "-26"
-				z "0"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
+			
 			position
 			{
 				x "0"
-				z "26"
+				z "-128"
 			}
 
 			scale
 			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
+				x "8.00"
+				y "1.00"
+				z "8.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "logic/spawn_objective"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "logic/spawn_objective"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
+				}
+
+				max
+				{
+					x "1.0"
+					y "1.0"
+					z "1.0"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
+			position
+			{
+				x "-16"
+				z "-112"
+			}
+
+			scale
+			{
+				x "2.00"
+				y "1.00"
+				z "2.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "logic/spawn_objective"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "logic/spawn_objective"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
+				}
+
+				max
+				{
+					x "1.0"
+					y "1.0"
+					z "1.0"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
+			position
+			{
+				x "16"
+				z "-112"
+			}
+
+			scale
+			{
+				x "2.00"
+				y "1.00"
+				z "2.00"
 			}
 
 		}
@@ -35274,16 +35293,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
 				}
 
 				max
 				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
+					x "1.0"
+					y "1.0"
+					z "1.0"
 				}
 
 			}
@@ -35292,17 +35311,81 @@ EntityTemplate
 
 		TransformComponent
 		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
+			position
+			{
+				x "-32"
+				z "-96"
+			}
+
+			scale
+			{
+				x "8.00"
+				y "1.00"
+				z "8.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "resources/volume_random_resources"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "resources/volume_random_resources"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
+				}
+
+				max
+				{
+					x "1.0"
+					y "1.0"
+					z "1.0"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
 			position
 			{
 				x "0"
-				z "-26"
+				z "-96"
 			}
 
 			scale
 			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
+				x "8.00"
+				y "1.00"
+				z "8.00"
 			}
 
 		}
@@ -35326,16 +35409,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
 				}
 
 				max
 				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
+					x "1.0"
+					y "1.0"
+					z "1.0"
 				}
 
 			}
@@ -35344,17 +35427,23 @@ EntityTemplate
 
 		TransformComponent
 		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
 			position
 			{
-				x "26"
-				z "26"
+				x "32"
+				z "-96"
 			}
 
 			scale
 			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
+				x "8.00"
+				y "1.00"
+				z "8.00"
 			}
 
 		}
@@ -35364,12 +35453,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "logic/spawn_objective"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "logic/spawn_objective"
 		}
 
 		LocalAabbDesc
@@ -35378,16 +35467,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
 				}
 
 				max
 				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
+					x "1.0"
+					y "1.0"
+					z "1.0"
 				}
 
 			}
@@ -35396,17 +35485,23 @@ EntityTemplate
 
 		TransformComponent
 		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
 			position
 			{
-				x "-26"
-				z "-26"
+				x "-16"
+				z "-80"
 			}
 
 			scale
 			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
+				x "2.00"
+				y "1.00"
+				z "2.00"
 			}
 
 		}
@@ -35416,12 +35511,12 @@ EntityTemplate
 }
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "logic/spawn_objective"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "logic/spawn_objective"
 		}
 
 		LocalAabbDesc
@@ -35430,16 +35525,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
 				}
 
 				max
 				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
+					x "1.0"
+					y "1.0"
+					z "1.0"
 				}
 
 			}
@@ -35448,17 +35543,23 @@ EntityTemplate
 
 		TransformComponent
 		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
 			position
 			{
-				x "26"
-				z "-26"
+				x "16"
+				z "-80"
 			}
 
 			scale
 			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
+				x "2.00"
+				y "1.00"
+				z "2.00"
 			}
 
 		}
@@ -35482,16 +35583,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
 				}
 
 				max
 				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
+					x "1.0"
+					y "1.0"
+					z "1.0"
 				}
 
 			}
@@ -35500,17 +35601,23 @@ EntityTemplate
 
 		TransformComponent
 		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
 			position
 			{
-				x "-26"
-				z "26"
+				x "-32"
+				z "-64"
 			}
 
 			scale
 			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
+				x "8.00"
+				y "1.00"
+				z "8.00"
 			}
 
 		}
@@ -35534,16 +35641,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
 				}
 
 				max
 				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
+					x "1.0"
+					y "1.0"
+					z "1.0"
 				}
 
 			}
@@ -35552,121 +35659,23 @@ EntityTemplate
 
 		TransformComponent
 		{
-			position
+			orientation
 			{
-				x "52"
-				z "0"
+				w "0.923"
+				y "0.382"
 			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "-52"
-				z "0"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
+			
 			position
 			{
 				x "0"
-				z "52"
+				z "-64"
 			}
 
 			scale
 			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
+				x "8.00"
+				y "1.00"
+				z "8.00"
 			}
 
 		}
@@ -35690,16 +35699,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
 				}
 
 				max
 				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
+					x "1.0"
+					y "1.0"
+					z "1.0"
 				}
 
 			}
@@ -35708,17 +35717,197 @@ EntityTemplate
 
 		TransformComponent
 		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
+			position
+			{
+				x "32"
+				z "-64"
+			}
+
+			scale
+			{
+				x "8.00"
+				y "1.00"
+				z "8.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "logic/spawn_objective"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "logic/spawn_objective"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
+				}
+
+				max
+				{
+					x "1.0"
+					y "1.0"
+					z "1.0"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
+			position
+			{
+				x "-16"
+				z "-48"
+			}
+
+			scale
+			{
+				x "2.00"
+				y "1.00"
+				z "2.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "logic/spawn_objective"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "logic/spawn_objective"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
+				}
+
+				max
+				{
+					x "1.0"
+					y "1.0"
+					z "1.0"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
+			position
+			{
+				x "16"
+				z "-48"
+			}
+
+			scale
+			{
+				x "2.00"
+				y "1.00"
+				z "2.00"
+			}
+
+		}
+
+	}
+
+}
+EntityTemplate
+{
+	base_blueprint "resources/volume_random_resources"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "resources/volume_random_resources"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
+				}
+
+				max
+				{
+					x "1.0"
+					y "1.0"
+					z "1.0"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
 			position
 			{
 				x "0"
-				z "-52"
+				z "-32"
 			}
 
 			scale
 			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
+				x "8.00"
+				y "1.00"
+				z "8.00"
 			}
 
 		}
@@ -35742,16 +35931,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
+					x "-1.0"
+					y "-1.0"
+					z "-1.0"
 				}
 
 				max
 				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
+					x "1.0"
+					y "1.0"
+					z "1.0"
 				}
 
 			}
@@ -35760,589 +35949,23 @@ EntityTemplate
 
 		TransformComponent
 		{
+			orientation
+			{
+				w "0.923"
+				y "0.382"
+			}
+			
 			position
 			{
-				x "52"
-				z "26"
+				x "32"
+				z "-32"
 			}
 
 			scale
 			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "-52"
-				z "-26"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "-52"
-				z "26"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "52"
-				z "-26"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "26"
-				z "52"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "-26"
-				z "-52"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "-26"
-				z "52"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "26"
-				z "-52"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "52"
-				z "52"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "-52"
-				z "-52"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "-52"
-				z "52"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "52"
-				z "-52"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
+				x "8.00"
+				y "1.00"
+				z "8.00"
 			}
 
 		}
