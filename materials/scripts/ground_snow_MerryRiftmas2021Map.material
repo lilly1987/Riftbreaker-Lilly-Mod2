@@ -1,0 +1,10 @@
+import * from "materials/scripts/pbr.material"
+
+material ground/grass/muddy_snow_01 : pbr/default
+{
+	terrain_type 	 "foliage"
+
+	set_texture_alias normal materials/textures/ground/grass/muddy_grass_02_normal.dds
+	set_texture_alias albedo materials/textures/ground/grass/muddy_snow_01_albedo.dds
+	set_texture_alias packed materials/textures/ground/grass/muddy_grass_02_packed.dds
+}
