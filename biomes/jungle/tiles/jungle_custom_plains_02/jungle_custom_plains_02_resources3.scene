@@ -857,6 +857,65 @@ EntityTemplate
 
 }
 
+EntityTemplate
+{
+	base_blueprint "resources/volume_random_resources_liquid"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "resources/volume_random_resources_liquid"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			orientation
+			{
+				w "0.707"
+				y "0.707"
+			}
+
+			position
+			{
+				x "-25.546"
+				y "-11.495"
+				z "45.784"
+			}
+
+			scale
+			{
+				x "31.081"
+				y "4.000"
+				z "69.190"
+			}
+
+		}
+
+	}
+
+}
 
 EntityTemplate
 {
