@@ -21,9 +21,20 @@ MissionDef
     // We need explicit tiles list for benchmarks so they stay deterministic for selected seed
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
 	source_tiles
-    {
-biomes/lilly/tiles/lilly/grid_liquid_Square.tile
+	{
+
+biomes/lilly/tiles/lilly/Square0.tile
+biomes/lilly/tiles/lilly/Square9.tile
+biomes/lilly/tiles/lilly/Square8.tile
+biomes/lilly/tiles/lilly/Square7.tile
+biomes/lilly/tiles/lilly/Square6.tile
+biomes/lilly/tiles/lilly/Square5.tile
+biomes/lilly/tiles/lilly/Square4.tile
+biomes/lilly/tiles/lilly/Square3.tile
+biomes/lilly/tiles/lilly/Square2.tile
+biomes/lilly/tiles/lilly/Square1.tile
 biomes/lilly/tiles/lilly/Square.tile
+biomes/lilly/tiles/lilly/grid_liquid_Square.tile
 biomes/lilly/tiles/lilly/liquid_cross.tile
 biomes/lilly/tiles/lilly/liquid_cross2.tile
 biomes/lilly/tiles/lilly/liquid_cross4_3.tile

@@ -43,6 +43,7 @@ biomes/lilly/tiles/lilly/grid_liquid_resources.tile
 biomes/lilly/tiles/lilly/grid_liquid_resources2.tile
 biomes/lilly/tiles/lilly/grid_random.tile
 biomes/lilly/tiles/lilly/grid_resources.tile
+biomes/lilly/tiles/lilly/Square2.tile
 
 biomes/acid/tiles/acid_custom_new_resource_01/acid_custom_new_resource_01_resources3.tile
 biomes/acid/tiles/acid_custom_rare_resource_01/acid_custom_rare_resource_01_resources3.tile
