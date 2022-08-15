@@ -31,12 +31,12 @@ MissionDef
 	source_tiles
     {
 
-biomes/lilly/tiles/grid/grid_enemy.tile
-biomes/lilly/tiles/grid/grid_liquid.tile
-biomes/lilly/tiles/grid/grid_liquid_resources.tile
-biomes/lilly/tiles/grid/grid_liquid_resources2.tile
-biomes/lilly/tiles/grid/grid_random.tile
-biomes/lilly/tiles/grid/grid_resources.tile
+biomes/lilly/tiles/lilly/grid_enemy.tile
+biomes/lilly/tiles/lilly/grid_liquid.tile
+biomes/lilly/tiles/lilly/grid_liquid_resources.tile
+biomes/lilly/tiles/lilly/grid_liquid_resources2.tile
+biomes/lilly/tiles/lilly/grid_random.tile
+biomes/lilly/tiles/lilly/grid_resources.tile
 
 	}
 

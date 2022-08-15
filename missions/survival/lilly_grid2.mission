@@ -31,12 +31,12 @@ MissionDef
 	source_tiles
     {
 
-biomes/lilly/tiles/grid/grid2.tile
-biomes/lilly/tiles/grid/grid2_L.tile
-biomes/lilly/tiles/grid/grid2_L_rock.tile
-biomes/lilly/tiles/grid/grid2_random.tile
-biomes/lilly/tiles/grid/grid2_random_rock.tile
-biomes/lilly/tiles/grid/grid2_rock.tile
+biomes/lilly/tiles/lilly/grid2.tile
+biomes/lilly/tiles/lilly/grid2_L.tile
+biomes/lilly/tiles/lilly/grid2_L_rock.tile
+biomes/lilly/tiles/lilly/grid2_random.tile
+biomes/lilly/tiles/lilly/grid2_random_rock.tile
+biomes/lilly/tiles/lilly/grid2_rock.tile
 
 	}
 

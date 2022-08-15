@@ -166,3 +166,6 @@ r_show_entity_blueprints 0
 
 
 *.editor;*.tile;*.scene
+
+
+"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\" *.tile !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\acid" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\desert" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\GO37new" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\jungle" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\lilly" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\magma" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\metallic"
