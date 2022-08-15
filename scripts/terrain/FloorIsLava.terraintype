@@ -1,0 +1,42 @@
+TerrainType
+{
+	name "magma_area"
+	priority 1
+	
+	speed "0.5"
+	
+	damage
+	{
+		interval 	"1"
+		value		"1"
+		type 		"magma"
+		effect 		"effects/mech/mech_on_fire"
+	}
+	
+	type_overrides
+	{
+		type "mech"
+		{
+			effects_on_marker
+			{
+				footstep_left	"footstep_very_hot_ground_left"
+				footstep_right	"footstep_very_hot_ground_right"
+			}
+			
+			damage
+			{
+				interval 	"1.0"
+				value		"1"
+				type 		"magma"
+			}
+		}	
+		type "building"
+		{
+			damage
+			{
+				value		"1"
+			}
+		}	
+	}
+}
+

@@ -1,0 +1,54 @@
+EntityBlueprint
+{
+	name			"volumes/damage_magma"
+
+    
+	GridMarkerComponent
+	{
+		//mode		"origin"
+		mode		"bounds"
+		terrain_type	"magma_area"	
+	}
+	
+	LocalAabbDesc
+	{
+		local_aabb
+		{
+			min
+			{
+				x "-1"
+				y "0"
+				z "-1"
+			}
+			max
+			{
+				x "1"
+				y "1"
+				z "1"
+			}	
+		}
+	}
+	
+	PhysicsDesc
+	{
+        	objects
+        	{
+            		PhysicsObjectDesc
+            		{
+                		group_id	"volume" //player_blocker
+                		type		"static"
+
+				Shapes
+                		{
+                    			PhysicsBoxShape
+                    			{
+                        			x "2"
+                        			y "1"
+                        			z "2"
+                    			}
+                		}
+            		}
+        	}
+    	}
+
+}

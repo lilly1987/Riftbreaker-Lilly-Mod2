@@ -1,0 +1,10 @@
+CampaignDef
+{
+    startup_mission_def          "FloorIsLava/FloorIsLava"
+	startup_mission_name		 "Headquarters"
+	
+	continue_disabled			 "0"
+	discoverable_system_enabled	 "0"
+	
+	research_tree				 "research_tree_survival"
+}
