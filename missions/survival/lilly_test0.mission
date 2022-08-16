@@ -32,10 +32,8 @@ MissionDef
 	{
 
 
-//biomes/jungle/tiles/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01.tile
-biomes/jungle/tiles/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01_liquid.tile
-biomes/jungle/tiles/jungle_custom_rare_resource_01/jungle_custom_rare_resource_01_resources3.tile
-
+biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01_resources3_plains.tile
+//
 biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
 	}

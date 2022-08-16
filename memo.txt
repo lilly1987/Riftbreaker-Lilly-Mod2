@@ -40,9 +40,11 @@ one_vein_mode "1"
 
 #
 EntityTemplate[\s]+?\{[\s]+?base_blueprint "lilly/bush_grass_random[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
-EntityTemplate\n\{\n\tbase_blueprint "logic/spawn_player([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
-EntityTemplate\n\{\n\tbase_blueprint "props/rocks([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
-EntityTemplate\n\{\n\tbase_blueprint "resources/volume_random_resources([\S\s]+?)\t\t\t\}\n\n\t\t\}\n\n\t\}\n\n\}\n
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"props/rocks((?!debris).)*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+
+
+base_blueprint\s+"props/rocks((?!debris).)*(?:(?<a>[13579])|(?<b>[24680]))"
+base_blueprint "props/rocks/granite_wet/granite_wet_debris_small_0(?{a}1:(?{b}2:3))"
 
 base_blueprint "resources/volume_resource.*"
 base_blueprint "resources/volume_random_resources_liquid"
