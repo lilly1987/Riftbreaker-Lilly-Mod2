@@ -35610,7 +35610,7 @@ EntityTemplate
 			position
 			{
 				x "-32"
-				z "-64"
+				z "-128"
 			}
 
 			scale
@@ -35668,7 +35668,7 @@ EntityTemplate
 			position
 			{
 				x "0"
-				z "-64"
+				z "-128"
 			}
 
 			scale
@@ -35726,7 +35726,7 @@ EntityTemplate
 			position
 			{
 				x "32"
-				z "-64"
+				z "-128"
 			}
 
 			scale
@@ -35900,7 +35900,7 @@ EntityTemplate
 			position
 			{
 				x "0"
-				z "-32"
+				z "-96"
 			}
 
 			scale
@@ -35958,7 +35958,7 @@ EntityTemplate
 			position
 			{
 				x "32"
-				z "-32"
+				z "-96"
 			}
 
 			scale
