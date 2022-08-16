@@ -32,8 +32,10 @@ MissionDef
 	{
 
 
-
-biomes/jungle/tiles/jungle_plains_04/jungle_plains_04_lilly.tile
+//biomes/desert/tiles/desert_canyons_01/desert_canyons_01.tile
+biomes/desert/tiles/desert_canyons_01/desert_canyons_01_lilly.tile
+biomes/desert/tiles/desert_canyons_01/desert_canyons_01_resources3.tile
+//biomes/jungle/tiles/jungle_plains_04/jungle_plains_04_lilly.tile
 //
 biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
