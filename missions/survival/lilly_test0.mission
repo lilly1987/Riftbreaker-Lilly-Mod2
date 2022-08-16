@@ -5,13 +5,13 @@ MissionDef
 	localization_id	"lilly_test"
 	description		"test"
 	
-	//script_database
-	//{	 
-	//	objective_tile		 string:"biomes/lilly/tiles/resources2/jungle_starting_01/jungle_starting_01.tile"
-	//	objective_min_distance float:"0.0"
-	//	objective_max_distance float:"64.0"
-	////	spawn_near_position string:"50,0,-800"	
-	//}	
+	script_database
+	{	 
+		objective_tile		 string:"biomes/acid/tiles/acid_plains_02/acid_plains_02.tile"
+		objective_min_distance float:"0.0"
+		objective_max_distance float:"0.0"
+	//	spawn_near_position string:"50,0,-800"	
+	}	
 
 	
 	map_size		"3"
@@ -23,7 +23,7 @@ MissionDef
 	biomes		  	"lilly"
 	
 	creature_volumes_min_distance   "128.0"
-	creature_volumes_density		"1.0"
+	creature_volumes_density		"0.25"
 	//threat  "1"
 
 	// We need explicit tiles list for benchmarks so they stay deterministic for selected seed
@@ -32,7 +32,8 @@ MissionDef
 	{
 
 
-biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01_resources3_plains.tile
+biomes/desert/tiles/desert_starting_01/desert_starting_01_lilly0.tile
+
 //
 biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
@@ -40,12 +41,12 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
 	tile_spawn_rules
 	{			
-		//biomes/lilly/tiles/resources/jungle_starting_01/jungle_starting_01.tile
-		//{
-		//	min_instances	4
-		//	//max_instances	1
-		//	//random_weight	2.0
-		//}
+		biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
+		{
+			min_instances	1
+			max_instances	1
+			//random_weight	2.0
+		}
 	}
 
 

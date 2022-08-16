@@ -1,34 +1,19 @@
-cliff
-cliff_black
-cliff_mossy
-cudgle
-granite_mossy
-granite_wet
-jagged
-jagged_energy
-lava
-metallic_cubes
-metallic_mineral
-metallic_sharp
-ovoid_acid
-sandstone
-volcanic
+cliff               낭떠러지
+cliff_black         절벽_검은색
+cliff_mossy         절벽 이끼
+cudgle              껴안다
+granite_mossy       화강암_이끼
+granite_wet         화강암_젖은
+jagged              들쭉날쭉한
+jagged_energy       들쭉날쭉한_에너지
+lava                용암
+metallic_cubes      금속 큐브
+metallic_mineral    메탈릭_미네랄
+metallic_sharp      메탈릭 샤프
+ovoid_acid          난형_산
+sandstone           사암
+volcanic            화산의
 
-낭떠러지
-절벽_검은색
-절벽 이끼
-껴안다
-화강암_이끼
-화강암_젖은
-들쭉날쭉한
-들쭉날쭉한_에너지
-용암
-금속 큐브
-메탈릭_미네랄
-메탈릭 샤프
-난형_산
-사암
-화산의
 
 metallic_cube_big_06 너무 큼 8사이즈
 

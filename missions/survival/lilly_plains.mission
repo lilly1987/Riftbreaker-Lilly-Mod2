@@ -27,7 +27,10 @@ MissionDef
 	source_tiles
 	{
 	
+biomes/lilly/tiles/lilly/lilly00.tile
+biomes/desert/tiles/desert_starting_01/desert_starting_01_lilly0.tile
 biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01_resources3_plains.tile
+biomes/magma/tiles/magma_plains_01/magma_plains_01_plains2.tile
 biomes/lilly/tiles/lilly/grid_liquid_Square.tile
 biomes/lilly/tiles/lilly/Square0.tile
 biomes/lilly/tiles/lilly/Square9.tile

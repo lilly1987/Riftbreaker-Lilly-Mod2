@@ -1,11 +1,6 @@
 TileDef
 {
 	tile_materials
-	{
-		String "ground/metallic/black_red_ground_01"
-		String "ground/metallic/rocks_debris_01"
-	}
-
 	is_hidden "0"
 	tile_regions
 	{

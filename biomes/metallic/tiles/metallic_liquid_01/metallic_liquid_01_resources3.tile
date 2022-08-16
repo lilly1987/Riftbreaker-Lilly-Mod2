@@ -10,7 +10,7 @@ TileDef
 	{
 		TileRegion
 		{
-			edges "flat_water,flat_water,flat_water,flat_water"
+			edges "flat_0,flat_0,flat_0,flat_0"
 			offset
 			{
 				x "0.000"
