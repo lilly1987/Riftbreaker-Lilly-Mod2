@@ -1,0 +1,92 @@
+
+loot_containers
+	spawners/acid_spawner_extreme
+	spawners/desert_spawner_extreme
+		base_blueprints 
+		{
+			spawners/loot_container_spawner_extreme
+				spawners/loot_container_spawner
+					LuaDesc
+					{
+						script "lua/spawners/loot_container_spawner.lua"
+
+						database
+						{
+							delay	float:"0.2"
+						}
+					}
+					InteractiveComponent 
+					{
+						slot "HARVESTER"
+						radius "7"
+						remove_entity "0"
+						pick_up	"0"
+					}
+				DatabaseComponent
+				{
+					rarity int:"3"
+					harvest_duration float:"14"	// 수확 기간
+					min_scale	float:"1.25"
+					max_scale	float:"1.25"	
+				}
+				children
+				{
+					EntityBlueprint
+					{
+						VolumeRandomUnitsSpawnerComponent
+						{
+							volume_units_type "guardian_extreme" // 적 소환
+						}
+					}
+				}
+			props/special/loot_containers/loot_container_desert_extreme
+				base_blueprint "props/special/loot_containers/loot_container_jungle_standard"
+					//실질적인 모양
+					PhysicsDesc
+					{
+						objects
+						{
+							PhysicsObjectDesc
+							{
+								type 				"static"
+								group_id    		"destructible" // 파괴할수 있는
+								physics_material 	"default"
+								Shapes
+								{
+									PhysicsMeshShape
+									{
+										mesh "meshes/props/special/loot_containers/loot_container_desert_c1.nxs"
+									}
+
+								}
+							}
+						}
+					}
+		}
+		
+		LuaDesc
+		{
+			script "lua/spawners/loot_container_spawner.lua"
+
+			database
+			{
+				delay				float:"0.2"
+				aggressive_radius   float:"40"
+				wave_logic_file		string:"logic/missions/survival/attack_level_1_id_1_desert.logic"
+				wave_logic_file_mul int:"5"
+				wave_spawn_distance int:"80"
+				wave_started_effect string:"effects/enemies_generic/wave_start"
+			}
+		}
+
+
+
+
+
+
+spawners/loot_container_spawner
+	script "lua/spawners/loot_container_spawner.lua"
+
+	: spawners/loot_container_spawner_standard
+	: spawners/loot_container_spawner_superior
+	: spawners/loot_container_spawner_extreme
