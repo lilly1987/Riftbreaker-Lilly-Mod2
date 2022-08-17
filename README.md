@@ -11,6 +11,10 @@
 - Real-time editing - github
 - https://github.com/lilly1987/Riftbreaker-Lilly-Mod2
 -
+- 맵을 별도 분리
+- separate map
+- 
+- 
 # 권한에 대해 about permissions
 - 
 - 원래 모드의 파일의 소유권은 모두 원작자에게 있습니다
@@ -232,4 +236,7 @@
 - 랜덤 Entity 추가. 대량 사용시 성능 저하가 심함.
 - entities\lilly
 - biomes\*.scene
-
+- 
+- 드론 범위 수정
+- entities\buildings\resources\flora_cultivator.ent and etc
+- entities\units\drones\drone_flora_cultivator.ent and etc

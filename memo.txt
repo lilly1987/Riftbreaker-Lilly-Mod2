@@ -50,6 +50,7 @@ Blueprint\s+\{\s+blueprint\s+"props/rocks/((?!debris).)*"\s+\}\s+
 
 ### 환경 추출. 지울 대상
 EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"(?!props/(bush|grass|trees|trees_dry|mushrooms).).*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"logic/spawn_player"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
 
 
 base_blueprint\s+"props/rocks/(?!debris).)*"
@@ -181,6 +182,7 @@ communications_hub.ent	66	   cone_effect_sell string:"sell_big" 	C:\Games\The Ri
 "C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\" *.tile !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\acid" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\desert" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\GO37new" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\jungle" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\lilly" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\magma" !"C:\Games\The Riftbreaker\Riftbreaker-Lilly-Mod2\biomes\metallic"
 
 r_show_map_info 1
+cheat_reveal_minimap 1
 r_show_entity_blueprints 1
 
 r_show_fps 1
