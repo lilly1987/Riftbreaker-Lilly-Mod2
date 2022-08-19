@@ -38,19 +38,19 @@ one_vein_mode "1"
 (physical|fire|acid|energy|cryo|area)\s+"\d\.\d+"
 (physical|fire|acid|energy|cryo|area)\s+"[2-9]\.\d+"
 
-#
-EntityTemplate[\s]+?\{[\s]+?base_blueprint "lilly/bush_grass_random[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
-EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"props/rocks((?!debris).)*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
 
 base_blueprint\s+".*"
 
 Blueprint\s+\{\s+blueprint\s+"props/rocks/((?!debris).)*"\s+\}\s+
 
-//editor "index(\d+)"\s+
+
 
 ### 환경 추출. 지울 대상
 EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"(?!props/(bush|grass|trees|trees_dry|mushrooms).).*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
 EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"logic/spawn_player"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+#
+EntityTemplate[\s]+?\{[\s]+?base_blueprint "lilly/bush_grass_random[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"props/rocks((?!debris).)*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
 
 
 base_blueprint\s+"props/rocks/(?!debris).)*"
@@ -136,9 +136,13 @@ delay\1"0.\2"
 (.*)
 Blueprint\n\{\nblueprint "\1"\n\}
 
+
 ### 엑셀 일괄 작업
+
 "[\s]+"
 \n
+
+//editor\s+"index\(\d+\)"\s+
 
 name\s+"props/rocks/.*"
 name\s+"props/(bush|grass)/.*"
