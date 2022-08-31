@@ -40,6 +40,7 @@ one_vein_mode "1"
 
 
 base_blueprint\s+".*"
+base_blueprint\s+".*blocker.*"
 
 Blueprint\s+\{\s+blueprint\s+"props/rocks/((?!debris).)*"\s+\}\s+
 
@@ -51,9 +52,12 @@ EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"logic/spawn_player"[\S\s]+?\}[\s]+
 #
 EntityTemplate[\s]+?\{[\s]+?base_blueprint "lilly/bush_grass_random[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
 EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"props/rocks((?!debris).)*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
-
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+".*blocker"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+".*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+".*big.*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
 
 base_blueprint\s+"props/rocks/(?!debris).)*"
+base_blueprint\s+"logic/spawn_enemy"
 
 base_blueprint\s+"props/rocks/granite_mossy/granite_mossy_((?!debris).)*(?:(?<a>[1470])|(?<b>[258])|(?<c>[369]))"
 base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_0(?{a}1:(?{b}2:(?{c}3:1)))"
